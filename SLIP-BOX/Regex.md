@@ -1,0 +1,31 @@
+---
+tags: type/note
+aliases:
+lead: Imtroduction to regex 
+created: "2023-07-28, 12:24"
+modified: "2023-07-28, 12:24"
+template-type: Note
+template-version: "1.7"
+---
+
+# Regex
+
+Tags: #regx  
+Date: 2023-07-28, 12:24
+
+---
+
+Regex means *`"regular expressions"`*. You use it to match, find or manege text. It is the lazy way of doing this shit, you can either match strings by hand or use regex. It is [[Regex type system| typed]] so no need to use your mouse like a fucking monkey. 
+
+You can also think of them as strings or characters that you use to search for a particular word.
+
+
+## Personal attachment 
+
+Regex is great for managing [[rss feeds]]. You can directly say what is it you want and there is no need for hustle. 
+
+## References
+
+[Learn regex](https://regexlearn.com)
+
+[[Personal knowledge management]]

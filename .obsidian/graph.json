@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#linux",
+      "color": {
+        "a": 1,
+        "rgb": 5431425
+      }
+    },
+    {
+      "query": "tag:#vim",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.393393799918776,
+  "repelStrength": 12.5,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3952315145553103,
+  "close": false
+}
