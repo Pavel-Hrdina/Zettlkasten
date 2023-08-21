@@ -2,6 +2,8 @@
   "accentColor": "#504945",
   "baseFontSize": 18,
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Hack NF",
-  "textFontFamily": "Hack NF"
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }

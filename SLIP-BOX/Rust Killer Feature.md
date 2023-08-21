@@ -6,12 +6,12 @@ created: 2023-08-20T14:07
 modified: 2023-08-20, 14:08
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-20T14:09
+updated: 2023-08-21T12:10
 ---
 
 # Rust Killer Feature
 
-Tags: #rust #programming #software #learning 
+Tags: #rust #programming #software 
 Date: 2023-08-20, 14:08
 
 ---

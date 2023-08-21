@@ -8,16 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c329316ef69a6fb1",
+            "id": "5bd7c97ec697e111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Rust Killer Feature.md",
+                "file": "SLIP-BOX/GTD.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "bad2b11614336410",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Rust Killer Feature.md",
+                "file": "SLIP-BOX/GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Rust Killer Feature.md",
+                "file": "SLIP-BOX/GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Rust Killer Feature.md"
+                "file": "SLIP-BOX/GTD.md"
               }
             }
           },
@@ -158,10 +166,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c329316ef69a6fb1",
+  "active": "5bd7c97ec697e111",
   "lastOpenFiles": [
-    "SLIP-BOX/Rust.md",
     "SLIP-BOX/Rust Killer Feature.md",
+    "SLIP-BOX/GTD.md",
+    "SLIP-BOX/Rust.md",
     "SLIP-BOX/Programming Language.md",
     "SLIP-BOX/Linux One Liners.md",
     "SLIP-BOX/Linux commands.md",
@@ -185,7 +194,6 @@
     "SLIP-BOX/Vim Operators.md",
     "SLIP-BOX/Vim Modal Editing.md",
     "SLIP-BOX/Vim.md",
-    "SLIP-BOX/Pareto Principle.md",
     "Templates",
     "SLIP-BOX",
     "Assets/Excalidraw",

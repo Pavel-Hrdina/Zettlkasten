@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5427424
       }
+    },
+    {
+      "query": "tag:#learning",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
