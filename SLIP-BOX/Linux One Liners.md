@@ -6,7 +6,7 @@ created: 2023-08-19T20:29
 modified: 2023-08-19, 20:29
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-19T20:31
+updated: 2023-08-24T19:50
 ---
 
 # Linux One Liners
@@ -18,6 +18,10 @@ Date: 2023-08-19, 20:29
 
 Other [[Linux]] commands can be found [[Linux commands | here]] 
 
+> [!tip]
+> ```bash
+> xrandr --output eDP --brightness [value]
+> ```
 
 
 ## Personal Attachment
