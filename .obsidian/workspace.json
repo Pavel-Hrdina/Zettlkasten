@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de3974669a1a8511",
+        "id": "dab859dc1eb14a8d",
         "type": "tabs",
         "children": [
           {
-            "id": "75f60540974c9f6e",
+            "id": "fd688ed15ef8a3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Motivation.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
+                "file": "SLIP-BOX/Motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
+                "file": "SLIP-BOX/Motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md"
+                "file": "SLIP-BOX/Motivation.md"
               }
             }
           },
@@ -158,9 +158,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "75f60540974c9f6e",
+  "active": "fd688ed15ef8a3e1",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "SLIP-BOX/Motivation.md",
+    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.md",
+    "Assets/Excalidraw",
+    "Assets",
     "SLIP-BOX/Personal knowledge management.md",
     "SLIP-BOX/Linux One Liners.md",
     "SLIP-BOX/GTD.md",
@@ -185,14 +189,10 @@
     "Export/SLIP-BOX/Problem Solving.md",
     "Export/SLIP-BOX/Pareto Principle.md",
     "Export/SLIP-BOX/PGP.md",
-    "Export/SLIP-BOX/Open Source.md",
-    "Export/SLIP-BOX/Linux commands.md",
     "Export/SLIP-BOX",
     "Export",
     "Templates",
     "SLIP-BOX",
-    "Assets/Excalidraw",
-    "Assets",
     "Projects",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
@@ -211,7 +211,6 @@
     "Visuals/structure_template.jpg",
     "Visuals/sketchnote_template.jpg",
     "Visuals/quote_template_example.jpg",
-    "Visuals/folders_templates.PNG",
     "Untitled.canvas"
   ]
 }
