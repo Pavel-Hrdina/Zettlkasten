@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0f34661f468e44",
+        "id": "de3974669a1a8511",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef7188856cc9b5f",
+            "id": "75f60540974c9f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
-                "mode": "preview",
+                "file": "SLIP-BOX/Personal knowledge management.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
+                "file": "SLIP-BOX/Personal knowledge management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
+                "file": "SLIP-BOX/Personal knowledge management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Motivation.md"
+                "file": "SLIP-BOX/Personal knowledge management.md"
               }
             }
           },
@@ -158,13 +158,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6ef7188856cc9b5f",
+  "active": "75f60540974c9f6e",
   "lastOpenFiles": [
     "SLIP-BOX/Motivation.md",
-    "SLIP-BOX/Problem Solving.md",
+    "SLIP-BOX/Personal knowledge management.md",
+    "SLIP-BOX/Linux One Liners.md",
     "SLIP-BOX/GTD.md",
     "SLIP-BOX/In List.md",
-    "SLIP-BOX/Linux One Liners.md",
     "Export/SLIP-BOX/Linux.md",
     "Export/SLIP-BOX/Programming.md",
     "Export/Templates/NoteTemplate.md",

@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-24T12:17
+created: 2023-08-25T11:57
 modified: 2023-08-15, 18:37
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-25T11:56
+updated: 2023-08-25T11:57
 ---
 
 # Problem Solving
