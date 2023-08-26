@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Stoicism.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "SLIP-BOX/Stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "SLIP-BOX/Stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md"
+                "file": "SLIP-BOX/Stoicism.md"
               }
             }
           }
@@ -152,13 +152,13 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Control Over Judgment.md",
+    "SLIP-BOX/Stoicism.md",
     "Assets/Changelog",
     "Untitled",
     "Assets/Calendar",
     "Assets/Untitled.md",
     "SLIP-BOX/Motivation.md",
-    "SLIP-BOX/Control Over Judgment.md",
-    "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/It Works!.md",
     "SLIP-BOX/2023-08-26.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
@@ -188,7 +188,6 @@
     "Export",
     "Templates",
     "SLIP-BOX",
-    "Projects",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
     "Visuals/IMG_0099.PNG",

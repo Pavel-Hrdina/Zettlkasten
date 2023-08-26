@@ -6,7 +6,7 @@ created: 2023-08-26T16:50
 modified: 2023-08-26, 16:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-26T18:12
+updated: 2023-08-26T18:18
 ---
 
 # Control Over Judgment
@@ -16,9 +16,7 @@ Date: 2023-08-26, 16:51
 
 ---
 
-Control over ones own judgment is the absolute basis of all [[Stoicism | Stoic]] [[Philosophy]]. This is done, by maintaining absolute focus over the judgement and  going with the flow, c**ontrolling what I can control**. It is secured by using [[Stoicism | Stoic]] tools: [[Reflection]]
-
-<br>
+Control over ones own judgment is the absolute basis of all [[Stoicism | Stoic]] [[Philosophy]]. This is done, by maintaining absolute focus over the judgement and  going with the flow, c**ontrolling what I can control**. It is secured by using [[Stoicism | Stoic]] tools: [[Morning Reflection]], [[Evening Reflection]]
 
 > [!quote]
 >  ...Rather than fight against all these things which are out of your control, your task 
