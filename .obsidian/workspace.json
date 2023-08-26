@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Stoic Emotions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Stoic Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Stoic Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md"
+                "file": "SLIP-BOX/Stoic Emotions.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
-    "SLIP-BOX/Control Over Judgment.md",
     "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Stoic Emotions.md",
+    "SLIP-BOX/Control Over Judgment.md",
     "Assets/Changelog",
     "Untitled",
     "Assets/Calendar",
