@@ -6,7 +6,7 @@ created: 2023-08-26T16:50
 modified: 2023-08-26, 16:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-26T17:00
+updated: 2023-08-26T18:12
 ---
 
 # Control Over Judgment
@@ -16,7 +16,7 @@ Date: 2023-08-26, 16:51
 
 ---
 
-Control over ones own judgment is the absolute basis of all [[Stoicism | Stoic]] [[Philosophy]]. It is secured by using [[Stoicism | Stoic]] tools
+Control over ones own judgment is the absolute basis of all [[Stoicism | Stoic]] [[Philosophy]]. This is done, by maintaining absolute focus over the judgement and  going with the flow, c**ontrolling what I can control**. It is secured by using [[Stoicism | Stoic]] tools: [[Reflection]]
 
 <br>
 
@@ -25,6 +25,12 @@ Control over ones own judgment is the absolute basis of all [[Stoicism | Stoic]]
 >  is to play the role you find yourself in as best as you can....
 >  **and**
 >  ... We can strive to act as best as we can, but we can never completely control the outcome....
+
+> [!quote] Epictetus
+> It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing 
+> safely; all he has to do is head a little more upwind and disaster is instantaneous. In 
+> fact, he does not have to do anything: a momentary loss of attention will 
+> produce the same result.
 
 ## Personal Attachment
 

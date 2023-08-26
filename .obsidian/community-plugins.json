@@ -1,5 +1,4 @@
 [
-  "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-banners",
   "better-word-count",
@@ -15,6 +14,6 @@
   "callout-manager",
   "obsidian-auto-link-title",
   "obsidian-linter",
-  "obsidian-vault-changelog",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-full-calendar"
 ]
