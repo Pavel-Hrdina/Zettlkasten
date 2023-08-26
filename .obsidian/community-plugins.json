@@ -14,5 +14,7 @@
   "quickadd",
   "callout-manager",
   "obsidian-auto-link-title",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-vault-changelog",
+  "obsidian-git"
 ]

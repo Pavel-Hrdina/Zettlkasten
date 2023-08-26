@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Motivation.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Motivation.md"
+                "file": "SLIP-BOX/Control Over Judgment.md"
               }
             }
           },
@@ -154,14 +154,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fd688ed15ef8a3e1",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
+    "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Control Over Judgment.md",
+    "SLIP-BOX/It Works!.md",
     "SLIP-BOX/Motivation.md",
+    "SLIP-BOX/2023-08-26.md",
+    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.md",
     "Assets/Excalidraw",
     "Assets",
@@ -186,9 +190,6 @@
     "Export/SLIP-BOX/Regex.md",
     "Export/SLIP-BOX/Regex type system.md",
     "Export/SLIP-BOX/Programming Language.md",
-    "Export/SLIP-BOX/Problem Solving.md",
-    "Export/SLIP-BOX/Pareto Principle.md",
-    "Export/SLIP-BOX/PGP.md",
     "Export/SLIP-BOX",
     "Export",
     "Templates",
