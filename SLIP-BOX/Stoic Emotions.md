@@ -6,7 +6,7 @@ created: 2023-08-26T19:01
 modified: 2023-08-26, 19:01
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-26T19:07
+updated: 2023-08-26T19:12
 ---
 
 # Stoic Emotions
@@ -27,6 +27,11 @@ The [[Stoicism | Stoics]] claimed that there are 3 stages to negative emotions:
 3. **Emotion**
 	Ones in this stage, there is nothing one can do but accept the emotion and wait. 
 
+> [!quote]
+> Remember, it is not enough to be hit or insulted to be harmed, you must believe 
+> that you are being harmed. If someone succeeds in provoking you, realize that your 
+> mind is complicit in the provocation.
+
 ## Personal Attachment
 
 This is a big part of [[Stoicism]] as it helps to gain further control over what we can control, that is my [[Control Over Judgment | judgment]].
@@ -34,3 +39,5 @@ This is a big part of [[Stoicism]] as it helps to gain further control over what
 ## References
 
 [[Personal knowledge management]]
+[Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
+[Modern stoicism](https://modernstoicism.com/)
