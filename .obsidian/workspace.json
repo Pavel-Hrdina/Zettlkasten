@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
-                "mode": "preview",
+                "file": "SLIP-BOX/Stoics on Adversity.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Stoics on Adversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Stoics on Adversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md"
+                "file": "SLIP-BOX/Stoics on Adversity.md"
               }
             }
           }
@@ -152,13 +152,13 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Problem Solving.md",
+    "SLIP-BOX/It Works!.md",
+    "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Stoic Emotions.md",
     "README.md",
     "SLIP-BOX/Programming.md",
-    "SLIP-BOX/Problem Solving.md",
-    "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Control Over Judgment.md",
-    "SLIP-BOX/It Works!.md",
     "SLIP-BOX/Open Source.md",
     "SLIP-BOX/Free Software.md",
     "SLIP-BOX/Stoics on Adversity.md",

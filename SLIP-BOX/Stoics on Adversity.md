@@ -6,7 +6,7 @@ created: 2023-08-27T12:14
 modified: 2023-08-27, 12:15
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:48
+updated: 2023-08-27T13:10
 ---
 
 # Stoics on Adversity
@@ -15,7 +15,6 @@ Tags: #philosophy  #motivation #learning #life #productivity #stoicism
 Date: 2023-08-27, 12:15
 
 ---
-
 
 > [!quote] Seneca
 > Just as a general will only send his finest soldiers into the most difficult battles, so 
