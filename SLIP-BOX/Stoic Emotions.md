@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-26T19:01
+created: 2023-08-27T11:55
 modified: 2023-08-26, 19:01
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-26T19:12
+updated: 2023-08-27T11:55
 ---
 
 # Stoic Emotions
