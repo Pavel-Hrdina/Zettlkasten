@@ -1,6 +1,6 @@
 ---
 created: 2023-08-27T12:33
-updated: 2023-08-27T14:31
+updated: 2023-08-27T14:47
 ---
 # Zettlkasten for Pavel Hrdina
 
