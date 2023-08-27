@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Stoics on Adversity.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Control Over Judgment.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Stoics on Adversity.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Stoics on Adversity.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Stoics on Adversity.md"
+                "file": "SLIP-BOX/Control Over Judgment.md"
               }
             }
           }
@@ -152,11 +152,11 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Stoics on Adversity.md",
     "SLIP-BOX/Searching For Files.md",
     "SLIP-BOX/Linux Basic Commands.md",
     "SLIP-BOX/Find.md",
     "SLIP-BOX/Stoicism.md",
-    "SLIP-BOX/Stoics on Adversity.md",
     "SLIP-BOX/Stoic Emotions.md",
     "SLIP-BOX/Control Over Judgment.md",
     "Assets/Changelog",

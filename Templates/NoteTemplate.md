@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-07-04T19:02
+created: 2023-08-24T12:17
 modified: "{{date}}, {{time}}"
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-06T19:10
+updated: 2023-08-27T12:29
 ---
 
 # {{Title}}
@@ -21,4 +21,4 @@ Date: {{date}}, {{time}}
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)

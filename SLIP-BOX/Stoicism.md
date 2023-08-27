@@ -6,7 +6,7 @@ created: 2023-08-26T16:22
 modified: 2023-08-26, 16:22
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:14
+updated: 2023-08-27T12:29
 ---
 
 # Stoicism
@@ -16,9 +16,9 @@ Date: 2023-08-26, 16:22
 
 ---
 
-Stoicism is a [[School of Thought]] that started in ancient Greece about 2000 years ago. The Stoics thought, that the only thing **we have control over are our own judgments and nothing else**.  The goal is to develop a right attitude to the external while keeping [[Control Over Judgment]]. Stoicism also encourages to maintain control over **negative** emotions, just like [[Buddhism]], this way, we control our judgment. Furthermore the stoic say that **our [[Stoic Emotions]] are the product of our [[Control Over Judgment | judgment]]**.
+Stoicism is a [School of Thought](School%20of%20Thought) that started in ancient Greece about 2000 years ago. The Stoics thought, that the only thing **we have control over are our own judgments and nothing else**.  The goal is to develop a right attitude to the external while keeping [Control Over Judgment](Control%20Over%20Judgment.md). Stoicism also encourages to maintain control over **negative** emotions, just like [Buddhism](Buddhism), this way, we control our judgment. Furthermore the stoic say that **our [Stoic Emotions](Stoic%20Emotions.md) are the product of our [ judgment](Control%20Over%20Judgment%20)**.
 
-But what do I do when a disaster strikes? I can't control the [[Stoics on Adversity | adversity]], so I control what I can that is my own [[Control Over Judgment |  judgment]].
+But what do I do when a disaster strikes? I can't control the [ adversity](Stoics%20on%20Adversity%20), so I control what I can that is my own [  judgment](Control%20Over%20Judgment%20).
 
 
 > [!quote]
@@ -26,10 +26,10 @@ But what do I do when a disaster strikes? I can't control the [[Stoics on Advers
 
 ## Personal Attachment
 
-Stoicism is a Greek [[Buddhism]] in a way and is great to gain a wider understanding of the mind and the way of living. 
+Stoicism is a Greek [Buddhism](Buddhism) in a way and is great to gain a wider understanding of the mind and the way of living. 
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)

@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Regex basic string matchers
-created: 2023-07-28T12:50
+created: 2023-08-24T12:17
 modified: 2023-07-28, 12:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-07-28T13:12
+updated: 2023-08-27T12:29
 ---
 
 # Basic matchers
@@ -16,7 +16,7 @@ Date: 2023-07-28, 12:51
 
 ---
 
-The absolute basic matcher, as is shown in [[Regex type system]] is just a simple **word** that the sentence contains. Another essential thing is picking the whole sentence, this can be useful when manipulating the text afterwards, here is an example:
+The absolute basic matcher, as is shown in [Regex type system](Regex%20type%20system.md) is just a simple **word** that the sentence contains. Another essential thing is picking the whole sentence, this can be useful when manipulating the text afterwards, here is an example:
 
 ```regex
 /./g 
@@ -51,4 +51,4 @@ This is the essential basic shit, if you don't know it you are screwed and your 
 
 [Learn regex](https://regexlearn.com)
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)

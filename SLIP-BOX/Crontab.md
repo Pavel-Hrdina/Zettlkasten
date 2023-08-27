@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Same as cronjob
-created: 2023-08-18T12:34
+created: 2023-08-24T12:17
 modified: 2023-08-18, 12:34
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-18T13:06
+updated: 2023-08-27T12:29
 ---
 
 # Crontab
@@ -16,7 +16,7 @@ Date: 2023-08-18, 12:34
 
 ---
 
-Same as [[Crontab]] but user specific. You can set up different [[Cronjob]] for each user. Here are some ways to use `crontab`.
+Same as [Crontab](.md) but user specific. You can set up different [Cronjob](Cronjob.md) for each user. Here are some ways to use `crontab`.
 
 > [!snip] Basic usage
 > ```bash
@@ -27,7 +27,7 @@ Same as [[Crontab]] but user specific. You can set up different [[Cronjob]] for 
 >crontab -e # This will enter a text editor to edit a cronjob
 > ```
 
-> [!snip] [[Timeshift]] backup example
+> [!snip] [Timeshift](Timeshift) backup example
 > ```bash
 > crontab -e
 >
@@ -45,5 +45,5 @@ Same as [[Crontab]] but user specific. You can set up different [[Cronjob]] for 
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)
 [Crontab docs](https://man7.org/linux/man-pages/man5/crontab.5.html)

@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-25T15:09
+created: 2023-08-27T12:23
 modified: 2023-08-25, 15:09
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-25T15:09
+updated: 2023-08-27T12:29
 ---
 
 # Find
@@ -21,4 +21,4 @@ Date: 2023-08-25, 15:09
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)

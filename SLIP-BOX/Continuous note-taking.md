@@ -1,11 +1,12 @@
 ---
 tags: type/note
-aliases:
+aliases: null
 lead: Lead paragraph goes here
-created: "2023-07-04, 20:42"
-modified: "2023-07-04, 20:42"
+created: 2023-08-24T12:17
+modified: 2023-07-04, 20:42
 template-type: Note
 template-version: "1.7"
+updated: 2023-08-27T12:29
 ---
 
 # Continuous note-taking 
@@ -14,7 +15,7 @@ Tags: #devops #ci/cd
 Date: 2023-07-04, 20:42
 
 ---
-Continuous note-taking is a implementation of [[Continuous Improvement]] and [[Agile]] practices used in [[Software Development]] and [[Software Testing]] in [[Personal knowledge management]].
+Continuous note-taking is a implementation of [Continuous Improvement](Continuous%20Improvement) and [Agile](Agile) practices used in [Software Development](Software%20Development) and [Software Testing](Software%20Testing) in [Personal knowledge management](Personal%20knowledge%20management.md).
 
 It uses the following methods:
 

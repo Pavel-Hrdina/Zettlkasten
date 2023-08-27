@@ -6,7 +6,7 @@ created: 2023-08-27T12:14
 modified: 2023-08-27, 12:15
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:17
+updated: 2023-08-27T12:29
 ---
 
 # Stoics on Adversity
@@ -23,10 +23,10 @@ Date: 2023-08-27, 12:15
 
 ## Personal Attachment
 
-Having the right judgment when faced with a difficulty is essential to having the right [[Control Over Judgment | judgment]]. 
+Having the right judgment when faced with a difficulty is essential to having the right [ judgment](Control%20Over%20Judgment%20). 
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)

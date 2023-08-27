@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Linux the operating system
-created: 2023-08-10T15:39
+created: 2023-08-24T12:17
 modified: 2023-08-10, 15:40
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-14T18:42
+updated: 2023-08-27T12:29
 ---
 
 # Linux
@@ -16,11 +16,11 @@ Date: 2023-08-10, 15:40
 
 ---
 
-Linux, is an [[Open Source]] [[Operating System]] [[Kernel]] with a **30 years of history**. it is a base for many [[Operating System | operating systems]], that are running on top of it. 
+Linux, is an [Open Source](Open%20Source.md) [Operating System](Operating%20System) [Kernel](Kernel) with a **30 years of history**. it is a base for many [ operating systems](Operating%20System%20), that are running on top of it. 
 
-Linux is normally thought of as a standalone [[Operating System]], but this is not exactly right as Linux [[Operating System | operating systems]], commonly called [[Linux distributions]], or [[Linux distributions | distros]] for short, consist of the [[GNU Project]] tooling and [[Command line]] utilities that allow the user to use the system from the [[Tty]] or the [[Command line]], but most modern [[Linux distributions | distros]] come with a [[GUI]] interface. 
+Linux is normally thought of as a standalone [Operating System](Operating%20System), but this is not exactly right as Linux [ operating systems](Operating%20System%20), commonly called [Linux distributions](Linux%20distributions.md), or [ distros](Linux%20distributions%20) for short, consist of the [GNU Project](GNU%20Project) tooling and [Command line](Command%20line) utilities that allow the user to use the system from the [Tty](Tty) or the [Command line](Command%20line), but most modern [ distros](Linux%20distributions%20) come with a [GUI](GUI) interface. 
 
-Linux is mainly managed through so called **[[Linux commands| commands]]**. These speed up the process of [[System Management]] brutally in some cases, but they must be learned and understood. 
+Linux is mainly managed through so called **[ commands](Linux%20commands.md)**. These speed up the process of [System Management](System%20Management) brutally in some cases, but they must be learned and understood. 
 
 ## Personal attachment 
 
@@ -33,4 +33,4 @@ Linux is the best operating system there is. There are no restrictions when it c
 
 ## References
 
-[[Personal knowledge management]]
+[Personal knowledge management](Personal%20knowledge%20management.md)
