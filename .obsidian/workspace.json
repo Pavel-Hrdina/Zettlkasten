@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,8 +150,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Problem Solving.md",
     "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Control Over Judgment.md",
     "SLIP-BOX/It Works!.md",
@@ -184,7 +185,6 @@
     "Export/SLIP-BOX/Zig.md",
     "Export/SLIP-BOX/Zettlkasten.md",
     "Export/SLIP-BOX/Vim.md",
-    "Export/SLIP-BOX/Vim Operators.md",
     "Export/SLIP-BOX",
     "Export",
     "Templates",
