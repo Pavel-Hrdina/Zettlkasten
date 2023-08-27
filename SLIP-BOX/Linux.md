@@ -6,7 +6,7 @@ created: 2023-08-24T12:17
 modified: 2023-08-10, 15:40
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:29
+updated: 2023-08-27T12:48
 ---
 
 # Linux

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "SLIP-BOX/Problem Solving.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "SLIP-BOX/Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "SLIP-BOX/Problem Solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md"
+                "file": "SLIP-BOX/Problem Solving.md"
               }
             }
           }
@@ -152,19 +152,22 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Control Over Judgment.md",
+    "SLIP-BOX/It Works!.md",
+    "README.md.md",
+    "SLIP-BOX/Open Source.md",
+    "SLIP-BOX/Free Software.md",
     "SLIP-BOX/Stoics on Adversity.md",
     "SLIP-BOX/Searching For Files.md",
     "SLIP-BOX/Linux Basic Commands.md",
     "SLIP-BOX/Find.md",
-    "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Stoic Emotions.md",
-    "SLIP-BOX/Control Over Judgment.md",
     "Assets/Changelog",
     "Untitled",
     "Assets/Calendar",
     "Assets/Untitled.md",
     "SLIP-BOX/Motivation.md",
-    "SLIP-BOX/It Works!.md",
     "SLIP-BOX/2023-08-26.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.md",
@@ -182,9 +185,6 @@
     "Export/SLIP-BOX/Zettlkasten.md",
     "Export/SLIP-BOX/Vim.md",
     "Export/SLIP-BOX/Vim Operators.md",
-    "Export/SLIP-BOX/Vim Movements.md",
-    "Export/SLIP-BOX/Vim Modal Editing.md",
-    "Export/SLIP-BOX/VPN.md",
     "Export/SLIP-BOX",
     "Export",
     "Templates",

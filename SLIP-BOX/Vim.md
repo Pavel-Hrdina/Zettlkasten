@@ -6,7 +6,7 @@ created: 2023-08-24T20:00
 modified: 2023-08-06, 19:18
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:29
+updated: 2023-08-27T12:48
 ---
 
 # Vim

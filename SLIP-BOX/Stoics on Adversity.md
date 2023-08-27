@@ -6,7 +6,7 @@ created: 2023-08-27T12:14
 modified: 2023-08-27, 12:15
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:29
+updated: 2023-08-27T12:48
 ---
 
 # Stoics on Adversity
