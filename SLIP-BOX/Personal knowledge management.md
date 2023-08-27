@@ -2,11 +2,11 @@
 tags: type/note
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-27T13:43
+created: 2023-08-27T13:48
 modified: 2023-08-25, 12:01
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T13:45
+updated: 2023-08-27T13:48
 ---
 
 # Personal Knowledge Management
