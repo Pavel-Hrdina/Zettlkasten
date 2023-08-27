@@ -6,7 +6,7 @@ created: 2023-08-27T12:14
 modified: 2023-08-27, 12:15
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T19:11
+updated: 2023-08-27T19:15
 ---
 
 # Stoics on Adversity
@@ -18,7 +18,7 @@ Date: 2023-08-27, 12:15
 
 The [Stoic](Stoicism%20) view on adversity is a challenge. Every adversity is an opportunity for growth. When a disaster strikes, your character is molded, you become virtuous. The stoics even take it a step further, they say that **a person who doesn't experience an adversity develops bad character** and has problem controlling his judgment. It is I, who chooses to see an event as a **disaster**, or as an **opportunity**
 
-**_Epictetus counsels that we pay minimal attention to such events, instead keeping our focus squarely on our own judgements._**
+The main idea here is that one should be prepared for a disaster. No awaiting it but being prepared in his mind for it. **_Epictetus counsels that we pay minimal attention to such events, instead keeping our focus squarely on our own judgments._**
 
 > [!quote] Seneca
 > Just as a general will only send his finest soldiers into the most 
