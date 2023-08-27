@@ -7,5 +7,6 @@
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
   "newFileFolderPath": "SLIP-BOX",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
