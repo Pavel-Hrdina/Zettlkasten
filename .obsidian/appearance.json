@@ -1,9 +1,10 @@
 {
   "accentColor": "#504945",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Hack Nerd Font",
-  "textFontFamily": "Hack Nerd Font",
+  "interfaceFontFamily": "Lexend",
+  "textFontFamily": "Lexend",
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "translucency": false
 }

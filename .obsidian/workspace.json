@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Stoic Emotions.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
+                "file": "SLIP-BOX/Stoic Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md",
+                "file": "SLIP-BOX/Stoic Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Personal knowledge management.md"
+                "file": "SLIP-BOX/Stoic Emotions.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Personal knowledge management.md",
     "SLIP-BOX/Stoics on Adversity.md",
     "SLIP-BOX/Problem Solving.md",
     "SLIP-BOX/It Works!.md",
@@ -175,7 +176,6 @@
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.md",
     "Assets/Excalidraw",
     "Assets",
-    "SLIP-BOX/Personal knowledge management.md",
     "SLIP-BOX/Linux One Liners.md",
     "SLIP-BOX/GTD.md",
     "SLIP-BOX/In List.md",
