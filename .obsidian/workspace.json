@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SLIP-BOX/Stoicism.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SLIP-BOX/Stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SLIP-BOX/Stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SLIP-BOX/Stoicism.md"
               }
             }
           }
@@ -152,18 +152,19 @@
   },
   "active": "7533a2294d51627a",
   "lastOpenFiles": [
+    "SLIP-BOX/Stoic Emotions.md",
+    "README.md",
+    "SLIP-BOX/Programming.md",
     "SLIP-BOX/Problem Solving.md",
     "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Control Over Judgment.md",
     "SLIP-BOX/It Works!.md",
-    "README.md",
     "SLIP-BOX/Open Source.md",
     "SLIP-BOX/Free Software.md",
     "SLIP-BOX/Stoics on Adversity.md",
     "SLIP-BOX/Searching For Files.md",
     "SLIP-BOX/Linux Basic Commands.md",
     "SLIP-BOX/Find.md",
-    "SLIP-BOX/Stoic Emotions.md",
     "Assets/Changelog",
     "Untitled",
     "Assets/Calendar",
@@ -184,7 +185,6 @@
     "Export/Templates",
     "Export/SLIP-BOX/Zig.md",
     "Export/SLIP-BOX/Zettlkasten.md",
-    "Export/SLIP-BOX/Vim.md",
     "Export/SLIP-BOX",
     "Export",
     "Templates",
