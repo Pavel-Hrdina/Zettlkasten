@@ -1,8 +1,8 @@
 ---
 created: 2023-08-27T12:33
-updated: 2023-08-27T12:57
+updated: 2023-08-27T14:31
 ---
-# README.md
+# Zettlkasten for Pavel Hrdina
 
 Tags: #zettlkasten #learning 
 Date: 2023-08-27, 12:33
@@ -15,7 +15,11 @@ Welcome to my [Zettlkasten](Zettlkasten.md). Here is where I dump all my knowled
 
 This way, there is **no need for the note to be forced to be linked to**, and at the same time, the note is easily found when its name is forgotten or the note can't be found. The goal is to **keep the system as simple as possible** while remaining extremely efficient without sacrificing ease of use or creating complexity. 
 
+For my notes, I am using the following font:
+
+- [Lexend — Change the way the world reads.](https://www.lexend.com/)
+
 ## References
 
-[Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
+[Personal knowledge management](./SLIP-BOX/Personal%20knowledge%20management.md)
 
