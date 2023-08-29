@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Control Over Judgment.md"
+                "file": "README.md"
               }
             }
           }
@@ -152,8 +152,14 @@
   },
   "active": "b3e9a13e765aff4c",
   "lastOpenFiles": [
+    "Templates/ReflectionsTemplate.md",
+    "Journal",
+    "Templates/NoteTemplate.md",
+    "SLIP-BOX/Reflections.md",
     "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Advanced ways to use regex.md",
     "SLIP-BOX/Stoics on Adversity.md",
+    "SLIP-BOX/Find.md",
     "SLIP-BOX/Control Over Judgment.md",
     "Reflections/Evening",
     "Reflections/Morning",
@@ -170,7 +176,6 @@
     "SLIP-BOX/Programming.md",
     "SLIP-BOX/Open Source.md",
     "SLIP-BOX/Free Software.md",
-    "SLIP-BOX/Find.md",
     "Assets/Changelog",
     "Assets/Calendar",
     "Assets/Untitled.md",
@@ -182,12 +187,7 @@
     "Assets",
     "SLIP-BOX/Linux One Liners.md",
     "SLIP-BOX/GTD.md",
-    "SLIP-BOX/In List.md",
-    "Export/SLIP-BOX/Linux.md",
-    "Export/SLIP-BOX/Programming.md",
-    "Export/Templates/NoteTemplate.md",
     "Export/Templates",
-    "Export/SLIP-BOX",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
     "Visuals/IMG_0099.PNG",

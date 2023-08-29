@@ -8,5 +8,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "SLIP-BOX",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Epicious"
+  ]
 }

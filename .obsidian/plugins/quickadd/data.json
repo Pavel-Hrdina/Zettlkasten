@@ -1,5 +1,36 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "23251713-6247-4a95-98b9-72e1e2b980d0",
+      "name": "Stoic Reflection",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/ReflectionsTemplate.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MMM-DD}} - Daily Stoic Reflection"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/Journal"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
