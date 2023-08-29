@@ -6,10 +6,10 @@ created: 2023-08-29T10:17
 modified: "{{date}}, {{time}}"
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-29T11:21
+updated: 2023-08-29T11:24
 ---
 
-# Daily Stoic Reflections
+# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: {{date}}, {{time}}
@@ -70,4 +70,8 @@ _This exercise is designed to reminded you about how small you really are, and h
 
 ## References
 
-[How To Use The Stoic View From Above | Stoic Philosophy For Life](https://www.orionphilosophy.com/stoic-blog/view-from-above)
+[Personal knowledge management](Personal%20knowledge%20management.md)
+[Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
+[Modern stoicism](https://modernstoicism.com/)
+
+
