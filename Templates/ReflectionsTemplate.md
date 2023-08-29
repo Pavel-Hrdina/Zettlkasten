@@ -6,12 +6,12 @@ created: 2023-08-29T10:17
 modified: "{{date}}, {{time}}"
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-29T10:40
+updated: 2023-08-29T11:21
 ---
 
 # Daily Stoic Reflections
 
-Tags:  #reflection #stoicism #life #philosophy #motivation  
+Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: {{date}}, {{time}}
 
 ## Morning and Evening
@@ -19,6 +19,45 @@ Date: {{date}}, {{time}}
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, 
 > read them aloud, talk your yourself and others about them"_
+
+
+### Morning
+
+> [!quote] Marcus Aurelius
+> “How unlucky I am that this should happen to me. But not at all. Perhaps, say 
+> how lucky I am that I am not broken by what has happened, and I am not 
+> afraid  of what is about to happen. For the same blow might have stricken 
+> anyone, but not many would have absorbed it without capitulation 
+> and complaint.”
+
+1. What difficulties am I likely to encounter today?
+	1. - 
+2. What one thing do most need to get done today?
+	1. -
+3. What am I grateful for?
+	1. -
+4. What is worrying me?
+	1. -
+5. How can I decatastrophize today's problems?
+	1. -
+6. What is within my control and what is not
+	1. -
+
+### Evening
+
+> [!quote]  Epicurus
+> “Meditate then, on all these things, and on those things which are related 
+> to them, both day and night, and both alone and with like-minded 
+> companions. For if you will do this, you will never be disturbed while 
+> asleep or awake by imagined fears, but you will live like a god among 
+> men. For a man who lives among immortal blessings is in no respect 
+> like a mortal being.”
+
+1. What did I do well today?
+
+| Things I Did Well | Why I did them |
+| ------------------- | ---------------- |
+| -                 | -              |
 
 ## A VIEW FROM ABOVE
 

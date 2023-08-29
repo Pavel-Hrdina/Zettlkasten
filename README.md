@@ -1,6 +1,6 @@
 ---
 created: 2023-08-27T12:33
-updated: 2023-08-27T14:47
+updated: 2023-08-29T10:49
 ---
 # Zettlkasten for Pavel Hrdina
 
@@ -18,6 +18,10 @@ This way, there is **no need for the note to be forced to be linked to**, and at
 For my notes, I am using the following font:
 
 - [Lexend — Change the way the world reads.](https://www.lexend.com/)
+
+## Journal
+
+This repo also includes my journal... viz. [Stoicism](./SLIP-BOX/Stoicism.md)
 
 ## References
 
