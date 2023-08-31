@@ -6,7 +6,7 @@ created: 2023-08-24T12:17
 modified: 2023-08-10, 15:40
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:48
+updated: 2023-08-31T14:55
 ---
 
 # Linux
@@ -22,7 +22,7 @@ Linux is normally thought of as a standalone [Operating System](Operating%20Syst
 
 Linux is mainly managed through so called **[ commands](Linux%20commands.md)**. These speed up the process of [System Management](System%20Management) brutally in some cases, but they must be learned and understood. 
 
-## Personal attachment 
+## Personal Attachment
 
 Linux is the best operating system there is. There are no restrictions when it comes to what you can do, yet it can be used without a hustle, if you chose to do so. 
 

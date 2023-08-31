@@ -6,7 +6,7 @@ created: 2023-08-31T11:50
 modified: 2023-08-31, 11:50
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T12:13
+updated: 2023-08-31T15:49
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
@@ -31,17 +31,18 @@ Date: 2023-08-31, 11:50
 
 1. What difficulties am I likely to encounter today?
 	1. - Overcoming my self
-	2. - Letting go
+	2. - letting go
 	3. - Navigating the day  
-	4. - Hosting a snowflakes proxy
+	4. - hosting a snowflakes proxy
 	5. - Big storm
 	6. - Silence 
 2. What one thing do most need to get done today?
-	1. - Installing Gentoo 
-	2. - Look for university
-	3. - Figure out how to run a snowflakes proxy
-	4. - Take time to think
-	5. - Slow down
+	1. - [ ] Installing Gentoo 
+	2. - [ ] Look for university
+	3. - [ ] Figure out how to run a snowflakes proxy
+	4. - [ ] take time to think
+	5. - [ ] slow down
+	6. - [ ] Pick a Wi-Fi router
 3. What am I grateful for?
 	1. - For my life 
 	2. - For my parents	
@@ -53,9 +54,14 @@ Date: 2023-08-31, 11:50
 	2. - That I will doubt my self 
 	3. - That I will lose my freedom 
 5. How can I decatastrophize today's problems?
-	1. -
-6. What is within my control and what is not
-	1. -
+	1. - By warring that I am not good enough I am making it true because I can't act in such a state
+	2. - Doubting my self is normal, just let the thoughts come and go, and don't pay it much attention
+	3. - If you worry about losing your freedom than fight for it. Use your [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). 
+1. What is within my control and what is not
+	1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
+	2. - The weather **is not**
+	3. - Time **is not**
+	4. - My purpose **is not**. 
 
 ### Evening
 
@@ -77,6 +83,8 @@ Date: 2023-08-31, 11:50
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
 
+I am but a small man in a sea of time that moves with, or without, me. I feel but nothing else can feel the same, I hear, but nothing can hear the same, I see, but nothing can see the same. Furthermore, I live for so short yet for so long. Everything I do has a purpose that is hidden to me. The problems I have now won't exist in a week. The same goes for problems I face tomorrow. In the grander scheme of things, I will be dead so fast that nothing will even happen. The universe moves in a speed of its own, the speed of life is not the speed of light, **the faster you go, the faster you die**, take life slow or you will run before you learn to walk. Human being all look like ants when you look form high enough, and every single one has problems, yet none of these problems don't mater in the grand scheme of things, the universe will move on, in its own speed and there is nothing we can do about that. **Tomorrow, keep this in mind when you get impatient**
+
 ## MEDITATIONS ON THE IDEAL MAN
 
 - Create a list of role models 
@@ -84,7 +92,7 @@ _This exercise is designed to reminded you about how small you really are, and h
 
 ## References
 
-[Personal knowledge management](Personal%20knowledge%20management.md)
+[Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 
