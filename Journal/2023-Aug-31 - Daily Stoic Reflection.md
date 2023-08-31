@@ -6,7 +6,7 @@ created: 2023-08-31T11:50
 modified: 2023-08-31, 11:50
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T12:02
+updated: 2023-08-31T12:13
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
@@ -46,9 +46,12 @@ Date: 2023-08-31, 11:50
 	1. - For my life 
 	2. - For my parents	
 	3. - For who I am
-	4. - For 
+	4. - For where I was born
+	5. - For the people that support me
 4. What is worrying me?
-	1. -
+	1. - That I may not be good enough
+	2. - That I will doubt my self 
+	3. - That I will lose my freedom 
 5. How can I decatastrophize today's problems?
 	1. -
 6. What is within my control and what is not
