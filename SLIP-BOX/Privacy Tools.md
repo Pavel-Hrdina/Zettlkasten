@@ -6,7 +6,7 @@ created: 2023-08-31T16:17
 modified: 2023-08-31, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-31T16:30
+updated: 2023-08-31T16:43
 ---
 
 # Privacy Tools
@@ -26,9 +26,9 @@ Use Just a **list of privacy tools and their use** + a link to docs.
 4. [ExifTool by Phil Harvey](https://exiftool.org/)
 5. [pdf-redact-tools: stripping metadata from documents before publishing](https://github.com/firstlookmedia/pdf-redact-tools) + [pdfparanoia: pdf watermark removal library for academic papers](https://github.com/kanzure/pdfparanoia)
 
-### Disk cleaning 
+### Disk Cleaning
 
-[Clean Your System and Free Disk Space | BleachBit](https://www.bleachbit.org/)
+[Clean Your System and Free Disk Space | BleachBit](https://www.bleachbit.org/)E
 
 ## Personal Attachment
 

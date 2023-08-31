@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "SLIP-BOX/Privacy Tools.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -35,14 +35,14 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Privacy Tools.md",
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Privacy Tools.md",
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Privacy Tools.md"
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4beef58bfddf6e7e",
+  "active": "60206c2a45c91c35",
   "lastOpenFiles": [
-    "SLIP-BOX/Tor Browser.md",
     "SLIP-BOX/Privacy Tools.md",
+    "SLIP-BOX/Tor Browser.md",
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
     "README.md",
     "SLIP-BOX/Linux.md",
