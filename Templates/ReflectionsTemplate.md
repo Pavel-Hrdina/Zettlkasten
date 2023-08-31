@@ -6,8 +6,9 @@ created: 2023-08-29T10:17
 modified: "{{date}}, {{time}}"
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-29T11:24
+updated: 2023-08-31T12:01
 ---
+
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
