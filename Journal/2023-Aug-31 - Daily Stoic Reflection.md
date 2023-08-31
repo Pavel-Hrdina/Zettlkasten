@@ -2,11 +2,11 @@
 tags: type/reflection
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-31T15:50
+created: 2023-08-31T17:43
 modified: 2023-08-31, 11:50
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T16:43
+updated: 2023-08-31T19:16
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
