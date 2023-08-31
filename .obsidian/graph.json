@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#linux",
-      "color": {
-        "a": 1,
-        "rgb": 5431425
-      }
-    },
-    {
-      "query": "tag:#vim",
-      "color": {
-        "a": 1,
-        "rgb": 5427424
-      }
-    },
-    {
-      "query": "tag:#learning",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.393393799918776,
-  "repelStrength": 12.5,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16052314965829223,
-  "close": true
+  "scale": 0.39523151455531047,
+  "close": false
 }
