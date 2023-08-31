@@ -2,11 +2,11 @@
 tags: type/reflection
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-31T11:50
+created: 2023-08-31T15:50
 modified: 2023-08-31, 11:50
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T15:49
+updated: 2023-08-31T16:43
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
@@ -39,8 +39,8 @@ Date: 2023-08-31, 11:50
 2. What one thing do most need to get done today?
 	1. - [ ] Installing Gentoo 
 	2. - [ ] Look for university
-	3. - [ ] Figure out how to run a snowflakes proxy
-	4. - [ ] take time to think
+	3. - [x] Figure out how to run a snowflakes proxy
+	4. - [x] take time to think
 	5. - [ ] slow down
 	6. - [ ] Pick a Wi-Fi router
 3. What am I grateful for?
