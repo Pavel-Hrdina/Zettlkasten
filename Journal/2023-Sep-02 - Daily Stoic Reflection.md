@@ -6,7 +6,7 @@ created: 2023-09-02T12:47
 modified: 2023-09-02, 12:47
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-09-02T12:51
+updated: 2023-09-02T13:25
 ---
 
 
@@ -48,12 +48,19 @@ Date: 2023-09-02, 12:47
 	3. - That I am behind
 	4. - That I could fail
 	5. - That I can't help others 
+	6. - That I can't find a job
 5. How can I decatastrophize today's problems?
 	1. - I can only do my best 
-	2. - If I can't make it, than I wasn't doing my best, I can a least live a good life
-	3. 
+	2. - If I can't make it, than I wasn't doing my best, I can at least live a good life
+	3.  - In fact I am ahead 
+	4. - If I don't fail, how do I succed?
+	5. - Others can be helped only if they want to be helped. 
 6. What is within my control and what is not
-	1. -
+	1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
+	2. - The weather **is not**
+	3. - Time **is not**
+	4. - My purpose **is not**. 
+
 
 ### Evening
 
