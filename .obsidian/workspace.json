@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Problem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md"
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "b319bbab56ef0349",
   "lastOpenFiles": [
-    "SLIP-BOX/Aarificial Inteligence.md",
+    "SLIP-BOX/Reframing the Problem.md",
+    "SLIP-BOX/Rapid Reframing Medhod.md",
     "SLIP-BOX/Problem Solving.md",
+    "SLIP-BOX/Aarificial Inteligence.md",
     "SLIP-BOX/Programming Language.md",
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
     "SLIP-BOX/Privacy Tools.md",
@@ -184,8 +186,6 @@
     "Reflections/Morning",
     "Reflections",
     "SLIP-BOX/Linux Basic Commands.md",
-    "SLIP-BOX/Searching For Files.md",
-    "SLIP-BOX/Stoic Emotions.md",
     "LICENSE",
     "Assets/Changelog",
     "Assets/Calendar",
