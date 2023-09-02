@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Framing.md",
+                "file": "Journal/Meditation Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Framing.md",
+                "file": "Journal/Meditation Tracker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Framing.md",
+                "file": "Journal/Meditation Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Framing.md"
+                "file": "Journal/Meditation Tracker.md"
               }
             }
           }
@@ -154,10 +154,11 @@
   "active": "987c5ce0a6677dcd",
   "lastOpenFiles": [
     "SLIP-BOX/Rapid Reframing Medhod.md",
+    "Journal/Meditation Tracker.md",
     "SLIP-BOX/Reframing the Problem.md",
     "SLIP-BOX/Problem Solving.md",
-    "SLIP-BOX/The Reframing Canvas.md",
     "SLIP-BOX/Framing.md",
+    "SLIP-BOX/The Reframing Canvas.md",
     "SLIP-BOX/Vim.md",
     "SLIP-BOX/Privacy Tools.md",
     "SLIP-BOX/Tor Browser.md",
@@ -184,7 +185,6 @@
     "SLIP-BOX/Control Over Judgment.md",
     "SLIP-BOX/Reflection.md",
     "Journal",
-    "Templates/NoteTemplate.md",
     "Reflections/Evening",
     "Reflections/Morning",
     "Reflections",
