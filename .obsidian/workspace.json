@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8e1586bfd07015cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b319bbab56ef0349",
+  "active": "8e1586bfd07015cf",
   "lastOpenFiles": [
     "SLIP-BOX/Rapid Reframing Medhod.md",
     "SLIP-BOX/Reframing the Problem.md",
