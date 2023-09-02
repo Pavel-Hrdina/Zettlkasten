@@ -6,17 +6,46 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#zettlkasten  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#problemsolving  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#stoicism  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.5,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.29947916666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.39523151455531047,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.666666666666667,
+  "linkDistance": 30,
+  "scale": 0.10230119939696539,
+  "close": true
 }

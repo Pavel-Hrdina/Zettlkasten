@@ -6,12 +6,12 @@ created: 2023-09-02T17:26
 modified: 2023-09-02, 16:03
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T17:38
+updated: 2023-09-02T19:05
 ---
 
 # Reframing the Problem
 
-Tags: #life #software #linux  #problemsolving
+Tags: #life #software #problemsolving
 Date: 2023-09-02, 16:03
 
 ---

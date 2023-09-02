@@ -1,17 +1,17 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-02T13:39
+created: 2023-09-02T17:26
 modified: 2023-08-15, 18:37
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T16:04
+updated: 2023-09-02T19:05
 ---
 
 # Problem Solving
 
-Tags: #life #software #linux  #problemsolving
+Tags: #life #software #problemsolving
 Date: 2023-08-15, 18:37
 
 ---

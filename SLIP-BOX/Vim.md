@@ -1,17 +1,17 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
 created: 2023-08-24T20:00
 modified: 2023-08-06, 19:18
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:48
+updated: 2023-09-02T19:08
 ---
 
 # Vim
 
-Tags: #vim
+Tags: #vim #software #open-source #productivity 
 Date: 2023-08-06, 19:18
 
 ---
@@ -20,7 +20,7 @@ Vim is a [Text Editor](Text%20Editor) that work entirely in in command line and 
 
 The main things that make vim different from other editors are: [Vim Modal Editing](Vim%20Modal%20Editing.md) and [Vim Operators](Vim%20Operators.md)
 
-## Personal attachment 
+## Personal Attachment
 
 Vim help experienced users that can type with all 10 fingers really fast, and I mean ridiculously fast.
 

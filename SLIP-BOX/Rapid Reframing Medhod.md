@@ -6,12 +6,12 @@ created: 2023-09-02T17:26
 modified: 2023-09-02, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T18:29
+updated: 2023-09-02T19:04
 ---
 
 # Rapid Reframing Method
 
-Tags: #life #software #linux  #problemsolving
+Tags: #life #software #problemsolving
 Date: 2023-09-02, 16:17
 
 ---

@@ -1,17 +1,17 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
-created: 2023-08-31T16:41
+created: 2023-08-31T17:43
 modified: 2023-08-31, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-31T16:43
+updated: 2023-09-02T19:07
 ---
 
 # Privacy Tools
 
-Tags: #linux #software #free-software #privacy #freedom
+Tags: #software #free-software #privacy #freedom
 Date: 2023-08-31, 16:17
 
 ---
