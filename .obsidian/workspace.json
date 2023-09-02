@@ -6,7 +6,6 @@
       {
         "id": "026a52bbc8395852",
         "type": "tabs",
-        "dimension": 68.97208121827411,
         "children": [
           {
             "id": "987c5ce0a6677dcd",
@@ -14,56 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
-                "mode": "preview",
+                "file": "SLIP-BOX/Framing.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "a140b33bd547c7e0"
-          }
-        ]
-      },
-      {
-        "id": "a28faec7337ea0e1",
-        "type": "tabs",
-        "dimension": 31.027918781725887,
-        "children": [
-          {
-            "id": "7f8bd7a99689d87c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6372987299011714,
-                  "close": true
-                }
-              }
-            },
-            "group": "a140b33bd547c7e0"
+            }
           }
         ]
       }
@@ -131,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "SLIP-BOX/Framing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md",
+                "file": "SLIP-BOX/Framing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Problem Solving.md"
+                "file": "SLIP-BOX/Framing.md"
               }
             }
           }
@@ -198,14 +153,14 @@
   },
   "active": "987c5ce0a6677dcd",
   "lastOpenFiles": [
-    "SLIP-BOX/Reframing the Problem.md",
-    "SLIP-BOX/The Reframing Canvas.md",
     "SLIP-BOX/Rapid Reframing Medhod.md",
+    "SLIP-BOX/Reframing the Problem.md",
+    "SLIP-BOX/Problem Solving.md",
+    "SLIP-BOX/The Reframing Canvas.md",
     "SLIP-BOX/Framing.md",
     "SLIP-BOX/Vim.md",
     "SLIP-BOX/Privacy Tools.md",
     "SLIP-BOX/Tor Browser.md",
-    "SLIP-BOX/Problem Solving.md",
     "SLIP-BOX/Personal knowledge management.md",
     "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.svg",

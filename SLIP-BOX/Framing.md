@@ -7,7 +7,7 @@ created: 2023-09-02T18:29
 modified: 2023-09-02, 18:29
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T19:06
+updated: 2023-09-02T19:15
 ---
 
 # Framing
@@ -16,6 +16,8 @@ Tags: #life #software #problemsolving
 Date: 2023-09-02, 18:29
 
 ---
+
+Framing and [Reframing](Reframing%21the%20Problem%20) can be done anytime when working on a specific [Problem](Problem%21Solving%20). 
 
 > [!quote]  Thomas Wedell-Wedellsborg, Mar 2020,  Harvard Business Review Press
 > It’s important to note that reframing is different from analyzing a problem. Analysis, as I use the term here, is when you ask, **Why is the elevator slow?** and try to understand the various factors that influence the speed. Being good at analysis is about being precise, methodical, detail-oriented, and good with numbers.
