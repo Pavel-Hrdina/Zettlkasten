@@ -2,17 +2,18 @@
 tags: type/reflection
 aliases: null
 lead: Lead paragraph goes here
-created: 2023-08-30T10:26
-modified: 2023-08-30, 10:26
+created: 2023-09-02T12:47
+modified: 2023-09-02, 12:47
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T20:41
+updated: 2023-09-02T12:51
 ---
+
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
-Date: 2023-08-30, 10:26
+Date: 2023-09-02, 12:47
 
 ## Morning and Evening
 
@@ -31,33 +32,28 @@ Date: 2023-08-30, 10:26
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - Broken thumb recovery
-	2. - My sisters party 
-	3. - My girlfriend's emotions
-	4. - The need to value my self
+	1. - Lack of motivation
+	2. - Tests of my beliefs 
+	3. - Lack of trust in my self
 2. What one thing do most need to get done today?
-	1. - Helping my grandpa
+	1. - 
 3. What am I grateful for?
-	1. - My girlfriend
-	2. - My home 
-	3. - That I have food to eat 
-	4. - I am alive 
-	5. - My mind is clear
+	1. - For my life
+	2. - For my knowledge 
+	3. - For having my eyes open 
+	4. - For being happy 
 4. What is worrying me?
-	1. - This year school finals 
-	2. - My own future
-	3. - My abilities worth 
+	1. - That I am not good enough 
+	2. - That I can't make it 
+	3. - That I am behind
+	4. - That I could fail
+	5. - That I can't help others 
 5. How can I decatastrophize today's problems?
-	1. - No one died 
-	2. - I am still alive
-	3. - I can get back what is lost
-	4. - There is time to learn
+	1. - I can only do my best 
+	2. - If I can't make it, than I wasn't doing my best, I can a least live a good life
+	3. 
 6. What is within my control and what is not
-	1. - My own [Judgment](Control%20Over%20Judgment%20) is **under my control**
-	2. - The time if my death is **not under my control**
-	3. - How peaople react to me is **not under my control **
-	4. - Time is **not under my control**
-	5. - Others are **not under my control** 
+	1. -
 
 ### Evening
 
@@ -73,13 +69,11 @@ Date: 2023-08-30, 10:26
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                | -              |
+| -                 | -              |
 
 ## A VIEW FROM ABOVE
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
-
-I am but small part of a bigger world 
 
 ## MEDITATIONS ON THE IDEAL MAN
 

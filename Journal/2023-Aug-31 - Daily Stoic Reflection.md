@@ -6,7 +6,7 @@ created: 2023-08-31T17:43
 modified: 2023-08-31, 11:50
 template-type: Reflection
 template-version: "1.7"
-updated: 2023-08-31T19:16
+updated: 2023-08-31T20:41
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
@@ -77,8 +77,8 @@ Date: 2023-08-31, 11:50
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
-
+| - I controlled my judgment well | - I want to be a better person |
+| - I focused on my self today    | - My mental well being was declining|
 ## A VIEW FROM ABOVE
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
