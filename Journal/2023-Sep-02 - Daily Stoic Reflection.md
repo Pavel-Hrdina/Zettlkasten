@@ -1,12 +1,13 @@
 ---
 tags: type/reflection
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-02T12:47
 modified: 2023-09-02, 12:47
 template-type: Reflection
+Reflection: 1
 template-version: "1.7"
-updated: 2023-09-02T13:25
+updated: 2023-09-02T19:37
 ---
 
 
