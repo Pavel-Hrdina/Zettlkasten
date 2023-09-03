@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3ae8ca84b23d952",
+            "id": "aecc3e8a487ec097",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md"
+              }
             }
           }
         ],
@@ -142,17 +151,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "aecc3e8a487ec097",
   "lastOpenFiles": [
+    "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Reframing the Problem.md",
     "Journal/Meditation Tracker.md",
     "Journal/2023-Sep-02 - Daily Stoic Reflection.md",
-    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-01 - Daily Stoic Reflection.md",
     "Templates/ReflectionsTemplate.md",
     "README.md",
     "SLIP-BOX/Rapid Reframing Medhod.md",
-    "SLIP-BOX/Reframing the Problem.md",
     "SLIP-BOX/Problem Solving.md",
     "SLIP-BOX/Framing.md",
     "SLIP-BOX/The Reframing Canvas.md",
@@ -174,7 +184,6 @@
     "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Gravestone Method.md",
     "SLIP-BOX/Control Over Judgment.md",
-    "SLIP-BOX/Reflection.md",
     "Journal",
     "Reflections/Evening",
     "Reflections/Morning",
