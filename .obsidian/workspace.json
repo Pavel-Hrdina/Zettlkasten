@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Framing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "29e15652ca05ac3d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-03 - Daily Stoic Reflection.md"
+                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md"
               }
             }
           }
@@ -151,21 +162,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aecc3e8a487ec097",
+  "active": "29e15652ca05ac3d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "SLIP-BOX/Framing.md",
+    "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
+    "SLIP-BOX/Rapid Reframing Medhod.md",
+    "SLIP-BOX/Reframing the Problem.md",
+    "SLIP-BOX/Problem Solving.md",
     "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
+    "conflict-files-obsidian-git.md",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Reframing the Problem.md",
     "Journal/Meditation Tracker.md",
     "Journal/2023-Sep-02 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-01 - Daily Stoic Reflection.md",
     "Templates/ReflectionsTemplate.md",
     "README.md",
-    "SLIP-BOX/Rapid Reframing Medhod.md",
-    "SLIP-BOX/Problem Solving.md",
-    "SLIP-BOX/Framing.md",
     "SLIP-BOX/The Reframing Canvas.md",
     "SLIP-BOX/Vim.md",
     "SLIP-BOX/Privacy Tools.md",
@@ -181,16 +198,10 @@
     "Assets/Images",
     "Assets/New folder",
     "Assets/New shortcut.lnk",
-    "Journal/2023-Aug-29 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Stoicism.md",
-    "SLIP-BOX/Gravestone Method.md",
     "Journal",
     "Reflections/Evening",
     "Reflections/Morning",
     "Reflections",
-    "LICENSE",
-    "Assets/Changelog",
-    "Assets/Calendar",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
