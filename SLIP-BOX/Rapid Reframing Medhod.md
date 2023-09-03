@@ -2,11 +2,11 @@
 tags: type/note
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-02T17:26
+created: 2023-09-03T12:04
 modified: 2023-09-02, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T19:27
+updated: 2023-09-03T12:04
 ---
 
 # Rapid Reframing Method

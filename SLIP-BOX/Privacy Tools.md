@@ -2,11 +2,11 @@
 tags: type/note
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-08-31T17:43
+created: 2023-09-03T12:04
 modified: 2023-08-31, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T19:07
+updated: 2023-09-03T12:04
 ---
 
 # Privacy Tools

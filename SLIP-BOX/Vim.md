@@ -2,11 +2,11 @@
 tags: type/note
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-08-24T20:00
+created: 2023-09-03T12:04
 modified: 2023-08-06, 19:18
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T19:08
+updated: 2023-09-03T12:04
 ---
 
 # Vim
