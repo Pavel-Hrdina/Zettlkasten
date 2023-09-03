@@ -2,12 +2,12 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-08-30T10:26
+created: 2023-09-02T19:47
 modified: 2023-08-30, 10:26
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-02T19:37
+updated: 2023-09-02T19:47
 ---
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e43dafc26e5a049",
+        "id": "9c3eacd9ac52436b",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ae8ca84b23d952",
+            "id": "b319bbab56ef0349",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +86,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -118,15 +125,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SLIP-BOX/Rapid Reframing Medhod.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
+    "width": 445.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,30 +150,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "b319bbab56ef0349",
   "lastOpenFiles": [
-    "Journal/Meditation Tracker.md",
-    "Journal/2023-Sep-02 - Daily Stoic Reflection.md",
-    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-01 - Daily Stoic Reflection.md",
-    "Templates/ReflectionsTemplate.md",
-    "README.md",
+    "SLIP-BOX/The Reframing Canvas.md",
+    "SLIP-BOX/Framing.md",
+    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.svg",
+    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
     "SLIP-BOX/Rapid Reframing Medhod.md",
     "SLIP-BOX/Reframing the Problem.md",
     "SLIP-BOX/Problem Solving.md",
-    "SLIP-BOX/Framing.md",
-    "SLIP-BOX/The Reframing Canvas.md",
-    "SLIP-BOX/Vim.md",
-    "SLIP-BOX/Privacy Tools.md",
-    "SLIP-BOX/Tor Browser.md",
-    "SLIP-BOX/Personal knowledge management.md",
-    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
-    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.svg",
     "SLIP-BOX/Aarificial Inteligence.md",
     "SLIP-BOX/Programming Language.md",
+    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Privacy Tools.md",
+    "SLIP-BOX/Tor Browser.md",
     "SLIP-BOX/Software.md",
+    "Journal/2023-Sep-02 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-01 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
+    "README.md",
     "SLIP-BOX/Linux.md",
+    "Templates/ReflectionsTemplate.md",
     "Assets/Images/Stoicism-for-Artists-scaled.jpeg",
     "Assets/Images",
     "Assets/New folder",
@@ -176,6 +181,9 @@
     "SLIP-BOX/Control Over Judgment.md",
     "SLIP-BOX/Reflection.md",
     "Journal",
+    "Templates/NoteTemplate.md",
+    "SLIP-BOX/Reflections.md",
+    "SLIP-BOX/Advanced ways to use regex.md",
     "Reflections/Evening",
     "Reflections/Morning",
     "Reflections",
