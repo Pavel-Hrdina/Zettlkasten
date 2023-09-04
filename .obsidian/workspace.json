@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9e43dafc26e5a049",
+        "id": "20660fd6398bbca1",
         "type": "tabs",
         "children": [
           {
-            "id": "aecc3e8a487ec097",
+            "id": "8887dbf02074fff1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLIP-BOX/Framing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29e15652ca05ac3d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,17 +142,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "29e15652ca05ac3d",
+  "active": "8887dbf02074fff1",
   "lastOpenFiles": [
+    "Journal/2023-Sep-04 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Rapid Reframing Medhod.md",
+    "SLIP-BOX/Reframing the Problem.md",
+    "SLIP-BOX/Framing.md",
+    "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
+    "Assets/Excalidraw/Drawing 2023-09-03 19.22.30.excalidraw.md",
+    "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
+    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
+    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "SLIP-BOX/Framing.md",
-    "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
-    "SLIP-BOX/Rapid Reframing Medhod.md",
-    "SLIP-BOX/Reframing the Problem.md",
     "SLIP-BOX/Problem Solving.md",
     "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
@@ -188,12 +173,10 @@
     "SLIP-BOX/Privacy Tools.md",
     "SLIP-BOX/Tor Browser.md",
     "SLIP-BOX/Personal knowledge management.md",
-    "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.svg",
     "SLIP-BOX/Aarificial Inteligence.md",
     "SLIP-BOX/Programming Language.md",
     "SLIP-BOX/Software.md",
-    "SLIP-BOX/Linux.md",
     "Assets/Images/Stoicism-for-Artists-scaled.jpeg",
     "Assets/Images",
     "Assets/New folder",
@@ -202,7 +185,6 @@
     "Reflections/Evening",
     "Reflections/Morning",
     "Reflections",
-    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
     "Visuals/IMG_0099.PNG",
@@ -211,11 +193,9 @@
     "Canvases/How to Use Links with Templates.canvas",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0843.png",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0319.PNG",
-    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0099.PNG",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/Zettelkasten Workflow with Obsidian.canvas",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Tags.canvas",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Links with Templates.canvas",
-    "Visuals/structure_template.jpg",
     "Untitled.canvas"
   ]
 }
