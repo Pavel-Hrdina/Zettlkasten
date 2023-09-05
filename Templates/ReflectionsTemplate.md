@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-05T20:27
+updated: 2023-09-05T20:47
 ---
 
 
@@ -60,6 +60,11 @@ Date: {{date}}, {{time}}
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
 | -                 | -              |
+
+### The gravestone method
+
+> [!quote]
+> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
 
 ## A VIEW FROM ABOVE
 
