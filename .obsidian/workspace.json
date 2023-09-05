@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-05 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "file": "Templates/ReflectionsTemplate.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-05 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-05 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-05 - Daily Stoic Reflection.md"
+                "file": "Templates/ReflectionsTemplate.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "33d4a9076d5d64dc",
   "lastOpenFiles": [
-    "Journal/2023-Sep-04 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-05 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-04 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "SLIP-BOX/Rapid Reframing Medhod.md",

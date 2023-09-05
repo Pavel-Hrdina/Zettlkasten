@@ -7,13 +7,13 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-03T12:04
+updated: 2023-09-05T20:27
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
-Tags:  #reflection #stoicism #life #philosophy #motivation #daily
+Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: {{date}}, {{time}}
 
 ## Morning and Evening
