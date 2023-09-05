@@ -7,7 +7,7 @@ modified: 2023-09-04, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-04T06:54
+updated: 2023-09-04T20:55
 ---
 
 
@@ -66,7 +66,8 @@ Date: 2023-09-04, 06:35
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I woke up early               | - To have more time              |
+| - I slowed down      | - To experience life |
 
 ## A VIEW FROM ABOVE
 

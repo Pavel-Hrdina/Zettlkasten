@@ -2,19 +2,19 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-03T11:51
-modified: 2023-09-03, 11:51
+created: 2023-09-05T06:38
+modified: 2023-09-05, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-04T20:54
+updated: 2023-09-05T06:58
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
-Date: 2023-09-03, 11:51
+Date: 2023-09-05, 06:38
 
 ## Morning and Evening
 
@@ -33,28 +33,36 @@ Date: 2023-09-03, 11:51
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - Storm
-	2. - Getting things done
+	1. - My failure 
+	2. - Acceptance of the future
+	3. - Listening to my inner voice
+	4. - Hateful people 
 2. What one thing do most need to get done today?
-	1. - Call
-	2. - Learn more about [Reframing the Problem](../SLIP-BOX/Reframing%20the%20Problem.md)
+	1. - Finish the university short list
 3. What am I grateful for?
-	1. - That I am at peace
-	2. - That I have a life to live
-	3. - For this very moment 
-	4. - For having the ability to learn anything 
-	5. - For being able to follow through.
+	1. - My parents
+	2. - That I can be happy 
+	3. - That I can Improve
+	4. - That I am free
+	5. - living in peace 
+	6. - That I have food to eat
+	7. - That the weather is nice 
 4. What is worrying me?
-	1. - That I won't be able to wake up at before 6 am
-	2. - That I can't articulate my thoughts properly 
+	1. - If things change, I will not find such peace again. 
+	2. - If I get challenged and fail, I will not to be able to fail again.
+	3. - If I do my work and fail, everyone will hate me.
 5. How can I decatastrophize today's problems?
-	1. - If I stick with it I will get used to it after a few days
-	2. - This is an oportunity to get better at speeking 
+	1. - It is very unlikely that this will happen, remember that peace is found within one self not in the surroundings and people, if you try to avoid change, you will avoid life.
+	2. - Failure is a part of life, to some degree life is about failing over and over again, if you cannot accept failure, you are avoiding an opportunity. Nobody wins on the 1st try, the only thing you need to do is get up and keep on trying 
+	3. - No nobody will hate you. But you must prevent you from hating you. If you do that it does not matter who hates you, the person who you spend the most time with loves you after all. Let go of worrying about others in a healthy way.
 6. What is within my control and what is not
-		1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
-	2. - The weather **is not**
-	3. - Time **is not**
-	4. - My purpose **is not**. 
+	1. - How much value I give to problems **is within my control**.
+	2. - How I see others opinion **is within my control**.
+	3. - When I die **is not within my control**.
+	4.  - The future **is not within my control**
+	5.  - Helping someone **is not within my control**.
+	6. - Tring to help **is within my control**.
+	7.  - What I say **is within my control**
 
 ### Evening
 
@@ -70,7 +78,7 @@ Date: 2023-09-03, 11:51
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| - I woke up early                | - To have more time              |
+| -                 | -              |
 
 ## A VIEW FROM ABOVE
 
