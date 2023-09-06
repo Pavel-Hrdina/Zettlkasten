@@ -2,14 +2,13 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-06T07:09
-modified: "2023-09-06, 07:14"
+created: 2023-09-06T07:14
+modified: 2023-09-06, 07:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-06T07:09
+updated: 2023-09-06T07:37
 ---
-
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -22,26 +21,39 @@ Date: 2023-09-06, 07:14
 > _"Every day and night keep thoughts like these at hand - write them, 
 > read them aloud, talk your yourself and others about them"_
 
-
 ### Morning
 
-> [!quote] Marcus Aurelius
-> “How unlucky I am that this should happen to me. But not at all. Perhaps, say 
-> how lucky I am that I am not broken by what has happened, and I am not 
 > afraid  of what is about to happen. For the same blow might have stricken 
 > anyone, but not many would have absorbed it without capitulation 
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - 
+	1. - Problem in school
+	2. - learning to deal with change 
+	3. - Learning to let my self rest 
+	4. - understanding why I fell bad, and what can I do about it
+	5. - dealing with reality 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Print test sheet
+	2. - Create a strategy for a test format 
+	3. - Complete all task you have 
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for being alive and well 
+	2. - I am grateful for my hypersensitivity 
+	3. - I am grateful for my mother and my father
+	4. - I am grateful for the understanding I have been given 
+	5. - I am grateful for being young 
+	6. - I am grateful for the nice weather outside 
+	7. - I am grateful for having a character 
 4. What is worrying me?
-	1. -
+	1. - I am worried that I can't enjoy the moment because I fear the future 
+	2. - I am worried that my skills are not useful to anybody 
+	3. - I am worried that I can't sell my abilities 
+	4. - I am worried that people see me as dump 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - The future is in the future, if you keep worrying about it, you won't be able to enjoy the moment.
+	2. - If I show them what I can do, they will see that I have skills that are useful. If you still think your skills are worthless, work to improve them.
+	3. 
 6. What is within my control and what is not
 	1. -
 
@@ -61,7 +73,7 @@ Date: 2023-09-06, 07:14
 | ------------------- | ---------------- |
 | -                 | -              |
 
-### The gravestone method
+### The Gravestone Method
 
 > [!quote]
 > What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
