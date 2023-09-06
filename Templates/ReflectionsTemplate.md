@@ -2,12 +2,12 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-06T15:04
+created: 2023-09-06T15:41
 modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-06T15:04
+updated: 2023-09-06T15:41
 ---
 
 
