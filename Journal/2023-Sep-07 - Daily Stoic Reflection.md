@@ -2,18 +2,19 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-06T07:14
-modified: 2023-09-06, 07:14
+created: 2023-09-07T07:02
+modified: 2023-09-07, 07:02
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-07T07:50
+updated: 2023-09-07T07:42
 ---
+
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-06, 07:14
+Date: 2023-09-07, 07:02
 
 ## Morning and Evening
 
@@ -21,41 +22,51 @@ Date: 2023-09-06, 07:14
 > _"Every day and night keep thoughts like these at hand - write them, 
 > read them aloud, talk your yourself and others about them"_
 
+
 ### Morning
 
+> [!quote] Marcus Aurelius
+> “How unlucky I am that this should happen to me. But not at all. Perhaps, say 
+> how lucky I am that I am not broken by what has happened, and I am not 
 > afraid  of what is about to happen. For the same blow might have stricken 
 > anyone, but not many would have absorbed it without capitulation 
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - Problem in school
-	2. - learning to deal with change 
-	3. - Learning to let my self rest 
-	4. - understanding why I fell bad, and what can I do about it
-	5. - dealing with reality 
+	1. - My broken finger hurting 
+	2. - New people 
+	3. - Great heat in the afternoon 
+	4. - remembering the 4 virtues 
+	5. - My freedom might be challenged 
 2. What one thing do most need to get done today?
-	1. - Print test sheet
-	2. - Create a strategy for a test format 
-	3. - Complete all task you have 
+	1. - Setup Montero mining 
+	2. - Set up aniki 
 3. What am I grateful for?
-	1. - I am grateful for being alive and well 
-	2. - I am grateful for my hypersensitivity 
-	3. - I am grateful for my mother and my father
-	4. - I am grateful for the understanding I have been given 
-	5. - I am grateful for being young 
-	6. - I am grateful for the nice weather outside 
-	7. - I am grateful for having a character 
+	1. - I am grateful for being alive right now 
+	2. - I am grateful for finding my purpose 
+	3. - I am grateful for my family 
+	4. - I am grateful for being able to have an education 
+	5. - I am grateful for my eyes being opened 
+	6. - I am grateful for slowing down my life 
+	7. - I am grateful for having the opportunity to learn anything 
 4. What is worrying me?
-	1. - I am worried that I can't enjoy the moment because I fear the future 
-	2. - I am worried that my skills are not useful to anybody 
-	3. - I am worried that I can't sell my abilities 
-	4. - I am worried that people see me as dump 
+	1. - I am worried that I am creating artificial road blocks for my self. 
+	2. - I am worried that I will not follow my principles.
+	3. - I am worried that I am not good enough. 
 5. How can I decatastrophize today's problems?
-	1. - The future is in the future, if you keep worrying about it, you won't be able to enjoy the moment.
-	2. - If I show them what I can do, they will see that I have skills that are useful. If you still think your skills are worthless, work to improve them.
-	3. 
+	1. - To make my path clean of thorns I must learn how to do things that I do not want to, then there is no more problem.
+	2. - If a situation comes, I will not give up on my principles. 
+	3. - Nobody is good enough, and nobody is perfect. You are not a god, keep learning and going at you own speed and that it will be alright. 
 6. What is within my control and what is not
-	1. -
+	1. - My [Judgment](Control%20Over%20Judgment%20) **is under my control**
+	2. - How I spend my time **is under my control**
+	3. - How I react **is under my control**
+	4. - Flowing with nature **is under my control**
+	5. - How people react to me **is not under my control**
+	6. - Time **is not under my control**
+	7. - The weather **is under my control**
+	8. - How I look **is not under my control**
+	9. - My voice **is not under my control**
 
 ### Evening
 
@@ -81,8 +92,6 @@ Date: 2023-09-06, 07:14
 ## A VIEW FROM ABOVE
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
-
-When I look at my self from the above, I see but one of many, but one of millions, all of whom have problems, some struggle to survive til the next day, as they have nothing to eat, some struggle with their boss being an idiot, but all have problems. So why should I, but one of many struggle the same, be the same as all of them, them who try to be different and make things complicated, those who try to mold life to who they are, instead of molding themselves to life. The farther I see my self from, the more I realize how title I matter, how little humanity matters, even if all perish, nothing will change in the universe, stars will be born, and stars will be destroyed until the end of times. 
 
 ## MEDITATIONS ON THE IDEAL MAN
 
