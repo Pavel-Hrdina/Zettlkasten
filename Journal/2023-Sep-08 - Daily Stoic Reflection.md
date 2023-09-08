@@ -7,7 +7,7 @@ modified: 2023-09-08, 06:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-08T07:29
+updated: 2023-09-08T07:32
 ---
 
 
@@ -91,7 +91,7 @@ When I die, I want my tombstone to say: "Freedom over death", I want to be remem
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
 
-As I look at my self from above me, I see but one of many, one that is playing his role, he has problem, he has troubles, but they are one of many every person has. The higher I see my self form, the more insignificant I look, all is like one, no one thing works without the else. Earth now seem little, it seems small and alike to others around it, it is not special, and one day it will stop existing as well as all living things are. The space is vast, yet it has an end, what is at the end of space, is there only nothingness only darkness or is there no dark or light, that I will never know as my life is too short to know, and so is life of all human being. Some things cannot be understood by mans logic, his sciences or his mind, the things that are yet are not. 
+As I look at my self from above me, I see but one of many, one that is playing his role, he has problem, he has troubles, but they are one of many every person has. The higher I see my self form, the more insignificant I look, all is like one, no one thing works without the else. Earth now seem little, it seems small and alike to others around it, it is not special, and one day it will stop existing as well as all living things are. The space is vast, yet it has an end, what is at the end of space, is there only nothingness only darkness or is there no dark or light, that I will never know as my life is too short to know, and so is life of all human being. Some things cannot be understood by mans logic, his sciences or his mind, the things that are, yet are not. 
 
 ## MEDITATIONS ON THE IDEAL MAN
 
