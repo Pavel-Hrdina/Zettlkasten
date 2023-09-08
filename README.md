@@ -1,6 +1,6 @@
 ---
-created: 2023-08-27T12:33
-updated: 2023-08-29T10:49
+created: 2023-08-29T11:24
+updated: 2023-09-08T06:52
 ---
 # Zettlkasten for Pavel Hrdina
 
@@ -13,7 +13,7 @@ Welcome to my [Zettlkasten](Zettlkasten.md). Here is where I dump all my knowled
 
 **Some notes are not directly linked to each other**, as there is no natural place for them to be linked to. All links should be created naturally without forcing connections. That's why **all notes have tags** that connect them when searching. 
 
-This way, there is **no need for the note to be forced to be linked to**, and at the same time, the note is easily found when its name is forgotten or the note can't be found. The goal is to **keep the system as simple as possible** while remaining extremely efficient without sacrificing ease of use or creating complexity. 
+This way, there is **no need for the note to be forced linked to**, and at the same time, the note is easily found when its name is forgotten or the note can't be found. The goal is to **keep the system as simple as possible** while remaining extremely efficient without sacrificing ease of use or creating complexity. 
 
 For my notes, I am using the following font:
 
