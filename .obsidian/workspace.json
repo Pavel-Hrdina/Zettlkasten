@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Stoicism.md",
+                "file": "SLIP-BOX/Linux commands.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            }
-          },
-          {
-            "id": "f955bf0698c43b7c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -41,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Linux commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-08 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/Linux commands.md"
               }
             }
           }
@@ -173,10 +165,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "467a57959308ea14",
+  "active": "3c21a31251b462ec",
   "lastOpenFiles": [
-    "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
     "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Linux One Liners.md",
+    "SLIP-BOX/Linux commands.md",
+    "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
     "README.md",
     "Journal/2023-Sep-06 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-07 - Daily Stoic Reflection.md",
@@ -205,8 +199,6 @@
     "Journal/2023-Sep-01 - Daily Stoic Reflection.md",
     "Templates/ReflectionsTemplate.md",
     "SLIP-BOX/The Reframing Canvas.md",
-    "SLIP-BOX/Vim.md",
-    "SLIP-BOX/Privacy Tools.md",
     "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.svg",
     "Assets/Images/Stoicism-for-Artists-scaled.jpeg",
     "Assets/Images",
