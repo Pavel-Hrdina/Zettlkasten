@@ -19,8 +19,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ca2ef3bddf4dfe17",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,10 +160,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b624af1f38d48d07",
+  "active": "ca2ef3bddf4dfe17",
   "lastOpenFiles": [
-    "SLIP-BOX/Linux commands.md",
     "Journal/2023-Sep-09 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Linux commands.md",
     "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
     "Assets/Excalidraw/Drawing 2023-09-09 11.20.07.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
