@@ -5308,32 +5308,39 @@ var UpdateTimeOnSavePlugin = class extends import_obsidian5.Plugin {
       return { status: "ignored" };
     }
     try {
-      await this.app.fileManager.processFrontMatter(file, (frontmatter) => {
-        this.log("current metadata: ", frontmatter);
-        const updatedKey = this.settings.headerUpdated;
-        const createdKey = this.settings.headerCreated;
-        const mTime = this.parseDate(file.stat.mtime);
-        const cTime = this.parseDate(file.stat.ctime);
-        if (!mTime || !cTime) {
-          this.log("Something wrong happen, skipping");
-          return;
-        }
-        if (!this.shouldIgnoreCreated(file.path)) {
-          frontmatter[createdKey] = this.formatDate(cTime);
-        }
-        const currentMTimeOnFile = this.parseDate(frontmatter[updatedKey]);
-        if (!frontmatter[updatedKey] || !currentMTimeOnFile) {
-          this.log("Update updatedKey");
-          frontmatter[updatedKey] = this.formatDate(mTime);
-          return;
-        }
-        if (this.shouldUpdateValue(mTime, currentMTimeOnFile)) {
-          frontmatter[updatedKey] = this.formatDate(mTime);
-          this.log("Update updatedKey");
-          return;
-        }
-        this.log("Skipping updateKey");
-      });
+      await this.app.fileManager.processFrontMatter(
+        file,
+        (frontmatter) => {
+          this.log("current metadata: ", frontmatter);
+          this.log("current stat: ", file.stat);
+          const updatedKey = this.settings.headerUpdated;
+          const createdKey = this.settings.headerCreated;
+          const mTime = this.parseDate(file.stat.mtime);
+          const cTime = this.parseDate(file.stat.ctime);
+          if (!mTime || !cTime) {
+            this.log("Something wrong happen, skipping");
+            return;
+          }
+          if (!frontmatter[createdKey]) {
+            if (!this.shouldIgnoreCreated(file.path)) {
+              frontmatter[createdKey] = this.formatDate(cTime);
+            }
+          }
+          const currentMTimeOnFile = this.parseDate(frontmatter[updatedKey]);
+          if (!frontmatter[updatedKey] || !currentMTimeOnFile) {
+            this.log("Update updatedKey");
+            frontmatter[updatedKey] = this.formatDate(mTime);
+            return;
+          }
+          if (this.shouldUpdateValue(mTime, currentMTimeOnFile)) {
+            frontmatter[updatedKey] = this.formatDate(mTime);
+            this.log("Update updatedKey");
+            return;
+          }
+          this.log("Skipping updateKey");
+        },
+        { ctime: file.stat.ctime, mtime: file.stat.mtime }
+      );
     } catch (e) {
       if ((e == null ? void 0 : e.name) === "YAMLParseError") {
         const errorMessage = `Update time on edit failed
