@@ -7,7 +7,7 @@ created: 2023-09-11T07:22
 modified: 2023-09-11, 07:22
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-11T07:25
+updated: 2023-09-11T07:28
 ---
 
 # Justice
@@ -21,7 +21,7 @@ Date: 2023-09-11, 07:22
 
 ## Personal Attachment
 
-Justice is the only way for a free world to exist. 
+Justice is the only way for a free world to exist. One of the [4 Virtues](4%20Virtues.md) and [Stoic](Stoicism.md) fundamental.
 
 ## References
 
