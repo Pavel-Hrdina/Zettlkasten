@@ -7,9 +7,8 @@ modified: 2023-09-12, 06:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-12T07:34
+updated: 2023-09-12T12:52
 ---
-
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -70,7 +69,7 @@ Date: 2023-09-12, 06:41
 | ------------------- | ---------------- |
 | -                 | -              |
 
-### The gravestone method
+### The Gravestone Method
 
 > [!quote]
 > What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
