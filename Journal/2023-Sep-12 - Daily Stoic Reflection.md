@@ -7,7 +7,7 @@ modified: 2023-09-12, 06:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-12T07:26
+updated: 2023-09-12T07:34
 ---
 
 
@@ -38,9 +38,15 @@ Date: 2023-09-12, 06:41
 	3. - weather extremes
 	4. - Maintaining motivation and discipline 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Create a list of books in Excel by criteria 
+	2. - define university criteria 
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for being alive 
+	2. - I am grateful for having the opportunity to learn 
+	3. - I am grateful for living in a free country 
+	4. - I am grateful for not needing more
+	5. - I am grateful for feeling enough 
+	6. - I am grateful for being challenged every day 
 4. What is worrying me?
 	1. -
 5. How can I decatastrophize today's problems?
