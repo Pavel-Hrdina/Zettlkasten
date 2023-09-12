@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Courage.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Linux commands.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linu",
+                "query": "one line",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Courage.md",
+                "file": "SLIP-BOX/Linux commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Courage.md",
+                "file": "SLIP-BOX/Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Courage.md"
+                "file": "SLIP-BOX/Linux commands.md"
               }
             }
           }
@@ -180,9 +181,10 @@
   },
   "active": "7e29b92aae98fd46",
   "lastOpenFiles": [
+    "SLIP-BOX/Linux.md",
+    "SLIP-BOX/Courage.md",
     "SLIP-BOX/4 Virtues.md",
     "Journal/2023-Sep-11 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Courage.md",
     "SLIP-BOX/Justice.md",
     "SLIP-BOX/Wisdom.md",
     "README.md",
@@ -208,7 +210,6 @@
     "Assets/Excalidraw/Drawing 2023-09-03 18.54.31.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-09-02 17.34.35.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
