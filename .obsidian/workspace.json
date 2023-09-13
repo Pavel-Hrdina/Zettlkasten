@@ -40,9 +40,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a14aae22fc21fbd8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "18003d8581eb1536",
+  "active": "a14aae22fc21fbd8",
   "lastOpenFiles": [
     "Journal/2023-Sep-12 - Daily Stoic Reflection.md",
     "SLIP-BOX/4 Virtues.md",
