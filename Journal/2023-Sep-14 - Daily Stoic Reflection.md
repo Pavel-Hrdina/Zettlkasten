@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-13, 06:46
+modified: 2023-09-14, 07:01
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-14T07:01
+updated: 2023-09-14T07:02
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-13, 06:46
+Date: 2023-09-14, 07:01
 
 ## Morning and Evening
 
@@ -33,37 +33,17 @@ Date: 2023-09-13, 06:46
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - My girlfriend's abusive parents 
-	2. - My friends being unhappy 
-	3. - having a lot of work to do 
+	1. - 3
 2. What one thing do most need to get done today?
-	1. - University short list 
+	1. -
 3. What am I grateful for?
-	1. - I am grateful for my loving parents.
-	2. - I am grateful for my loving wife. 
-	3. - I am grateful for knowing when to be silent. 
-	4. - I am grateful for having resolve.
-	5. - I am grateful for being alive
-	6. - I am grateful for moving forward every day 
+	1. -
 4. What is worrying me?
-	1. - That my girlfriend parents will fuck her up
-	2. - That I cannot help her 
-	3. - That I am powerless about those I love 
-	4. - That I cannot make a change
+	1. -
 5. How can I decatastrophize today's problems?
-	1. - I can only do so much for her, if she doesn't want a change in her self, I cannot help her. 
-	2. - I can help her with the best of my ability, and then I can't control the situation. 
-	3. - Well I am, I cannot control them, or their actions, so I can only tell my piece and leave them be. 
-	4. - I can inspire others to change world for the grater.
-6. What is within my control and what is not		
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
-	2. - What I pay attention to **is under my control**.
-	3. - Other people **are not under my control**.
-	4. - My life **is not under my control**.
-	5. - The time of my death **is not under my control**.
-	6. - My purpose **is not under my control**.
-	7. - My primal negative feelings **are not under my control**
-
+	1. -
+6. What is within my control and what is not
+	1. -
 
 ### Evening
 

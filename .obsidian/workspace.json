@@ -21,20 +21,25 @@
             }
           },
           {
-            "id": "3d2e9735707e4385",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bf42bc1de46d7a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3c6dc28b10740c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-13 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -183,12 +188,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bf42bc1de46d7a90",
+  "active": "3c6dc28b10740c76",
   "lastOpenFiles": [
     "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-11 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-12 - Daily Stoic Reflection.md",
     "SLIP-BOX/4 Virtues.md",
-    "Journal/2023-Sep-11 - Daily Stoic Reflection.md",
     "SLIP-BOX/Linux commands.md",
     "SLIP-BOX/Linux.md",
     "SLIP-BOX/Courage.md",
@@ -212,7 +218,6 @@
     "SLIP-BOX/Reframing the Problem.md",
     "SLIP-BOX/Framing.md",
     "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
-    "Assets/Excalidraw/Drawing 2023-09-03 19.22.30.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
