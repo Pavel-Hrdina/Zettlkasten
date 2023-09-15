@@ -7,7 +7,7 @@ modified: 2023-09-14, 07:01
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-14T07:02
+updated: 2023-09-14T07:29
 ---
 
 
@@ -33,17 +33,43 @@ Date: 2023-09-14, 07:01
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - 3
+	1. - Tiredness 
+	2. - Emotional challenges 
 2. What one thing do most need to get done today?
-	1. -
+	1. - University short list 
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for my wife
+	2. - I am grateful to be alive 
+	3. - I am grateful for my Parents 
+	4. - I am grateful for who I am 
+	5. - I am grateful for understanding 
+	6. - I am grateful for my freedom 
+	7. - I am grateful for living in peace 
+	8. - I am grateful for living in a free country 
+	9. - I am grateful for having enough 
+	10. - I am grateful for having access to nature 
 4. What is worrying me?
-	1. -
+	1. - I am worried that I will lose my freedom 
+	2. - I am worried that I will lose my discipline 
+	3. - I am worried that I can't do my best 
+	4. - I am worried that I won't finish what I start again 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - I will fight for freedom until all of my skin is torn off me, all of my limbs torn off, and my eyes gouged out. 
+	2. - I will remain disciplined for my self.
+	3. - I can only do my best and nothing more
+	4. - If i will remain disciplined, I will finish what was started. 
 6. What is within my control and what is not
-	1. -
+	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	2. - What I pay attention to **is under my control**.
+	3. - Other people **are not under my control**.
+	4. - My life **is not under my control**.
+	5. - The time of my death **is not under my control**.
+	6. - My purpose **is not under my control**.
+	7. - My primal negative feelings **are not under my control**
+	8. - How others act **is not under my control**
+	9. - How I see others **is under my control**
+	10. - How I react to negativity **is under my control**
+	11. - How others react to me **is not under my control**
 
 ### Evening
 

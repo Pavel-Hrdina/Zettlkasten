@@ -14,20 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SLIP-BOX/4 Virtues.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bf42bc1de46d7a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/4 Virtues.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/4 Virtues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/4 Virtues.md"
               }
             }
           },
@@ -188,7 +174,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3c6dc28b10740c76",
+  "active": "d1b040e2d9765384",
   "lastOpenFiles": [
     "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
