@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "3c6dc28b10740c76",
+            "id": "ae951bd3b1159e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/4 Virtues.md",
+                "file": "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/4 Virtues.md",
+                "file": "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/4 Virtues.md"
+                "file": "Journal/2023-Sep-15 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -174,13 +175,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d1b040e2d9765384",
+  "active": "ae951bd3b1159e99",
   "lastOpenFiles": [
-    "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
+    "SLIP-BOX/4 Virtues.md",
+    "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-11 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-12 - Daily Stoic Reflection.md",
-    "SLIP-BOX/4 Virtues.md",
     "SLIP-BOX/Linux commands.md",
     "SLIP-BOX/Linux.md",
     "SLIP-BOX/Courage.md",
@@ -202,7 +204,6 @@
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "SLIP-BOX/Rapid Reframing Medhod.md",
     "SLIP-BOX/Reframing the Problem.md",
-    "SLIP-BOX/Framing.md",
     "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
