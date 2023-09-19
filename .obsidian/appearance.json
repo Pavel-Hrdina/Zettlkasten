@@ -1,10 +1,11 @@
 {
   "accentColor": "#504945",
-  "baseFontSize": 19,
+  "baseFontSize": 20,
   "cssTheme": "Obsidian gruvbox",
   "interfaceFontFamily": "Lexend",
   "textFontFamily": "Lexend",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "Lexend"
 }
