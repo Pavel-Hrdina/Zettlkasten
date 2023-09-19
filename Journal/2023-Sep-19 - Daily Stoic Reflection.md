@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-15, 06:54
+modified: 2023-09-19, 10:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-16T15:49
+updated: 2023-09-19T11:00
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-15, 06:54
+Date: 2023-09-19, 10:55
 
 ## Morning and Evening
 
@@ -33,47 +33,19 @@ Date: 2023-09-15, 06:54
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - My wife's parents 
-	2. - People being unkind 
-	3. - Getting disciplined 
+	1. - Sickness 
+	2. - Learning from emotions 
+	3. - Understanding a life lesson
 2. What one thing do most need to get done today?
-	1. - Create GTD weekly review list
-	2. - Take an hour to write down all your tasks
-	3. - Finish university short list
+	1. - 
 3. What am I grateful for?
-	1. -I am grateful for my wife 
-	2. - I am grateful for my loving parents 
-	3. - I am grateful for being born 
-	4. - I am grateful for having food to eat 
-	5. - I am grateful for having a warm place to live
-	6. - I am grateful for having enough 
-	7. - I am grateful for finding what was missing 
-	8. - I am grateful for being challenged 
-	9. - I am grateful for being loved 
-	10. - I am grateful for living in peace 
-	11. - I am grateful for having freedom 
-	12. - I am grateful that look up anything I want to know 
-	13. - I am grateful for being born in Europe 
-	14. - I am grateful for having control over my self 
+	1. -
 4. What is worrying me?
-	1. - That the rabbit will outran the turtle 
-	2. - That I am too slow 
+	1. -
 5. How can I decatastrophize today's problems?
-	1. - The rabbit will always get tired, while the turtle continues, slow but steady.
-	2. - Slowness is not a mistake, its a virtue 
+	1. -
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
-	2. - What I pay attention to **is under my control**.
-	3. - Other people **are not under my control**.
-	4. - My life **is not under my control**.
-	5. - The time of my death **is not under my control**.
-	6. - My purpose **is not under my control**.
-	7. - My primal negative feelings **are not under my control**
-	8. - How others act **is not under my control**
-	9. - How I see others **is under my control**
-	10. - How I react to negativity **is under my control**
-	11. - How others react to me **is not under my control**
-	12. - What people think **is not under my control**
+	1. -
 
 ### Evening
 
@@ -94,7 +66,7 @@ Date: 2023-09-15, 06:54
 ### The Gravestone Method
 
 > [!quote]
-> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will you pass on.
+> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
 
 ## A VIEW FROM ABOVE
 
