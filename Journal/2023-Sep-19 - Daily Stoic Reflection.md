@@ -7,7 +7,7 @@ modified: 2023-09-19, 10:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-19T11:00
+updated: 2023-09-19T13:01
 ---
 
 
@@ -37,11 +37,27 @@ Date: 2023-09-19, 10:55
 	2. - Learning from emotions 
 	3. - Understanding a life lesson
 2. What one thing do most need to get done today?
-	1. - 
+	1. - Healing
 3. What am I grateful for?
-	1. -
+		1. - I am grateful for my wife 
+	2. - I am grateful for being alive 
+	3. - I am grateful for being stable
+	4. - I am grateful for being alive 
+	5. - I am grateful for being born
+	6. - I am grateful for the weather being nice 
+	7. - I am grateful to live in Europe 
+	8. - I am grateful of my parents 
+	9. - I am grateful for people who challenge me 
+	10. - I am grateful for being able to change my self 
+	11. - I am grateful for understanding 
+	12. - I am grateful that I am not stressed 
+	13. - I am grateful that I have all of my limbs 
+	14. - I am grateful that I am not crippled
+	15. - I am grateful for being mentally stable 
+	16. - I am grateful for living in peace 
 4. What is worrying me?
-	1. -
+	1. - That I am too week
+	2. - That I am too dumb 
 5. How can I decatastrophize today's problems?
 	1. -
 6. What is within my control and what is not
