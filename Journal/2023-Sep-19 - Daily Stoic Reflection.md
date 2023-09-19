@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-16, 10:14
+modified: 2023-09-19, 10:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-19T17:58
+updated: 2023-09-19T13:01
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-16, 10:14
+Date: 2023-09-19, 10:55
 
 ## Morning and Evening
 
@@ -33,12 +33,13 @@ Date: 2023-09-16, 10:14
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - My sister's birthday party 
-	2. - My wife hardships 
+	1. - Sickness 
+	2. - Learning from emotions 
+	3. - Understanding a life lesson
 2. What one thing do most need to get done today?
-	1. - The university list finish after review 
+	1. - Healing
 3. What am I grateful for?
-	1. - I am grateful for my wife 
+		1. - I am grateful for my wife 
 	2. - I am grateful for being alive 
 	3. - I am grateful for being stable
 	4. - I am grateful for being alive 
@@ -55,22 +56,12 @@ Date: 2023-09-16, 10:14
 	15. - I am grateful for being mentally stable 
 	16. - I am grateful for living in peace 
 4. What is worrying me?
-	1. - Nothing
+	1. - That I am too week
+	2. - That I am too dumb 
 5. How can I decatastrophize today's problems?
-	1. - Today I have no problems 
+	1. -
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
-	2. - What I pay attention to **is under my control**.
-	3. - Other people **are not under my control**.
-	4. - My life **is not under my control**.
-	5. - The time of my death **is not under my control**.
-	6. - My purpose **is not under my control**.
-	7. - My primal negative feelings **are not under my control**
-	8. - How others act **is not under my control**
-	9. - How I see others **is under my control**
-	10. - How I react to negativity **is under my control**
-	11. - How others react to me **is not under my control**
-	12. - What people think **is not under my control**
+	1. -
 
 ### Evening
 

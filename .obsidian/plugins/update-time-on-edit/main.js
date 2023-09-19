@@ -5256,11 +5256,14 @@ var UpdateTimeOnSavePlugin = class extends import_obsidian5.Plugin {
     }
     return (_a = this.settings.ignoreGlobalFolder) != null ? _a : [];
   }
-  shouldFileBeIgnored(file) {
+  async shouldFileBeIgnored(file) {
     if (!file.path) {
       return true;
     }
     if (!file.path.endsWith(".md")) {
+      return true;
+    }
+    if ((await this.app.vault.read(file)).trim().length === 0) {
       return true;
     }
     const isExcalidrawFile = this.isExcalidrawFile(file);
@@ -5304,7 +5307,7 @@ var UpdateTimeOnSavePlugin = class extends import_obsidian5.Plugin {
     if (!isTFile(file)) {
       return { status: "ignored" };
     }
-    if (this.shouldFileBeIgnored(file)) {
+    if (await this.shouldFileBeIgnored(file)) {
       return { status: "ignored" };
     }
     try {

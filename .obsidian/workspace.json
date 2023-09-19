@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "file": "Books/The Essentialist/Summary - The Essentialist.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
+                "file": "Books/The Essentialist/Summary - The Essentialist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
+                "file": "Books/The Essentialist/Summary - The Essentialist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-16 - Daily Stoic Reflection.md"
+                "file": "Books/The Essentialist/Summary - The Essentialist.md"
               }
             }
           },
@@ -177,9 +177,27 @@
   },
   "active": "ae951bd3b1159e99",
   "lastOpenFiles": [
-    "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
+    "Books/The Essentialist/Summary - The Essentialist.md",
+    "Books/The Essentialist/Literature note - The Essentialist.md",
+    "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
+    "Books/The Essentialist",
+    "SLIP-BOX/Untitled.md",
+    "Templates/BookSummaryTemplate.md",
+    "SLIP-BOX/The Cult of done.md",
+    "SLIP-BOX/Taking Book Notes.md",
+    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
+    "Books/The Compound Effect/Summary - The Compound Effect.md",
+    "Books/The Compound Effect/Literature note The Compound Effect.md",
+    "Books/Open To Think/Summary - Open To Think.md",
+    "Books/Open To Think/Literature note - Open To Think.md",
+    "Books/The Compound Effect",
+    "Books/Open To Think",
+    "Books",
+    "Assets/Excalidraw/The Cult of done 2023-09-19 13.09.01.excalidraw.md",
+    "Assets/Cult of done manifesto.webp",
+    "Assets/Cult of done illustration.webp",
+    "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
     "SLIP-BOX/4 Virtues.md",
     "Journal/2023-Sep-13 - Daily Stoic Reflection.md",
@@ -191,19 +209,7 @@
     "SLIP-BOX/Justice.md",
     "SLIP-BOX/Wisdom.md",
     "README.md",
-    "SLIP-BOX/Stoicism.md",
-    "Journal/2023-Sep-10 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Linux One Liners.md",
-    "Journal/2023-Sep-09 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-08 - Daily Stoic Reflection.md",
-    "Assets/Excalidraw/Drawing 2023-09-09 11.20.07.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
-    "Journal/2023-Sep-06 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-07 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-05 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-04 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-03 - Daily Stoic Reflection.md",
-    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
@@ -214,18 +220,12 @@
     "Assets/Images",
     "Assets/New folder",
     "Assets/New shortcut.lnk",
-    "Journal",
-    "Reflections/Evening",
-    "Reflections/Morning",
-    "Reflections",
     "Visuals/IMG_0843.png",
     "Visuals/IMG_0319.PNG",
     "Visuals/IMG_0099.PNG",
     "Canvases/Zettelkasten Workflow with Obsidian.canvas",
     "Canvases/How to Use Tags.canvas",
     "Canvases/How to Use Links with Templates.canvas",
-    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0843.png",
-    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0319.PNG",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/Zettelkasten Workflow with Obsidian.canvas",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Tags.canvas",
     "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Links with Templates.canvas",
