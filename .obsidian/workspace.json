@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Taking Book Notes.md",
+                "file": "Templates/BookSummaryTemplate.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Taking Book Notes.md",
+                "file": "Templates/BookSummaryTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Taking Book Notes.md",
+                "file": "Templates/BookSummaryTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Taking Book Notes.md"
+                "file": "Templates/BookSummaryTemplate.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "9a8d130d2d1a0f39",
   "lastOpenFiles": [
-    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
+    "Templates/NoteTemplate.md",
     "SLIP-BOX/Taking Book Notes.md",
+    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
     "Templates/BookSummaryTemplate.md",
     "Books/The Compound Effect/Summary.md",
     "Books/The Compound Effect",
@@ -219,7 +220,6 @@
     "Assets/Excalidraw/Drawing 2023-09-09 11.20.07.excalidraw.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Journal/2023-Sep-06 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-07 - Daily Stoic Reflection.md",
     "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
