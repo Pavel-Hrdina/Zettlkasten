@@ -7,7 +7,7 @@ modified: 2023-09-19, 10:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-19T13:01
+updated: 2023-09-19T20:04
 ---
 
 
@@ -59,9 +59,22 @@ Date: 2023-09-19, 10:55
 	1. - That I am too week
 	2. - That I am too dumb 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - I will heal eventually 
+	2. - I am not week at all. My mind is as strong as stone 
+	3. - Dumb does not exist. You either work harder and smarter, or you let you self degenerate and that become dumb 
 6. What is within my control and what is not
-	1. -
+	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	2. - What I pay attention to **is under my control**.
+	3. - Other people **are not under my control**.
+	4. - My life **is not under my control**.
+	5. - The time of my death **is not under my control**.
+	6. - My purpose **is not under my control**.
+	7. - My primal negative feelings **are not under my control**
+	8. - How others act **is not under my control**
+	9. - How I see others **is under my control**
+	10. - How I react to negativity **is under my control**
+	11. - How others react to me **is not under my control**
+	12. - What people think **is not under my control**
 
 ### Evening
 
@@ -77,7 +90,8 @@ Date: 2023-09-19, 10:55
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I did heal today                | -  To be healthy            |
+| - I maintained control over my temper | To be |
 
 ### The Gravestone Method
 
