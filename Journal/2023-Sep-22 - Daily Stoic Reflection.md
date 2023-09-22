@@ -7,7 +7,7 @@ modified: 2023-09-22, 06:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-22T07:09
+updated: 2023-09-22T07:14
 ---
 
 
@@ -101,7 +101,9 @@ Date: 2023-09-22, 06:52
 ### The Gravestone Method
 
 > [!quote]
-> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
+> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will you pass on.
+
+When I die, I want my tombstone to say: "Give me liberty or death.". The people should say that I was kind and that I helped them in life to overcome their challenges, and that I was the one who helped them at their lowest. I want to be remembered. When I die, I want my parents to already be dead, so they won't suffer my death. If I'd die right now, I would be remembered for my happiness, my feeling and my potential. 
 
 ## A VIEW FROM ABOVE
 
