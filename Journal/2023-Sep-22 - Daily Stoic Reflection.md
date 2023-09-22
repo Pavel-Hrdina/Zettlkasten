@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-16, 10:14
+modified: 2023-09-22, 06:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-20T12:12
+updated: 2023-09-22T07:09
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-16, 10:14
+Date: 2023-09-22, 06:52
 
 ## Morning and Evening
 
@@ -33,31 +33,41 @@ Date: 2023-09-16, 10:14
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - My sister's birthday party 
-	2. - My wife hardships 
+	1. - A test 
+	2. - A lesson 
 2. What one thing do most need to get done today?
-	1. - The university list finish after review 
+	1. - University list
+	2. - Slow down 
 3. What am I grateful for?
-	1. - I am grateful for my wife 
-	2. - I am grateful for being alive 
-	3. - I am grateful for being stable
-	4. - I am grateful for being alive 
-	5. - I am grateful for being born
-	6. - I am grateful for the weather being nice 
-	7. - I am grateful to live in Europe 
-	8. - I am grateful of my parents 
-	9. - I am grateful for people who challenge me 
-	10. - I am grateful for being able to change my self 
-	11. - I am grateful for understanding 
-	12. - I am grateful that I am not stressed 
-	13. - I am grateful that I have all of my limbs 
-	14. - I am grateful that I am not crippled
-	15. - I am grateful for being mentally stable 
-	16. - I am grateful for living in peace 
+	1. - I am grateful for being alive 
+	2. - I am grateful for my Parents 
+	3. - I am grateful for being my self
+	4. - I am grateful for being free 
+	5. - I am grateful for living in a free country 
+	6. - I am grateful for understanding 
+	7. - I am grateful for living in democracy 
+	8. - I am grateful for living in Europe 
+	9. - I am grateful for my wife 
+	10. - I am grateful for having aces to any book I want to read 
+	11. - I am grateful for slowing down 
+	12. - I am grateful for my challenges 
+	13. - I am grateful for being blessed 
+	14. - I am grateful for speaking English 
+	15. - I am grateful for kind people 
+	16. - I am grateful for all being that are happy 
+	17. - I am grateful for everyone who has been successful 
+	18. - I am grateful that I can see the truth 
+	19. - I am grateful for trusting my gut 
+	20. - I am grateful for finding my purpose 
+	21. - I am grateful for having time to make a change 
+	22. - I am grateful for video an photo 
 4. What is worrying me?
-	1. - Nothing
+	1. - That I am not smart enough 
+	2. - That I am alone 
+	3. - That I have been cursed with being too emotional 
+	4. - The future is worrying me 
 5. How can I decatastrophize today's problems?
-	1. - Today I have no problems 
+	1. - Today is just another day like any other, do not worry about what is to come or who you have been born as. Even the darkest hour is an opportunity keep going slow but steady and at all times, don't burn your self out and work smarter and harder, than you will achieve all that you want. 
 6. What is within my control and what is not
 	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
 	2. - What I pay attention to **is under my control**.
