@@ -7,7 +7,7 @@ modified: 2023-09-23, 11:20
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-23T14:46
+updated: 2023-09-23T17:51
 ---
 
 
@@ -58,13 +58,24 @@ Date: 2023-09-23, 11:20
 	19. - I am grateful for trusting my gut 
 	20. - I am grateful for finding my purpose 
 	21. - I am grateful for having time to make a change 
-	22. - I am grateful for video an photo 
+	22. - I am grateful for video a photo 
 4. What is worrying me?
-	1. - 
+	1. - That I cannot build discipline
 5. How can I decatastrophize today's problems?
 	1. -
 6. What is within my control and what is not
-	1. -
+	1. -   My own [Judgment](app://obsidian.md/SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - What I pay attention to **is under my control**.
+	2. - Other people **are not under my control**.
+	3. - My life **is not under my control**.
+	4. - The time of my death **is not under my control**.
+	5. - My purpose **is not under my control**.
+	6. - My primal negative feelings **are not under my control**
+	7. - How others act **is not under my control**
+	8. - How I see others **is under my control**
+	9. - How I react to negativity **is under my control**
+	10. - How others react to me **is not under my control**
+	11. - What people think **is not under my control**
 
 ### Evening
 
