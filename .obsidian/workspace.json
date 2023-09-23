@@ -155,14 +155,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "0eaacdaf2b3572e6",
   "lastOpenFiles": [
-    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
+    "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
     "Books/The Essentialist/Summary - The Essentialist.md",
     "Books/The Essentialist/Literature note - The Essentialist.md",
     "Books/The Essentialist",
@@ -191,7 +195,6 @@
     "Journal/2023-Sep-12 - Daily Stoic Reflection.md",
     "SLIP-BOX/Linux commands.md",
     "SLIP-BOX/Linux.md",
-    "SLIP-BOX/Courage.md",
     "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
     "Assets/Excalidraw/Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
