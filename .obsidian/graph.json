@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#books  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.666666666666667,
   "linkDistance": 30,
-  "scale": 0.03692016553781889,
+  "scale": 0.09090285715304718,
   "close": true
 }
