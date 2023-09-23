@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-23, 17:56
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-23T18:29
+updated: 2023-09-23T18:45
 ---
 
 # Minimalism
@@ -17,9 +17,10 @@ Date: 2023-09-23, 17:56
 
 ---
 
-Minimalism is a [Philosophy](Philosophy.md). Its core is, that most of the things we have, and we create are unnecessary complications that only create chaos, [Suffering](Suffering) and fear.
+Minimalism is a [Philosophy](Philosophy.md). Its core is, that most of the things we have, and we create are unnecessary complications that only create chaos, [Suffering](Suffering) and fears. Start practicing  minimalist by [Stopping to Buy things](Stopping%20to%20Buy%20things) 
 
 ![Minimalism 2023-09-23 18.01.25.excalidraw\200](../Assets/Excalidraw/Minimalism%202023-09-23%2018.01.25.excalidraw.md)
+
 
 ## Personal Attachment
 
