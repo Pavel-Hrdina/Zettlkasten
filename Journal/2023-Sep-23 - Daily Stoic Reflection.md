@@ -7,7 +7,7 @@ modified: 2023-09-23, 11:20
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-23T14:20
+updated: 2023-09-23T14:46
 ---
 
 
@@ -48,8 +48,19 @@ Date: 2023-09-23, 11:20
 	7. - I am grateful that I can think deep 
 	8. - I am grateful for slowing down 
 	9. - I am grateful for Devine guidance 
+	12. - I am grateful for my challenges 
+	13. - I am grateful for being blessed 
+	14. - I am grateful for speaking English 
+	15. - I am grateful for kind people 
+	16. - I am grateful for all being that are happy 
+	17. - I am grateful for everyone who has been successful 
+	18. - I am grateful that I can see the truth 
+	19. - I am grateful for trusting my gut 
+	20. - I am grateful for finding my purpose 
+	21. - I am grateful for having time to make a change 
+	22. - I am grateful for video an photo 
 4. What is worrying me?
-	1. -
+	1. - 
 5. How can I decatastrophize today's problems?
 	1. -
 6. What is within my control and what is not
