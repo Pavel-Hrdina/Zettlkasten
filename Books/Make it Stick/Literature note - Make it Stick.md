@@ -17,7 +17,7 @@ Date: 2023-09-19, 12:55
 
 ---
 
-Use you higlights
+Use you highlights
 
 ## Personal Attachment
 
