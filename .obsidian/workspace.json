@@ -19,8 +19,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "863a5586fd97d60c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
