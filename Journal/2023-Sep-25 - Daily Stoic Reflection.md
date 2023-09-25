@@ -7,7 +7,7 @@ modified: 2023-09-25, 10:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-25T10:20
+updated: 2023-09-25T12:56
 ---
 
 
@@ -58,7 +58,8 @@ Date: 2023-09-25, 10:12
 	18. - I am grateful for learning.
 	19. - I am grateful for lessons form life. 
 4. What is worrying me?
-	1. -
+	1. - The pain that I will feel 
+	2. - 
 5. How can I decatastrophize today's problems?
 	1. -
 6. What is within my control and what is not
