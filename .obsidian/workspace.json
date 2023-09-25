@@ -27,9 +27,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0bda8ab088286f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md"
+              }
             }
           },
           {
@@ -166,8 +183,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "0bda8ab088286f48",
   "lastOpenFiles": [
+    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
+    "Books/Make it Stick/Literature note - Make it Stick.md",
     "SLIP-BOX/Stopping to Buy things.md",
     "Journal/2023-Sep-24 - Daily Stoic Reflection.md",
     "Assets/Excalidraw/Stopping to Buy things 2023-09-23 18.56.19.excalidraw.md",
@@ -175,7 +194,6 @@
     "Pasted Image 20230923185938_073.png",
     "Pasted Image 20230923185735_075.png",
     "SLIP-BOX/Minimalism.md",
-    "Books/Make it Stick/Literature note - Make it Stick.md",
     "SLIP-BOX/Reframing the Problem.md",
     "Books/Make it Stick/Summary - Make it Stick.md",
     "Books/Open To Think/Summary - Open To Think.md",
@@ -204,7 +222,6 @@
     "Books/The Essentialist",
     "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
     "Assets/Cult of done manifesto.webp",
-    "SLIP-BOX/The Cult of done.md",
     "Assets/Cult of done illustration.webp",
     "Books/Open To Think",
     "Books/The Compound Effect",
