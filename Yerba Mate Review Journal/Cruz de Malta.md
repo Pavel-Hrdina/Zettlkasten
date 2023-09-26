@@ -8,7 +8,7 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T18:43
+updated: 2023-09-26T18:45
 ---
 
 # Cruz De Malta
@@ -24,8 +24,8 @@ Date: 2023-09-26, 15:50
 | **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
 |----------|----|-----------|-----|---|---|----|
 | **Rating**  ★★★☆☆|**Nose:**| Pleasant grass and hay like smell also some fruits.  ||
-| **Rating**  ★☆☆☆☆|**Cut:**| Big leaves contains a few stains ||
-| **Rating**  ☆☆☆☆☆|**Effect:**|  ||
+| **Rating**  ★★★★★|**Cut:**| Big leaves contains a few stains ||
+| **Rating**  ★★★★☆|**Effect:**| This mate won't spin your head and won't make you jump like a monkey, but it's enough for increased focus and slowed down mood.  Over all great effect.||
 
 ---
 -tx-
