@@ -8,7 +8,7 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T18:45
+updated: 2023-09-26T18:46
 ---
 
 # Cruz De Malta
@@ -29,7 +29,7 @@ Date: 2023-09-26, 15:50
 
 ---
 -tx-
-| **Date**   | **Time** | **Gourd Used** | **Temperature** |
+| **Date**  | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 |2023-09-26|15:50| Calabash gourd | 70°C |
 |**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost no earthiness no grass like tastes. A little bit of wet wood, some nuts like taste. Takes about 1.5 liters of water before the mate starts to lose its taste, that is relatively low compared to other brands |||
