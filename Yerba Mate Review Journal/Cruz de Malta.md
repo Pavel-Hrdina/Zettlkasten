@@ -8,7 +8,7 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T18:38
+updated: 2023-09-26T18:39
 ---
 
 # Cruz De Malta
@@ -23,7 +23,7 @@ Date: 2023-09-26, 15:50
 -tx-
 | **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
 |----------|----|-----------|-----|---|---|----|
-| **Rating**  ☆☆☆☆☆|**Nose:**| Pleasant grass and hay like smell also some   ||
+| **Rating**  ☆☆☆☆☆|**Nose:**| Pleasant grass and hay like smell also some fruits.  ||
 | **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a small number of stains ||
 | **Rating**  ☆☆☆☆☆|**Effect:**|  ||
 
