@@ -32,7 +32,7 @@ Date: 2023-09-26, 15:50
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 |2023-09-26|15:50| Calabash gourd | 70°C |
-|**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost not earthiness no grass like tastes. A little bit of wet wood, some nuts like taste. Takes about 1.5 liters of water before the mate starts to lose its taste, that is relatively low compared to other brands |||
+|**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost no earthiness no grass like tastes. A little bit of wet wood, some nuts like taste. Takes about 1.5 liters of water before the mate starts to lose its taste, that is relatively low compared to other brands |||
 
 ---
 -tx-
