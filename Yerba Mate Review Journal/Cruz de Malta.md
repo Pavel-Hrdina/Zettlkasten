@@ -8,7 +8,7 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T18:39
+updated: 2023-09-26T18:43
 ---
 
 # Cruz De Malta
@@ -23,37 +23,37 @@ Date: 2023-09-26, 15:50
 -tx-
 | **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
 |----------|----|-----------|-----|---|---|----|
-| **Rating**  ☆☆☆☆☆|**Nose:**| Pleasant grass and hay like smell also some fruits.  ||
-| **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a small number of stains ||
+| **Rating**  ★★★☆☆|**Nose:**| Pleasant grass and hay like smell also some fruits.  ||
+| **Rating**  ★☆☆☆☆|**Cut:**| Big leaves contains a few stains ||
 | **Rating**  ☆☆☆☆☆|**Effect:**|  ||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-|2023-09-26|15:50| | 70°C |
-|**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost not earthiness no grass like tastes. A little bit of wet wood, some nuts like taste |||
+|2023-09-26|15:50| Calabash gourd | 70°C |
+|**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost not earthiness no grass like tastes. A little bit of wet wood, some nuts like taste. Takes about 1.5 liters of water before the mate starts to lose its taste, that is relatively low compared to other brands |||
+
+---
+-tx-
+| **Date**  | **Time** | **Gourd Used** | **Temperature** |
+|------------|-------------|----------------------|-----------------------|
+| | | | 70°C |
+|**Note:** This is the 2nd tasting ||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 | | | | 70°C |
-|**Note:** This is the 2st tasting ||||
+|**Note:** This is the 3rd tasting||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 | | | | 70°C |
-|**Note:** This is the 3st tasting||||
-
----
--tx-
-| **Date**   | **Time** | **Gourd Used** | **Temperature** |
-|------------|-------------|----------------------|-----------------------|
-| | | | 70°C |
-|**Note:** This is the 4st tasting||||
+|**Note:** This is the 4th tasting||||
 
 ## Yerba Bought from
 
