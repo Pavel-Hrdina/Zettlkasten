@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "4d0fb8e150c37ee1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aaae224a134efe13",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
         "id": "e75a2f5ed6f44e05",
         "type": "tabs",
         "children": [
@@ -25,11 +14,10 @@
               "type": "markdown",
               "state": {
                 "file": "Yerba Mate Review Journal/Cruz de Malta.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
->>>>>>> origin/master
             }
           }
         ]
@@ -98,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md"
+              }
             }
           },
           {
@@ -169,11 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "aaae224a134efe13",
-=======
   "active": "610b4024eb174d13",
->>>>>>> origin/master
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Yerba Mate Review Journal/Cruz de Malta.md",
