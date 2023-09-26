@@ -1,0 +1,61 @@
+---
+tags:
+  - type/rewiev
+aliases: 
+lead: Lead paragraph goes here
+created: 2023-09-06T15:41
+modified: 2023-09-26, 15:50
+template-type: Yerba mate rewiev
+mate-name: title
+template-version: "1.7"
+updated: 2023-09-26T15:54
+---
+
+# Cruz de Malta
+
+Tags: #yerbaMate #CruzDeMalta
+Date: 2023-09-26, 15:50
+
+--- 
+
+[Tasting wheal](../Assets/Images/CigarAdvisorTastingWheel.jpg)
+
+-tx-
+| **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
+|----------|----|-----------|-----|---|---|----|
+|Cruz de Malta || None |  Country is here |      
+| **Rating**  ☆☆☆☆☆|**Nose:**|  ||
+| **Rating**  ☆☆☆☆☆|**Cut:**|  ||
+| **Rating**  ☆☆☆☆☆|**Effect:**|  ||
+
+---
+-tx-
+| **Date**   | **Time** | **Gourd Used** | **Temperature** |
+|------------|-------------|----------------------|-----------------------|
+|2023-09-26|15:50| | 70°C |
+|**Nose:** This is the 1st tasting||||
+
+---
+-tx-
+| **Date**   | **Time** | **Gourd Used** | **Temperature** |
+|------------|-------------|----------------------|-----------------------|
+| | | | 70°C |
+|**Nose:** This is the 2st tasting ||||
+
+---
+-tx-
+| **Date**   | **Time** | **Gourd Used** | **Temperature** |
+|------------|-------------|----------------------|-----------------------|
+| | | | 70°C |
+|**Nose:** This is the 3st tasting||||
+
+---
+-tx-
+| **Date**   | **Time** | **Gourd Used** | **Temperature** |
+|------------|-------------|----------------------|-----------------------|
+| | | | 70°C |
+|**Nose:** This is the 4st tasting||||
+
+## Yerba Bought from
+
+link to mate origin 
