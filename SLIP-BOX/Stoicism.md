@@ -6,7 +6,7 @@ created: 2023-08-27T13:43
 modified: 2023-08-26, 16:22
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-26T15:28
+updated: 2023-09-26T16:39
 ---
 
 # Stoicism

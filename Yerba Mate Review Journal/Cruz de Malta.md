@@ -4,17 +4,17 @@ tags:
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "{{date}}, {{time}}"
+modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T16:39
+updated: 2023-09-26T16:33
 ---
 
-# {{Title}}
+# Cruz De Malta
 
-Tags: #yerbaMate
-Date: {{date}}, {{time}}
+Tags: #yerbaMate #CruzDeMalta
+Date: 2023-09-26, 15:50
 
 --- 
 
@@ -23,17 +23,17 @@ Date: {{date}}, {{time}}
 -tx-
 | **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
 |----------|----|-----------|-----|---|---|----|
-|Brand is here ||  Flavor is here |  Country is here |      
+|Cruz de Malta || None |  Argentina |      
 | **Rating**  ☆☆☆☆☆|**Nose:**|  ||
-| **Rating**  ☆☆☆☆☆|**Cut:**|  ||
+| **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a small number of stains ||
 | **Rating**  ☆☆☆☆☆|**Effect:**|  ||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-|{{date}}|{{time}}| | 70°C |
-|**Note:** This is the 1st tasting||||
+|2023-09-26|15:50| | 70°C |
+|**Note:** | I feel the taste of  |||
 
 ---
 -tx-
