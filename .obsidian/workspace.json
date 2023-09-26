@@ -19,6 +19,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "128afc4ffc9942fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/CigarAdvisorTastingWheel.jpg"
+              }
+            }
           }
         ]
       }
@@ -201,7 +211,6 @@
     "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
     "Books/The Essentialist",
     "Assets/Cult of done manifesto.webp",
-    "Assets/Cult of done illustration.webp",
     "Books/Open To Think",
     "Books/The Compound Effect",
     "Books",

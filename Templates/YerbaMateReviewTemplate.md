@@ -8,7 +8,7 @@ modified: "{{date}}, {{time}}"
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T15:19
+updated: 2023-09-26T15:20
 ---
 
 # {{Title}}
@@ -18,7 +18,7 @@ Date: {{date}}, {{time}}
 
 --- 
 
-T
+[Tasting wheal](../Assets/Images/CigarAdvisorTastingWheel.jpg)
 
 -tx-
 | **Brand**  || **Blend/Flavoring** | **Country Of Origin**|   
@@ -56,6 +56,6 @@ T
 | | | | 70° |
 |**Nose:** This is the 4st tasting||||
 
-## Yerba bought from
+## Yerba Bought from
 
 link to mate origin 
