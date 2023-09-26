@@ -8,7 +8,7 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T16:33
+updated: 2023-09-26T17:03
 ---
 
 # Cruz De Malta
@@ -25,7 +25,7 @@ Date: 2023-09-26, 15:50
 |----------|----|-----------|-----|---|---|----|
 |Cruz de Malta || None |  Argentina |      
 | **Rating**  ☆☆☆☆☆|**Nose:**|  ||
-| **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a small number of stains ||
+| **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a few stains ||
 | **Rating**  ☆☆☆☆☆|**Effect:**|  ||
 
 ---
@@ -33,7 +33,7 @@ Date: 2023-09-26, 15:50
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 |2023-09-26|15:50| | 70°C |
-|**Note:** | I feel the taste of  |||
+|**Note:** | I feel the taste of strong lime after-taste, hay at the front blueberries, lemon, mint, orange. Very pleasant, not overwhelming, almost not earthiness no grass like tastes. A little bit of wet wood, some nuts like taste |||
 
 ---
 -tx-
