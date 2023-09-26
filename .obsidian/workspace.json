@@ -19,16 +19,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "128afc4ffc9942fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/CigarAdvisorTastingWheel.jpg"
-              }
-            }
           }
         ]
       }
@@ -173,9 +163,9 @@
   },
   "active": "f65e74053a3e6eaa",
   "lastOpenFiles": [
-    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
     "Templates/YerbaMateReviewTemplate.md",
+    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
     "Pasted Image 20230923180336_073.png",
     "Pasted Image 20230923180557_120.png",
     "Pasted Image 20230923181633_078.png",
@@ -209,7 +199,6 @@
     "SLIP-BOX/Stoicism.md",
     "SLIP-BOX/Wisdom.md",
     "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
     "Books/The Essentialist",
     "Assets/Cult of done manifesto.webp",
     "Books/Open To Think",
