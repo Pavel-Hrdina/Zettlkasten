@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "337ec25cfad0d07f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "94ccb5ccea2b5acf",
+            "id": "610b4024eb174d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-25 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Sep-26 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -170,8 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94ccb5ccea2b5acf",
+  "active": "610b4024eb174d13",
   "lastOpenFiles": [
+    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
     "SLIP-BOX/Stopping to Buy things.md",
     "SLIP-BOX/Philosophy.md",
@@ -184,7 +177,6 @@
     "Pasted Image 20230923181633_078.png",
     "Pasted Image 20230923180557_120.png",
     "Pasted Image 20230923180336_073.png",
-    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-24 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
@@ -210,7 +202,6 @@
     "Books/The Compound Effect/Literature note The Compound Effect.md",
     "Books/The Compound Effect/Summary - The Compound Effect.md",
     "Books/Open To Think",
-    "SLIP-BOX/Taking Book Notes.md",
     "Books/The Compound Effect",
     "Books",
     "Excalidraw/Scripts/Downloaded",
