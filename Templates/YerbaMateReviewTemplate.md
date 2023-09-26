@@ -8,7 +8,7 @@ modified: "{{date}}, {{time}}"
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T15:20
+updated: 2023-09-26T15:49
 ---
 
 # {{Title}}
@@ -32,28 +32,28 @@ Date: {{date}}, {{time}}
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-|{{date}}|{{time}}| | 70° |
+|{{date}}|{{time}}| | 70°C |
 |**Nose:** This is the 1st tasting||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-| | | | 70° |
+| | | | 70°C |
 |**Nose:** This is the 2st tasting ||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-| | | 70° |
+| | | 70°C |
 |**Nose:** This is the 3st tasting||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
-| | | | 70° |
+| | | | 70°C |
 |**Nose:** This is the 4st tasting||||
 
 ## Yerba Bought from
