@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md"
+                "file": "Yerba Mate Review Journal/Cruz de Malta.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "610b4024eb174d13",
   "lastOpenFiles": [
-    "Yerba Mate Review Journal/Cruz de Malta.md",
     "Templates/YerbaMateReviewTemplate.md",
+    "Yerba Mate Review Journal/Cruz de Malta.md",
     "Yerba Mate Review Journal",
     "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
