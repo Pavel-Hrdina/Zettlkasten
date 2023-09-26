@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72c94cbdcf3c1bb3",
+        "id": "e75a2f5ed6f44e05",
         "type": "tabs",
         "children": [
           {
-            "id": "f65e74053a3e6eaa",
+            "id": "610b4024eb174d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
+                "file": "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -21,16 +21,15 @@
             }
           },
           {
-            "id": "128afc4ffc9942fc",
+            "id": "8f77f94c81a90e1b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/CigarAdvisorTastingWheel.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/YerbaMateReviewTemplate.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,52 +161,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f65e74053a3e6eaa",
+  "active": "8f77f94c81a90e1b",
   "lastOpenFiles": [
-    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
-    "Assets/Images/CigarAdvisorTastingWheel.jpg",
-    "Templates/YerbaMateReviewTemplate.md",
-    "Pasted Image 20230923180336_073.png",
-    "Pasted Image 20230923180557_120.png",
-    "Pasted Image 20230923181633_078.png",
-    "Pasted Image 20230923181845_427.png",
-    "Pasted Image 20230923181918_074.png",
-    "Pasted Image 20230923185735_075.png",
-    "Pasted Image 20230923185938_073.png",
-    "Pasted Image 20230923190731_076.png",
-    "Assets/Excalidraw/YerbaMateReviewTemplate 2023-09-26 14.53.21.excalidraw.md",
-    "Templates/NoteTemplate.md",
-    "Templates/ReflectionsTemplate.md",
-    "Templates/BookSummaryTemplate.md",
-    "Books/Make it Stick/Literature note - Make it Stick.md",
-    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
-    "SLIP-BOX/Untitled.md",
-    "Yerba Mate Review Journal",
-    "SLIP-BOX/Stopping to Buy things.md",
-    "Journal/2023-Sep-24 - Daily Stoic Reflection.md",
-    "Assets/Excalidraw/Stopping to Buy things 2023-09-23 18.56.19.excalidraw.md",
-    "SLIP-BOX/Minimalism.md",
-    "SLIP-BOX/Reframing the Problem.md",
-    "Books/Make it Stick/Summary - Make it Stick.md",
-    "Books/Open To Think/Summary - Open To Think.md",
-    "Books/Open To Think/Literature note - Open To Think.md",
-    "SLIP-BOX/Untitled 1.md",
-    "SLIP-BOX/Untitled 2.md",
-    "Books/Make it Stick",
-    "Assets/Excalidraw/Minimalism 2023-09-23 18.01.25.excalidraw.md",
-    "SLIP-BOX/Philosophy.md",
-    "SLIP-BOX/Stoicism.md",
-    "SLIP-BOX/Wisdom.md",
-    "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
+    "YerbaMayte",
+    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
+    "Templates/YerbaMateReviewTemplate.md",
+    "Assets/Images/CigarAdvisorTastingWheel.jpg",
+    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Stopping to Buy things.md",
+    "SLIP-BOX/Philosophy.md",
+    "SLIP-BOX/Minimalism.md",
+    "Pasted Image 20230923190731_076.png",
+    "Pasted Image 20230923185938_073.png",
+    "Pasted Image 20230923185735_075.png",
+    "Pasted Image 20230923181918_074.png",
+    "Pasted Image 20230923181845_427.png",
+    "Pasted Image 20230923181633_078.png",
+    "Pasted Image 20230923180557_120.png",
+    "Pasted Image 20230923180336_073.png",
+    "Journal/2023-Sep-24 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
+    "Books/Make it Stick/Summary - Make it Stick.md",
+    "Books/Make it Stick/Literature note - Make it Stick.md",
+    "Books/Make it Stick",
+    "Assets/Excalidraw/Stopping to Buy things 2023-09-23 18.56.19.excalidraw.md",
+    "Assets/Excalidraw/Minimalism 2023-09-23 18.01.25.excalidraw.md",
+    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
+    "Books/The Essentialist/Summary - The Essentialist.md",
+    "Books/The Essentialist/Literature note - The Essentialist.md",
     "Books/The Essentialist",
+    "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
     "Assets/Cult of done manifesto.webp",
+    "SLIP-BOX/The Cult of done.md",
+    "Assets/Excalidraw/The Cult of done 2023-09-19 13.22.17.excalidraw.md",
+    "Assets/Excalidraw/Drawing 2023-09-19 13.21.57.excalidraw.md",
+    "Assets/Excalidraw/The Cult of done 2023-09-19 13.09.01.excalidraw.md",
+    "Books/Open To Think/Literature note - Open To Think.md",
+    "Books/Open To Think/Summary - Open To Think.md",
     "Books/Open To Think",
     "Books/The Compound Effect",
     "Books",
