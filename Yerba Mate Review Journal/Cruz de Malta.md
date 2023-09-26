@@ -8,10 +8,10 @@ modified: 2023-09-26, 15:50
 template-type: Yerba mate rewiev
 mate-name: title
 template-version: "1.7"
-updated: 2023-09-26T15:54
+updated: 2023-09-26T16:28
 ---
 
-# Cruz de Malta
+# Cruz De Malta
 
 Tags: #yerbaMate #CruzDeMalta
 Date: 2023-09-26, 15:50
@@ -25,7 +25,7 @@ Date: 2023-09-26, 15:50
 |----------|----|-----------|-----|---|---|----|
 |Cruz de Malta || None |  Country is here |      
 | **Rating**  ☆☆☆☆☆|**Nose:**|  ||
-| **Rating**  ☆☆☆☆☆|**Cut:**|  ||
+| **Rating**  ☆☆☆☆☆|**Cut:**| Big leaves contains a small number of stains ||
 | **Rating**  ☆☆☆☆☆|**Effect:**|  ||
 
 ---
@@ -33,28 +33,28 @@ Date: 2023-09-26, 15:50
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 |2023-09-26|15:50| | 70°C |
-|**Nose:** This is the 1st tasting||||
+|**Note:** | |||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 | | | | 70°C |
-|**Nose:** This is the 2st tasting ||||
+|**Note:** This is the 2st tasting ||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 | | | | 70°C |
-|**Nose:** This is the 3st tasting||||
+|**Note:** This is the 3st tasting||||
 
 ---
 -tx-
 | **Date**   | **Time** | **Gourd Used** | **Temperature** |
 |------------|-------------|----------------------|-----------------------|
 | | | | 70°C |
-|**Nose:** This is the 4st tasting||||
+|**Note:** This is the 4st tasting||||
 
 ## Yerba Bought from
 
