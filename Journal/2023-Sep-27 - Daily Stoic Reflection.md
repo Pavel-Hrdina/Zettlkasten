@@ -7,7 +7,7 @@ modified: 2023-09-27, 07:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-27T07:37
+updated: 2023-09-27T07:47
 ---
 
 
@@ -66,11 +66,33 @@ Date: 2023-09-27, 07:18
 	29. - I am grateful for the internet. 
 	30. - I am grateful for my ancestors. 
 4. What is worrying me?
-	1. -
+	1. - That I will fail.
+	2. - That I will sabotage my self.
+	3. - That I will quit when the goal is in reach.
+	4. - That I cannot help people.
+	5. - That my purpose is impossible. 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - Failing is a part of success, don't let failure make you quit it is what molds you into the being you are now, don't let it put you down and don't let others put you down for it. 
+	2. - You know how to love your self, listen to your self, and you won't sabotage you because if you do, it's a message from your body that you are doing something wrong.
+	3. - You will build discipline over time. Discipline is not built overnight but over years of trying and failing, then you will never quit again unless it's an opportunity. 
+	4. - You will fulfill your purpose like everybody does. 
 6. What is within my control and what is not
-	1. -
+	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	2. - What I pay attention to **is under my control**.
+	3. - Other people **are not under my control**.
+	4. - My life **is not under my control**.
+	5. - The time of my death **is not under my control**.
+	6. - My purpose **is not under my control**.
+	7. - My primal negative feelings **are not under my control**
+	8. - How others act **is not under my control**
+	9. - How I see others **is under my control**
+	10. - How I react to negativity **is under my control**
+	11. - How others react to me **is not under my control**
+	12. - What people think **is not under my control**
+	13. - What I do **is under my control**
+	14. - How I react to my impulses **is under my control.**
+	15. - What I become **is not under my control**
+	16. - Who I am **is under my control**
 
 ### Evening
 
