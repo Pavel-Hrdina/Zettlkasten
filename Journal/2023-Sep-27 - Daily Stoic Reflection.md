@@ -7,11 +7,11 @@ modified: 2023-09-27, 07:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-27T07:47
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-09-27, 07:18
@@ -77,7 +77,7 @@ Date: 2023-09-27, 07:18
 	3. - You will build discipline over time. Discipline is not built overnight but over years of trying and failing, then you will never quit again unless it's an opportunity. 
 	4. - You will fulfill your purpose like everybody does. 
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - My own [Judgment](Control%20Over%20Judgment.md) **is under my control**
 	2. - What I pay attention to **is under my control**.
 	3. - Other people **are not under my control**.
 	4. - My life **is not under my control**.

@@ -7,11 +7,11 @@ modified: 2023-09-08, 06:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-08T07:32
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-09-08, 06:52
@@ -56,7 +56,7 @@ Date: 2023-09-08, 06:52
 	1. - I am still alive, that means I can overcome my weakness, no matter how many times will I have to try. It's easy to be a weakling, but it's also easy to be strong because so many people today are weak.
 	2. - I can, I just let the things that are important to me to be on the last place of importance. You can sometimes let your self do nice things for you as well.
 6. What is within my control and what is not
-	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - My [Judgment](Control%20Over%20Judgment.md) **is under my control**
 	2. - My life **is not under my control**
 	3. - How I think **is under my control**
 	4. - What books I read **is under my control** 

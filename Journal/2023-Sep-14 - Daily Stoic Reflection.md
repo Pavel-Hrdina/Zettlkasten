@@ -17,7 +17,7 @@ updated: 2023-09-14T17:54
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-09-14, 07:01
@@ -65,7 +65,7 @@ Date: 2023-09-14, 07:01
 	3. - I can only do my best and nothing more
 	4. - If i will remain disciplined, I will finish what was started. 
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - My own [Judgment](Control%20Over%20Judgment.md) **is under my control**
 	2. - What I pay attention to **is under my control**.
 	3. - Other people **are not under my control**.
 	4. - My life **is not under my control**.

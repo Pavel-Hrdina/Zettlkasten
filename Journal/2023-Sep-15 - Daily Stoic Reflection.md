@@ -7,11 +7,11 @@ modified: 2023-09-15, 06:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-26T18:35
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-09-15, 06:54
@@ -62,7 +62,7 @@ Date: 2023-09-15, 06:54
 	1. - The rabbit will always get tired, while the turtle continues, slow but steady.
 	2. - Slowness is not a mistake, its a virtue 
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - My own [Judgment](Control%20Over%20Judgment.md) **is under my control**
 	2. - What I pay attention to **is under my control**.
 	3. - Other people **are not under my control**.
 	4. - My life **is not under my control**.

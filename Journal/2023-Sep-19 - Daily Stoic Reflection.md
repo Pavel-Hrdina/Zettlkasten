@@ -7,11 +7,11 @@ modified: 2023-09-19, 10:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-26T18:35
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-09-19, 10:55
@@ -63,7 +63,7 @@ Date: 2023-09-19, 10:55
 	2. - I am not week at all. My mind is as strong as stone 
 	3. - Dumb does not exist. You either work harder and smarter, or you let you self degenerate and that become dumb 
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	1. - My own [Judgment](Control%20Over%20Judgment.md) **is under my control**
 	2. - What I pay attention to **is under my control**.
 	3. - Other people **are not under my control**.
 	4. - My life **is not under my control**.

@@ -7,11 +7,11 @@ modified: 2023-09-03, 11:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-04T20:54
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: 2023-09-03, 11:51
@@ -37,7 +37,7 @@ Date: 2023-09-03, 11:51
 	2. - Getting things done
 2. What one thing do most need to get done today?
 	1. - Call
-	2. - Learn more about [Reframing the Problem](../SLIP-BOX/Reframing%20the%20Problem.md)
+	2. - Learn more about [Reframing the Problem](Reframing%20the%20Problem.md)
 3. What am I grateful for?
 	1. - That I am at peace
 	2. - That I have a life to live
@@ -51,7 +51,7 @@ Date: 2023-09-03, 11:51
 	1. - If I stick with it I will get used to it after a few days
 	2. - This is an oportunity to get better at speeking 
 6. What is within my control and what is not
-		1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
+		1. - My [Control Over Judgment](Control%20Over%20Judgment.md) **is**
 	2. - The weather **is not**
 	3. - Time **is not**
 	4. - My purpose **is not**. 

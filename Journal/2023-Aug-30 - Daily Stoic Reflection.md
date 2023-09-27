@@ -7,10 +7,10 @@ modified: 2023-08-30, 10:26
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-03T12:04
+updated: 2023-09-27T18:24
 ---
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: 2023-08-30, 10:26

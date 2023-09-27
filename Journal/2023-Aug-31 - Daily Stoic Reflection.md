@@ -7,10 +7,10 @@ modified: 2023-08-31, 11:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-03T12:04
+updated: 2023-09-27T18:24
 ---
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: 2023-08-31, 11:50
@@ -57,9 +57,9 @@ Date: 2023-08-31, 11:50
 5. How can I decatastrophize today's problems?
 	1. - By warring that I am not good enough I am making it true because I can't act in such a state
 	2. - Doubting my self is normal, just let the thoughts come and go, and don't pay it much attention
-	3. - If you worry about losing your freedom than fight for it. Use your [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). 
+	3. - If you worry about losing your freedom than fight for it. Use your [Control Over Judgment](Control%20Over%20Judgment.md). 
 1. What is within my control and what is not
-	1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
+	1. - My [Control Over Judgment](Control%20Over%20Judgment.md) **is**
 	2. - The weather **is not**
 	3. - Time **is not**
 	4. - My purpose **is not**. 
@@ -93,7 +93,7 @@ I am but a small man in a sea of time that moves with, or without, me. I feel bu
 
 ## References
 
-[Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
+[Personal knowledge management](Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 

@@ -7,11 +7,11 @@ modified: 2023-09-02, 12:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-03T12:04
+updated: 2023-09-27T18:24
 ---
 
 
-# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
+# Daily [Stoic](Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily
 Date: 2023-09-02, 12:47
@@ -57,7 +57,7 @@ Date: 2023-09-02, 12:47
 	4. - If I don't fail, how do I succed?
 	5. - Others can be helped only if they want to be helped. 
 6. What is within my control and what is not
-	1. - My [Control Over Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is**
+	1. - My [Control Over Judgment](Control%20Over%20Judgment.md) **is**
 	2. - The weather **is not**
 	3. - Time **is not**
 	4. - My purpose **is not**. 
