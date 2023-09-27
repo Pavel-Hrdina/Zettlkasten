@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md",
+                "file": "SLIP-BOX/Growing Yerba mate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md",
+                "file": "SLIP-BOX/Growing Yerba mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md"
+                "file": "SLIP-BOX/Growing Yerba mate.md"
               }
             }
           },
@@ -175,46 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "25eccde9e656a3f8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe35828703725b96",
-        "type": "window",
-        "children": [
-          {
-            "id": "9126c8d771fb6c9a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1c77ad974dc9456",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -3835,
-        "y": 30,
-        "width": 1910,
-        "height": 1045,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f1c77ad974dc9456",
+  "active": "66eb484a42a2ba71",
   "lastOpenFiles": [
     "Pasted Image 20230927111140_984.png",
-    "SLIP-BOX/Growing Yerba mate.md",
     "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md",
+    "SLIP-BOX/Growing Yerba mate.md",
     "Templates/BookSummaryTemplate.md",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal/Cruz de Malta.md",
@@ -250,7 +215,6 @@
     "Books/The Essentialist/Literature note - The Essentialist.md",
     "Books/The Essentialist",
     "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
-    "Assets/Cult of done manifesto.webp",
     "SLIP-BOX/The Cult of done.md",
     "Books/Open To Think",
     "Books/The Compound Effect",
