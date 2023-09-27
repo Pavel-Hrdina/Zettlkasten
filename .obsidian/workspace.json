@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/BookSummaryTemplate.md",
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/BookSummaryTemplate.md",
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/BookSummaryTemplate.md",
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/BookSummaryTemplate.md"
+                "file": "Books/Zen to Done/Literature note - Zen to done.md"
               }
             }
           },
@@ -161,10 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "696ed150826027d2",
   "lastOpenFiles": [
-    "Pasted Image 20230927111140_984.png",
     "Templates/BookSummaryTemplate.md",
+    "Books/Zen to Done/Literature note - Zen to done.md",
+    "Pasted Image 20230927111140_984.png",
     "Books/Zen to Done",
     "SLIP-BOX/Growing Yerba mate.md",
     "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md",
