@@ -6,7 +6,7 @@ created: 2023-08-24T12:17
 modified: "{{date}}, {{time}}"
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-27T10:39
+updated: 2023-09-27T11:07
 ---
 
 # {{Title}}
@@ -15,9 +15,9 @@ Tags:
 Book: 
 Date: {{date}}, {{time}}
 
-## What do I expect?
+## What Do I Expect?
 
-## Chapter questions
+## Chapter Questions
 
 ## Notes
 
