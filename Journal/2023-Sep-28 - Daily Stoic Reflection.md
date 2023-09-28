@@ -2,19 +2,19 @@
 tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
-created: 2023-09-09T10:43
-modified: 2023-09-09, 10:43
+created: 2023-09-06T15:41
+modified: 2023-09-28, 12:59
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-28T12:59
+updated: 2023-09-28T13:00
 ---
 
 
-# Daily [Stoic](Stoicism.md) Reflections
+# Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-09, 10:43
+Date: 2023-09-28, 12:59
 
 ## Morning and Evening
 
@@ -33,9 +33,10 @@ Date: 2023-09-09, 10:43
 > and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - 
+	1. - Keeping my discipline 
+	2. - Hot weather 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Make a plan 
 3. What am I grateful for?
 	1. -
 4. What is worrying me?
