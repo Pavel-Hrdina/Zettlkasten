@@ -7,7 +7,7 @@ modified: 2023-09-28, 12:59
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-28T13:00
+updated: 2023-09-28T20:26
 ---
 
 
@@ -60,7 +60,10 @@ Date: 2023-09-28, 12:59
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I did all my tasks                | - To be at peace              |
+| - I let things flow | - To find my peace |
+| - I didn't consume negativity | - To be happy |
+| - I was with my grandparents | - To gain wisdom |
 
 ### The Gravestone Method
 
