@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md"
+                "file": "Templates/ReflectionsTemplate.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "a6ea395e7bed29cc",
   "lastOpenFiles": [
+    "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-28 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal/Cruz de Malta.md",
     "SLIP-BOX/Growing Yerba mate.md",
     "Books/Zen to Done/Literature note - Zen to done.md",

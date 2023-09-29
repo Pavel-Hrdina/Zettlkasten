@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-26T18:35
+updated: 2023-09-29T10:23
 ---
 
 
@@ -61,11 +61,6 @@ Date: {{date}}, {{time}}
 | ------------------- | ---------------- |
 | -                 | -              |
 
-### The Gravestone Method
-
-> [!quote]
-> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
-
 ## A VIEW FROM ABOVE
 
 _This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
@@ -80,5 +75,6 @@ _This exercise is designed to reminded you about how small you really are, and h
 [Personal knowledge management](Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
+[An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
 
 

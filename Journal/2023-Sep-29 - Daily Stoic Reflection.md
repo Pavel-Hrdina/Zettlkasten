@@ -7,7 +7,7 @@ modified: 2023-09-29, 10:04
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-29T10:04
+updated: 2023-09-29T10:21
 ---
 
 
@@ -27,7 +27,8 @@ Date: 2023-09-29, 10:04
 > “How unlucky I am that this should happen to me. But not at all. Perhaps, say how lucky I am that I am not broken by what has happened, and I am not  afraid of what is about to happen. For the same blow might have stricken anyone, but not many would have absorbed it without capitulation and complaint.”
 
 1. What difficulties am I likely to encounter today?
-	1. - 
+	1. - I am likely to be fatigued 
+	2. - I am likely to be dealing with difficult peaple 
 2. What one thing do most need to get done today?
 	1. -
 3. What am I grateful for?
