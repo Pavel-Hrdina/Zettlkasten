@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-29T10:44
+updated: 2023-09-29T12:01
 ---
 
 
@@ -42,7 +42,7 @@ Date: {{date}}, {{time}}
 ### Evening
 
 > [!quote]
-> Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterwards, Blame yourself for what is badly done, and rejoice in the good.
+> Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterward, blame yourself for what is badly done, and rejoice in the good.
 
 1. What did I do well today?
 

@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Sep-29 - Daily Stoic Reflection.md"
+                "file": "Templates/ReflectionsTemplate.md"
               }
             }
           },
@@ -175,10 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33880ab80accbc9c",
+  "active": "a6ea395e7bed29cc",
   "lastOpenFiles": [
-    "Templates/ReflectionsTemplate.md",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
+    "Templates/ReflectionsTemplate.md",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-28 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal/Cruz de Malta.md",
