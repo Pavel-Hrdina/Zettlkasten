@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-29, 10:04
+modified: 2023-09-29, 10:45
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-29T10:21
+updated: 2023-09-29T11:40
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-29, 10:04
+Date: 2023-09-29, 10:45
 
 ## Morning and Evening
 
@@ -24,13 +24,15 @@ Date: 2023-09-29, 10:04
 ### Morning
 
 > [!quote] Marcus Aurelius
-> “How unlucky I am that this should happen to me. But not at all. Perhaps, say how lucky I am that I am not broken by what has happened, and I am not  afraid of what is about to happen. For the same blow might have stricken anyone, but not many would have absorbed it without capitulation and complaint.”
+> "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. What difficulties am I likely to encounter today?
 	1. - I am likely to be fatigued 
-	2. - I am likely to be dealing with difficult peaple 
+	2. - I am likely to be angry 
+	3. - I am likely to be lazy 
+	4. - I am likely to be distracted 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Make Anki cards 
 3. What am I grateful for?
 	1. -
 4. What is worrying me?
@@ -42,13 +44,8 @@ Date: 2023-09-29, 10:04
 
 ### Evening
 
-> [!quote]  Epicurus
-> “Meditate then, on all these things, and on those things which are related 
-> to them, both day and night, and both alone and with like-minded 
-> companions. For if you will do this, you will never be disturbed while 
-> asleep or awake by imagined fears, but you will live like a god among 
-> men. For a man who lives among immortal blessings is in no respect 
-> like a mortal being.”
+> [!quote]
+> Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterwards, Blame yourself for what is badly done, and rejoice in the good.
 
 1. What did I do well today?
 
@@ -56,24 +53,32 @@ Date: 2023-09-29, 10:04
 | ------------------- | ---------------- |
 | -                 | -              |
 
-### The Gravestone Method
+## Other Methods
+
+### Gravestone Method
 
 > [!quote]
-> What do you want to be written on your tombstone? What about what your friends will say about you at your funeral. We are dying every day. Take it further thinks about what will people remember you for, think about what would you left behind, think about what will will you pass on.
+> You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
 
-## A VIEW FROM ABOVE
+Today's Events 
 
-_This exercise is designed to reminded you about how small you really are, and how little importance most things have. In other words, to give you a sense of the bigger picture. It's quite simple, use your imagination to try and relate yourself to the whole world and beyond._
+-
 
-## MEDITATIONS ON THE IDEAL MAN
+How I see them in the near future? 
 
-- Create a list of role models 
-- Analyze what makes them ideal 
+-
+
+How they'd be viewed, years after I've passed?
+
+### 4 Virtues Method
+
+
 
 ## References
 
 [Personal knowledge management](Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
+[An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
 
 
