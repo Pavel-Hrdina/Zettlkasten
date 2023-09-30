@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-27, 18:26
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-28T10:20
+updated: 2023-09-30T17:19
 ---
 
 # Literature Note - Zen to Done
@@ -59,6 +59,26 @@ A system for getting things done, that is simple modifiable and extendable based
 1. **What is the main goal of ZTD?**
 2. **How easy is it to implement?**
 3. **How hard is it to implement?**
+
+### Chapter 3  Overview - What is Zen To Done?
+
+### Chapter 4  
+
+### Chapter 5  
+
+### Chapter 6
+
+### Chapter 7
+
+### Chapter 8
+
+### Chapter 9
+
+### Chapter 10
+
+### Chapter 11
+
+### Chapter 12
 
 ## Notes
 
