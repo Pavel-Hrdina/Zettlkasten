@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-27, 18:26
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-30T17:37
+updated: 2023-09-30T17:48
 ---
 
 # Literature Note - Zen to Done
@@ -57,10 +57,16 @@ A system for getting things done, that is simple modifiable and extendable based
 > _"The things that matter most should never be at the mercy of the things that matter least."_
 
 1. **What is the main goal of ZTD?**
-2. **How easy is it to implement?**
-3. **How hard is it to implement?**
+It's to teach you how to simplifie, set goals routines and create habits that will help you in the long run and let you focus on what matters without stress. 
+3. **How easy is it to implement?**
+It will take some time but you will be able to implement this system at the same time you are done with the book.
+5. **How hard is it to implement?**
+It should be easy but you will have to tailor to your own needs.
 
 ### Chapter 3 Overview - What is Zen To Done?
+
+> [!quote] Albert Einstein
+> "_Everything should be made as simple as possible, but not simpler." _
 
 1. **Why should I use ZTD?**
 2. **How will it help me in the long run**
@@ -110,7 +116,7 @@ A system for getting things done, that is simple modifiable and extendable based
 1 **When to review?**
 2. **What to review?**
 
-### Chapter 12 - Habit 8 -  Simplify
+### Chapter 12 - Habit 8 - Simplify
 
 1. **How to simplify?**
 2. **What to simplify?**
@@ -126,7 +132,7 @@ A system for getting things done, that is simple modifiable and extendable based
 1. **What is a passion?**
 2. **How to remain passioned?**
 
-### Chapter 15 - A day with Zen to Done
+### Chapter 15 - A Day with Zen to Done
 
 1. **How does a Zen to Done day look like?
 
