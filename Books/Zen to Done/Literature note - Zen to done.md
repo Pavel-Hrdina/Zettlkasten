@@ -51,7 +51,7 @@ A system for getting things done, that is simple modifiable and extendable based
 4. **Why not chose any other productivity system out there?**
 5. **What problems does it solve?**
 
-### Chapter 2  Overview - What is Zen To Done?
+### Chapter 2 Overview - What is Zen To Done?
 
 > [!quote] Goethe
 > _"The things that matter most should never be at the mercy of the things that matter least."_
@@ -60,11 +60,11 @@ A system for getting things done, that is simple modifiable and extendable based
 2. **How easy is it to implement?**
 3. **How hard is it to implement?**
 
-### Chapter 3  Overview - What is Zen To Done?
+### Chapter 3 Overview - What is Zen To Done?
 
-### Chapter 4  
+### Chapter 4
 
-### Chapter 5  
+### Chapter 5
 
 ### Chapter 6
 

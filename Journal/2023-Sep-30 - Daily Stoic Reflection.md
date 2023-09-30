@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "{{date}}, {{time}}"
+modified: 2023-09-30, 12:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-30T17:19
+updated: 2023-09-30T16:54
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: {{date}}, {{time}}
+Date: 2023-09-30, 12:12
 
 ## Morning and Evening
 
@@ -27,17 +27,35 @@ Date: {{date}}, {{time}}
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. What difficulties am I likely to encounter today?
-	1. - 
+	1. - My wife's illness 
+	2. - My own mental health 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Preparations for maturita 
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for my health 
+	2. - I am grateful for my wife 
+	3. - I am grateful for being alive 
+	4. - I am grateful for having enough food to eat
+	5. - I am grateful for my father 
+	6. - I am grateful for my mother
+	7. - I am grateful to be alive 
+	8. - I am grateful for being young
+	9. - I am grateful for knowing the truth 
+	10. - I am grateful for understanding 
+	11. - I am grateful for being happy 
+	12. - I am grateful for my ancestors 
+	13. - I am grateful that I can read 
+	14. - I am grateful that I can speak
+	15. - I am grateful that I am not crippled 
 4. What is worrying me?
-	1. -
+	1. - That I can't change my self 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - Even in death, you will be but a particle in the sand watch of time. Think how come that I am alive, perhaps I have been given a role to play something to do that will influence thing much grater, things much bigger. Believe in miracles, go with the rhythm of life, don't make haste on things that need time, you will only burn. Your problems are the same as millions of others, so don't be a sheep and focus on the bigger plan for you. 
 6. What is within my control and what is not
-	1. -
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
+	2. - What I do **is under my control**
+	3. - Everything **is not under my control** 
+
 
 ### Evening
 
