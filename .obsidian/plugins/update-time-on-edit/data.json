@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Templates/ReflectionsTemplate.md": "02eb4d83812bb7aa6d3a15b102751fa4bc5690be9ed56cb763d3c48d9fd1fd2c",
+    "Journal/2023-Sep-29 - Daily Stoic Reflection.md": "3e5b160e7f2c099f120e8c50a04af4319b4a1ee7e0c49d57bea35c3490548d93",
+    "Journal/2023-Sep-30 - Daily Stoic Reflection.md": "edbc048e9cf4901495c4465daf61cf691299cbdff8ba48d52bcae3746cd72783"
+  }
+}

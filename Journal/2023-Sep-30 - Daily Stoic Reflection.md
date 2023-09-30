@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-09-29, 10:45
+modified: 2023-09-30, 12:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-29T20:34
+updated: 2023-09-30T12:13
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-09-29, 10:45
+Date: 2023-09-30, 12:12
 
 ## Morning and Evening
 
@@ -27,38 +27,17 @@ Date: 2023-09-29, 10:45
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. What difficulties am I likely to encounter today?
-	1. - I am likely to be fatigued 
-	2. - I am likely to be angry 
-	3. - I am likely to be lazy 
-	4. - I am likely to be distracted 
+	1. - my wifes illness 
 2. What one thing do most need to get done today?
-	1. - Make Anki cards 
+	1. -
 3. What am I grateful for?
-	1. - I am grateful for my wife 
-	2. - I am grateful for my parents 
-	3.  - I am grateful for being my self 
-	4. - I am grateful for being happy 
-	5. - I am grateful for being at peace 
-	6. - I am grateful for the nice weather 
-	7. - I am grateful for knowing how to read
-	8. - I am grateful for living now 
-	9. - I am grateful for being my self 
-	10. - I am grateful for living in Europe 
-	11. - I am grateful for being alive 
-	12. - I am grateful for being born 
-	13. - I am grateful for having food to eat 
-	14. - I am grateful for having heat 
-	15. - I am grateful for the life lessons I received 
-	16. - I am grateful for letting go of perfection 
-	17. - I am grateful for finding my purpose 
+	1. -
 4. What is worrying me?
-	1. - That I will procrastinate on everything 
-	2. - That I don't have enough time 
+	1. -
 5. How can I decatastrophize today's problems?
-	1. - You are thinking that today, you couldn't change anything, but it's ok, even the things that seem so simple are the most complex, it is simplicity that is the hardest to execute, you might be thinking that you have no time left on this earth, but you are still here, you still have a part to play, so let go of fears, there is no need for them. They only block you from seeing the truth before you, so let go of them, you will die when your time comes anyway, this time might be tomorrow, or in 50 year, but it will come once your job in this life is done. 
+	1. -
 6. What is within my control and what is not
-	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**
-	2. - What I do **is under my control**
+	1. -
 
 ### Evening
 
@@ -68,13 +47,8 @@ Date: 2023-09-29, 10:45
 1. What did I do well today?
 
 | Things I Did Well | Why I did them |
-| ------------------- | -----------------------|
-| - Today I spent time with my family | - To make the happy and myself |
-| - I was a stonewall for my wife  | - To give her peace |
-| - I remained in control of my self? | - To become a better person |
-| - I refined my stoic journal | - To get peace |
-| - I finished all my tasks | - To be at peace |
-
+| ------------------- | ---------------- |
+| -                 | -              |
 
 ## Other Methods
 
@@ -104,25 +78,25 @@ Evening, afternoon or morning
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 |  "I failed to demonstrate it by..." |
+| I demonstrated it by....                 | "I failed to demonstrate it by ...              |
 
 3. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 |  "I failed to demonstrate it by..." |
+| I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
 5. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 |  "I failed to demonstrate it by..." |
+| I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
 7. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 |  "I failed to demonstrate it by..." |
+| I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
 ## References
 
@@ -130,3 +104,5 @@ Evening, afternoon or morning
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
+
+
