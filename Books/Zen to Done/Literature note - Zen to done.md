@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-27, 18:26
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-30T17:19
+updated: 2023-09-30T17:37
 ---
 
 # Literature Note - Zen to Done
@@ -62,24 +62,74 @@ A system for getting things done, that is simple modifiable and extendable based
 
 ### Chapter 3 Overview - What is Zen To Done?
 
-### Chapter 4
+1. **Why should I use ZTD?**
+2. **How will it help me in the long run**
 
-### Chapter 5
+### Chapter 4 - Forming the 10 Habits
 
-### Chapter 6
+1. **How do I make a habit?**
+2. **How long before something becomes a habit?**
+3. **How many habits at once can I make?**
+4. **Why should I make habits?**
 
-### Chapter 7
+### Chapter 5 - Habit 1: Collect
 
-### Chapter 8
+1. **What should I collect?**
+2. **When should I collect it?**
+3. **What things are important to collect?**
+4. **Why is this usfulle?**
 
-### Chapter 9
+### Chapter 6 - Habit 2: Process
 
-### Chapter 10
+1. **What does it mean?**
+2. **When should I do this?**
+3. **How long should it take?**
 
-### Chapter 11
+### Chapter 7 - Habit 3: Plan
 
-### Chapter 12
+1. **What is worth planing?**
+2. **How do I make a good plan?**
+
+### Chapter 8 - Habit 4: Do
+
+1. **How do I do it?**
+2. **What can I do?**
+
+### Chapter 9 - Habit 5: Simple, Trusted System
+
+1. **How to avoid complication?**
+2. **How to avoid perfectionism?**
+
+### Chapter 10 - Habit 6 - Organize
+
+1. **How do I organize?**
+2. **How do I plan organization?**
+
+### Chapter 11 - Habit 7 - Review
+
+1 **When to review?**
+2. **What to review?**
+
+### Chapter 12 - Habit 8 -  Simplify
+
+1. **How to simplify?**
+2. **What to simplify?**
+3. **When is simplifying too much**
+
+### Chapter 13 - Habit 9 - Set Routines
+
+1. **How to set a routine?**
+2. **How to overcome laziness?**
+
+### Chapter 14 - Habit 10 - Find Your Passion
+
+1. **What is a passion?**
+2. **How to remain passioned?**
+
+### Chapter 15 - A day with Zen to Done
+
+1. **How does a Zen to Done day look like?
 
 ## Notes
 
-Place the notes here, use images to remember better
+Place the notes here, use images to remember better. Include highlights 

@@ -11,8 +11,13 @@
             "id": "48c4720b52d5be7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Zen to Done/Literature note - Zen to done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/Zen to Done/Literature note - Zen to done.md"
+              }
             }
           }
         ]
@@ -153,6 +162,8 @@
   },
   "active": "48c4720b52d5be7c",
   "lastOpenFiles": [
+    "Books/Zen to Done/Literature note - Zen to done.md",
+    "Journal/2023-Sep-30 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md"
   ]
 }
