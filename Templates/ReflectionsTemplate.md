@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-09-30T17:19
+updated: 2023-10-01T20:46
 ---
 
 
@@ -47,6 +47,18 @@ Date: {{date}}, {{time}}
 1. What did I do well today?
 
 | Things I Did Well | Why I did them |
+| ------------------- | ---------------- |
+| -                 | -              |
+
+2. What did I do wrong?' 
+
+| What did I do wrong | Why I did it |
+| ------------------- | ---------------- |
+| -                 | -              |
+
+4. What duty remains undone?'
+
+| What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
 | -                 | -              |
 

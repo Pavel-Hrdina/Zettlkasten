@@ -7,7 +7,7 @@ modified: 2023-10-01, 11:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-01T11:45
+updated: 2023-10-01T20:41
 ---
 
 
@@ -49,7 +49,9 @@ Date: 2023-10-01, 11:42
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I was kind to all | - I did this to have no regrets |
+| - Today I created a routine for my self | - I did this to reduce the cluster of life and improve my well being |
+| - Today I rested | - I did this to prevent my self from burning out like a fire that had too mutche wood  |
 
 ## Other Methods
 
@@ -60,13 +62,15 @@ Date: 2023-10-01, 11:42
 
 Today's Events 
 
--
+- Today was a peaceful day, no wrong happened, it was a day of joy, jet I was not feeling too well mental, this was because I let things pile on me again, tomorrow I will try to take my time and do what need to be done. 
 
 How I see them in the near future? 
 
--
+- These events will make me stronger, they will help me to grow my self and to become a better person. 
 
 How they'd be viewed, years after I've passed?
+
+- If anybody will know about them, they will be seen as ordinary and nothing more. 
 
 ### 4 Virtues Method
 
@@ -79,25 +83,25 @@ Evening, afternoon or morning
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...              |
+| I demonstrated it by....                 | I failed to demonstrate it by ...              |
 
 3. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by....                 | I failed to demonstrate it by ...       |      
 
 5. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by....                 | "I failed to demonstrate it by ...     |        
 
 7. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by....                 | "I failed to demonstrate it by ...    |         
 
 ## References
 
