@@ -7,7 +7,7 @@ modified: 2023-10-02, 06:57
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-02T20:56
+updated: 2023-10-02T20:59
 ---
 
 
@@ -66,7 +66,10 @@ Date: 2023-10-02, 06:57
 | ------------------- | ---------------- |
 | - I overcame my self | - To develop my character |
 | - I was happy | - To live better |
-| - I  | |
+| - I dressed well | - So that I would respect my self |
+| - I followed my routine | - To simplified my life |
+| - I continued my habits | - To reduce to the essential life and be happier |
+
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
@@ -78,7 +81,7 @@ Date: 2023-10-02, 06:57
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -  all is done  | - I did what I had to do             |
+| -  all is done  | - I did what I had to do  |
 
 ## Other Methods
 
