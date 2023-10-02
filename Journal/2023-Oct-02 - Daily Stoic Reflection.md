@@ -7,7 +7,7 @@ modified: 2023-10-02, 06:57
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-02T07:03
+updated: 2023-10-02T07:16
 ---
 
 
@@ -40,13 +40,20 @@ Date: 2023-10-02, 06:57
 	3. - I am grateful for having food to eat.
 	4. - I am grateful for having a warm place to stay.
 	5. - I am grateful for not being sick. 
-	6. - I am grateful knowing how to read.
+	6. - I am grateful for knowing how to read.
+	7. - I am grateful for technology.
+	8. - I am grateful for having nature next to me.
 4. What is worrying me?
-	1. -
+	1. - I am worried that I cannot keep my self from distractions and from procrastination, it's like a curse set upon me by some other being. 
+	2. - I am worried that I am not man enough. 
+	3. - I am worried that I will fail. 
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - No stone was made into a beautiful statue overnight. Chisel your self into such a statue until you are unbreakable and brilliant like a diamond.
+	2. Let go of your worried, they only block your path to self mastery, they are nothing but illusions to distract you from your true purpose. 
 6. What is within my control and what is not
-	1. -
+	1. - My own [[Control Over Judgment|Judgment]] **is in my control**.
+	2. - I am **in my control**.
+	3. - Everything else **is not under my control**
 
 ### Evening
 
