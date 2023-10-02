@@ -7,7 +7,7 @@ modified: 2023-10-02, 06:57
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-02T07:16
+updated: 2023-10-02T20:56
 ---
 
 
@@ -64,19 +64,21 @@ Date: 2023-10-02, 06:57
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
-
+| - I overcame my self | - To develop my character |
+| - I was happy | - To live better |
+| - I  | |
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I played clown | - Because I felt insecure about my self |
+| - I played table tennis poorly | - I was feeling sick |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| -  all is done  | - I did what I had to do             |
 
 ## Other Methods
 
