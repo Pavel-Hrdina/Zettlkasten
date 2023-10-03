@@ -7,7 +7,7 @@ modified: 2023-10-03, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-03T07:02
+updated: 2023-10-03T07:07
 ---
 
 
@@ -35,9 +35,20 @@ Date: 2023-10-03, 06:35
 	6. - I am likely to procrastinate.
 2. What one thing do most need to get done today?
 	1. - Download University exam preparation.
-	2. - Make preparations for maturita. 
+	2. - Make preparations for maturita from okruhy.
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for my girlfriend. 
+	2. - I am grateful for my parents.
+	3. - I am grateful for learning.
+	4. - I am grateful for wisdom.
+	5. - I am grateful for living in Europe.
+	6. - I am grateful for living in peace.
+	7. - I am grateful for kindness.
+	8. - I am grateful for the good.
+	9. - I am grateful for my lessons.
+	10. - I am grateful for my challenges.
+	11. - I am grateful for not breaking down.
+	12. - I am grateful for getting better every day.
 4. What is worrying me?
 	1. -
 5. How can I decatastrophize today's problems?
