@@ -7,7 +7,7 @@ modified: 2023-10-03, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-03T20:48
+updated: 2023-10-03T20:49
 ---
 
 
@@ -78,6 +78,7 @@ Date: 2023-10-03, 06:35
 | - Today I remained in control over my self| - I did this to achieve self mastery |
 | - Today I took my time and chose what thought were of use | - I did this to achieve mastery over my self |
 | - When I was feeling low, I helped my sister | - I did this to help her |
+| - Today I stood my ground on the way I dress | - I did this to gain respect for my self |
 
 2. What did I do wrong?' 
 
@@ -91,7 +92,7 @@ Date: 2023-10-03, 06:35
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Maturita preparations | - I had no energy left to do it, after all was done |
 
 ## Other Methods
 
