@@ -7,7 +7,7 @@ modified: 2023-10-03, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-03T07:07
+updated: 2023-10-03T07:18
 ---
 
 
@@ -49,12 +49,22 @@ Date: 2023-10-03, 06:35
 	10. - I am grateful for my challenges.
 	11. - I am grateful for not breaking down.
 	12. - I am grateful for getting better every day.
+	13. - I am grateful for knowing how to learn. 
+	14. - I am grateful for knowing how to read.
+	15. - I am grateful for having aces to books. 
 4. What is worrying me?
-	1. -
+	1. - I am worried by the future.
+	2. - I am worried about my own weakness.
+	3. - I am worried that I am too old.
+	4. - I am worried that I may die today.
+	5. - I am worried that I cannot control my self, thus hurting people I love and spreading suffering into the world.
+	6. - I am worried that I will embarrass my self.
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - Even when you feel the need to shout out into the world like the mightiest of beasts, feel your self and have no fear, let you become one with your suffering and let go of it, nothing can hurt you when your mind is hard like a diamond. Don't worry about how people see you, how they talk to you. You cannot change them, only your altitude towards them and how you react to them. Be at peace, as you walk, be at peace as you breathe and then suffering cannot hurt you. 
 6. What is within my control and what is not
-	1. -
+	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is under my control**.
+	2. - I am under my control.
+	3. - Everything else **is not under my control**.
 
 ### Evening
 
@@ -129,7 +139,7 @@ Evening, afternoon or morning
 
 ## References
 
-[Personal knowledge management](Personal%20knowledge%20management.md)
+[Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
