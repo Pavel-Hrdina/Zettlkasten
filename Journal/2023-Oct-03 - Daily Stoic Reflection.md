@@ -7,7 +7,7 @@ modified: 2023-10-03, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-03T20:42
+updated: 2023-10-03T20:48
 ---
 
 
@@ -75,13 +75,17 @@ Date: 2023-10-03, 06:35
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I remained in control over my self| - I did this to achieve self mastery |
+| - Today I took my time and chose what thought were of use | - I did this to achieve mastery over my self |
+| - When I was feeling low, I helped my sister | - I did this to help her |
 
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I lost control over my anger | - Because I couldn't take the criticism that I was driving badly |
+| - I didn't know how to react to a less educated person | - Because I never had to deal with such a person |
+| - I was talking too much | - Because I didn't think my words thoughts before I spoke  |
 
 4. What duty remains undone?'
 
