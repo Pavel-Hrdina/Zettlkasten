@@ -7,7 +7,7 @@ modified: 2023-10-04, 06:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-04T07:02
+updated: 2023-10-04T07:09
 ---
 
 
@@ -46,11 +46,16 @@ Date: 2023-10-04, 06:50
 	9. - I am grateful for being alive.
 	10. - I am grateful for this day.
 4. What is worrying me?
-	1. -
+	1. - I am worried that I might fail my self.
+	2. - I am worried that I might hurt someone.
+	3. - I am worried about my health.
+	4. - I am worried about my wife,
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - Even when the light shines not, you must continue to search for it, because it is there in the sea of clouds hidden from sight waiting to be discovered. Even when the hour is as dark as the night sky, you continue to search for hope to live. No darkness you will encounter today will be as dark as the darkness of ages before. Being in a commune or being a little worried is something you can do nothing about.
 6. What is within my control and what is not
-	1. -
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is under my control.
+	2. - My mind **is under my control**.
+	3. - Everything else **is not under my control**
 
 ### Evening
 
