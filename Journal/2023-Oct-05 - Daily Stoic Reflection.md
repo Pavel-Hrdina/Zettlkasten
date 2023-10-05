@@ -7,7 +7,7 @@ modified: 2023-10-05, 07:00
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-05T07:16
+updated: 2023-10-05T19:41
 ---
 
 
@@ -65,19 +65,22 @@ Date: 2023-10-05, 07:00
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I stayed calm even when faced with anger of others | - I did this to be at peace and to reduce suffering |
+| - I completed my routine and tasks even though I was fatigued  | - I did this to keep discipline  |
+| - I kept my self-worth | - To keep bad people away |
+| - I believed in my self | - To keep my worth |
 
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was lazy | - Because I was exhausted |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - No duty is undone that was meant for today | - ...              |
 
 ## Other Methods
 
