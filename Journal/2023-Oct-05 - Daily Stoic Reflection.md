@@ -7,7 +7,7 @@ modified: 2023-10-05, 07:00
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-05T19:41
+updated: 2023-10-05T19:47
 ---
 
 
@@ -50,7 +50,7 @@ Date: 2023-10-05, 07:00
 	2. - I am worried because my guts tells me something bad is happening.
 	3. - I am worried that I will fail.
 5. How can I decatastrophize today's problems?
-	1. - You are not a god, nor a stone, you are a human being and every human being that has ever archived greatness has made so many mistakes that I can't even count them. Get rid of the idea that making a mistake is a cardinal sin. If you want to become your best self, you are bound to make mistakes, otherwise you will only stagnate. Think how can you make less mistakes, but do not avoid them all together. 
+	1. - You are not a god, nor a stone, you are a human being and every human being that has ever archived greatness has made so many mistakes that I can't even count them. Get rid of the idea that making a mistake is a cardinal sin. If you want to become your best self, you are bound to make mistakes, otherwise you will only stagnate. Think how can you make fewer mistakes, but do not avoid them all together. 
 6. What is within my control and what is not
 	1. - My [[Control Over Judgment|Judgment]] **is under my control**.
 	2. - I am **under my control**.

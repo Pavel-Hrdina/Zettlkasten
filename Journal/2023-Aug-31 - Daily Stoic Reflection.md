@@ -7,7 +7,7 @@ modified: 2023-08-31, 11:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-01T15:17
+updated: 2023-10-05T19:50
 ---
 
 # Daily [Stoic](Stoicism.md) Reflections
@@ -55,7 +55,7 @@ Date: 2023-08-31, 11:50
 	2. - That I will doubt my self 
 	3. - That I will lose my freedom 
 5. How can I decatastrophize today's problems?
-	1. - By warring that I am not good enough I am making it true because I can't act in such a state
+	1. - By worring that I am not good enough I am making it true because I can't act in such a state
 	2. - Doubting my self is normal, just let the thoughts come and go, and don't pay it much attention
 	3. - If you worry about losing your freedom than fight for it. Use your [Control Over Judgment](Control%20Over%20Judgment.md). 
 1. What is within my control and what is not

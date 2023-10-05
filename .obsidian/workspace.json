@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78d158dba5d0f361",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5b2244595f4f24fa",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +163,15 @@
   },
   "active": "5b2244595f4f24fa",
   "lastOpenFiles": [
-    "Journal/2023-Oct-05 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-04 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-03 - Daily Stoic Reflection.md",
-    "Templates/ReflectionsTemplate.md",
-    "Journal/2023-Oct-02 - Daily Stoic Reflection.md",
-    "Templates/NoteTemplate.md",
+    "Journal/2023-Oct-04 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-05 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-01 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-02 - Daily Stoic Reflection.md",
+    "Templates/ReflectionsTemplate.md",
+    "Templates/NoteTemplate.md",
     "Journal/2023-Sep-30 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
@@ -200,7 +193,6 @@
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
     "SLIP-BOX/Stopping to Buy things.md",
     "SLIP-BOX/Philosophy.md",
-    "SLIP-BOX/Minimalism.md",
     "Pasted Image 20230923190731_076.png",
     "Pasted Image 20230923185938_073.png",
     "Pasted Image 20230923185735_075.png",
@@ -209,7 +201,6 @@
     "Pasted Image 20230923181633_078.png",
     "Pasted Image 20230923180557_120.png",
     "Pasted Image 20230923180336_073.png",
-    "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
     "Books/Make it Stick",
     "Books/The Essentialist",
     "Assets/Cult of done manifesto.webp",
