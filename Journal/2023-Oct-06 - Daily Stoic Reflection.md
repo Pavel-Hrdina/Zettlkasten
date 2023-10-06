@@ -7,7 +7,7 @@ modified: 2023-10-06, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-06T06:42
+updated: 2023-10-06T19:50
 ---
 
 
@@ -48,9 +48,11 @@ Date: 2023-10-06, 06:34
 	1. - I am worried that I don't have enough time.
 	2. - I am worried that I will become angry.
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - You might feel like you are worthless, but in the time of struggle, when your mind is tested, you must push forward and spit into the face of destiny.
 6. What is within my control and what is not
-	1. -
+	1. - My [[Control Over Judgment|Judgment]] **is under my control**.
+	2. - I am **under my control**.
+	3. - Everything else **is under my control**. 
 
 ### Evening
 
