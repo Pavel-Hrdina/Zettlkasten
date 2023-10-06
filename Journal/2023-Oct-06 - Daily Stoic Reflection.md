@@ -7,7 +7,7 @@ modified: 2023-10-06, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-06T19:56
+updated: 2023-10-06T19:58
 ---
 
 
@@ -71,13 +71,13 @@ Date: 2023-10-06, 06:34
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was angry at my self | - I did this because I didn't meet my own expectations |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - 3 task remain undone | - I chose to spend time with my family |
 
 ## Other Methods
 
