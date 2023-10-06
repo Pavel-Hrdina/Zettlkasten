@@ -7,7 +7,7 @@ modified: 2023-10-06, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-06T19:50
+updated: 2023-10-06T19:56
 ---
 
 
@@ -63,7 +63,9 @@ Date: 2023-10-06, 06:34
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I stayed calm even when faced with anger | - I did this to be at peace |
+| - When I saw that I failed, I got to work so that I wouldn't fail next time | - I did this to become my best self |
+| - I was kind to all | - I did this to make the world suffer less |
 
 2. What did I do wrong?' 
 
