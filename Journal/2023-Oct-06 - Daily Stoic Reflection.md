@@ -67,7 +67,7 @@ Date: 2023-10-06, 06:34
 | - When I saw that I failed, I got to work so that I wouldn't fail next time | - I did this to become my best self |
 | - I was kind to all | - I did this to make the world suffer less |
 
-2. What did I do wrong?' 
+2. What did I do wrong?
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
