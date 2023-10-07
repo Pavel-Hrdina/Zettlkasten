@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-19, 12:55
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-23T18:36
+updated: 2023-10-07T09:59
 ---
 
 # Literature Note - Make it Stick
@@ -21,6 +21,7 @@ Use you highlights
 
 ## Personal Attachment
 
+This book will help me to learn better in the future and will show me how to learn and remember 
 
 ## References
 
