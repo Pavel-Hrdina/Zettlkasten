@@ -7,7 +7,7 @@ modified: 2023-10-07, 09:31
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-07T09:52
+updated: 2023-10-07T09:57
 ---
 
 
@@ -51,10 +51,10 @@ Date: 2023-10-07, 09:31
 4. What is worrying me?
 	1. - I am worried that I might make a lot of mistakes today.
 	2. - I am worried that I will fail my self. 
-	3. - I am always tired and I don't know why.
+	3. - I am always tired, and I don't know why.
 	4. - I am worried that I won't be the best.
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - The human mind is like deep water. When you look into it, you see only the surface, but if you hold your breath and go deeper, you will see such wonders that you never even knew existed. Flow with the water in your mind, flow with the rhythm of life. The clouded see will become but a memory, and the beauty of nothingness will warm you will be peace. 
 6. What is within my control and what is not
 	1. -
 
