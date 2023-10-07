@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 23,
   "cssTheme": "Obsidian gruvbox",
   "interfaceFontFamily": "Lexend Deca",
-  "textFontFamily": "Lexend Deca",
+  "textFontFamily": "Lexend",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
