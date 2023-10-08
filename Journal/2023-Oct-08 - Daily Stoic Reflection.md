@@ -7,7 +7,7 @@ modified: 2023-10-08, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-08T10:47
+updated: 2023-10-08T10:52
 ---
 
 
@@ -47,11 +47,14 @@ Date: 2023-10-08, 10:30
 	11. - I am grateful for being my self.
 	12. - I am grateful for respecting my self.
 4. What is worrying me?
-	1. -
+	1. - I am worried that I will lose discipline.
+	2. - I am worried that I am a chronic procrastinator.
+	3. - I am worried that I am a source for energy for others.
 5. How can I decatastrophize today's problems?
-	1. -
+	1. - When the sun set and your mind is without rest, let your self be peace and leave all of your worries behind you. Calm down your monkey mind and you will see clearly. The murky waters will become clean and clear again. Let your self be bored, don't fight it, being bored is not a waste of time.
 6. What is within my control and what is not
-	1. -
+	1. - My [[Control Over Judgment|Judgment]] **is within my control**
+	2. - My mind **is within my control**
 
 ### Evening
 
