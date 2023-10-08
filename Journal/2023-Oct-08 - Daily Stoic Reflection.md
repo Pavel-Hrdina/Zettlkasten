@@ -7,7 +7,7 @@ modified: 2023-10-08, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-08T10:52
+updated: 2023-10-08T20:30
 ---
 
 
@@ -65,19 +65,24 @@ Date: 2023-10-08, 10:30
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I was learned excel | - I did this to keep track of money |
+| - I relaxed | I did this to feel peace |
+| - I realized why is it that I procrastinate | - I did this to gain control over my life |
+| - I didn't give in to anger | - I did this to gain control over my life |
+| - I shared with all | - I did this because I am not living alone |
 
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was sloppy today | - I did this because I slept too long |
+| - I missed an opportunity to go to exercise with my wife | - I did this because I felt bad. |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Reading the book Make it stick | - I had a free day, so I chose not to.|
 
 ## Other Methods
 
