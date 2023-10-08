@@ -65,7 +65,7 @@ Date: 2023-10-08, 10:30
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| - Today I was learned excel | - I did this to keep track of money |
+| - Today I learned excel | - I did this to keep track of money |
 | - I relaxed | I did this to feel peace |
 | - I realized why is it that I procrastinate | - I did this to gain control over my life |
 | - I didn't give in to anger | - I did this to gain control over my life |
