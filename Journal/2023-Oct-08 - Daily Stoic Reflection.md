@@ -7,7 +7,7 @@ modified: 2023-10-08, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-08T10:43
+updated: 2023-10-08T10:47
 ---
 
 
@@ -30,11 +30,22 @@ Date: 2023-10-08, 10:30
 	1. - Today, I am likely to seek short term satisfaction.
 	2. - I am likely to be mean. 
 	3. - I am likely to meet people who are negative, angry, sad or otherwise unpleasant.
-	4. - I am likely to experience bad weather today and a lot of negative energy cultivating in to the world. 
+	4. - I am likely to experience bad weather today and a lot of negative energy cultivating in the world. 
 2. What one thing do most need to get done today?
-	1. -
+	1. - Today is a lazy day and I can do whatever I want to do.
 3. What am I grateful for?
-	1. -
+	1. - I am grateful for my Parents.
+	2. - I am grateful for my wife.
+	3. - I am grateful for being alive.
+	4. - I am grateful for the good people.
+	5. - I am grateful for peace.
+	6. - I am grateful for living in democracy.
+	7. - I am grateful for having access to knowledge of the ages.
+	8. - I am grateful for rain.
+	9. - I am grateful for my friends.
+	10. - I am grateful for being happy.
+	11. - I am grateful for being my self.
+	12. - I am grateful for respecting my self.
 4. What is worrying me?
 	1. -
 5. How can I decatastrophize today's problems?
