@@ -7,7 +7,7 @@ modified: 2023-10-09, 06:43
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-09T06:59
+updated: 2023-10-09T20:42
 ---
 
 
@@ -56,19 +56,22 @@ Date: 2023-10-09, 06:43
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I kept my temper. | - I did this to reduce suffering in this world. |
+| - I was feeling down, yet I was feeling peace. I felt this deep felling of letting go just being. | - I did this as part of my practices. |
+| - I found the rhythm of life. | - I did this to be peace. |
 
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was mean to my self for not meeting my own expectations. | - I did this because I was angry at my self. |
+| - I was upset. | - I was upset because someone told me something that I let my feeling get touched by. |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I finished all my duties for today | |
 
 ## Other Methods
 
