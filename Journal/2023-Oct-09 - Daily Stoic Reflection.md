@@ -7,7 +7,7 @@ modified: 2023-10-09, 06:43
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-09T06:58
+updated: 2023-10-09T06:59
 ---
 
 
@@ -43,7 +43,9 @@ Date: 2023-10-09, 06:43
 5. How can I decatastrophize today's problems?
 	1. - The freedom of mind cannot be broken. Keep your freedom, and it cannot be taken from you with no instrument of oppression. If you are unbreakable, you are unhurtable. So keep your mind at peace, let your breath guide you as you breathe in and out. Remember that your heart is still beating and you are not dead yet and until you are dead you are still fighting. 
 6. What is within my control and what is not
-	1. -
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is within my control**.
+	2. - I **am under my control**.
+	3. - Everything else **is not under my control**.
 
 ### Evening
 
