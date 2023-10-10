@@ -7,7 +7,7 @@ modified: 2023-10-10, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-10T06:55
+updated: 2023-10-10T21:08
 ---
 
 
@@ -58,19 +58,25 @@ Date: 2023-10-10, 06:33
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I was peaceful | - I did this to be happy |
+| - I was kind to my suffering wife, even when she was mean | - I did this to help her |
+| - I was calculating with success | - I did this to train my brain  |
+| - I was not distracted |  - I did this to keep my peace| 
 
 2. What did I do wrong?' 
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was unfair | - I did this because I had no mood |
+| - I was talking to my self | - I did this because I was thinking aloud |
 
 4. What duty remains undone?'
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Spreadsheet | - I didn't have time to finish it. |
+| - Preparations  | - I didn't do this because I didn't want to. |
+| - Maturita notes email | - I didn't do this because I forgot. | 
 
 ## Other Methods
 
