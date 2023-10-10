@@ -7,7 +7,7 @@ modified: 2023-10-10, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-10T06:47
+updated: 2023-10-10T06:55
 ---
 
 
@@ -27,13 +27,13 @@ Date: 2023-10-10, 06:33
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. What difficulties am I likely to encounter today?
-	1. -  I am likely to meet bad suffering people.
+	1. -  I am likely to meet bad, suffering people.
 	2. - I am likely to be insulted and attacked.
 	3. - I am likely to be bored today.
 2. What one thing do most need to get done today?
 	1. - Site down and take an hour to list things you need to do.
 3. What am I grateful for?
-	1. - I am grateful for my wife, patents, sister, being alive, being peace, warmth, food, shelter, internet, tv and books.
+	1. - I am grateful for my wife, patents, sister, being alive, being peace, warmth, food, shelter, internet, TV and books.
 4. What is worrying me?
 	1. - I am worried that I am too fragile.
 	2. - I am worried that I am all talk again.
