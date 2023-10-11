@@ -7,7 +7,7 @@ modified: 2023-10-11, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-11T07:00
+updated: 2023-10-11T07:02
 ---
 
 
@@ -39,9 +39,12 @@ Date: 2023-10-11, 06:42
 	2. - I am worried that I will be uncompassionate toady.
 	3. - I am worried that I am losing the connection with my self.
 5. How can I decatastrophize today's problems?
-	1. - And I say, go into nature and let the birds hum bring you to a still as you wonder over life and suddenly your problems will feel like a needle in a haystack. Let your mind come to a stand still as you let your self come to rest. Sometimes we forget that we are only human and no gods above, deciding the fate of all what is alive and what is not. You are no master of Gaia, let her song guide you, as you walk the path of suffering with pride.  
+	1. - And I say, go into nature and let the birds hum bring you to a still as you wonder over life and suddenly your problems will feel like a needle in a haystack. Let your mind come to a stand still as you let your self come to rest. Sometimes we forget that we are only human and no gods above, deciding the fate of all what is alive and what is not. You are no master of Gaia, let her song guide you, as you walk the path of suffering with pride. Slow down and enjoy her song, for you are still alive.
 6. What is within my control and what is not
 	1. - My [[Control Over Judgment|Judgment]] is **in my control**.
+	2. - My mind **is under my control**.
+	3. - Other people are **not under my control**.
+	4. - The events of today are **not under my control**
 
 ### Evening
 
