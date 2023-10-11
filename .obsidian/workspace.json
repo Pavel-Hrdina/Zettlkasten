@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f4d7d991fcd2ccc",
+            "id": "d2bbb83de6adcd30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "file": "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-10 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Oct-11 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -174,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f4d7d991fcd2ccc",
+  "active": "d2bbb83de6adcd30",
   "lastOpenFiles": [
-    "Books/Make it Stick/Literature note - Make it Stick.md",
     "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
+    "Books/Make it Stick/Literature note - Make it Stick.md",
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-08 - Daily Stoic Reflection.md",
     "SLIP-BOX/Stoicism.md",
@@ -202,7 +203,6 @@
     "Books/Zen to Done/Literature note - Zen to done.md",
     "Books/Zen to Done",
     "Assets/Excalidraw/Growing Yerba mate 2023-09-27 11.11.24.excalidraw.md",
-    "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal",
     "YerbaMayte",
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
