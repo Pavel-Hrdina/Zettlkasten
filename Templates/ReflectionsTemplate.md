@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-01T20:46
+updated: 2023-10-11T20:27
 ---
 
 
@@ -26,17 +26,17 @@ Date: {{date}}, {{time}}
 > [!quote] Marcus Aurelius
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
-1. What difficulties am I likely to encounter today?
+1. **What difficulties am I likely to encounter today?**
 	1. - 
-2. What one thing do most need to get done today?
+2. **What one thing do most need to get done today?**
 	1. -
-3. What am I grateful for?
+3. **What am I grateful for?**
 	1. -
-4. What is worrying me?
+4. **What is worrying me?**
 	1. -
-5. How can I decatastrophize today's problems?
+5. **How can I decatastrophize today's problems?**
 	1. -
-6. What is within my control and what is not
+6. **What is within my control and what is not**
 	1. -
 
 ### Evening
@@ -44,19 +44,19 @@ Date: {{date}}, {{time}}
 > [!quote] Marcus Aurelius
 > Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterward, blame yourself for what is badly done, and rejoice in the good.
 
-1. What did I do well today?
+1. **What did I do well today?**
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
 | -                 | -              |
 
-2. What did I do wrong?' 
+2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
 | -                 | -              |
 
-4. What duty remains undone?'
+4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
