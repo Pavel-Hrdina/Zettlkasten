@@ -7,7 +7,7 @@ modified: 2023-10-12, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-12T06:56
+updated: 2023-10-12T19:56
 ---
 
 
@@ -53,19 +53,20 @@ Date: 2023-10-12, 06:32
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I was at peace today | - I felt so, because I had no worried, nothing is worth worrying about |
+|  - I was kind to all | - I did this to be happy |
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I was lazy | - I did this because I had no energy |
 
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Wake up rested | - I didn't do it because I didn't listen to my self and went to sleep late |
 
 ## Other Methods
 
