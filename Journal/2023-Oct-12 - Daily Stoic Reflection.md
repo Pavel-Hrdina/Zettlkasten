@@ -7,7 +7,7 @@ modified: 2023-10-12, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-12T19:56
+updated: 2023-10-12T20:10
 ---
 
 
@@ -55,6 +55,10 @@ Date: 2023-10-12, 06:32
 | ------------------- | ---------------- |
 | - I was at peace today | - I felt so, because I had no worried, nothing is worth worrying about |
 |  - I was kind to all | - I did this to be happy |
+| - I am doing what I feel is right | - I am doing this to become better long term |
+| - I am disciplined long term | - This is a great achievement for me |
+
+When the day seems lost, and you feel that it does not matter what you do. Remember the good you did, even the little thing and tomorrow improve on them, make more good, and you will soon be rid of this worry. I thank you for doing these things. I am very happy for you.
 
 2. **What did I do wrong?**
 
@@ -62,11 +66,15 @@ Date: 2023-10-12, 06:32
 | ------------------- | ---------------- |
 | - Today I was lazy | - I did this because I had no energy |
 
+Be like a rock that won't move for ages. Let the simplicity flow with you as you are like that rock. Even if you stay in place, you know that time is the only teacher and nothing can be rushed.
+
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
 | - Wake up rested | - I didn't do it because I didn't listen to my self and went to sleep late |
+
+The things that are undone are still possible to do. Do not let these things drag you down. You can do them tomorrow, and you can try again until you have it right. Nothing is perfect and that is the way of mother Gaia, it's how you flow with life. Let things be imperfect let them have small fault, barely noticeable do not strive for perfection, and you will find  that these things that are imperfect have the biggest value to you and others. 
 
 ## Other Methods
 
