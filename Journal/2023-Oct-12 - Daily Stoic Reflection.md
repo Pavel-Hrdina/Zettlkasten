@@ -7,7 +7,7 @@ modified: 2023-10-12, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-12T06:54
+updated: 2023-10-12T06:56
 ---
 
 
@@ -33,14 +33,16 @@ Date: 2023-10-12, 06:32
 2. **What one thing do most need to get done today?**
 	1. - Today I must finish what is yet undone.
 3. **What am I grateful for?**
-	1. - I am grateful for my parents, my wife, the nature, trees, grass, air that I breathe, the sun, the earth, the kind, peace, democracy, my home, my country, being alive, having internet, having books. I am grateful for all of these things that may appear as normal, yet without them I would be lost or dead. 
+	1. - I am grateful for my parents, my wife, the nature, trees, grass, air that I breathe, the sun, the earth, the kind, peace, democracy, my home, my country, being alive, having internet, having books. I am grateful for all of these things that may appear as normal, yet without them, I would be lost or dead. 
 4. **What is worrying me?**
 	1. - I am worried that I will become lazy. 
 	2. - I am worried that I don't have enough time on this earth to live.
 5. **How can I decatastrophize today's problems?**
 	1. - When your mind is as dark as the night sky, search for the stars that light shines through. These beacons of hope, even if small, will give you a way to keep going. Even thought things may be taught, you will prevail if you make good. 
 6. **What is within my control and what is not**
-	1. - My [[Control Over Judgment|Judgment]] is under my control.
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is under my control.
+	2. - I am under my control.
+	3. - Everything else is not under my control, so don't force things to do what you want they to, because they are impossible to control. Go with Gaias rhythm and you will be at peace.
 
 ### Evening
 
