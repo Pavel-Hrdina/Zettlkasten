@@ -7,7 +7,7 @@ modified: 2023-10-13, 06:40
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-13T07:02
+updated: 2023-10-13T21:06
 ---
 
 
@@ -55,19 +55,19 @@ Date: 2023-10-13, 06:40
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I did good. I did all of my most important tasks, I did well on a test, and I made many forward leaps. I overcame my self, I let my self follow the rhythm of Gaia | - I did these things to improve my health and the health of others this Earth is plagued by a disease that is suffering |
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - Today I chose my words badly I was not averse of the damage I could do by saying them. I also wasn't driving with focus | - I did these things because I lost my edge and wasn't aware of it quickly enough to sharpen it in time |
 
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| - I finished most of the important tasks today, yet some are still to be done the duty that I should do in school is yet missing | - I didn't do these things because they were in the way of the important tasks |
 
 ## Other Methods
 
@@ -78,13 +78,15 @@ Date: 2023-10-13, 06:40
 
 Today's Events 
 
--
+- Today begun quite weird. The morning was ok, I finished my routine and everything else went normal. It was a day like any other. Except today, I made preparations for the big exclamation marks that are inevitable this year. 
 
 How I see them in the near future? 
 
--
+- These events will be the stepping stone for the future. Even though nothing remarkable happened today, all went well and I made no blunder. 
 
 How they'd be viewed, years after I've passed?
+
+They would be seen as the events that were the stepping stones for my success. 
 
 ### 4 Virtues Method
 
