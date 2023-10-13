@@ -7,7 +7,7 @@ modified: 2023-10-13, 06:40
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-13T06:42
+updated: 2023-10-13T07:02
 ---
 
 
@@ -27,17 +27,24 @@ Date: 2023-10-13, 06:40
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	1. - I am likely to be 
+	1. - I am likely to be met with a lot of criticism today. I will not let it drag me down, it will be my stepping stone to become better.
+	2. - I am likely to fail today. This will be my lesson that will be another stepping stone for me to become better. 
+	3. - I am likely to be distracted today. When I realize this I will reclaim my focus. 
+	4. - I am likely to be cold today. I will face this cold head on. 
 2. **What one thing do most need to get done today?**
-	1. -
+	1. - Finish school projects so that you can focus on the bigger picture.
 3. **What am I grateful for?**
-	1. -
+	1. - I am grateful for my wife, my parents, warmth, whether, electricity, my self, my life, being alive, having enough.
 4. **What is worrying me?**
-	1. -
+	1. - I am worried that I will make a fool of my self.
+	2. - I am worried that my work is no good.
+	3. - I am worried that I am going to fail.
 5. **How can I decatastrophize today's problems?**
-	1. -
+	1. - You might be thinking "what if". You cannot know the future, so let your self be at peace, for you also can't control others. When you make something, and you did your best, your job is done. Use your failure as a stepping stone to build your character and your resilience.
 6. **What is within my control and what is not**
-	1. -
+	1. - My [[Control Over Judgment|Judgment]] is in my control.
+	2. - I am under my control.
+	3. - All else is not under my control.
 
 ### Evening
 
