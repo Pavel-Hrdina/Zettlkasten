@@ -7,7 +7,7 @@ modified: 2023-10-14, 09:19
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T09:29
+updated: 2023-10-14T09:39
 ---
 
 
@@ -27,17 +27,17 @@ Date: 2023-10-14, 09:19
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	1. -  Today, I am likely to face my wives mental health. I am also likely to face my self and my own laziness and procrastination. I will face these challenges with loving kindness, I will not let my self beat me. 
+	-  Today, I am likely to face my wives mental health. I am also likely to face my self and my own laziness and procrastination. I will face these challenges with loving kindness, I will not let my self beat me. 
 2. **What one thing do most need to get done today?**
-	1. - Today I need to finish the things that are of the essence, mainly the school homework, after that I must make a time block for practicing university tests and finals tests. 
+	- Today I need to finish the things that are of the essence, mainly the school homework, after that I must make a time block for practicing university tests and finals tests. 
 3. **What am I grateful for?**
-	1. - I am grateful for all of these things and all other things. I am grateful for my wife, my parents, my abilities, the weather, the kind, the food, warmth. Love and understanding. 
+	- I am grateful for all of these things and all other things. I am grateful for my wife, my parents, my abilities, the weather, the kind, the food, warmth. Love and understanding. 
 4. **What is worrying me?**
-	1. - I am worried about these things that hunt me at night. I am worried that I will become homeless. Furthermore, I am also worried that I won't make my dreams into reality. It worries me that I could die and in doing so cause suffering to those who I love. 
+	 - I am worried about these things that hunt me at night. I am worried that I will become homeless. Furthermore, I am also worried that I won't make my dreams into reality. It worries me that I could die and in doing so cause suffering to those who I love. 
 5. **How can I decatastrophize today's problems?**
-	1. -
+	- Let your self ride on the waves of life, listen to the rhythm of life and follow it, listen to humming birds and smell the wind. Life is not a chase after desires but a struggle for survival. So value the things that seem so basic because they could be gone any time. Now let peace descend onto your heart and become peace once again, rid of Duḥkha. 
 6. **What is within my control and what is not**
-	1. -
+	- My [[Control Over Judgment|Judgment]] alone **is in my control**, along with my thoughts and my physical body. All else is **out of my control**. So why worry about thing that cannot be changed, work with them and adapt. 
 
 ### Evening
 

@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-11T20:27
+updated: 2023-10-14T09:40
 ---
 
 
@@ -27,17 +27,17 @@ Date: {{date}}, {{time}}
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	1. - 
+	- 
 2. **What one thing do most need to get done today?**
-	1. -
-3. **What am I grateful for?**
-	1. -
-4. **What is worrying me?**
-	1. -
-5. **How can I decatastrophize today's problems?**
-	1. -
-6. **What is within my control and what is not**
-	1. -
+	- 
+1. **What am I grateful for?**
+	- 
+2. **What is worrying me?**
+	- 
+3. **How can I decatastrophize today's problems?**
+	- 
+4. **What is within my control and what is not**
+	- 
 
 ### Evening
 
