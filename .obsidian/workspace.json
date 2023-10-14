@@ -40,19 +40,9 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "853f5ee765f809d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
+                "file": "Books/Make it Stick/Literature note - Make it Stick.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
+                "file": "Books/Make it Stick/Literature note - Make it Stick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md"
+                "file": "Books/Make it Stick/Literature note - Make it Stick.md"
               }
             }
           },
@@ -193,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "853f5ee765f809d8",
+  "active": "9d71aa0673fa8958",
   "lastOpenFiles": [
     "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
