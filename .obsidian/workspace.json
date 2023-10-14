@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -171,7 +171,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },

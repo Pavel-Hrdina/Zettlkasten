@@ -7,7 +7,7 @@ modified: 2023-10-14, 09:19
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T09:39
+updated: 2023-10-14T20:47
 ---
 
 
@@ -48,19 +48,23 @@ Date: 2023-10-14, 09:19
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+| Today I was with my wife and made her happy, was compassionate towards her. I ride on a motorcycle after long time because I fell. I completed all that I set to complete today. | I did these things to rid my self from suffering and to spread hapines I also did them to have peace of mind |
+
+These are the things that you should rejoice in. Make them a source for love and peace. Make them a source of love for Gaia.  Let your self smile as you go to sleep for what you did good. 
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| Today I was getting distracted.| I did this because I stopped focusing for a moment. |
+
+Remember these things so you won't do them again. Do not mourn the mistakes of the past, for they are the chisel that make a man. Understand them, let them be your guidance toward better tomorrow. 
 
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| Today I didn't finish all of my homework | I didn't do it because I was distracted |
 
 ## Other Methods
 
