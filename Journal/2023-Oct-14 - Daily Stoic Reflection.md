@@ -7,7 +7,7 @@ modified: 2023-10-14, 09:19
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T09:27
+updated: 2023-10-14T09:29
 ---
 
 
@@ -31,9 +31,9 @@ Date: 2023-10-14, 09:19
 2. **What one thing do most need to get done today?**
 	1. - Today I need to finish the things that are of the essence, mainly the school homework, after that I must make a time block for practicing university tests and finals tests. 
 3. **What am I grateful for?**
-	1. - I am grateful for all of these things and all other things. I am grateful for my wife, my parents, my abilities, the weather, the kind, the food, warmth. love and understanding. 
+	1. - I am grateful for all of these things and all other things. I am grateful for my wife, my parents, my abilities, the weather, the kind, the food, warmth. Love and understanding. 
 4. **What is worrying me?**
-	1. -
+	1. - I am worried about these things that hunt me at night. I am worried that I will become homeless. Furthermore, I am also worried that I won't make my dreams into reality. It worries me that I could die and in doing so cause suffering to those who I love. 
 5. **How can I decatastrophize today's problems?**
 	1. -
 6. **What is within my control and what is not**
