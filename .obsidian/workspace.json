@@ -32,17 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9d71aa0673fa8958",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Make it Stick/Literature note - Make it Stick.md",
+                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Make it Stick/Literature note - Make it Stick.md",
+                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Make it Stick/Literature note - Make it Stick.md"
+                "file": "Journal/2023-Oct-14 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -183,12 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d71aa0673fa8958",
+  "active": "c43099886d2c7d7e",
   "lastOpenFiles": [
+    "Books/Make it Stick/Literature note - Make it Stick.md",
     "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-13 - Daily Stoic Reflection.md",
-    "Books/Make it Stick/Literature note - Make it Stick.md",
     "Journal/2023-Oct-12 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
