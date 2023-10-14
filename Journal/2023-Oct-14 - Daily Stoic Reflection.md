@@ -7,7 +7,7 @@ modified: 2023-10-14, 09:19
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T20:47
+updated: 2023-10-14T20:48
 ---
 
 
@@ -58,13 +58,15 @@ These are the things that you should rejoice in. Make them a source for love and
 | ------------------- | ---------------- |
 | Today I was getting distracted.| I did this because I stopped focusing for a moment. |
 
-Remember these things so you won't do them again. Do not mourn the mistakes of the past, for they are the chisel that make a man. Understand them, let them be your guidance toward better tomorrow. 
+Remember these things so you won't do them again. Do not mourn the mistakes of the past, for they are the chisel that make a man. Understand them, let them be your guidance toward a better tomorrow. 
 
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
 | Today I didn't finish all of my homework | I didn't do it because I was distracted |
+
+These things that are yet to be done. You must not let them reach out of your grasp and do them as soon as you wake up to ensure they are done.
 
 ## Other Methods
 
