@@ -32,9 +32,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d71aa0673fa8958",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "853f5ee765f809d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c43099886d2c7d7e",
+  "active": "853f5ee765f809d8",
   "lastOpenFiles": [
     "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
