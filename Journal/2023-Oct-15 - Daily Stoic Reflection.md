@@ -7,7 +7,7 @@ modified: 2023-10-15, 09:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-15T09:41
+updated: 2023-10-15T09:50
 ---
 
 
@@ -31,13 +31,13 @@ Date: 2023-10-15, 09:36
 2. **What one thing do most need to get done today?**
 	- Today I need to finish the rest of the tasks from yesterday. I must to them to sleep well at night. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my mother, for my father, for my wife, for being alive, for having enough, for being me, for knowing what is right, for trusting my intuition, for trusting my self, for being human, for having books and for having friends.
 2. **What is worrying me?**
-	- 
+	- I am worried that I will die forgotten. I also worried that I will lose my self and that I am not man enough for having emotions.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- When you feel your self cracking like fragile stone that fell on the ground, you must solve the cause of your suffering and understand it. None of your troubles are so bad, in fact, they are not even worth warring about.
 4. **What is within my control and what is not**
-	- 
+	- Only I am under my control and my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). All else is out of my control. I can try to make a change, but it can fail. If this happens, you will change your plans and adapt.
 
 ### Evening
 
