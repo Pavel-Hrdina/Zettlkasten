@@ -7,7 +7,7 @@ modified: 2023-10-15, 09:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-15T09:50
+updated: 2023-10-15T19:51
 ---
 
 
@@ -71,11 +71,11 @@ Date: 2023-10-15, 09:36
 
 Today's Events 
 
--
+- Today I felt bad both physically and mentally. I did some good and learned a lot, even though it was nothing perfect. I was very spaced out and had a hard time focusing. Something is probably trying me. I will try to sleep it out and hope that tomorrow I will fell better. These events won't be seen as anything spectacular, just a normal day, even if a stepping stone to something grater.  
 
 How I see them in the near future? 
 
--
+- These events will are a lesson for me. They are meant to teach me something important, either I should rest or I should fight. But how are you supposed to know what to do? How do you choose when shown 2 paths that without a sing that tells directions? How should I know where will these paths take me?
 
 How they'd be viewed, years after I've passed?
 
