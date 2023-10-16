@@ -7,7 +7,7 @@ modified: 2023-10-16, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-16T06:57
+updated: 2023-10-16T19:13
 ---
 
 
@@ -44,23 +44,25 @@ Date: 2023-10-16, 06:36
 > [!quote] Marcus Aurelius
 > Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterward, blame yourself for what is badly done, and rejoice in the good.
 
+Today, you weren't able to do what you became accustomed to do. You set your routine successfully, yet you lost ink in your pen, and you bought the wrong replacement for it, now you cannot learn to write better, and you can't write your thoughts down, and it's becoming tiring. For some weird reason, it is very comforting to remove the cluster you have in your mind and put it away, just like that, and it's gone. You also experienced mean people, but you were calm when dealing with them. Today wasn't the easiest of days for you, but the anger you felt, was nothing short of bothersome. All of these things were out of your control, so why did your mind stayed with them all day. So why can't you let go of these things, you cannot change them, so let them change you to become better, to become smarter and to become stronger. You know your worth, so why do you let others belittle you for being authentic. 
+
 1. **What did I do well today?**
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+|  I did well today when it comes to me. I successfully controlled my judgment. I did not masturbate  | I did this to carve my self into a diamond |
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| I was not in control of my anger and my self. I also bought the wrong ink for my pen | I was in a hurry and my emotions were strong today |
 
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+| I did all that I had to do today | ... |
 
 ## Other Methods
 
