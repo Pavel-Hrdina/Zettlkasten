@@ -7,7 +7,7 @@ modified: 2023-10-17, 06:45
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-17T07:01
+updated: 2023-10-17T07:06
 ---
 
 
@@ -37,7 +37,7 @@ Date: 2023-10-17, 06:45
 3. **How can I decatastrophize today's problems?**
 	- Your problems are only a small setback that will in the in end help you to great take leaps forward. These adversities are but stepping stones on your path to become the best you can be in this life. But you mustn't beat your self up. I hear you say, "you are such an idiot", "you should hang your self for this...". The only way you can accept these adversities is by practicing loving kindness towards them and to your self.  
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is in my control, and it is upon me only what actions I chose to take today, only I decide upon this. Anything else is out of my control, but it will not affect me. When the time comes, and it will, when you have to face these great challenges, you mustn't succumb to them, but rather face them like the seashore faces the waves of the rageful sea and their infinite number.  
 
 ### Evening
 
