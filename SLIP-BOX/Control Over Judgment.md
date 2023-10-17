@@ -6,7 +6,7 @@ created: 2023-08-26T16:50
 modified: 2023-08-26, 16:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-10-17T07:08
+updated: 2023-10-17T07:09
 ---
 
 # Control Over Judgment
@@ -19,8 +19,7 @@ Date: 2023-08-26, 16:51
 Control over ones own judgment is the absolute basis of all [Stoic](Stoicism%20) [Philosophy](Philosophy). This is done, by maintaining absolute focus over the judgement and  going with the flow, **controlling what I can control**. It is secured by using [Stoic](Stoicism%20) tools: [Morning Reflection](Reflections), [Evening Reflection](Reflections) and the [Gravestone Method](Gravestone%20Method).
 
 > [!quote]
->  ...Rather than fight against all these things which are out of your control, your task 
->  is to play the role you find yourself in as best as you can....
+>  ...Rather than fight against all these things which are out of your control, your task is to play the role you find yourself in as best as you can....
 >  **and**
 >  ... We can strive to act as best as we can, but we can never completely control the outcome....
 
