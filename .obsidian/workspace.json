@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "28df764e8a1edd51",
+            "id": "05846c939a3f850e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -29,13 +29,13 @@
             }
           },
           {
-            "id": "05846c939a3f850e",
+            "id": "35781b8d8207ec90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "SLIP-BOX/Control Over Judgment.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Control Over Judgment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-17 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/Control Over Judgment.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05846c939a3f850e",
+  "active": "35781b8d8207ec90",
   "lastOpenFiles": [
-    "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-15 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
     "Books/Make it Stick/Literature note - Make it Stick.md",

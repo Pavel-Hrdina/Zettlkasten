@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: The control of judgement
 created: 2023-08-26T16:50
 modified: 2023-08-26, 16:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-29T11:11
+updated: 2023-10-17T07:08
 ---
 
 # Control Over Judgment
@@ -25,10 +25,7 @@ Control over ones own judgment is the absolute basis of all [Stoic](Stoicism%20)
 >  ... We can strive to act as best as we can, but we can never completely control the outcome....
 
 > [!quote] Epictetus
-> It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing 
-> safely; all he has to do is head a little more upwind and disaster is instantaneous. In 
-> fact, he does not have to do anything: a momentary loss of attention will 
-> produce the same result.
+> It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing safely; all he has to do is head a little more upwind and disaster is instantaneous. In fact, he does not have to do anything: a momentary loss of attention will produce the same result.
 
 ## Personal Attachment
 
