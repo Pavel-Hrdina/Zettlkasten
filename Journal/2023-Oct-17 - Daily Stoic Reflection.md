@@ -7,7 +7,7 @@ modified: 2023-10-17, 06:45
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-17T07:07
+updated: 2023-10-17T19:45
 ---
 
 
@@ -71,7 +71,7 @@ Date: 2023-10-17, 06:45
 
 Today's Events 
 
--
+- 
 
 How I see them in the near future? 
 
@@ -90,25 +90,25 @@ Evening, afternoon or morning
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...              |
+| I demonstrated it by facing my self when I became scared and going against this as well as by doing what I need to even when I don't feel like it | I failed to demonstrate it by giving in to my negative emotions |
 
 3. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by being equal to all. | I failed to demonstrate it by being mean to those who didn't deserve it. |     
 
 5. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by staying clam even when things got hard on me and when I felt threatened. | I failed to demonstrate it by lashing out on those who were trying to mock me and in the process making a fool out of my self |        
 
 7. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
-| I demonstrated it by....                 | "I failed to demonstrate it by ...             
+| I demonstrated it by walking my talk and speaking only when necessary. | I failed to demonstrate it by speaking toomuch.  |         
 
 ## References
 
