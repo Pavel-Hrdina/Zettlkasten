@@ -7,7 +7,7 @@ modified: 2023-10-18, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-18T06:44
+updated: 2023-10-18T06:45
 ---
 
 
@@ -37,7 +37,7 @@ Date: 2023-10-18, 06:35
 3. **How can I decatastrophize today's problems?**
 	- Today is like any other day and even if you might make some big mistakes, it does not matter because there is no other time than now and only now you can make a change. I know, but you can't really on what ifs, they will take you nowhere. You need to make a change now, otherwise you will just be there, sitting and you'll realize that you have wasted time looking for the future. 
 4. **What is within my control and what is not**
-	- 
+	- Only your [[Control Over Judgment|Judgment]] is under your control. You decide when to speak and what, you decide how to react, you decide how fast you go.
 
 ### Evening
 
