@@ -7,7 +7,7 @@ modified: 2023-10-18, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-18T06:45
+updated: 2023-10-18T20:44
 ---
 
 
@@ -48,13 +48,15 @@ Date: 2023-10-18, 06:35
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+
+Today I did these things well: I was grateful, I did what I had to, I overcame my self, I accepted my self, I respected my self and others, I didn't give up. For these things I that you, you shall celebrate on these accomplishments, that many today cannot do. Let your self relax today and tomorrow, go for a walk and yes, you don't have to, if you don't want to go.  
+
+I did these things for I have become the conqueror of my ego, I have begun to do what the modern degeneracy cannot. I have begun to mold my self into a fierce beast that won't stop before no obstacle that is set in its path, like a falcon preying on the pest below, I will pray on the pest that is my ego and leave behind the stone that has been already carved making the stone that is left into a piece worth Michelangelo him self.
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
 
 4. **What duty remains undone?**
 
