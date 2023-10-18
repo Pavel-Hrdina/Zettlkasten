@@ -7,7 +7,7 @@ modified: 2023-10-18, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-18T20:44
+updated: 2023-10-18T20:51
 ---
 
 
@@ -58,11 +58,18 @@ I did these things for I have become the conqueror of my ego, I have begun to do
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
 
+Today I make the following wrong: I have been angry at people, I have been trying to control what is impossible to control, I have talked to match. For these things, do not whip your self. Instead, look at them and ask your self: "What can I learn from my mistakes" and "How will I avoid them in the future". They have been made, and the past is done, so now use your wrongs to reflect on them in the morning and how to avoid them.
+
+I did these for this reason: I was loading my grip on reality, I let my self be unfocussed. I let my self be one of those who can't think, I let my self be week.  
+
 4. **What duty remains undone?**
 
 | What duty remains undone? | Why I didn't do it |
 | ------------------- | ---------------- |
-| -                 | -              |
+
+You have finished all your duties today. Congratulations, go and celebrate.
+
+I did all that I set to do today.
 
 ## Other Methods
 
