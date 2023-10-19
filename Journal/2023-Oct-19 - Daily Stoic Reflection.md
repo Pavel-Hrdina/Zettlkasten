@@ -7,7 +7,7 @@ modified: 2023-10-19, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T06:42
+updated: 2023-10-19T06:49
 ---
 
 
@@ -27,17 +27,17 @@ Date: 2023-10-19, 06:36
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to experience cold, mean people, angry people, ungrateful people, unkind people, danger on the road and laziness. For all of these things I will react to the calmly and with precision and control.
+	- Today I am likely to experience cold, mean people, angry people, ungrateful people, unkind people, danger on the road and laziness. For all of these things, I will react to the calmly and with precision and control.
 2. **What one thing do most need to get done today?**
 	- Today I need to finish a book. I must and I will do this.
 1. **What am I grateful for?**
-	- I am grateful for my wife, parents, cars, warmth, food, my lessons, my adversities, my mistakes, my leaning, the kind people and the smart people.
+	- I am grateful for my wife, parents, cars, warmth, food, my lessons, my adversities, my mistakes, my leaning, the kind people and the smart people. I am thankful for all of these things.
 2. **What is worrying me?**
-	- 
+	- I am worried that I will be cold, undisciplined. I now face my fears head on.
 3. **How can I decatastrophize today's problems?**
-	- 
-4. **What is within my control and what is not**
-	- 
+	- No matter how much you want to give up to the wits of life, you must push the head against the wall, again, again and again until there is no breath left in you. When you feel pain or cold, or you are too hot, remember that these feeling are only in your head, and they don't exist.
+1. **What is within my control and what is not**
+	- The only thing I can control is my own [[Control Over Judgment|Judgment]]. I will use the control I have over my self, to make life better for those who need it and for me. I cannot control anything else outside that. Furthermore, I must not try to control these things that are impossible to control and flow with the rhythm of Gaia and life. 
 
 ### Evening
 
