@@ -7,7 +7,7 @@ modified: 2023-10-19, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T06:49
+updated: 2023-10-19T20:44
 ---
 
 
@@ -48,13 +48,19 @@ Date: 2023-10-19, 06:36
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
-| -                 | -              |
+
+I did these and more things well: I walked my talk, I changed what I could change, I accepted my emotions, I read a book, I faced the cold, I rested, I let my self be bored. These are the things that I did well for my self. I thank you for doing them, it will pay. 
+
+I finally accepted my self for who I am and let go of worry, so I became motivated to do what I want for my self and for others in their lives.   
 
 2. **What did I do wrong?**
 
 | What did I do wrong | Why I did it |
 | ------------------- | ---------------- |
-| -                 | -              |
+
+I made these mistakes and many more: I almost gave up on my self today, I gave in to my addiction, I failed my self and I let my self do what I didn't want to.
+
+I did them out of laziness For these wrong doing, repent. You must face your self in the mirror and forgive your self for these wrongs, for otherwise you will never let go of them and even if you forget your mind and body will remember forever, and they won't go like a mad dog that has bitten with spasm in his face now unable to let go only sinking his teeth deeper into the flesh making the wound worse and worse while you fight his teeth, making it worse, when finally you get out of his grasp only to find that you have lost. 
 
 4. **What duty remains undone?**
 
