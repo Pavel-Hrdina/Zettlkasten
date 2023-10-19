@@ -7,7 +7,7 @@ modified: 2023-10-19, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T06:38
+updated: 2023-10-19T06:42
 ---
 
 
@@ -29,9 +29,9 @@ Date: 2023-10-19, 06:36
 1. **What difficulties am I likely to encounter today?**
 	- Today I am likely to experience cold, mean people, angry people, ungrateful people, unkind people, danger on the road and laziness. For all of these things I will react to the calmly and with precision and control.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I need to finish a book. I must and I will do this.
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my wife, parents, cars, warmth, food, my lessons, my adversities, my mistakes, my leaning, the kind people and the smart people.
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
