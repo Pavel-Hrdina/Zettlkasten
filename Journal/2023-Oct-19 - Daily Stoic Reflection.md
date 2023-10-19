@@ -7,7 +7,7 @@ modified: 2023-10-19, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T20:47
+updated: 2023-10-19T20:49
 ---
 
 
@@ -69,7 +69,7 @@ I did them out of laziness For these wrong doing, repent. You must face your sel
 
 This duty is undone, and you must do it tomorrow: finish book notes.
 
-I didn't do it because I procrastinated on it. Tomorrow you must remember, but do not let these tasks hunt you and rob you of sleep as no lives matter on them and no one will die, only your soul. 
+I didn't do it because I procrastinated on it. Tomorrow you must remember, but do not let these tasks hunt you and rob you of sleep, as no lives matter on them and no one will die, only your soul. 
 
 ## Other Methods
 
