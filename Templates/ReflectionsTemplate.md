@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T09:40
+updated: 2023-10-19T17:05
 ---
 
 
@@ -15,6 +15,15 @@ updated: 2023-10-14T09:40
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: {{date}}, {{time}}
+
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
+
 
 ## Morning and Evening
 

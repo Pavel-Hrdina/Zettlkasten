@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 23,
+  "baseFontSize": 22,
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Lexend Deca",
-  "textFontFamily": "Lexend",
+  "interfaceFontFamily": "Readex Pro Deca",
+  "textFontFamily": "Readex Pro Deca",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
-  "monospaceFontFamily": "Lexend"
+  "monospaceFontFamily": "Readex Pro Deca"
 }

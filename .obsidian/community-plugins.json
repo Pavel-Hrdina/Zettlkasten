@@ -15,5 +15,7 @@
   "obsidian-git",
   "obsidian-link-converter",
   "obsidian-languagetool-plugin",
-  "table-extended"
+  "table-extended",
+  "obsidian-plugin-toc",
+  "table-editor-obsidian"
 ]

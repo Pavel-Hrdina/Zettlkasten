@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "444f2018dab995bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3c3865319eaedc95",
             "type": "leaf",
             "state": {
@@ -26,6 +18,14 @@
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "096f04a7cd3a0c00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +162,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c3865319eaedc95",
+  "active": "096f04a7cd3a0c00",
   "lastOpenFiles": [
-    "Journal/2023-Oct-18 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
+    "Templates/ReflectionsTemplate.md",
+    "Home.md",
+    "Journal/2023-Oct-18 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
     "SLIP-BOX/Control Over Judgment.md",
     "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
@@ -180,7 +179,6 @@
     "conflict-files-obsidian-git.md",
     "Books/Make it Stick/Literature note - Make it Stick.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
-    "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-13 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-12 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
@@ -196,7 +194,6 @@
     "Journal/2023-Oct-04 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-01 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
