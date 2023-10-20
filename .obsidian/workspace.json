@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c3865319eaedc95",
+            "id": "f681d4e5817d490b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-19 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Oct-20 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -161,10 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c3865319eaedc95",
+  "active": "f681d4e5817d490b",
   "lastOpenFiles": [
-    "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
+    "Templates/ReflectionsTemplate.md",
     "The Inner Citadel - Pierre Hadot Mark Aurel (Römisches Reich Kaiser).md",
     "Templates/BookSummaryTemplate.md",
     "Books/Zen to Done/Literature note - Zen to done.md",
@@ -188,7 +189,6 @@
     "Books/Make it Stick/Summary - Make it Stick.md",
     "Journal/2023-Oct-06 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-05 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-03 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
