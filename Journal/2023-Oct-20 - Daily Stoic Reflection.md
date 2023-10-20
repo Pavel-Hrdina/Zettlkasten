@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2023-10-20, 06:33"
+modified: 2023-10-20, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T17:37
+updated: 2023-10-20T06:46
 ---
 
 
@@ -36,17 +36,17 @@ Date: 2023-10-20, 06:33
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- I am likely to experience distraction, laziness, cold and generally bad weather, angryness, aggression, hate, envy and many more adversities. If these adversities are to happen, I will accept them. Not that I will resignate on them, not at all. But rather that I will face these challenges head on without fear and with calmness and compassion. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I must go to my appointments.
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my mother, my wife, my sister, compassion, emotions, being alive, having a future, being at peace, becoming resilient.  For all and many more things, I am grateful. 
 2. **What is worrying me?**
-	- 
+	- I am worried by the future, me, hearing things and that I might be too slow. I now let go of these things that make me worry. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- The future and the past are like a gateless gate, you can see what's inside, but you cannot enter. So do not stare into the gate, for by the time you can enter, there is nothing of what you saw in there.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my control and nothing else. I will use what I can control to better my life and the life of others. 
 
 ### Evening
 
