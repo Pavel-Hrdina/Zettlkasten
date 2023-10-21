@@ -7,7 +7,7 @@ modified: 2023-10-21, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-21T21:09
+updated: 2023-10-21T21:11
 ---
 
 
@@ -81,11 +81,11 @@ Today many things happened, I approached all things calmly and with love and app
 
 **How I see them in the near future?** 
 
-These events will help me to regain my strength for the following week, and I will need it a lot. I am really worried that I will fail my self again. I failed me so many times. Now I hear you say how pitiful you are as you are drowning in your own sorrow. Stand up! Fight for your self and for the human race. Fight so the next generations can live as we did. Fight so that we regain harmony with nature as it was many moons ago. Do not let your pity prevent the survival of men. Do not let the poison that was set on this earth make you week, you must fight through this and regain your dignity.
+These events will help me to regain my strength for the following week, and I will need it a lot. I am really worried that I will fail my self again. I failed me so many times. Now I hear you say how pitiful you are as you are drowning in your own sorrow. Stand up! Fight for your self and for the human race. Fight so the next generations can live as we did. Fight so that we regain harmony with nature as it was many moons ago. Do not let your pity prevent the survival of men. Do not let the poison that was set on this earth make you weak, you must fight through this and regain your dignity.
 
 **How they'd be viewed, years after I've passed?:**
 
-
+These events will be viewed as joyful by the loved ones and if anybody else hears of them, he won't think much of them, they were normal day events and nothing special really happened. 
 
 ### 4 Virtues Method
 
