@@ -7,7 +7,7 @@ modified: 2023-10-21, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-21T11:36
+updated: 2023-10-21T21:08
 ---
 
 
@@ -75,15 +75,15 @@ Date: 2023-10-21, 10:54
 > [!quote] Marcus Aurelius
 > You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
 
-Today's Events 
+**Today's Events:**
 
--
+Today many things happened, I approached all things calmly and with love and appreciation. I didn't fell like sleep walking, even thought I felt tired, the things that had to be done, I did. Even thought I didn't do some things, I didn't do them to spent time with my loved ones. We went on a trip today and I loved it a lot, we should go again tomorrow, it was a lot of fun. Today I also decided that I will get a motorcycle license and make enough money to buy a motorcycle. 
 
-How I see them in the near future? 
+**How I see them in the near future?** 
 
--
+These events will help me to regain my strength for the following week, and I will need it a lot. I am really worried that I will fail my self again. I failed me so many times. Now I hear you say how pitiful you are as you are drowning in your own sorrow. Stand up! Fight for your self and for the human race. Fight so the next generations can live as we did. Fight so that we regain harmony with nature as it was many moons ago. Do not let your pity prevent the survival of men.  
 
-How they'd be viewed, years after I've passed?
+**How they'd be viewed, years after I've passed?:**
 
 ### 4 Virtues Method
 
