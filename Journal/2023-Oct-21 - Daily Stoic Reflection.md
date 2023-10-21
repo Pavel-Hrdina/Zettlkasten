@@ -7,7 +7,7 @@ modified: 2023-10-21, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-21T11:06
+updated: 2023-10-21T11:31
 ---
 
 
@@ -36,15 +36,15 @@ Date: 2023-10-21, 10:54
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to be lazy, mean people, be lonely, be bored, be challenged. If any of these adversity's meat me I will face them head on and will not be broken by them, instead I will fight against them. I will not be broken by myself or others, no! I must push against the waves of uncertainty and make create for my self what I want for others.
+	- Today I am likely to be lazy, mean people, be lonely, be bored, be challenged. If any of these adversities meat me I will face them head on and will not be broken by them, instead I will fight against them. I will not be broken by myself or others, no! I must push against the waves of uncertainty and make create for my self what I want for others.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I must go for a walk and read the book, then I must do the practice test. I will do these things that I must do, I promise my self this, for I cannot break a promise to my self.
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my parents, my wife, being alive, being healthy being me, having enough, having food to eat, having warmth, peace, nice weather, and many more I am grateful for. All of this may seem like it's normal, but nothing should not be taken for granted. 
 2. **What is worrying me?**
-	- 
+	- I am worried that we might lose our freedom, that my voice is weak, that I dumb and too slim. These things worry me.  
 3. **How can I decatastrophize today's problems?**
-	- 
+	- When you feel your self about to give up, remember how many days you have left, how bad you will feel if you give in, remember how will others react if you give up, you must push thought weakness. You are living for your self, every day you push against you and no one else. You are your only enemy, you are your only obstacle like Sisyphus pushing the boulder up the hill, you are pushing you are pushing against your self and no matter how many times the bolder falls you must push it up again.
 4. **What is within my control and what is not**
 	- 
 
