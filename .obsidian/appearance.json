@@ -7,5 +7,6 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
-  "monospaceFontFamily": "Readex Pro Deca"
+  "monospaceFontFamily": "Readex Pro Deca",
+  "theme": "moonstone"
 }
