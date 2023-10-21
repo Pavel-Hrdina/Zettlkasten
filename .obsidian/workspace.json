@@ -11,14 +11,6 @@
             "id": "136d683c162d2c7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3fe5a13a964b420",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3fe5a13a964b420",
+  "active": "136d683c162d2c7f",
   "lastOpenFiles": [
-    "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
     "Templates/ReflectionsTemplate.md",
     "The Inner Citadel - Pierre Hadot Mark Aurel (Römisches Reich Kaiser).md",
