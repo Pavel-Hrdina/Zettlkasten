@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2023-10-21, 10:54"
+modified: 2023-10-21, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T17:37
+updated: 2023-10-21T11:06
 ---
 
 
@@ -36,7 +36,7 @@ Date: 2023-10-21, 10:54
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today I am likely to be lazy, mean people, be lonely, be bored, be challenged. If any of these adversity's meat me I will face them head on and will not be broken by them, instead I will fight against them. I will not be broken by myself or others, no! I must push against the waves of uncertainty and make create for my self what I want for others.
 2. **What one thing do most need to get done today?**
 	- 
 1. **What am I grateful for?**
