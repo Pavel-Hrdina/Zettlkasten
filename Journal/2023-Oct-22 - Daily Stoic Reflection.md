@@ -7,7 +7,7 @@ modified: 2023-10-22, 10:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-22T10:58
+updated: 2023-10-22T11:03
 ---
 
 
@@ -46,7 +46,7 @@ Date: 2023-10-22, 10:42
 3. **How can I decatastrophize today's problems?**
 	- You see the staving homeless on the street, his feet purple and his fingers black. That man is fighting for his life, that is a problem. Now what problems do you really have. You've got a perfect wife, parents, smarts so why are you upset, why do you think that your problems should put you down. You are not fighting for your life like the man on the street, you are not about to die from terminal illness and even if you were, you would choose the things that are right, you would do your best. So do your best now while you are still alive and them when you're dying on that bed, or in the mountains how you wanted, you can say with peace in your heart to those you love: "It's ok, now go and live well for your self this life does not end with me, so go and live happily. Not for me, but for your self.".
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my control, and nothing else really is. So now I chose to use my judgment that I can control to improve my self and the world around me. To make people and my self happy.
 
 ### Evening
 
