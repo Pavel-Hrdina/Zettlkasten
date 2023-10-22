@@ -7,7 +7,7 @@ modified: 2023-10-22, 10:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-22T19:25
+updated: 2023-10-22T19:45
 ---
 
 
@@ -55,20 +55,15 @@ Date: 2023-10-22, 10:42
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
-
-
+I did what I set to do, I found balance between family my self and work, I was free, I was peace, I did my reflections, I did not panic. I did these things to become a better human being and to build my self up again from dust. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I did some things without even thinking about them. I made so judgments without choosing to do them. Likewise, I was going too fast. Furthermore, I did these things because I lost focus. They are done and cannot be changed, so tomorrow make it better, don't fall into the old, harmful habits that won't take you anywhere. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I didn't read the full book, only a part, I still have to buy motorcycle gear and every day without it is a hazard. I didn't do these things because other things came that were more important to me at the moment. 
 
 ## Other Methods
 
