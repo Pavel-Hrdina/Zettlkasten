@@ -14,22 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "21221b33e9aab6e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +162,7 @@
       "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "21221b33e9aab6e6",
+  "active": "e71938cab87587de",
   "lastOpenFiles": [
     "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",

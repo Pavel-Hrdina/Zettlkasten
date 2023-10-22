@@ -7,7 +7,7 @@ modified: 2023-10-22, 10:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-22T11:03
+updated: 2023-10-22T19:25
 ---
 
 
@@ -57,6 +57,8 @@ Date: 2023-10-22, 10:42
 
 | Things I Did Well | Why I did them |
 | ------------------- | ---------------- |
+
+
 
 2. **What did I do wrong?**
 
