@@ -19,8 +19,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "21221b33e9aab6e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -163,9 +171,10 @@
       "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "e71938cab87587de",
+  "active": "21221b33e9aab6e6",
   "lastOpenFiles": [
     "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
+    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
     "README.md",
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
@@ -190,7 +199,6 @@
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-08 - Daily Stoic Reflection.md",
     "SLIP-BOX/Stoicism.md",
-    "Journal/2023-Oct-07 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
