@@ -7,7 +7,7 @@ modified: 2023-10-22, 10:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-22T10:47
+updated: 2023-10-22T10:51
 ---
 
 
@@ -38,9 +38,9 @@ Date: 2023-10-22, 10:42
 1. **What difficulties am I likely to encounter today?**
 	- Today, I am likely to encounter a lot of negative emotions. I am also likely to procrastinate. Furthermore, I am likely to give up today. If any of these things are to happen, I will treat them with loving kindness and compassion, I will not give up on my self, not today, not tomorrow not util I'm dead in the grave.
 2. **What one thing do most need to get done today?**
-	- Today I chose to read the books that will improve my life. If I got any spare time, I chose to spent time with my wife, if she has time, if not I will print the first practice test and prepare it for tomorrow. I chose to do all of these thing of my own free will. 
+	- Today I chose to read the books that will improve my life. If I got any spare time, I chose to spent time with my wife, if she has time, if not I will print the first practice test and prepare it for tomorrow. I chose to do all of these things of my own free will. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my parents, my sister, my wife, being alive, having food and warmth, having knowledge, having wisdom, understanding, Buddhism, stoicism, kindness, love and my luck. 
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
