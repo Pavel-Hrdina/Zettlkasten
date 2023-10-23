@@ -7,7 +7,7 @@ modified: 2023-10-23, 06:37
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-23T06:51
+updated: 2023-10-23T21:23
 ---
 
 
@@ -55,8 +55,7 @@ Date: 2023-10-23, 06:37
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I was careful when riding my motorcycle, I was happy thought out the day, I was articulate and at peace 
 
 2. **What did I do wrong?**
 
