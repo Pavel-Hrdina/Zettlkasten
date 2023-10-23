@@ -7,7 +7,7 @@ modified: 2023-10-23, 06:37
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-23T21:23
+updated: 2023-10-23T21:32
 ---
 
 
@@ -55,17 +55,15 @@ Date: 2023-10-23, 06:37
 
 1. **What did I do well today?**
 
-Today I was careful when riding my motorcycle, I was happy thought out the day, I was articulate and at peace 
+Today I was careful when riding my motorcycle, I was happy thought out the day, I was articulate and peaceful, and I did what I had to do no mater what. I did these things to improve my self and others.   
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I lost control of my self and my judgment for a moment today. I did this out of rage and tiredness. Furthermore, I must avoid this tomorrow. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I didn't pick the maturita books. I didn't do it because there was no time. 
 
 ## Other Methods
 
