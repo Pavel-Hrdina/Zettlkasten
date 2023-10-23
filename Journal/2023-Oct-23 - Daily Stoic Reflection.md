@@ -7,7 +7,7 @@ modified: 2023-10-23, 06:37
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-23T06:42
+updated: 2023-10-23T06:51
 ---
 
 
@@ -40,13 +40,13 @@ Date: 2023-10-23, 06:37
 2. **What one thing do most need to get done today?**
 	- Today, the most important thing is, to pick books for maturita. I chose to do this today in Excel.
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my mother, my wife, my sister, being alive, my ancestors, my country, peace, simplicity, adversity, cold, warm, food. I am grateful for all of these things and many more. 
 2. **What is worrying me?**
-	- 
+	- I am worried that I will face on my motorcycle again. I am worried because of vivid nightmares. I am worried that I will grieve today. All of these things are worrying me now, and so I chose to let go of them.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- When the hour seems dark and all seems lost, you have to chose to find all of your remaining strength and use it. As long as you're breathing and the heart is pumping blood into your veins, you must push forwards until there is nothing but darkness or victory. I know that this sounds violent, but no violence is ever the answer. So do not commit verbal or physical violence on anybody.    
 4. **What is within my control and what is not**
-	- 
+	- The only thing under my control is my [[Control Over Judgment|Judgment]]. I choose to use the control I have over my judgment to try and make life better for evryone. 
 
 ### Evening
 
