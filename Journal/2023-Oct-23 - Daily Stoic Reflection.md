@@ -46,7 +46,7 @@ Date: 2023-10-23, 06:37
 3. **How can I decatastrophize today's problems?**
 	- When the hour seems dark and all seems lost, you have to chose to find all of your remaining strength and use it. As long as you're breathing and the heart is pumping blood into your veins, you must push forwards until there is nothing but darkness or victory. I know that this sounds violent, but no violence is ever the answer. So do not commit verbal or physical violence on anybody.    
 4. **What is within my control and what is not**
-	- The only thing under my control is my [[Control Over Judgment|Judgment]]. I choose to use the control I have over my judgment to try and make life better for evryone. 
+	- The only thing under my control is my [[Control Over Judgment|Judgment]]. I choose to use the control I have over my judgment to try and make life better for everyone. 
 
 ### Evening
 
