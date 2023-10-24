@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "5072a1ad8c0e5cb3",
+        "id": "823b2a6ad15b35de",
         "type": "tabs",
         "children": [
           {
-            "id": "639280f8caa0f8af",
+            "id": "6002149c721179aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "901249fae57b6910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-23 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Oct-24 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -163,10 +172,11 @@
       "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "639280f8caa0f8af",
+  "active": "901249fae57b6910",
   "lastOpenFiles": [
-    "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
     "README.md",
@@ -190,7 +200,6 @@
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-10 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-08 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
