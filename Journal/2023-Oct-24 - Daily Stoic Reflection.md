@@ -7,7 +7,7 @@ modified: 2023-10-24, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-24T07:01
+updated: 2023-10-24T07:04
 ---
 
 
@@ -46,8 +46,8 @@ Date: 2023-10-24, 06:32
 3. **How can I decatastrophize today's problems?**
 	- I know, you feel sorry for your self like, you feel like a disgrace, like a spit on the face of earth but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human. So with this understanding you must see your self as such, you are not best so act as such, you are no god, so don't play one, you are man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
 4. **What is within my control and what is not**
-	- 
-
+	- My [[Control Over Judgment|Judgment]] is under my control and I chose to use it for good, for a better life, for humanity. Everything else is not under my control and I cannot do anything about it after I took action, everything will choose on its own and then I can't do nothing.
+ 
 ### Evening
 
 > [!quote] Marcus Aurelius
