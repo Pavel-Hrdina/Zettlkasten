@@ -7,7 +7,7 @@ modified: 2023-10-24, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-24T07:05
+updated: 2023-10-24T19:45
 ---
 
 
@@ -44,7 +44,7 @@ Date: 2023-10-24, 06:32
 2. **What is worrying me?**
 	- I am worried that I will love, that I will lose what I have, that I cannot conquer my self. I chose to let go of these worries and continue on, get back up and continue.
 3. **How can I decatastrophize today's problems?**
-	- I know, you feel sorry for your self like, you feel like a disgrace, like a spit on the face of earth but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human. So with this understanding you must see your self as such, you are not best so act as such, you are no god, so don't play one, you are man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
+	- I know, you feel sorry for your self, you feel like a disgrace, like a spit on the face of earth, but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human. So with this understanding you must see your self as such, you are not the best so act as such, you are no god, so don't play one, you are a man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Judgment]] is under my control and I chose to use it for good, for a better life, for humanity. Everything else is not under my control and I cannot do anything about it after I took action, everything will choose on its own, and then I can't do anything.
  
@@ -55,18 +55,15 @@ Date: 2023-10-24, 06:32
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I did all I wanted to do even though I was feeling sick, sad and not good. I also started going to the gym again. I did these things so that I would not give up on my self, so that I could become a better human being. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Thanks to my illness, I was lazy and went straight into bed when I came home. I did these things because I was feeling sick and unwell. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I left 4 tasks undone. I didn't do them, because I didn't want to, so I left them undone. I chose to not do them, not because I was lazy, but because I chose to not do them. 
 
 ## Other Methods
 
