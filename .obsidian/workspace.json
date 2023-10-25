@@ -11,8 +11,13 @@
             "id": "6002149c721179aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/ReflectionsTemplate.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
@@ -22,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-25 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -79,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -174,6 +178,7 @@
   },
   "active": "121bdb36c7482c80",
   "lastOpenFiles": [
+    "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-25 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
@@ -183,7 +188,6 @@
     "README.md",
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
-    "Templates/ReflectionsTemplate.md",
     "The Inner Citadel - Pierre Hadot Mark Aurel (Römisches Reich Kaiser).md",
     "Templates/BookSummaryTemplate.md",
     "Books/Zen to Done/Literature note - Zen to done.md",
