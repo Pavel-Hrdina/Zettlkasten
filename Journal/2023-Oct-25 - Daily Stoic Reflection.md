@@ -7,7 +7,7 @@ modified: 2023-10-25, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-25T22:24
+updated: 2023-10-25T22:26
 ---
 
 
@@ -77,13 +77,15 @@ Date: 2023-10-25, 06:38
 
 Today's Events 
 
-- Today was a fufilling and productive day. I hade a lot of success, I won a teble tennis turnament. I finally bought mc gear. I did ok on math test 
+- Today was a fulfilling and productive day. I had a lot of success, I won a table tennis tournament. I finally bought MC gear. Furthermore, I did ok on the test. I am happy with today.  
 
 How I see them in the near future? 
 
--
+- These events will shape the future.
 
 How they'd be viewed, years after I've passed?
+
+- They would be seen as good as Stoic. I believe this 
 
 ### 4 Virtues Method
 
