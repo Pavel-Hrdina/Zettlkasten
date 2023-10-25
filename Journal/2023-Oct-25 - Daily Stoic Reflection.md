@@ -7,7 +7,7 @@ modified: 2023-10-25, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-25T07:03
+updated: 2023-10-25T07:08
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-10-25T07:03
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-25, 06:38
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-25, 06:38
 3. **How can I decatastrophize today's problems?**
 	- Once again you constrain your self to the ideas of others, why won't you let your creativity out. You have always been creative, so why did you stop making creative things that made you so happy, even if you had no talent for it. You must take your time with things, you are not superhuman that learn anything in 3 minutes, no you need to take your time, and it's ok to take as much time as you need with your personal things. But now I ask, how do I learn something in time? I need to learn every day, it is not that I can learn something in one day and then remember it for the rest of my life. I need to use that knowledge every day to remember. Now go, I have kept you too long. 
 4. **What is within my control and what is not**
-	- 
+	- Don't fight things that you can't control. The only thing that you can control, and you will understand this the more you try to control things, is [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). It is the only thing in our control, and it's ok that way. You can't really control the outcome of anything else that. Sometimes you can't even control your self. That is the beauty of life, that you can't control anything. You ask: "But why is it beautiful?". Well would life be exiting if all things had a simple solution, just like that you snap your fingers and all is great, no that is boring really. So be the spectator of the events around you once you take action, for that is when you can't control the outcome anymore.  
 
 ### Evening
 
