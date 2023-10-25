@@ -7,7 +7,7 @@ modified: 2023-10-25, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-25T06:52
+updated: 2023-10-25T07:03
 ---
 
 
@@ -42,9 +42,9 @@ Date: 2023-10-25, 06:38
 1. **What am I grateful for?**
 	- I am grateful for all of these things and many more: My mum and dad, my sister, my wife, my family, peace, food, warmth, stillness, the starts, the sun, the clouds, the wind, the car, money, motorcycles, earth, my ancestors, being alive, being happy and being peace. I am grateful for all of these things, and much more.   
 2. **What is worrying me?**
-	- 
+	- I am worried that I will get distracted easily today, that I do not belong to where I am. These things worry me now, and I chose to let go of them at this moment, for they are only worries.   
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Once again you constrain your self to the ideas of others, why won't you let your creativity out. You have always been creative, so why did you stop making creative things that made you so happy, even if you had no talent for it. You must take your time with things, you are not superhuman that learn anything in 3 minutes, no you need to take your time, and it's ok to take as much time as you need with your personal things. But now I ask, how do I learn something in time? I need to learn every day, it is not that I can learn something in one day and then remember it for the rest of my life. I need to use that knowledge every day to remember. Now go, I have kept you too long. 
 4. **What is within my control and what is not**
 	- 
 
