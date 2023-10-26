@@ -7,7 +7,7 @@ modified: 2023-10-26, 09:49
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-26T09:55
+updated: 2023-10-26T10:07
 ---
 
 
@@ -42,9 +42,9 @@ Date: 2023-10-26, 09:49
 1. **What am I grateful for?**
 	- I am grateful for my wife, my parents, my education, my sister, being alive, the weather, the warmth, my space, the clothing I wear, the person I am, life and all the other little things.
 2. **What is worrying me?**
-	- 
+	- I am worried that none likes me. I am worried that I am an imposter. Furthermore, I am worried that I do not deserve my life. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You, my friend, might think that you are the dumbest person alive, that you don't belong, but why? Is it because people are mean to you, and you are so sensitive to their criticism. Or is it because you are falling into bad habits again, or is it because you feel like you know nothing. Well, none of these things are true. You must choose to trust your self and others, if you can't trust anybody, than you can't trust your self. It takes a lot of courage to trust someone, especially if you've been betrayed so many times before. I know you see the world as a dark place full of horror, corruption and absolute hell, and maybe you are right. But if you can make life good for your self and others, you can reduce this suffering that the world is in. Every day so many suffer fates worse than death, those stories are not heard and are not seen. We are shielded from them, kept in our little bubbles, thinking that the dark ages are long gone. But the human race didn't change its ways. You are cursed to be so sensitive, but you must use this curse to heal the suffering you see in others, only then you will find your peace, now you have found your mission on this earth. So then be at peace, you know what you have to do. Be kind to all, even those who are trying to hurt you, trying to break you, you must choose to resist their pain and heal their wounds. 
 4. **What is within my control and what is not**
 	- 
 
