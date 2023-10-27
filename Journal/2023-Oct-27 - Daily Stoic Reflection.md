@@ -7,7 +7,7 @@ modified: 2023-10-27, 08:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-27T09:20
+updated: 2023-10-27T20:25
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-10-27, 08:54
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I went to the gym, I discovered my motorcycle has a fault and I relaxed. I did these things because I want to better my self I want to be safe and healthy, 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I was not in control of my emotion, and I was putting my self down. I did these things because I lost control over my self.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I must do the tests. I didn't do them because I just want to stare into the wall and do nothing.
 
 ## Other Methods
 
