@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -165,8 +164,10 @@
   },
   "active": "48988c9934f71f59",
   "lastOpenFiles": [
-    "Journal/2023-Oct-27 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-26 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-27 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-26 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-25 - Daily Stoic Reflection.md",
     "Templates/ReflectionsTemplate.md",
     "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
@@ -189,8 +190,6 @@
     "conflict-files-obsidian-git.md",
     "Books/Make it Stick/Literature note - Make it Stick.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-13 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-12 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
