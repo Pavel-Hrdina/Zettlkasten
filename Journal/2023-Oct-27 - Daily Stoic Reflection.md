@@ -7,7 +7,7 @@ modified: 2023-10-27, 08:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-27T09:07
+updated: 2023-10-27T09:12
 ---
 
 
@@ -42,9 +42,9 @@ Date: 2023-10-27, 08:54
 1. **What am I grateful for?**
 	- I am grateful for my wife, parents, sister, being alive, being healthy, food, warmth, love. I am grateful for all of these things and many more. 
 2. **What is worrying me?**
-	- 
+	- I am worried that I am not enough that I will fail my self again. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Even in your darkest hours, you must search for the light, the light that is hope. This will be your guiding star that you must follow until you reach it, until you become one with your own soul that you have become distant from, that you have shut your self from. Do you believe that things that seem impossible may just be possible? Do you 
 4. **What is within my control and what is not**
 	- 
 
