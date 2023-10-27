@@ -7,7 +7,7 @@ modified: 2023-10-27, 08:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-27T08:58
+updated: 2023-10-27T09:07
 ---
 
 
@@ -36,11 +36,11 @@ Date: 2023-10-27, 08:54
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to be cold 
+	- Today I am likely to be cold, almost freezing. I am likely to meet ungrateful mean, suffering and unhappy people, be bored, be sad, be angry. If I realize that one of these is happening, I will not be discouraged and will tackle these adversities by practising loving kindness. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I chose to print university acceptance tests. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my wife, parents, sister, being alive, being healthy, food, warmth, love. I am grateful for all of these things and many more. 
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
