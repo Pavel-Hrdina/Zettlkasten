@@ -7,7 +7,7 @@ modified: 2023-10-28, 10:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-28T19:59
+updated: 2023-10-28T20:08
 ---
 
 
@@ -62,7 +62,7 @@ Today, I was carried a lot of sadness on my shoulders, because I was upset about
 
 4. **What duty remains undone?**
 
-Today I did not 
+Today I had no tasks.
 
 ## Other Methods
 
