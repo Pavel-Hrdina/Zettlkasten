@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-19, 12:30
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-19T13:01
+updated: 2023-10-28T14:23
 ---
 
 # Taking Book Notes
@@ -25,7 +25,7 @@ It's a good idea to add drawings to the book notes for clearer and faster review
 
 ## Personal Attachment
 
-Taking good notes on a book will help me remember it while reading and after reading it. 
+Taking good notes on a book will help me remember it while [[Reading]] and after [[Reading]] it. 
 
 ## References
 

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84a7a8156e7997c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLIP-BOX/Reading.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Reading.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/Reading.md"
               }
             }
           },
@@ -160,8 +174,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66008ed4775ecb8c",
+  "active": "84a7a8156e7997c5",
   "lastOpenFiles": [
+    "SLIP-BOX/Taking Book Notes.md",
+    "SLIP-BOX/Reading.md",
+    "Books/Zen to Done/Literature note - Zen to done.md",
+    "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
+    "Templates/BookSummaryTemplate.md",
     "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-27 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-26 - Daily Stoic Reflection.md",
@@ -178,16 +197,11 @@
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
     "The Inner Citadel - Pierre Hadot Mark Aurel (Römisches Reich Kaiser).md",
-    "Templates/BookSummaryTemplate.md",
-    "Books/Zen to Done/Literature note - Zen to done.md",
     "Home.md",
     "Journal/2023-Oct-18 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
     "SLIP-BOX/Control Over Judgment.md",
     "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-15 - Daily Stoic Reflection.md",
-    "conflict-files-obsidian-git.md",
-    "Books/Make it Stick/Literature note - Make it Stick.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
