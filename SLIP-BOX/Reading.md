@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-10-28, 14:23
 template-type: Note
 template-version: "1.7"
-updated: 2023-10-28T14:31
+updated: 2023-10-28T14:32
 ---
 
 # Reading
@@ -21,7 +21,7 @@ Reading is one of the most important things you could ever learn... but the ques
 
 ## Personal Attachment
 
-Reading is the best way to learn anithing.
+Reading is the 1st step to learn anything.
 ## References
 
 [Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
