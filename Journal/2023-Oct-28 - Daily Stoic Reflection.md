@@ -7,7 +7,7 @@ modified: 2023-10-28, 10:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-28T14:16
+updated: 2023-10-28T19:59
 ---
 
 
@@ -54,18 +54,15 @@ Date: 2023-10-28, 10:51
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I did not succumb to my emotions and I prevailed victorious over my self. I did this so I could continue forward and move on with my life. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today, I was carried a lot of sadness on my shoulders, because I was upset about my wife. I also wasn't able to take responsibility for my own actions because I was upset. I was also exhausted today, I don't know why, I just felt depressed. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I did not 
 
 ## Other Methods
 

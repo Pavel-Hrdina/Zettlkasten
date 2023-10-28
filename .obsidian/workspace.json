@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md",
+                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md",
+                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md"
+                "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84a7a8156e7997c5",
+  "active": "66008ed4775ecb8c",
   "lastOpenFiles": [
     "SLIP-BOX/Remember What you Read.md",
     "SLIP-BOX/Reading.md",
