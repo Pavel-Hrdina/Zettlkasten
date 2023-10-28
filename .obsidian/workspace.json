@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/Reading.md",
+                "file": "SLIP-BOX/Remember What you Read.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Reading.md",
+                "file": "SLIP-BOX/Remember What you Read.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Reading.md",
+                "file": "SLIP-BOX/Remember What you Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Reading.md"
+                "file": "SLIP-BOX/Remember What you Read.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe34a8e5c464e691",
+  "active": "84a7a8156e7997c5",
   "lastOpenFiles": [
-    "SLIP-BOX/Taking Book Notes.md",
     "SLIP-BOX/Reading.md",
+    "SLIP-BOX/Remember What you Read.md",
+    "SLIP-BOX/Taking Book Notes.md",
     "Books/Zen to Done/Literature note - Zen to done.md",
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
     "Templates/BookSummaryTemplate.md",
@@ -202,7 +203,6 @@
     "Journal/2023-Oct-18 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-17 - Daily Stoic Reflection.md",
     "SLIP-BOX/Control Over Judgment.md",
-    "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
