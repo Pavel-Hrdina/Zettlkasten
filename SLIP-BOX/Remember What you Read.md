@@ -1,6 +1,6 @@
 ---
 created: 2023-08-24T12:17
-updated: 2023-10-28T16:34
+updated: 2023-10-28T16:35
 tags:
   - type/note
 aliases: 
@@ -16,6 +16,8 @@ Tags: #reading #books #learning #life
 Date: 2023-10-28, 16:28
 
 ---
+
+
 
 ## Personal Attachment
 
