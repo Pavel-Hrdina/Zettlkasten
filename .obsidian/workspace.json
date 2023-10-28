@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84a7a8156e7997c5",
+  "active": "fe34a8e5c464e691",
   "lastOpenFiles": [
     "SLIP-BOX/Taking Book Notes.md",
     "SLIP-BOX/Reading.md",
