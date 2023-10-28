@@ -7,7 +7,7 @@ modified: 2023-10-28, 10:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-28T12:02
+updated: 2023-10-28T14:00
 ---
 
 
@@ -36,17 +36,17 @@ Date: 2023-10-28, 10:51
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to experience the following adversities: cold, laziness, depression, boredom, hate, self-hate, not enough love. And many more that I am not able to think off.
+	- Today I am likely to experience the following adversities: cold, laziness, depression, boredom, hate, self-hate, not enough love. And many more that I am not able to think of.
 2. **What one thing do most need to get done today?**
-	- Today I have to service my motocycle. 
+	- Today I have to service my motorcycle. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my mother, father, sister, wife, being alive, nature, weather.
 2. **What is worrying me?**
-	- 
+	- I am worried that I will be alone.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Nothing lasts for ever.
 4. **What is within my control and what is not**
-	- 
+	- Only my [[Control Over Judgment|Judgment]] is under my control.
 
 ### Evening
 

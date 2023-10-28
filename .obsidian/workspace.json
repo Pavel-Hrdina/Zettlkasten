@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
