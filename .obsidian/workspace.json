@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "823b2a6ad15b35de",
+        "id": "763f66deb45fbe5b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd370b23ee41cc23",
+            "id": "66008ed4775ecb8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -146,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +156,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-stille:Toggle Stille": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd370b23ee41cc23",
+  "active": "66008ed4775ecb8c",
   "lastOpenFiles": [
-    "Journal/2023-Oct-27 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-27 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-26 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-26 - Daily Stoic Reflection.md",

@@ -7,7 +7,7 @@ modified: 2023-10-28, 10:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-28T14:00
+updated: 2023-10-28T14:16
 ---
 
 
@@ -44,10 +44,9 @@ Date: 2023-10-28, 10:51
 2. **What is worrying me?**
 	- I am worried that I will be alone.
 3. **How can I decatastrophize today's problems?**
-	- Nothing lasts for ever.
+	- Nothing lasts forever.
 4. **What is within my control and what is not**
 	- Only my [[Control Over Judgment|Judgment]] is under my control.
-
 ### Evening
 
 > [!quote] Marcus Aurelius
@@ -122,5 +121,4 @@ Evening, afternoon or morning
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
-
 
