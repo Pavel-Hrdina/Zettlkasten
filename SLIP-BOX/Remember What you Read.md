@@ -1,6 +1,6 @@
 ---
 created: 2023-08-24T12:17
-updated: 2023-10-28T16:28
+updated: 2023-10-28T16:34
 tags:
   - type/note
 aliases: 
@@ -10,9 +10,9 @@ template-type: Note
 template-version: "1.7"
 ---
 
-# Remember What you Read
+# Remember What You Read
 
-Tags: 
+Tags: #reading #books #learning #life 
 Date: 2023-10-28, 16:28
 
 ---
@@ -23,3 +23,4 @@ Date: 2023-10-28, 16:28
 ## References
 
 [Personal knowledge management](../SLIP-BOX/Personal%20knowledge%20management.md)
+[[Reading]]
