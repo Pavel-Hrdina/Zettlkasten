@@ -7,7 +7,7 @@ modified: 2023-10-28, 10:51
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-28T20:08
+updated: 2023-10-28T20:09
 ---
 
 
@@ -54,7 +54,7 @@ Date: 2023-10-28, 10:51
 
 1. **What did I do well today?**
 
-Today I did not succumb to my emotions and I prevailed victorious over my self. I did this so I could continue forward and move on with my life. 
+Today I did not succumb to my emotions and I prevailed victorious over my self. I did this, so I could continue forward and move on with my life. 
 
 2. **What did I do wrong?**
 
