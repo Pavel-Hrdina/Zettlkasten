@@ -7,7 +7,7 @@ modified: 2023-10-29, 09:28
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-29T18:01
+updated: 2023-10-29T18:12
 ---
 
 
@@ -59,7 +59,7 @@ I remained calm in the face of adversity, I remained calm in the face of anger, 
 
 2. **What did I do wrong?**
 
-I was mean to my wife, I didn't control my boredom, I was talking too little. 
+I was mean to my wife, I didn't control my boredom, I was talking too little. I did these things because I lost control over my self and I am sorry for that to you.
 
 4. **What duty remains undone?**
 
