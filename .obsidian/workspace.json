@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2023-Oct-29 - Daily Stoic Reflection.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -158,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +178,11 @@
   },
   "active": "691d99d6d14f2ef9",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Drawing 2023-10-29 18.00.03.excalidraw.md",
+    "Journal/2023-Oct-29 - Daily Stoic Reflection.md",
     "SLIP-BOX/Remember What you Read.md",
     "Templates/ReflectionsTemplate.md",
     "Templates/NoteTemplate.md",
-    "Journal/2023-Oct-29 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-28 - Daily Stoic Reflection.md",
     "SLIP-BOX/Reading.md",
     "SLIP-BOX/Taking Book Notes.md",
@@ -201,7 +204,6 @@
     "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
     "The Inner Citadel - Pierre Hadot Mark Aurel (Römisches Reich Kaiser).md",
     "Home.md",
-    "Journal/2023-Oct-18 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",

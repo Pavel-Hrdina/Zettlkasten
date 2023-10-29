@@ -7,7 +7,7 @@ modified: 2023-10-29, 09:28
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-29T09:44
+updated: 2023-10-29T18:01
 ---
 
 
@@ -55,13 +55,11 @@ Date: 2023-10-29, 09:28
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+I remained calm in the face of adversity, I remained calm in the face of anger, I remained in control of my self, I supported my girlfriend and I listened to my body. I did all of these things to become a better human being. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I was mean to my wife, I didn't control my boredom, I was talking too little. 
 
 4. **What duty remains undone?**
 
