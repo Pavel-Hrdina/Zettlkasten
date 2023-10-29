@@ -59,12 +59,11 @@ I remained calm in the face of adversity, I remained calm in the face of anger, 
 
 2. **What did I do wrong?**
 
-I was mean to my wife, I didn't control my boredom, I was talking too little. I did these things because I lost control over my self and I am sorry for that to you.
+I was mean to my wife, I didn't control my boredom, I was talking too little. I did these things because I lost control over my self, and I am sorry for that to you.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I had no task that had to be done today.
 
 ## Other Methods
 
