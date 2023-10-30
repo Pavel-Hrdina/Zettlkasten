@@ -7,7 +7,7 @@ modified: 2023-10-30, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-30T06:51
+updated: 2023-10-30T20:22
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-10-30, 06:38
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I overcame my self, even when I felt down I pushed against me. I did this to become my best self. I made others laugh and made them happy. Not only that, but I did this to reduce suffering in this world. Not only that, but I was like a wall for my wife, when she needed me. I did this to be a stable for her, so that she knows that every time she has a problem, I will react with peace and compassion. I realized my primal anger and let go of it before it could take a hold of me. Likewise, I did this to control my self, using my [[Control Over Judgment|Judgment]].
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today, I said things that should have been kept in my head. I did this because I lost control over my [[Control Over Judgment|Judgment]].
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+3 tasks are not yet complete, and I chose to work on them tomorrow morning. 
 
 ## Other Methods
 
