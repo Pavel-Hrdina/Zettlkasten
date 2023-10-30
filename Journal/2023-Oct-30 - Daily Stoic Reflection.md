@@ -7,7 +7,7 @@ modified: 2023-10-30, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-30T06:50
+updated: 2023-10-30T06:51
 ---
 
 
@@ -46,7 +46,7 @@ Date: 2023-10-30, 06:38
 3. **How can I decatastrophize today's problems?**
 	- I know how you feel, that feeling of despair is lurking inside your soul. Its painful bites remind you that you are still alive, that you are not dead yet, that it's not the end yet. So get up from the ground, get up from the bed every morning and fight your destiny, flow with your self and take action, because you are not dead yet and for as long as you are alive you can still do something, only the dead now know nothingness and for as long as you are alive you will choose to push again you. You know you are no idiot, so why do you put your self down? 
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is within my control and I chose to use it for good. Nothing else I can control.
 
 ### Evening
 
