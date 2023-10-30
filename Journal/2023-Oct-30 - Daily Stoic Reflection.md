@@ -7,7 +7,7 @@ modified: 2023-10-30, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-30T06:43
+updated: 2023-10-30T06:45
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-10-30, 06:38
 1. **What am I grateful for?**
 	- I am grateful for my parents, my wife, my sister, my self, being alive, being healthy, food, warmth and for many more things I am grateful for. 
 2. **What is worrying me?**
-	- 
+	- I am worried about time and my intellect. These things worry me and I chose to accept them for what they are. I chose to stop fighting them and I let go of the worries. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
