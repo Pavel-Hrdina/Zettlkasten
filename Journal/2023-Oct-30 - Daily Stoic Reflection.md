@@ -7,7 +7,7 @@ modified: 2023-10-30, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-30T06:41
+updated: 2023-10-30T06:43
 ---
 
 
@@ -38,9 +38,9 @@ Date: 2023-10-30, 06:38
 1. **What difficulties am I likely to encounter today?**
 	- Today I am likely to experience hatred, people that are angry, suffering, mean and unhappy, sadness, bad weather and many more things that might surprise me. In the case of adversity I will not yield to it, instead I chose to accept it with loving kindness and calmness and use my judgment to act on it.   
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I need to pick up my package. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my parents, my wife, my sister, my self, being alive, being healthy, food, warmth and for many more things I am grateful for. 
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
