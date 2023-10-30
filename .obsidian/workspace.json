@@ -21,14 +21,6 @@
             }
           },
           {
-            "id": "35a5ff8ccb579d09",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "71263f9680995678",
             "type": "leaf",
             "state": {
@@ -39,6 +31,14 @@
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "35a5ff8ccb579d09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
