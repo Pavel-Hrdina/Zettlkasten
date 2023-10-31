@@ -7,7 +7,7 @@ modified: 2023-10-31, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-31T06:40
+updated: 2023-10-31T06:51
 ---
 
 
@@ -40,13 +40,13 @@ Date: 2023-10-31, 06:35
 2. **What one thing do most need to get done today?**
 	- Today I need to finish my most pressing tasks, my most important tasks, that I have in my task manager. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my parents, my sister, my wife, being alive, being born, the weather, life, the kind, food, warmth and much more I am grateful for.
 2. **What is worrying me?**
-	- 
+	- I am worried that life is a dream, that I am, but a part of a simulation a walking dead. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You know that the only thing you can do is take action, so why do you cling to the idea that you need to be in control of all things. Or perhaps you are just covering something up to your self this way, that something happened as you could not control when you were but a child and since you cannot help your self. Or you are a chronic liar I don't know, I am not a psychic to say. You must now go and carve your path, carve the stone you are made of until the diamond under it shines through so bright you are blinded and so is everyone else. Now go and make your dreams a reality, for all it takes is action. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my control is my [[Control Over Judgment|Judgment]] and nothing else is. Now I chose to use my judgment and my actions for good.
 
 ### Evening
 
