@@ -7,7 +7,7 @@ modified: 2023-10-31, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-31T06:51
+updated: 2023-10-31T18:02
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-10-31, 06:35
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+I remained calm in the face of adversity, I was like a rock that the waves are hitting with such a mighty force, yet it does not move at all. I did this to conquer my self. Furthermore, I learned how to use a wax seal. I did this so that I could make nice gifts for others.  
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I lost control over my anger momentarily, I am ashamed of this, yet it is so human. I did this because my motorcycle got broken.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I have yet to finish my school work. 
 
 ## Other Methods
 
