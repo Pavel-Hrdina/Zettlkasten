@@ -7,7 +7,7 @@ modified: 2023-11-01, 06:29
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-01T06:55
+updated: 2023-11-01T06:56
 ---
 
 
@@ -46,7 +46,7 @@ Date: 2023-11-01, 06:29
 3. **How can I decatastrophize today's problems?**
 	- Even in absolute darkness, you are still alive, even when you are lost in the darkest forest for days, you are still alive and for as long as you are alive you can take action and make a change to your self and others. You can make the greatest change even just before you die, your life must not be wasted for a lost cause or for a dying art, for the days of tomorrow shape the legacy of today. 
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is the only thing within my control. I chose to use my [[Control Over Judgment|Judgment]] for good and nice.
 
 ### Evening
 
