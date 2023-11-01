@@ -7,7 +7,7 @@ modified: 2023-11-01, 06:29
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-01T06:59
+updated: 2023-11-01T20:11
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-01, 06:29
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I was diligent with my self. I did this to become my best self. I chose my priorities. Furthermore, I did this to remove all the cluster from my life. I chose to pain attention in class. I made this decision, so that I would use my time wisely. Likewise, I completed what I set to complete. I did this so that I could trust my self again. I made my motorcycle working today. Furthermore, I did this so that I could be free again. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I engaged in conversation with idiots. I did this because otherwise I would make them angry. Not only that, but I said my opinion on things I had no business in. I did this because I could not control my self. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I did not complete my 2 most important tasks. I didn't do them because I was too lazy to do them. Tomorrow, you must chose to finish all your tasks from today, otherwise you are cheating your self.
 
 ## Other Methods
 
