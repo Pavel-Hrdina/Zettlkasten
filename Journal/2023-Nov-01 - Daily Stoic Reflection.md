@@ -63,7 +63,7 @@ I engaged in conversation with idiots. I did this because otherwise I would make
 
 4. **What duty remains undone?**
 
-Today I did not complete my 2 most important tasks. I didn't do them because I was too lazy to do them. Tomorrow, you must chose to finish all your tasks from today, otherwise you are cheating your self.
+Today I did not complete my 2 most important tasks. I didn't do them because I was too lazy to do them. Tomorrow, you must choose to finish all your tasks from today, otherwise you are cheating your self.
 
 ## Other Methods
 
