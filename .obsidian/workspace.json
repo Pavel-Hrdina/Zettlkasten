@@ -27,9 +27,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3ba11ce7d9c0c6b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Nov-01 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2023-Nov-01 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2023-Nov-01 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2023-Nov-01 - Daily Stoic Reflection.md"
+              }
             }
           },
           {
@@ -168,8 +185,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35a5ff8ccb579d09",
+  "active": "3ba11ce7d9c0c6b2",
   "lastOpenFiles": [
+    "Journal/2023-Nov-01 - Daily Stoic Reflection.md",
     "SLIP-BOX/Remember What you Read.md",
     "Journal/2023-Oct-31 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-30 - Daily Stoic Reflection.md",
@@ -195,7 +213,6 @@
     "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
     "README.md",
     "Journal/2023-Oct-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
