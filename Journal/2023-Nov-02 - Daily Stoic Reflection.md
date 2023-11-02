@@ -7,7 +7,7 @@ modified: 2023-11-02, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-02T06:59
+updated: 2023-11-02T20:20
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-02, 06:42
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I remained calm in the face of great adversity created by others and my mind, this was challenging for me to endure, so I did to become a better human being, and then I was kind to those who wronged me with poison and this has made them lose their control over me completely. Today I also finished tasks, that I have been putting off for some time, this has helped me to reduce the cluster my mind was carrying and that was making me stressed, I chose to do this in order to reduce the burdens I have on me and to make time for other tasks in the future. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I have made jokes that I hid my true emotions with, thus avoiding confronting my self when I needed it, this I did to avoid being judged by others and that was a mistake that I must not make again tomorrow. Today I did not give enough time to my wife, even when she had time for me and I for her, I chose to do other things, this I did because there were things that I couldn't put off any longer. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I have yet to complete tasks 
 
 ## Other Methods
 
