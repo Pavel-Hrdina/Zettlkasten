@@ -7,7 +7,7 @@ modified: 2023-11-02, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-02T06:57
+updated: 2023-11-02T06:59
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-11-02, 06:42
 2. **What is worrying me?**
 	- I am worried that I can't learn in time what I want to learn. I am worried that I might get into a fight today. I am worried that my anger is beyond my control. I am worried that I will be a good for nothing. I am worried that I might lose the people I love. Now I chose to accept these things with love and grace, letting go of them worries, like a bird that lets the wind guide his path. 
 3. **How can I decatastrophize today's problems?**
-	- Yes, I know you feel like shit today, perhaps you might be thinking to your self, what have I done to suffer so match. Think instead that you are alive, that you have food every day, that you wake up warm, that you are healthy, so do not pity your self for someone being mean to you, someone talking shit, let go of the anger you have towards these people, leave their words in the past and focus on the present. Use the love you have for others and your self to heal the suffering and all will be well.
+	- Yes, I know you feel like shit today, perhaps you might be thinking to your self, what have I done to suffer so match. Think instead that you are alive, that you have food every day, that you wake up warm, that you are healthy, so do not pity your self for someone being mean to you, someone talking shit, let go of the anger you have towards these people, leave their words in the past and focus on the present. Use the love you have for others and your self to heal the suffering, and all will be well.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is the only thing under my control, the only real thing I have control over, now I chose to use my [[Control Over Judgment|Judgment]] for good.
 
 ### Evening
 
