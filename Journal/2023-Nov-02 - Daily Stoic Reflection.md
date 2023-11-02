@@ -7,7 +7,7 @@ modified: 2023-11-02, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-02T20:20
+updated: 2023-11-02T20:25
 ---
 
 
@@ -63,7 +63,7 @@ I have made jokes that I hid my true emotions with, thus avoiding confronting my
 
 4. **What duty remains undone?**
 
-I have yet to complete tasks 
+I have yet to complete tasks that are of the utmost importance, but not today, they will be done tomorrow, once I get home, they are not yet done because I chose to have balance in my life. 
 
 ## Other Methods
 
