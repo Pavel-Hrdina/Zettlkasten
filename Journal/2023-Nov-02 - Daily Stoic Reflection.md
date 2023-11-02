@@ -7,7 +7,7 @@ modified: 2023-11-02, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-02T06:49
+updated: 2023-11-02T06:53
 ---
 
 
@@ -40,9 +40,9 @@ Date: 2023-11-02, 06:42
 2. **What one thing do most need to get done today?**
 	- Today I chose to do the tasks I have from yesterday.
 1. **What am I grateful for?**
-	- I am grateful for my family, my family, my life, being alive, having emotions, having a heart, being me, being resilient, being human, the weather, my home, my country. I chose to be grateful for all of these things all the other good things that I might encounter today.
+	- I am grateful for my family, my family, my life, being alive, having emotions, having a heart, being me, being resilient, being human, the weather, my home, my country. I chose to be grateful for all of these things, all the other good things that I might encounter today.
 2. **What is worrying me?**
-	- 
+	- I am worried that I can't learn in time what I want to learn. I am worried that I might get into a fight today. I am worried that my anger is beyond my control. I am worried that I will be a good for nothing. I am worried that I might lose the people I love. Now I chose to accept these things with love and grace, letting go of them worries, like a bird that lets the wind guide his path. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
