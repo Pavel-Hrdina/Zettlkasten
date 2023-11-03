@@ -7,7 +7,7 @@ modified: 2023-11-03, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-03T06:52
+updated: 2023-11-03T06:58
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-11-03, 06:38
 2. **What is worrying me?**
 	- I am worried that I will fail today, I am worried that I can't decide, I am worried that the world is getting too fast for me. This very moment, I chose to abandon these thoughts of worry that plague my mind like a poison of the mind that has no known cure and is worse that any poison the body could endure. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You might start to believe that courage is something you must be born with that discipline has to be built from early childhood, that a human being that hasn't been crafted by a mold is nonetheless useless and becomes a fool and a degenerate. Stop these thoughts calmly now, as you could not be further from the truth. So many were so unlucky and without a life set like that, yet they become the best. "How come?", you might be asking. Well the answer is simple, they fed the inner fires that drives the human being to greatness the fires of hope and discipline, and they worked smart, they took their time to think things thought.   
 4. **What is within my control and what is not**
-	- 
+	- The only things under my control is my [[Control Over Judgment|Judgment]]. I chose now to use it for greater good, to take action and help others and your self to live a meaningful live.  
 
 ### Evening
 
