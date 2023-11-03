@@ -7,7 +7,7 @@ modified: 2023-11-03, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-03T19:59
+updated: 2023-11-03T20:02
 ---
 
 
@@ -59,13 +59,11 @@ Today I was very talkative because I was in the mood to talk. I also let go of a
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I let others laugh at me for being different, I did this because I did not have the gut to stand up for my self now I chose to accept my mistakes with gratefulness and love, then let go of them. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I still did not pick the maturita books. I completely forgot to do this, and I am ashamed of my self for this. 
 
 ## Other Methods
 
