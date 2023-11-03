@@ -7,7 +7,7 @@ modified: 2023-11-03, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-03T06:58
+updated: 2023-11-03T19:59
 ---
 
 
@@ -42,11 +42,11 @@ Date: 2023-11-03, 06:38
 1. **What am I grateful for?**
 	- I am grateful for my parents, my wife, being alive, being in peace, having food every day, having warmth and having being me. I chose to be grateful for these and many more things I am grateful for. 
 2. **What is worrying me?**
-	- I am worried that I will fail today, I am worried that I can't decide, I am worried that the world is getting too fast for me. This very moment, I chose to abandon these thoughts of worry that plague my mind like a poison of the mind that has no known cure and is worse that any poison the body could endure. 
+	- I am worried that I will fail today, I am worried that I can't decide, I am worried that the world is getting too fast for me. This very moment, I chose to abandon these thoughts of worry that plague my mind like a poison of the mind that has no known cure and is worse than any poison the body could endure. 
 3. **How can I decatastrophize today's problems?**
 	- You might start to believe that courage is something you must be born with that discipline has to be built from early childhood, that a human being that hasn't been crafted by a mold is nonetheless useless and becomes a fool and a degenerate. Stop these thoughts calmly now, as you could not be further from the truth. So many were so unlucky and without a life set like that, yet they become the best. "How come?", you might be asking. Well the answer is simple, they fed the inner fires that drives the human being to greatness the fires of hope and discipline, and they worked smart, they took their time to think things thought.   
 4. **What is within my control and what is not**
-	- The only things under my control is my [[Control Over Judgment|Judgment]]. I chose now to use it for greater good, to take action and help others and your self to live a meaningful live.  
+	- The only things under my control is my [[Control Over Judgment|Judgment]]. I chose now to use it for greater good, to take action and help others and your self to live a meaningful life.  
 
 ### Evening
 
@@ -55,8 +55,7 @@ Date: 2023-11-03, 06:38
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I was very talkative because I was in the mood to talk. I also let go of any worries and cluster that I had in my mind, because I wanted to be free and when you are free, the surrounding bullshit is meaningless. I also let go of perfection so that I could make things done. 
 
 2. **What did I do wrong?**
 
