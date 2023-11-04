@@ -7,7 +7,7 @@ modified: 2023-11-04, 08:37
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-04T08:47
+updated: 2023-11-04T08:55
 ---
 
 
@@ -40,13 +40,13 @@ Date: 2023-11-04, 08:37
 2. **What one thing do most need to get done today?**
 	- Today I need to read the publication on OSP tests. 
 1. **What am I grateful for?**
-	- I am grateful for being alive, my wife, my parents, my sister, being me, love, kindness, understanding, having a car, having a motocicle, being free, living in peace, living in democracy.
+	- I am grateful for being alive, my wife, my parents, my sister, being me, love, kindness, understanding, having a car, having a motorcycle, being free, living in peace, living in democracy.
 2. **What is worrying me?**
-	- 
+	- I am worried that I can't do all that I want to do today. I now chose to let go of these ideas and become peace.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You might think to your self: "How come everyone is like that to me, what have I done to them?". But you must think instead: "How can I confront the ones that wronged me and learn from them.". Your problems are only a construct in your head that your mind and unconscious made up to keep you alive, but they serve no purpose here and are contrapruductive. So instead of falling into the trap of pitying your self, reimagine your problems so that they can be solved with ease and without hassle. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is under my control is my [[Control Over Judgment|Judgment]] and how do I choose to use it, in order to develop my self further. 
 
 ### Evening
 
