@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6bd40d9da637a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Nov-04 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -179,6 +192,7 @@
   "lastOpenFiles": [
     "Journal/2023-Nov-04 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-05 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-04 - Daily Stoic Reflection.md",
     "SLIP-BOX/Remember What you Read.md",
     "Journal/2023-Nov-03 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-02 - Daily Stoic Reflection.md",
@@ -202,7 +216,6 @@
     "Journal/2023-Oct-25 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-24 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-23 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",

@@ -7,7 +7,7 @@ modified: 2023-11-05, 13:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-05T13:46
+updated: 2023-11-05T17:14
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-11-05, 13:38
 2. **What is worrying me?**
 	- I am worried that I can't do everything in time, that I have too little energy, that I can't do what I need to do, that I am losing my freedom. I now chose to let go of these worries with love and kindness   
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No problem is great enough to be worth worring about.
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is under my control is my [[Control Over Judgment|Judgment]] and how do I choose to use it, in order to develop my self further. 
 
 ### Evening
 
