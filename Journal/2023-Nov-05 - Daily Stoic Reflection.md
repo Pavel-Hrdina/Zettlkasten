@@ -7,7 +7,7 @@ modified: 2023-11-05, 13:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-05T13:41
+updated: 2023-11-05T13:46
 ---
 
 
@@ -38,11 +38,11 @@ Date: 2023-11-05, 13:38
 1. **What difficulties am I likely to encounter today?**
 	- Today I am likely to encounter: cold weather, loneliness, being overwhelmed, lack of motivation, strong wind, pain, big storm and much more stuff that I can't even think of. I now chose to face these difficulties with calmness, peace and love, so that I can move forward and take action when needed, so that I don't freeze in place from having no idea what should be done.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I need to learn for tomorrow's test, then I can rest. 
 1. **What am I grateful for?**
-	- 
+	- I am grateful for my mother, my sister, my father, my wife, the weather, being alive, being peace, having enough, knowing what is right, being me, books and much more that I can't event think of.   
 2. **What is worrying me?**
-	- 
+	- I am worried that I can't do everything in time, that I have too little energy, that I can't do what I need to do, that I am losing my freedom. I now chose to let go of these worries with love and kindness   
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
