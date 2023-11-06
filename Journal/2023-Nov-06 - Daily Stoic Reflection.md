@@ -7,7 +7,7 @@ modified: 2023-11-06, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-06T07:04
+updated: 2023-11-06T21:02
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-06, 06:33
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I did much good, I made my wife happy by being like the stone wall that she could lean on to. I chose to do this so that I could reduce her suffering. I was kind to all even to those who wronged me in the past, that includes my self, this way I can forgive everyone. Likewise, I did all that I set to do, even when tired and lazy.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I did not prepare thoroughly for my exams for a got a good grade, there was just no time for it and tests are beginning to crumble onto me.   
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I did all that I set to do today.
 
 ## Other Methods
 
