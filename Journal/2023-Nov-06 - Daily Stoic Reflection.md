@@ -7,7 +7,7 @@ modified: 2023-11-06, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-06T06:56
+updated: 2023-11-06T07:01
 ---
 
 
@@ -42,9 +42,9 @@ Date: 2023-11-06, 06:33
 1. **What am I grateful for?**
 	- I am grateful for my mother, my father, my sister, my wife, the things I have, the things I chose to let go off, being alive, being me, understanding, love, emotions, peace, living in Europe, living in this time, having enough, having a drive and much more I chose to be grateful for. 
 2. **What is worrying me?**
-	- I am worried that I will fail today, I am worried that I will fail my self again, I am worried of what others might think of me, I am worried that I am wasting my time, I am worried that if I am my self, others will hate me for it. I now chose to let go of these worries, like a bird, that lost of its feathers and now lets it slowly leave him in a peaceful motion, without resistance, without judgment. 
+	- I am worried that I will fail today, I am worried that I will fail my self again, I am worried of what others might think of me, I am worried that I am wasting my time, I am worried that if I am my self, others will hate me for it. I now chose to let go of these worries, like a bird, that lost off its feathers and now lets it slowly leave him in a peaceful motion, without resistance, without judgment. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You might be thinking: "Who am I, but a beast that only strives to live no matter how, how come I am called more than that?". But perhaps you should leave these thoughts and think again, this time think how lucky you are to be alive, how lucky that you live in peace, that you have shelter above your head and that you were lucky. Your thoughts don't shape who you are, they shape who you will become, they are the mold which your soul is chilled into, it's how you [[Control Over Judgment|judge]] your thoughts that makes the quality of the work. 
 4. **What is within my control and what is not**
 	- 
 
