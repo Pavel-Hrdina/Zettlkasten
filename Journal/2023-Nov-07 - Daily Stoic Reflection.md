@@ -7,7 +7,7 @@ modified: 2023-11-07, 06:31
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-07T06:50
+updated: 2023-11-07T20:46
 ---
 
 
@@ -55,18 +55,19 @@ Date: 2023-11-07, 06:31
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I did great in school, I received two great marks, I chose to get them, so that I could have a better future. I chose to be kind to all, so that I could forgive my self, for when I was unkind. I chose to win at life, so that I could reach nirvana. 
+
+I thank you now, for doing all of these things and I thank that I am still alive, that I am not broken that I am still me, that my mind is well and that I am healthy, for this I now become love. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I almost gave up on my self, so that I could go to sleep. I made the mistake of talking too much and too little. Furthermore, I failed a big test, because I did not prepare for it. I did not stand up for my self, when I was attacked, for before I could react the talk was over. I was driving my motorcycle recklessly, which could cause me to become paralyzed, or dead. 
+
+I am sorry to you, for doing these wrongs, I shall improve my self tomorrow, so that I can look in the mirror again with love and kindness, now I chose to let go of these wrongs.  
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I did all that I set to do today.
 
 ## Other Methods
 
