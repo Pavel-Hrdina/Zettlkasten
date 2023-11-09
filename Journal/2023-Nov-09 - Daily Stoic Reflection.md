@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-11-08, 06:37
+modified: 2023-11-09, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-08T20:46
+updated: 2023-11-09T07:04
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-11-08, 06:37
+Date: 2023-11-09, 06:34
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -36,17 +36,17 @@ Date: 2023-11-08, 06:37
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to face bad weather, failure, pain, hate, anger, idiocy, sadness and I might also face an adversity not even thought of, like a thunder or a car might hit me on the street, or I might trip and break my hand. If any of these is to happen, I shall accept them with love and open heart so that it spends to them like a contagious disease.
+	- Today I could encounter many adversities, that no man can dream of, from sickness, to absolute soul-crushing emotions. I could encounter people who are extreme in every way and drain me from energy, they could also be mean and unkind to me. Today I could experience bad weather once again, mainly cold. I chose to accept all of these challenges with peace, love and understanding, as no matter how much I resist them, I cannot change the course of action that my adversities chose to take, so I must flow with them, flow with the rivers current, so that I don't drown.  
 2. **What one thing do most need to get done today?**
-	- Toady, I chose to pick the books that I will use for my finals. I chose to do this today. 
+	- Today I need to make preparations for all of my tests. I chose to do this in the evening before sleep starts to set on my eyes.  
 1. **What am I grateful for?**
-	- I am grateful for my mother, my father, my sister, being alive, being healthy, being me, having a family, my wife, warm food, warmth and for all good and luck that is to happen today, I chose to be grateful. 
+	- I am grateful for my parents, my sister, my wife, being alive, being me, being peace, being happy, being unbroken, being unfazed, being born, having food to eat every day, having people to love, having warmth, having opportunities, for forgiveness to my self and much more I chose to be grateful for today and tomorrow.  
 2. **What is worrying me?**
-	- I am worried that I will fail again, not only my self, but others also. I am worried that others see me as a privileged brat. Not only that, but I am worried that something bad is coming, my intuition is telling me. I now chose to banish these thoughts from my head peacefully and leave them behind me with ease. 
+	- I am worried that I am not doing enough, and yet I feel very tired, how come this is the case? I am worried about my wife and her feelings. Likewise, I now chose to let go of these worries, I now chose to let go. Furthermore, I let them exit my body, I let them be. I chose to accept my worries with love, kindness and understanding. I chose to accept my self with love. 
 3. **How can I decatastrophize today's problems?**
-	- No matter what happened to you today, you mustn't give up, you must choose to push against the crushing wheel of destiny, be like a rock that the sea continuously pound on, be like the hardest of diamonds and then no force might strike you down, no force can hurt you, no force can damage you. Become unhurtable, become the mightiest of the strong and no matter what happens then, you will be unbroken, unfazed with whomever hurt you, so push against the force that is destiny with peace, and you might as well change it.   
+	- You might be feeling lost, or sad, or angry, or any other way really, but now you must think to your self, how do these negative things, prevent me from taking action, how do they prevent me from controlling my judgment? And now you must ask your self, how do can I accept these emotions and let go of them, so that I can control my judgment again, how can I face these emotions with love? Even when you are lost, the Buddha in you will heal you, if you chose love to all living being and to all things, then you will be found again, rid of [[Duḥkha]] once and for all. 
 4. **What is within my control and what is not**
-	- Only my own [[Control Over Judgment|Judgment]] is under my control and nothing else is. I now chose to use my judgment to take action and make good. 
+	- The only thing within my control, is my [[Control Over Judgment|Judgment]], and nothing else is. With this knowledge, you know must choose, how are you going to use your judgment, to spread good to all people and to spread love.  
 
 ### Evening
 
@@ -55,15 +55,18 @@ Date: 2023-11-08, 06:37
 
 1. **What did I do well today?**
 
-Today, I did all that I set to do, so that I could become a better human being. I chose to relax, so that tomorrow could bear fruit once again. 
+| Things I Did Well | Why I did them |
+| ------------------- | ---------------- |
 
 2. **What did I do wrong?**
 
-I let my worries overflow, thus making me fail, this happened because I was not kind enough to my self. 
+| What did I do wrong | Why I did it |
+| ------------------- | ---------------- |
 
 4. **What duty remains undone?**
 
-I did not pick the books, there was no time for it. 
+| What duty remains undone? | Why I didn't do it |
+| ------------------- | ---------------- |
 
 ## Other Methods
 
