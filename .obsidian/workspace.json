@@ -21,16 +21,11 @@
             }
           },
           {
-            "id": "30910b3afea67a88",
+            "id": "047a8f3daf5e438a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-Nov-09 - Daily Stoic Reflection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -84,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Nov-09 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Nov-09 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/2023-Nov-09 - Daily Stoic Reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30910b3afea67a88",
+  "active": "047a8f3daf5e438a",
   "lastOpenFiles": [
-    "SLIP-BOX/Duḥkha.md",
     "Journal/2023-Nov-09 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Duḥkha.md",
     "SLIP-BOX/Remember What you Read.md",
     "Journal/2023-Nov-08 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-07 - Daily Stoic Reflection.md",

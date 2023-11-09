@@ -7,7 +7,7 @@ modified: 2023-11-09, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-09T07:04
+updated: 2023-11-09T19:45
 ---
 
 
@@ -55,18 +55,25 @@ Date: 2023-11-09, 06:34
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I got up from my bed immediately after my alarm has rung, even though when I got up, to shut the alarm off, I felt cold, so cold, yet I made my bed and continued with my day, so that I could look into the mirror next, without asking my self: "What is my purpose, what was I put on this earth to do, why have I been born?". You see, the mind of a human being is fragile, it can be broken easily, but repair, is almost impossible. If you let your self lay in bed, still half asleep, you will fall asleep again and what then, your day is lost, your time is lost, you might feel good at the moment but once you wake up, you will become unhappy with your self, and you will blame your self for being so weak, for being so fragile, even if it's the human nature to be so, you must not succumb to the idea that doing this bears no fruit. 
+
+I finished my routine next, after I started my day. This is crucial to me, for I need to be sure, that I can really on my self doing this every morning, that I won't let my self become the ungrateful, the arrogant, the sick. So every day, finish your routine, finish what you set to finish and do what has to be done, so that you can love your self and others.
+
+The next good thing I did, was that I was careful when riding my motorcycle in the morning, today was cold, and I felt the need to speed so that I could be warm again, but then I chose to stay safe, I chose to live. 
+
+I also helped my friends in need, I was kind to all and, even though I felt sick, I pushed on, so that I could love, so that I could love my self and let others love me. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today I did not give my all in school, and I was pitting my self, I was no humble and I let others step over me. Those who spread poison with their words, do not deserve to talk with me any more than necessary, and yet I still let them put my worth down. 
+
+How come, I can be so blind to their trickery? How come I cannot keep my self from interaction, that is not necessary with those whose every word is like a rose, beautiful from the outside, but thorny and full of lies. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I didn't make the preparation for my test next week, nor did I prepare for the tests tomorrow, nor did I finish the tasks, that I am putting off for so long. I just cannot let go of the feeling, that all duty that I must do, is taking away my freedom and my precious time, that every moment that I am not doing what I want to do, what I find amazing and worthwhile, is time wasted. 
+
+Yet I try to make the most even from these things, that are like plague to my soul, that try to crush my will to be human, to be just a blind sheep that digs its grave, before being shot to death, there are already so many that have resignated on their life, on the precious gift they have received, a chance to achieve nirvana, to achieve the ultimate happiness.    
 
 ## Other Methods
 
@@ -75,15 +82,13 @@ Date: 2023-11-09, 06:34
 > [!quote] Marcus Aurelius
 > You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
 
-Today's Events 
+**Today's Events**
+
+**How I see them in the near future?** 
 
 -
 
-How I see them in the near future? 
-
--
-
-How they'd be viewed, years after I've passed?
+**How they'd be viewed, years after I've passed?**
 
 ### 4 Virtues Method
 
