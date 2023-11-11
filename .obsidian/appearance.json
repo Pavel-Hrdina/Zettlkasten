@@ -1,12 +1,12 @@
 {
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 24,
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Readex Pro Deca",
-  "textFontFamily": "Readex Pro Deca",
+  "interfaceFontFamily": "Readex Pro",
+  "textFontFamily": "Readex Pro",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
-  "monospaceFontFamily": "Readex Pro Deca",
+  "monospaceFontFamily": "Readex Pro",
   "theme": "obsidian"
 }
