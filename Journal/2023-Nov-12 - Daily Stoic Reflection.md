@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-11-11, 12:52
+modified: 2023-11-12, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-12T10:30
+updated: 2023-11-12T10:49
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-11-11, 12:52
+Date: 2023-11-12, 10:30
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -36,17 +36,17 @@ Date: 2023-11-11, 12:52
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today I am likely to have no internet on my main computer, I am likely to make difficult choices, I am likely to have little time, I am likely to feel very bad, and I am likely to be cold. These and other difficulties I now chose to accept with love, without complained and with peace in my heart, I shall not wither away, for these won't break me, they won't be in my way, for as long as I am alive and my heart is beating I chose to not give in, to not give up.
-2. **What one thing do most need to get done today?**
-	- Today I need to learn German again, so that when we write the big test, I will be prepared, so that I can become the best. So that I can speak German. 
-1. **What am I grateful for?**
-	- I am grateful for my mother, my father, my wife, my sister, warmth, food to eat, book to read, things to do and all the things that I can't think. I chose to be grateful for them. 
-2. **What is worrying me?**
-	- I am worried that I am not doing enough, that I don't have enough time, that I must choose between two bad options. I now chose to leave these worries behind, I chose to let them go.   
-3. **How can I decatastrophize today's problems?**
-	- No matter what problems you might be facing, the next day, it will all be alright, you will not succumb to your weakness and you will win.  
-4. **What is within my control and what is not**
-	- The only thing under my control is my own [[Control Over Judgment|Judgment]] and nothing else is. With this new-found knowledge, you will now use it for good and for becoming better as a person. 
+	- Toady I am likely to face my own self, negativity of others that is their hate, anger, envy, jealousy, meanness, idiocy, lack of compassion, lack of love, their suffering and their negativity. I am also likely to experience lack of time, energy and compassion, yet I chose love and kindness to all beings. I chose to not let these adversities move me to make bad [[Control Over Judgment|Judgments]], I chose to accept them without complaint and without pity for my self or others.   
+1. **What one thing do most need to get done today?**
+	- Today I need to learn for tomorrows exam. I chose to do this, and then I chose to read for at least 30 minutes thoroughly. 
+2. **What am I grateful for?**
+	- I am grateful for my mother, my father, my sister, my wife, the weather, the opportunities I have, the people I love, being alive, having food on the table every day, having warmth, having a place to sleep, my life lessons, knowing my worth, understanding that I have, books that I can read, things that I can do, things that I can see, the freedom I have and peace. I chose to be grateful for all of these things and many more, I chose to find love and peace in the smallest of accomplishments and in the smallest of wins. 
+3. **What is worrying me?**
+	- 
+4. **How can I decatastrophize today's problems?**
+	- 
+5. **What is within my control and what is not**
+	- 
 
 ### Evening
 

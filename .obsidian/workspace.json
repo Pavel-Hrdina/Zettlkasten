@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "214279ed67fd0687",
+            "id": "0de8ea1f5f416c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Nov-11 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Nov-12 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md",
+                "file": "Journal/2023-Nov-12 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md",
+                "file": "Journal/2023-Nov-12 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/Remember What you Read.md"
+                "file": "Journal/2023-Nov-12 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -177,13 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "0de8ea1f5f416c72",
   "lastOpenFiles": [
+    "SLIP-BOX/Remember What you Read.md",
+    "Journal/2023-Nov-12 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-10 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-11 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-09 - Daily Stoic Reflection.md",
     "SLIP-BOX/Duḥkha.md",
-    "SLIP-BOX/Remember What you Read.md",
     "Journal/2023-Nov-08 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-07 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-06 - Daily Stoic Reflection.md",
@@ -204,7 +205,6 @@
     "SLIP-BOX/Reading.md",
     "SLIP-BOX/Taking Book Notes.md",
     "Books/Zen to Done/Literature note - Zen to done.md",
-    "Journal/2023-Oct-09 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
