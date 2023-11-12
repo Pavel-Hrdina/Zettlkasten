@@ -7,7 +7,7 @@ modified: 2023-11-12, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-12T11:06
+updated: 2023-11-12T21:02
 ---
 
 
@@ -55,19 +55,15 @@ Date: 2023-11-12, 10:30
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+I reacted calmly to people who were angry, who tested my resilience, who made me judge my own worth, who pushed my patience and my love for the humankind. I chose to accept them with open hands and open heart as the seashore chooses to accept the waves of the sea, no matter how big they get, no matter how much force they put on the shore, it remains calm, unfazed, it remains.   
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I was late to do all the things that I set to do, this way I made my day chaotic and without order, I got lost in my own mind and under the tasks and information that came my way. I chose this way, because I wanted to spend time with my wife, instead of giving my self order, and thus I succumb to temptation. I must choose more wisely tomorrow, I must let my laziness perish, I must let it die like a phoenix and rise from the ashes of my past anew.    
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
-
+I still didn't finish my tasks on my task list, even though they would only take a few moments to do. I chose to not do them for the sake of my family, that was my biggest priority today and I don't regret making this decision, but tomorrow I must push my self harder and achieve greatness. 
 ## Other Methods
 
 ### Gravestone Method
