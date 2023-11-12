@@ -7,7 +7,7 @@ modified: 2023-11-12, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-12T10:49
+updated: 2023-11-12T11:06
 ---
 
 
@@ -42,11 +42,11 @@ Date: 2023-11-12, 10:30
 2. **What am I grateful for?**
 	- I am grateful for my mother, my father, my sister, my wife, the weather, the opportunities I have, the people I love, being alive, having food on the table every day, having warmth, having a place to sleep, my life lessons, knowing my worth, understanding that I have, books that I can read, things that I can do, things that I can see, the freedom I have and peace. I chose to be grateful for all of these things and many more, I chose to find love and peace in the smallest of accomplishments and in the smallest of wins. 
 3. **What is worrying me?**
-	- 
-4. **How can I decatastrophize today's problems?**
-	- 
-5. **What is within my control and what is not**
-	- 
+	- I am worried that there is not enough time for me, that I am lazy, that I am not enough, that I can't do what I set to do. Now I chose to let go of these worries as there is no logic behind them. Why would you think that you don't have enough time, you have to chose what is worth your time. So let go of these worries peacefully, leave them behind your self, behind in time leave them as if you were an hourglass and your worries were the sand falling thought slowly, but with peace and understanding. 
+1. **How can I decatastrophize today's problems?**
+	- No matter what problems you might think you have, all will be well, for you are still alive, you are not dead yet, you can still go on without worry, without tripping, without falling you wouldn't make no progress at all, you need to make mistakes, you need to fall. That is the nature of human struggle and if you can't accept it and learn from it, then you won't make it far, if you hide your self in a bubble that none can enter, then you have failed at life my friend. 
+2. **What is within my control and what is not**
+	- The only thing that is truly under my control is my [[Control Over Judgment|Judgment]], that is what action I take, what I chose to do, what I chose is important for me. Now I chose to use my [[Control Over Judgment|Judgment]] for good, for love and peace. 
 
 ### Evening
 
