@@ -7,7 +7,7 @@ modified: 2023-11-13, 06:29
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-13T06:54
+updated: 2023-11-13T20:49
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-13, 06:29
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today I was compassionate to all people, even my self, I did not let my self fail me. I did this because only a man that is loving and understands that he lives with other human beings, not only him self, will be rewarded and shall gain back what he has sowed. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today I made the mistake of not visiting my ill wife. I chose to do this in order to protect her and my self, for she is ill and even though I miss her very much, it cannot be helped, for she needs to heal, and yet I feel like it was wrong of me to not visit her and give her at least a kiss. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today I did not visit my grandpa, to copy the photos as I have promised. I have completely forgotten. Tomorrow I shall do this on my way home from work. 
 
 ## Other Methods
 
