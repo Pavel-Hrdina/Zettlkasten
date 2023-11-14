@@ -7,7 +7,7 @@ modified: 2023-11-14, 07:06
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-14T07:16
+updated: 2023-11-14T21:07
 ---
 
 
@@ -55,18 +55,19 @@ Date: 2023-11-14, 07:06
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+I adapted to adversity, I didn't let it drag me down. This was the first step for accepting change for me today, even if I didn't realize it at the moment, it was so. I chose to adapt instead of giving up, when my day didn't go as planned, I prevailed against my self. 
+
+I chose to be loving and kind to all around me, even when attacked. This way I can become a better man, the kind of man that lead with love, that understands that all human beings are equal and that knows he who hurts others, is not worth his attention, he is not worth his efforts and his emotions, he who is wise and who knows his worth. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I woke up late, because I didn't set my alarm, this made my day difficult, it made me tired and prone, it made me go faster than I can go, for my speed is not lighting fast, and it does not have to be so. I chose to not make this mistake again because I lost focus for only a little moment, even if my mind tells me lies to lay down and watch movies to be lazy I must accept my mind and leave these thoughts where they came from, like the sea returns what it has been given with time like a debt that must be paid, or death shall follow.
+
+I was loosing my focus today, this was of great danger to me. Maybe it was because I was sick, or perhaps not, perhaps, I should not make excuses and accept, that I was the one who lost control of my mind, that I let my self fight against me, instead of accepting my thoughts and letting go of them, letting them come and go.  
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I finished my important tasks for today. Rejoice that all is done and then let sleep descent upon you with love and peace, you have all that needs to be done, done. 
 
 ## Other Methods
 
