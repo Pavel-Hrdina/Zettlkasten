@@ -7,7 +7,7 @@ modified: 2023-11-07, 06:31
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-07T20:46
+updated: 2023-11-15T19:52
 ---
 
 
@@ -44,7 +44,7 @@ Date: 2023-11-07, 06:31
 2. **What is worrying me?**
 	- I am worried that I will fail my tests tomorrow, I am worried that I cannot keep the promise I made to my self. I now chose to let go of these worries, instead I now approach them with love and kindness as they fade away, like a feather fades into the sea with the wind. 
 3. **How can I decatastrophize today's problems?**
-	- "How might one know what is right and what is wrong, without judgment of others?", you might be asking. But you are asking the wrong questions, instead ask your self: "How can I ask my judgment, what is right and what is wrong.". You see, only a little change, can sometimes make the biggest difference, no matter what it is essential that you focus on the bigger picture and only once you have grasped it in full, you can look at the small wonders that are hidden in plain sight. 
+	- "How might one know what is right and what is wrong, without judgment of others?", you might be asking. But you are asking the wrong questions, instead ask your self: "How can I ask my judgment, what is right and what is wrong.". You see, only a little change, can sometimes make the biggest difference, no matter what, it is essential that you focus on the bigger picture and only once you have grasped it in full, you can look at the small wonders that are hidden in plain sight. 
 4. **What is within my control and what is not**
 	- The only thing that is truly within my control is my [[Control Over Judgment|Judgment]] and nothing else is. This hard truth leads to the discovery, that the only thing you can do to influence things that are outside your control, is to take action. 
 
