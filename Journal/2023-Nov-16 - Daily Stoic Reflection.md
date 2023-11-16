@@ -7,7 +7,7 @@ modified: 2023-11-16, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-16T06:48
+updated: 2023-11-16T20:18
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-16, 06:23
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Even thought I am sick, I pushed my self harder that yesterday. Even though I fell mad at the world, I chose to forgive it. Even if I want to drown in my own pity, I chose not to. I do these things, so that I can live according to nature, so that I can become a better human being, so that I can become my best self, so that I can look back with clarity, so that days don't seem like one, so that I can remember what actions I took and what was it that I wanted to do. Don't let these things make you think that you are done on your journey, there is no end to the voyage you are on, until you are dead, deep in the mountain forests. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today I didn't eat properly, this might make me weak and unhealthy. I didn't stand up for my self, I was angry at the ignorance of others. I chose to be lazy today, I didn't pay closer attention to my wives feeling. I talked too much about nonsense today. These things are the doings of the evil you, the one you chose to control, the one that gives these ideas of foolishness, you must abandon this evil within your self, you must be the victor over your self, or do you want a life of misery, do you want to be fool a jester that others give money for making them think their lives are not so bad?   
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I have to learn German tomorrow, because I need to let it go from my mind. I procrastinated on this. 
 
 ## Other Methods
 
