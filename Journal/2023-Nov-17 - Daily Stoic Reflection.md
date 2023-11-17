@@ -1,5 +1,6 @@
 ---
-tags: type/reflection
+tags:
+  - type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
@@ -7,7 +8,7 @@ modified: 2023-11-17, 10:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-17T11:11
+updated: 2023-11-17T11:19
 ---
 
 
@@ -44,9 +45,9 @@ Date: 2023-11-17, 10:41
 2. **What is worrying me?**
 	- I am worried that I will fail, that I will fail my self, that I am not enough, that there will never be a place for me, that I can't do anything right. Do you really believe all of this crap? You are but a one of many that was born into this world so don't be so hard on your self, allow your self to make mistakes, allow your self to be foolish. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how big a problem might seem, its only a problem, if you allow it to be one, only then you have a problem. But if you chose to make your problem intro something else, suddenly, its not a problem anymore. 
 4. **What is within my control and what is not**
-	- 
+	- You can only control one thing, my friend, that is your [[Control Over Judgment|Judgment]] and nothing else, only your own action is within your control. So now go and take action that you believe is right. 
 
 ### Evening
 
