@@ -7,7 +7,7 @@ modified: 2023-11-17, 10:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-17T10:54
+updated: 2023-11-17T10:59
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-11-17, 10:41
 1. **What am I grateful for?**
 	- I am grateful for my parents, my sister, my wife, that I have food to eat every day, that I have enough, that I am warm, that I am healthy, my lessons, knowing my worth, gaining my understanding of life, knowing, widows, my ancestors. I am grateful for all of these things that, I am grateful that they are in my life, that I was so lucky to have them and that these things gave me and taught me so much about life and being.  
 2. **What is worrying me?**
-	- I am worried that I will fail, that I will fail my self, that I am not enough, that there will never be a place for me, that I can't do anything right. Do you really believe all of this crap 
+	- I am worried that I will fail, that I will fail my self, that I am not enough, that there will never be a place for me, that I can't do anything right. Do you really believe all of this crap? You are but a  
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
