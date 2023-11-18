@@ -7,7 +7,7 @@ modified: 2023-11-18, 10:21
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-18T11:06
+updated: 2023-11-18T11:17
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-11-18, 10:21
 2. **What is worrying me?**
 	- You might be worried that the opportunities, that you have chosen to explore, are wrong, that you shouldn't have done so, that you should have made different choices. Do not beat your self up for making mistakes, they are what pushes you forward, they are opportunities for growth, they are here to teach you something, so do not abandon your mistakes, accept them with grace, learn from them and use them for becoming the best. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Your problems are nothing but illusions of the mind, so abandon them, your pain is also, but an illusion, so abandon it, instead, chose to look at things differently, chose to look at things as opportunities, chose to make the most from every mistake, from every wrong you have done, learn to accept them, learn to accept that you can't control anything except your mind.  
 4. **What is within my control and what is not**
-	- 
+	- You can only control your [[Control Over Judgment|Judgments]], do so, do make use of it and take action when others are idle, use it to have a clear mind, use it to see the truth. 
 
 ### Evening
 
