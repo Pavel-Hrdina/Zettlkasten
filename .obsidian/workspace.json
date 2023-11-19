@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#philosophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +178,8 @@
   },
   "active": "10b7cf0b931f8d42",
   "lastOpenFiles": [
-    "SLIP-BOX/Organizing the book library.md",
     "Journal/2023-Nov-19 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Organizing the book library.md",
     "Templates/NoteTemplate.md",
     "Journal/2023-Nov-18 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-17 - Daily Stoic Reflection.md",
