@@ -7,7 +7,7 @@ modified: 2023-11-19, 10:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-19T11:17
+updated: 2023-11-19T11:28
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-11-19, 10:47
 1. **What am I grateful for?**
 	- Parents, sister, wife, weather, books, school, difficulty, adversity, things I can do, things I can say, people that love, people, love. being alive, for all of these things I chose to be grateful.  
 2. **What is worrying me?**
-	- You might be worried that you are not not enough, that there is not time, that you are dumb, that you should have made different choises, that you should have worked harder. Now thing, how real are these worries, how much are they worth and do they bring you closer to the essential and to the natural? No, they do not, they only make you trust falsehood that brings you down, it makes you sad and unhappy and then you can't focus on the truth anymore, you can't do what is right no more, and what then, will you suddenly do things that you think you should be doing: No  
+	- You might be worried that you are not not enough, that there is not time, that you are dumb, that you should have made different choises, that you should have worked harder. Now thing, how real are these worries, how much are they worth and do they bring you closer to the essential and to the natural? No, they do not, they only make you trust falsehood that brings you down, it makes you sad and unhappy and then you can't focus on the truth anymore, you can't do what is right no more, and what then, will you suddenly do things that you think you should be doing: No you won't, so leave these thought, that are harming you, behind, leave them be. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
