@@ -8,7 +8,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "SLIP-BOX",
   "alwaysUpdateLinks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckDictionary": [
     "Epicious",
     "decatastrophize",
@@ -20,5 +20,6 @@
     "contrapruductive",
     "unhurtable"
   ],
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "readableLineLength": true
 }

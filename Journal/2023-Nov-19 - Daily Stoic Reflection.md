@@ -7,7 +7,7 @@ modified: 2023-11-19, 10:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-19T11:28
+updated: 2023-11-19T11:42
 ---
 
 
@@ -36,17 +36,17 @@ Date: 2023-11-19, 10:47
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You might be stressed today, you might be restless and you might lose, you might feel worth less and you might feel cold, you might feel like there is no time and you might feel lost, but no matter what you must not give up, nature gives you these difficulties, so that you can grow so that you must think, so that you must show your worth, so that you must become better, so that you must push your self with such force that you become brilliant. 
+	- You might be stressed today, you might be restless, and you might lose, you might feel worth less, and you might feel cold, you might feel like there is no time, and you might feel lost, but no matter what you must not give up, nature gives you these difficulties, so that you can grow so that you must think, so that you must show your worth, so that you must become better, so that you must push your self with such force that you become brilliant. 
 2. **What one thing do most need to get done today?**
-	- Today I need to do what is on my todo list and I chose to do it, I will not fail. 
+	- Today I need to do what is on my to-do list and I chose to do it, I will not fail. 
 1. **What am I grateful for?**
-	- Parents, sister, wife, weather, books, school, difficulty, adversity, things I can do, things I can say, people that love, people, love. being alive, for all of these things I chose to be grateful.  
+	- Parents, sister, wife, weather, books, school, difficulty, adversity, things I can do, things I can say, people that love, people, love. Being alive, for all of these things, I chose to be grateful.  
 2. **What is worrying me?**
-	- You might be worried that you are not not enough, that there is not time, that you are dumb, that you should have made different choises, that you should have worked harder. Now thing, how real are these worries, how much are they worth and do they bring you closer to the essential and to the natural? No, they do not, they only make you trust falsehood that brings you down, it makes you sad and unhappy and then you can't focus on the truth anymore, you can't do what is right no more, and what then, will you suddenly do things that you think you should be doing: No you won't, so leave these thought, that are harming you, behind, leave them be. 
+	- You might be worried that you are not enough, that there is no time, that you are dumb, that you should have made different choices, that you should have worked harder. Now think, how real are these worries, how much are they worth and do they bring you closer to the essential and to the natural? No, they do not, they only make you trust falsehood that brings you down, it makes you sad and unhappy, and then you can't focus on the truth anymore, you can't do what is right no more, and what then, will you suddenly do things that you think you should be doing: No you won't, so leave these thought, that are harming you, behind, leave them be. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how bad you might feel, no matter what you might be thinking about your self and how shitty you are, you must prevail, you must push your self harder, you must become your best self, you must become the best human being you can become, thus you will never suffer again, thus you will never be hurt by the ugliness of the world. You know that this world is full of dark and ugly things, but those things are only ugly, if you chose to see them as such, so chose to see them without judgment, chose to let them be the way they are, chose to take action when you feel it to be necessary, and then you will be unbrookable, unhurtable, unfazed. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing, that is truly within your control, is your [[Control Over Judgment|Judgment]], so chose to use it to take action, chose to use it to become a better human being, to reduce the suffering in this world and the suffering of your self.  
 
 ### Evening
 
