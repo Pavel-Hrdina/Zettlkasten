@@ -7,7 +7,7 @@ modified: 2023-11-19, 10:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-19T11:45
+updated: 2023-11-19T19:16
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,18 +53,15 @@ Date: 2023-11-19, 10:47
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+You made progress on your self today, you made the choice to do what is important, you did the things you were putting off for so long, and you finished all that you set to finish, you went to work out, and you didn't slack off, you balanced your time nicely, you started to prepare for big exams. You did all of these things, so that in the morning you could look at your self in the mirror and think: "I am happy to be me", so that you could be at peace with your self and who you are, without judgment, with love and acceptance of your self.  
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You didn't wake up on time, you didn't prepare for the German test, and you didn't give some time to your wife. These things, why do you put them off, why did you do them this way? You don't know why, because you didn't make the judgment about them, you didn't decide if you want to do them so or not, it wouldn't be wrong then, if you made a conscious decision to not do these things the way you did them. Tomorrow remember this every time your mind tells you to do something, challenge it, think about it and only then act. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I didn't make preparations for the German test. I procrastinated on it. 
 
 ## Other Methods
 
