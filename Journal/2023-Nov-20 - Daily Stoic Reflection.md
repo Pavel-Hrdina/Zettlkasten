@@ -7,7 +7,7 @@ modified: 2023-11-20, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-20T06:48
+updated: 2023-11-20T20:58
 ---
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
@@ -26,7 +26,7 @@ updated: 2023-11-20T06:48
 2. **What is worrying me?**
 	- You might be worried that you are weak, that you are a nobody, that you cannot do anything right, that you are a nobody. Now think: "How real are these worries? How helpful are they?". They are but an imaginary creation of the mind, and they are not helpful at all, so let go of them, abandon them, leave them be with their own fate.
 3. **How can I decatastrophize today's problems?**
-	- You might be starting to believe all the crap people say, all the ugly, suffering words of the unhappy that want to harm you, but do not be mad at them for being this way, forgive them for their ignorance. These things are only meant to hurt, so do not let them touch your heart, do not let them hurt you. You must choose to be like rock, you must choose to be like a hard metal, unbreakable, while peacefully resisting any attacks from the suffering.
+	- You might be starting to believe all the crap people say, all the ugly, suffering words of the unhappy that want to harm you, but do not be mad at them for being this way, forgive them for their ignorance. These things are only meant to hurt, so do not let them touch your heart, do not let them hurt you. You must choose to be like a rock, you must choose to be like a hard metal, unbreakable, while peacefully resisting any attacks from the suffering.
 4. **What is within my control and what is not**
 	- The only things under my control is my own [[Control Over Judgment|Judgement]] and nothing else is. Thus, you must choose to use it for good, for love, to reduce the suffering without creating your own. 
 
@@ -38,18 +38,15 @@ updated: 2023-11-20T06:48
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+You did most of the things well today, you did what you could do, but still remember that making a mistake is not a bad thing, rejoice in it, rejoice in being human, being imperfect, being you, then you will be at peace, for this understanding will bring it to your heart and even the deepest places in your soul that still fight you, that do not understand. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You let anger take control of you insted of chossing to accept with open mind and heart. This shall be a lesson for you, to make a change tommorow, to not let these things distract you from the essential  
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You didn't take my watch to be repaired, you didn't do what you wanted, you made a lot of mistakes today. You chose to let go of worrying about them, you chose to accept these things with open palms, with peace in my heart and understanding. These things shall be done 
 
 ## Other Methods
 
