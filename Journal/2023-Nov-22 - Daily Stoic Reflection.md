@@ -7,7 +7,7 @@ modified: 2023-11-22, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-22T19:19
+updated: 2023-11-22T19:25
 ---
 
 
@@ -63,7 +63,7 @@ Today you did things that you have forsaken, that you have chosen to not do ever
 
 4. **What duty remains undone?**
 
-I did all that I set to do today 
+I did all that I set to do today. You chose to do what you thought was right and all of your decisions were consious. 
 
 ## Other Methods
 
