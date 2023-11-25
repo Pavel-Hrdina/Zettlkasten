@@ -21,16 +21,11 @@
             }
           },
           {
-            "id": "d036f7fa24f9f07d",
+            "id": "409219560663a0d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-Nov-25 - Daily Stoic Reflection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Nov-25 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Nov-25 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/2023-Nov-25 - Daily Stoic Reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d036f7fa24f9f07d",
+  "active": "409219560663a0d9",
   "lastOpenFiles": [
     "Journal/2023-Nov-25 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-24 - Daily Stoic Reflection.md",
