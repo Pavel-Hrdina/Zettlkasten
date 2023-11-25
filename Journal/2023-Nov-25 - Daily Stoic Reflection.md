@@ -7,7 +7,7 @@ modified: 2023-11-25, 10:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-25T10:39
+updated: 2023-11-25T11:08
 ---
 
 
@@ -36,15 +36,15 @@ Date: 2023-11-25, 10:14
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You might have to face human being that are sad, lonelly, unehappy 
+	- You might have to face human being that are sad, lonely, unhappy, suffering and mean to you, you might feel bad and worthless lazy and unproductive, you might be cold and in pain, and you might have to face your inner demons. All of these things and others might come your way, but you must not succumb to them, you mustn't let them push you down. Instead of letting them take your energy, make you feel bad or even make you angry, you must accept these things for what they are, you mustn't be put down by them, put to ground. Accept these things as they are, do not be impatient to these things. Let peace and suffering be one with your mind, accept them, do not fight them. In order to make progress, you must also deal with things like this. 
 2. **What one thing do most need to get done today?**
-	- 
+	- You must choose to prepare for the exams today, you have relaxed a bit yesterday, so today do the work, only then you might get things done and move forward. Do not strive for perfection, strive to get things done and if you are not happy with what is done, improve it util it's done again, and repeat, again and again.  
 1. **What am I grateful for?**
-	- 
+	- For my parents, for my wife, for my sister, for warm food every day, for warmth, for knowing, for wisdom, for being me, for being alive, for understanding, for Buddhism, for love, for peace, for emotions, for acceptance, for courage, for the time I have, for knowing what and when, for being resilient, for letting go, for not knowing what has worth and what is not, for knowing my worth. All of these things mean a lot to me, they have helped me a great deal along my way, they have saved me from my demons, from the pain and suffering that the people around me now experience. 
 2. **What is worrying me?**
-	- 
+	- You might be worried that you are unloved, that you are dumb, that you are nothing, that the things that everyone says are truthful, that you are weak, that you should have a job and have life figured out. But think, why do these thought creep in your mind like small spiders making webs of worries trying to hurt you, making you doubt your self, making you feel worthless, trying to make you give up, give in. Why do you think, they are there, in your mind like that? It's because the webs need to be cleaned, they need to be put away, they need to be discarded, let go. So let them go, let them leave your mind peacefully, for they are nothing but images made by your fantasy to scare you, to keep you alive, they are but a relic of evolution and the ages long gone, so let them leave with peace and grace, accept them, don't be scared by them, and their meaningless threats. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You are scared, I know that you are, you feel this longing for greatness, you feel the need to be seen and praised, you feel alone. I know all of this, I know that its hard  
 4. **What is within my control and what is not**
 	- 
 
