@@ -7,7 +7,7 @@ modified: 2023-11-25, 10:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-25T11:19
+updated: 2023-11-25T18:34
 ---
 
 
@@ -30,7 +30,6 @@ Date: 2023-11-25, 10:14
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
 
-Read the morning reflection before starting the evening one.
 ### Morning
 
 > [!quote] Marcus Aurelius
