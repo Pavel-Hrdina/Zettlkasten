@@ -30,7 +30,7 @@ Date: 2023-11-25, 10:14
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
 
-Read the moring reflection before starting the evening one.
+Read the morning reflection before starting the evening one.
 ### Morning
 
 > [!quote] Marcus Aurelius
