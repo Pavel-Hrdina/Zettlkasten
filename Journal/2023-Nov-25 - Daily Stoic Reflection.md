@@ -7,7 +7,7 @@ modified: 2023-11-25, 10:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-25T18:34
+updated: 2023-11-25T18:48
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-25, 10:14
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today you have overcome your self, you have shown your self that you can do things that you thought were impossible for you, you have done all the things that you should have done, even when it looked impossible, even when you thought that your emotions will dominate your mind you didn't let them take over your mind. You chose to do this. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You didn't learn for the tests like you wanted to. You shall do this tomorrow, but remember, that every day it is getting shorter, and you cannot escape this, you cannot run away, so do it tomorrow.  
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You didn't learn. You didn't do this because you had other things that you deemed important. 
 
 ## Other Methods
 
