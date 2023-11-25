@@ -7,7 +7,7 @@ modified: 2023-11-25, 10:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-25T11:08
+updated: 2023-11-25T11:19
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-11-25, 10:14
 2. **What is worrying me?**
 	- You might be worried that you are unloved, that you are dumb, that you are nothing, that the things that everyone says are truthful, that you are weak, that you should have a job and have life figured out. But think, why do these thought creep in your mind like small spiders making webs of worries trying to hurt you, making you doubt your self, making you feel worthless, trying to make you give up, give in. Why do you think, they are there, in your mind like that? It's because the webs need to be cleaned, they need to be put away, they need to be discarded, let go. So let them go, let them leave your mind peacefully, for they are nothing but images made by your fantasy to scare you, to keep you alive, they are but a relic of evolution and the ages long gone, so let them leave with peace and grace, accept them, don't be scared by them, and their meaningless threats. 
 3. **How can I decatastrophize today's problems?**
-	- You are scared, I know that you are, you feel this longing for greatness, you feel the need to be seen and praised, you feel alone. I know all of this, I know that its hard  
+	- You are scared, I know that you are, you feel this longing for greatness, you feel the need to be seen and praised, you feel alone. I know all of this, I know that it's hard, I know that you don't trust your self to make things right. You do this because you are afraid to make a mistake, but mistakes are necessary to accept that you have to make them in order to succeed, let your self breathe and say in your head: "It's ok to make a mistake, it's ok if I fail this." and then breathe again. You may find that this freeing, and you may find that you suddenly don't feel stressed at all, for the stress you were feeling was created by you being afraid. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing under my control is my [[Control Over Judgment|Judgment]], what actions I chose to take, what actions I chose not to take and when I chose to do them, what I chose to do and what I chose is essential. 
 
 ### Evening
 
