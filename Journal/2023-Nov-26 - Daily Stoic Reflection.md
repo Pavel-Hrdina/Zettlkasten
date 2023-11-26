@@ -7,7 +7,7 @@ modified: 2023-11-26, 10:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-26T20:51
+updated: 2023-11-26T21:06
 ---
 
 
@@ -55,12 +55,11 @@ Date: 2023-11-26, 10:24
 
 1. **What did I do well today?**
 
-You have chosen to relax today, you have learned to read faster, without loosing comprehension, you have learned how to use the pomodo timer, you have done all that you have chosen to do, and you have prepared for the upcoming weak. 
+You have chosen to relax today, you have learned to read faster, without loosing comprehension, you have learned how to use the pomodo timer, you have done all that you have chosen to do, and you have prepared for the upcoming week. You have chosen to do these things as an investment into your well-being and into your self, so that tomorrow when you wake up, you can feel reset and full of energy. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You didn't spend as much time with your wife as you hoped to. You didn't learn for the tests, instead you prepared them. You did these things because you believed that there were more important, pressing things that had to be done. You can forgive your self for now, after all you have chosen to let your self do thing wrong, do things that are not considered to be correct by the majority and that's ok.
 
 4. **What duty remains undone?**
 
