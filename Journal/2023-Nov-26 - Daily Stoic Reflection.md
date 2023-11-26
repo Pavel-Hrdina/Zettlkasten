@@ -7,7 +7,7 @@ modified: 2023-11-26, 10:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-26T18:49
+updated: 2023-11-26T20:51
 ---
 
 
@@ -55,7 +55,7 @@ Date: 2023-11-26, 10:24
 
 1. **What did I do well today?**
 
-
+You have chosen to relax today, you have learned to read faster, without loosing comprehension, you have learned how to use the pomodo timer, you have done all that you have chosen to do, and you have prepared for the upcoming weak. 
 
 2. **What did I do wrong?**
 
@@ -64,8 +64,7 @@ Date: 2023-11-26, 10:24
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I did all that I set to do today. 
 
 ## Other Methods
 
