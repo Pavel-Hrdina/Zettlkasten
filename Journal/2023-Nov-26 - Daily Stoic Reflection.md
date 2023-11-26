@@ -7,7 +7,7 @@ modified: 2023-11-26, 10:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-26T11:27
+updated: 2023-11-26T18:49
 ---
 
 
@@ -55,8 +55,7 @@ Date: 2023-11-26, 10:24
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+
 
 2. **What did I do wrong?**
 
