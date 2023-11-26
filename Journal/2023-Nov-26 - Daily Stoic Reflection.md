@@ -7,7 +7,7 @@ modified: 2023-11-26, 10:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-26T11:14
+updated: 2023-11-26T11:27
 ---
 
 
@@ -36,17 +36,17 @@ Date: 2023-11-26, 10:24
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You might encounter cold, lazyness, tiredness, meaness, hate, people who dislike you, who don't like who you are, people who attack you, you might have to edure pain, suffering and your own deamons. All of these things might happen to you, all of these things might try you, to make you get off your path, to make you do things that you do not want to do. So instead of letting these things toy with you, let them go, let them leave you, let them be and then, you cannot be effected by them.
+	- You might encounter cold, laziness, tiredness, meanness, hate, people who dislike you, who don't like who you are, people who attack you, you might have to endure pain, suffering and your own demons. All of these things might happen to you, all of these things might try you, to make you get off your path, to make you do things that you do not want to do. So instead of letting these things toy with you, let them go, let them leave you, let them be and then, you cannot be effected by them.
 2. **What one thing do most need to get done today?**
-	- Today you need to relax and let your self be at peace, you mustn't let your self burn out, do this: be bored and for hours until you can do the work again, don't do anithing, don't even read or watch the TV, just get a dring or a pipe and watch your mind as long as you need to, don't watch yutube or anithing like that just do nothing at all.
+	- Today you need to relax and let your self be at peace, you mustn't let your self burn out, do this: be bored and for hours until you can do the work again, don't do anything, don't even read or watch the TV, just get a during or a pipe and watch your mind as long as you need to, don't watch YouTube or anything like that just do nothing at all.
 1. **What am I grateful for?**
-	- For my parents, for my mother, for my sister, for being alive, for being me, for having enought, for knowing my woth, for knowing when to work hard and when to relax, for books and for knowing what is worth my time and what is not, for eating the frog and for staing focused on the things that matter, for being me and for having enought. I chose to be gratefull for all of these things tha help me.
+	- For my parents, for my mother, for my sister, for being alive, for being me, for having enough, for knowing my worth, for knowing when to work hard and when to relax, for books and for knowing what is worth my time and what is not, for eating the frog and for stating focused on the things that matter, for being me and for having enough. I chose to be grateful for all of these things, they help me.
 2. **What is worrying me?**
-	- You might be worried that you are not doing enought, that your time is running short, that you don't have enought time and energy to do the thing that are nececary to do, that you are worthless and unmotivated without any strenght. Now think about these worries, how real are they, how mutch truth do they contain? Why do your think they are real? These thing are the creation of your mind and nothing more, they are but an illusion of the mind. You shall not be distracted by these illusion that try to plague you, poison you, make you fear, make you fail. Discard these thought, let them sink into the sea of darkness that is nothingness like the sea its tresures. 
+	- You might be worried that you are not doing enough, that your time is running short, that you don't have enough time and energy to do the thing that are necessary to do, that you are worthless and unmotivated without any strength. Now think about these worries, how real are they, how much truth do they contain? Why do you think they are real? These things are the creation of your mind and nothing more, they are but an illusion of the mind. You shall not be distracted by these illusions that try to plague you, poison you, make you fear, make you fail. Discard these thought, let them sink into the sea of darkness that is nothingness, like the sea of its treasures. 
 3. **How can I decatastrophize today's problems?**
-	- You might think, that nothing is worth tring anymore, that you can't do this, that you cannot reach the light, that you are too week to do what you belive is right, but think, what is real about these thought, what is naturall about them, what to they prove? These thought are but a relic of the past, of days long gone and forgoten, so let them be forgoten as well, let the disapear from your mind, leave them with peace in heart knowing that they cannot hurt you, nothing can hurt you mind if you chose to be unhurtable, unbreakablle and hard like the dimons shaped by primotriall times. 
+	- You might think, that nothing is worth trying anymore, that you can't do this, that you cannot reach the light, that you are too weak to do what you believe is right, but think, what is real about these thought, what is natural about them, what do they prove? These thought are but a relic of the past, of days long gone and forgotten, so let them be forgotten as well, let them disappear from your mind, leave them with peace in heart knowing that they cannot hurt you, nothing can hurt your mind if you chose to be unhurtable, unbreakable and hard like the diamond shaped by primordial times. 
 4. **What is within my control and what is not**
-	- The only thing within my controll is my [[Control Over Judgment|Judgment]] and nothing else is. So not use your judgment to take action. Use it to do what you belive is right, what you belive is worth your time, what you belive in.
+	- The only thing within my control is my [[Control Over Judgment|Judgment]] and nothing else is. So not use your judgment to take action. Use it to do what you believe is right, what you believe is worth your time, what you believe in.
 
 ### Evening
 
