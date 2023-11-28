@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc472270a1fd62b5",
+            "id": "d17bbeb474800c3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Nov-26 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Nov-26 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Nov-26 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Nov-27 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -156,9 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8e6da4742b0406f",
+  "active": "d17bbeb474800c3d",
   "lastOpenFiles": [
     "Journal/2023-Nov-26 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-25 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-24 - Daily Stoic Reflection.md",
     "SLIP-BOX/Remember What you Read.md",
@@ -183,7 +189,6 @@
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-01 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-02 - Daily Stoic Reflection.md",
-    "Journal/2023-Nov-03 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
