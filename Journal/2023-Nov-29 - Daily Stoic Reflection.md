@@ -7,7 +7,7 @@ modified: 2023-11-29, 06:17
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-29T06:44
+updated: 2023-11-29T21:27
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-11-29, 06:17
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+I did all that I had to, even though I am ill. I did this, so that I could say that my body might talk, but my mind won't listen to its nonesense.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I haven't bean compassionete today. This was coused by my ilness and my state of mind and being.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I done all that I had to do today.
 
 ## Other Methods
 
