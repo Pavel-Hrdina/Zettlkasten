@@ -7,7 +7,7 @@ modified: 2023-11-30, 06:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-30T20:39
+updated: 2023-11-30T20:51
 ---
 
 
@@ -46,7 +46,7 @@ Date: 2023-11-30, 06:24
 3. **How can I decatastrophize today's problems?**
 	- Even when tired and unhappy, you must choose to push your self harder that before, you must choose to accept that you are the way you are, and then get out of bed again in the morning and like this every day. I know that some things may be boring to you, but they are necessary, your mind has chosen them for a reason, so trust it and do what you must.
 4. **What is within my control and what is not**
-	- The only things within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, nothing else. You have the power to take action and then watch reality unfold, you cannot control anithing except your own judgment.
+	- The only things within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, nothing else. You have the power to take action and then watch reality unfold, you cannot control anything except your own judgment.
 
 ### Evening
 
@@ -55,13 +55,11 @@ Date: 2023-11-30, 06:24
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+You made all the things that you set to do even though you are sick and don't feel so well, you have relaxed a bit, that is good, but you must know when it is time to work hard, you were also calm. You did all of these things to move your self forward.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You have let others disrespect you, you have done things that were crazy. You did this because you did not realize in time what was happening. 
 
 4. **What duty remains undone?**
 
