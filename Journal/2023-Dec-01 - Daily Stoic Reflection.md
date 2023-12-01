@@ -7,7 +7,7 @@ modified: 2023-12-01, 06:55
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-01T07:25
+updated: 2023-12-01T07:43
 ---
 
 
@@ -44,9 +44,10 @@ Date: 2023-12-01, 06:55
 2. **What is worrying me?**
 	- You may be worried that you will fail, that you are not enough, that you will lose your loved ones, that you cannot do anything right, that you are an idiot. These thoughts are but a poison in your mind, in your soul, they are not worth anything but a cure, they must be banished from your mind and soul, for they will make you sick, they will make you feel as if you were drowning, but instead of thinking how hard it is to get rid of them, be loving and think of them this way; One: "I shall love my self and every thought I have, no matter if good or bad." and two: "You shall now let go of your worry, let it flush out of your heart.".
 3. **How can I decatastrophize today's problems?**
-	- You may be thinking how hard 
+	- You may be thinking how hard you have it now, you may be thinking that you have it bad and all and that you don't deserver what you have and that thinking this is wrong, and it makes you ungrateful for the things you have. Now, how are you helping your self, if you think like this? You are only damaging your self and your soul, you must instead choose to think, when these thoughts come to mind, that you are no God, you are men, and if you are humaner than it's ok to have thought like these, but once they come, you let them go. You must choose to see the light at the end of the tunnel no matter how dim it may be, you must choose to try and reach it, even if it's impossibly far away, you must believe that it is possible.
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is under my control is my own [[Control Over Judgment|Judgment]]. Nothing else is under my control, so I must use my judgment to do things that are good, to follow nature.
+
 
 ### Evening
 
