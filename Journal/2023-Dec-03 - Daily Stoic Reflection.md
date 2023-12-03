@@ -7,7 +7,7 @@ modified: 2023-12-03, 12:07
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-03T14:11
+updated: 2023-12-03T14:19
 ---
 
 
@@ -42,11 +42,11 @@ Date: 2023-12-03, 12:07
 1. **What am I grateful for?**
 	- For my mother, for my father, for my sister, for being alive, for being me, for having warm food every day, for warmth, for understanding of life, for knowledge, for wisdom, for diligence, for kindness. 
 2. **What is worrying me?**
-	- You might be worried, that you are not doing what you should be doing, you might be worried about the future and the past. Now remember, how much did those worries give you, how much happier did they make you? You see that they didn't do anithing for you
+	- You might be worried, that you are not doing what you should be doing, you might be worried about the future and the past. Now remember, how much did those worries give you, how much happier did they make you? You see that they didn't do anything for you, so let them go.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Become dilligent, become unbreakablle, become unbeatablle, become feared, never back down, never give up, never let anybody put you down, never let people be mean or angry at you. You must put your self at the first place, even if it costs you relationships, even if it makes you suffer in the short term. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own judgment and nothing else is. So if you know this chose to use it for your advantage, chose to do things that need to be done today and not tomorrow.
 
 ### Evening
 
