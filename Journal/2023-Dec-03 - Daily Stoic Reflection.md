@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2023-12-03, 12:07"
+modified: 2023-12-03, 12:07
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T17:37
+updated: 2023-12-03T14:11
 ---
 
 
@@ -36,13 +36,13 @@ Date: 2023-12-03, 12:07
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You may meet people that are mean and generally bad, yoy may be cold, sad, unhappy, feeling worth less, feeling bad and mad, you may feel disorginezed and generally wrong. All of these things are out of your controll, you cannot change them, you cannot controll them, so don't be poisoned by them, let these things be the way they are, the way they should be.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today I need to do one osp test and go thought all the types of exercises in the tests. I shall do so today. 
 1. **What am I grateful for?**
-	- 
+	- For my mother, for my father, for my sister, for being alive, for being me, for having warm food every day, for warmth, for understanding of life, for knowledge, for wisdom, for diligence, for kindness. 
 2. **What is worrying me?**
-	- 
+	- You might be worried, that you are not doing what you should be doing, you might be worried about the future and the past. Now remember, how much did those worries give you, how much happier did they make you? You see that they didn't do anithing for you
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
