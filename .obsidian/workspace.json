@@ -4,17 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "763f66deb45fbe5b",
+        "id": "8f090c31a22e4597",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf71aa830178725",
+            "id": "557742aee0f6f902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Dec-01 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e67c40109dd2ece1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b0d857ba8dcb514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Dec-03 - Daily Stoic Reflection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -39,7 +60,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -70,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -87,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Dec-01 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Dec-01 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Dec-01 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/My Visual Alphabet.md"
               }
             }
           },
@@ -146,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cf71aa830178725",
+  "active": "557742aee0f6f902",
   "lastOpenFiles": [
-    "Journal/2023-Nov-30 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-03 - Daily Stoic Reflection.md",
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2023-Dec-02 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Stopping to Buy things.md",
+    "SLIP-BOX/Minimalism.md",
     "Journal/2023-Dec-01 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-30 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-29 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-28 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
@@ -186,11 +210,6 @@
     "Journal/2023-Nov-18 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-17 - Daily Stoic Reflection.md",
     "SLIP-BOX/Photography.md",
-    "Journal/2023-Nov-15 - Daily Stoic Reflection.md",
-    "Journal/2023-Nov-16 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-26 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-25 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-25 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
