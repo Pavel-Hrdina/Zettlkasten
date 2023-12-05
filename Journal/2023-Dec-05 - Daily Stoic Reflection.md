@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-12-03, 12:07
+modified: 2023-12-05, 06:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-03T21:23
+updated: 2023-12-05T06:43
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-12-03, 12:07
+Date: 2023-12-05, 06:22
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -36,17 +36,17 @@ Date: 2023-12-03, 12:07
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You may meet people that are mean and generally bad, you may be cold, sad, unhappy, feeling worthless, feeling bad and mad, you may feel disorganized and generally wrong. All of these things are out of your control, you cannot change them, you cannot control them, so don't be poisoned by them, let these things be the way they are, the way they should be.
+	- You are likely to be cold, sick, tired, sad and angry. You might also meet people who are arrogant, ungrateful, mean, angry. You might also feel the need to give up, but you must never give up and never back down. All of these things need to be approached with kindness and compassion, with loving heart and loving mind. But how should I be loving, when I'm tired? Well practice the loving speech to your self and others, practice the breath method, and then you will see the results of your love.
 2. **What one thing do most need to get done today?**
-	- Today I need to do one osp test and go thought all the types of exercises in the tests. I shall do so today. 
+	- Today, you need to learn for the tests again. You shall do this once you come home, and you will, because I believe in you, I believe that you can do this, that you can win over your self.
 1. **What am I grateful for?**
-	- For my mother, for my father, for my sister, for being alive, for being me, for having warm food every day, for warmth, for understanding of life, for knowledge, for wisdom, for diligence, for kindness. 
+	- For my parents, for my wife, for my sister, for being alive, for having warm food every day, for having warmth, for having enough, for being me, for love, for peace and for trust. 
 2. **What is worrying me?**
-	- You might be worried, that you are not doing what you should be doing, you might be worried about the future and the past. Now remember, how much did those worries give you, how much happier did they make you? You see that they didn't do anything for you, so let them go.
+	- You might be worried once again that you can't do this,  that you are not enough, that you are but a joker, an imposter. But remember 1 minute of right practice is worth 1 hour of wrong practice. Bear in mind that these toxic thoughts are there to make you suffer, to make you suffer so that you have to live. But think, wouldn't it be better to make these thoughts kind and be happier then?
 3. **How can I decatastrophize today's problems?**
-	- Become diligent, become unbreakable, become unbeatable, become feared, never back down, never give up, never let anybody put you down, never let people be mean or angry at you. You must put your self in the first place, even if it costs you relationships, even if it makes you suffer in the short term. 
+	- No matter how bad life might seem, no matter what is happening to you right now, no matter how much you suffer, no matter what, you must push forward, you must choose the path that leads to happiness, even if it's harder, you must do what is right and you must be good. I know that sometimes you feel like you can't make it, but don't give in to your demons, let them go will love and then be in peace, for nothing can hurt you, if you are like a wall from iron, so hard that nothing may destroy it. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my own judgment and nothing else is. So if you know this, chose to use it for your advantage, chose to do things that need to be done today and not tomorrow.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. Other things are unchangeable in their nature and so, if you know this, you must do what ordeal you have been given by nature to do, you are not alone in theis world and you must do your part every single day, every single night, without a pause, without a break, only to sleep, because what else is your purpouse than that that is naturall and yours only to bear.
 
 ### Evening
 

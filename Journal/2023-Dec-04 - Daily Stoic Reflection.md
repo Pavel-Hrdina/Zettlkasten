@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-12-03, 12:07
+modified: 2023-12-04, 06:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-03T21:23
+updated: 2023-12-04T21:27
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-12-03, 12:07
+Date: 2023-12-04, 06:30
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -28,7 +28,7 @@ Date: 2023-12-03, 12:07
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 
 ### Morning
 
@@ -36,17 +36,17 @@ Date: 2023-12-03, 12:07
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You may meet people that are mean and generally bad, you may be cold, sad, unhappy, feeling worthless, feeling bad and mad, you may feel disorganized and generally wrong. All of these things are out of your control, you cannot change them, you cannot control them, so don't be poisoned by them, let these things be the way they are, the way they should be.
+	- You may meet people that are mean, unkind, mad, ugly, arrogant, ungrateful, unhappy, you may be cold, you may feel pain, you may be hungry, and you may be put under pressure. Accept these things the way they are, don't fight them, don't let them disturb you and your calm, your peace.
 2. **What one thing do most need to get done today?**
-	- Today I need to do one osp test and go thought all the types of exercises in the tests. I shall do so today. 
+	- You must, after you come home, take 80 minutes of your time and learn for the tests. You must do this at 15:00 today.
 1. **What am I grateful for?**
-	- For my mother, for my father, for my sister, for being alive, for being me, for having warm food every day, for warmth, for understanding of life, for knowledge, for wisdom, for diligence, for kindness. 
+	- Thank the universe for my parents, for my wife, for, being alive, for being me, for having warm food every day, for knowing my worth, for being resilient, for knowing when to let go and for being warm and having a place to sleep.
 2. **What is worrying me?**
-	- You might be worried, that you are not doing what you should be doing, you might be worried about the future and the past. Now remember, how much did those worries give you, how much happier did they make you? You see that they didn't do anything for you, so let them go.
+	- You may be worried about time, about people, about the weather, about the traffic, about your self. Now, what worth do these worries have for you? How are they helping you do the right tings? They aren't doing any of these things, they only plague your mind and spread like mushrooms. If you know this, let go of them.
 3. **How can I decatastrophize today's problems?**
-	- Become diligent, become unbreakable, become unbeatable, become feared, never back down, never give up, never let anybody put you down, never let people be mean or angry at you. You must put your self in the first place, even if it costs you relationships, even if it makes you suffer in the short term. 
+	- No matter what you might be going thought right now, remember how lucky you are to be alive, how precious life is and how much, how much pain have you already overcame, how much you have got thought by your self. Remember the lesson and never give up, never back down, never hunch, never be broken. No matter what, you musn't give up on the things you have under your controll.
 4. **What is within my control and what is not**
-	- The only thing within my control is my own judgment and nothing else is. So if you know this, chose to use it for your advantage, chose to do things that need to be done today and not tomorrow.
+	- The only things under your conrol is your [[Control Over Judgment|Judgment]]. So use it to take action, to help the suffering and to help you self and do what you belive is right.
 
 ### Evening
 
@@ -55,18 +55,15 @@ Date: 2023-12-03, 12:07
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today you did all the things that you set out to do, you were kind to your self and others, you resisted your temptations, you eate the frog, you did what you set out to do. This is a great leap forward for you, I know its hard for you to do the things that you belive take away your freedom, but if they must be done; they are your duty, then you must do them and you did. You did all of these things to become happier to become more peacefull to live a better life. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I did some things, like lose controll of my emotions, and therefore I lost controll over my own [[Control Over Judgment|Judgment]]. You weren't paying attention for a moment and then you do things that you regret afterwards.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I did all that had to be done.
 
 ## Other Methods
 
