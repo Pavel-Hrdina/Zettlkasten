@@ -7,7 +7,7 @@ modified: 2023-12-05, 06:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-05T06:43
+updated: 2023-12-05T21:15
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-12-05, 06:22
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+You learned for the test. You did this in order to push your self harder, to the things that must be done, no matter what, to be the best.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You got stressed even when you shouldn't have, you weren't focused enough. You did this, because you lost your self to the world and abandoned your inner citadel. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You did all that you set to do today.
 
 ## Other Methods
 
