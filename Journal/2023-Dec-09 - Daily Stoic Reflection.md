@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-11-07, 06:31
+modified: 2023-12-09, 07:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-09T07:33
+updated: 2023-12-09T07:57
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-11-07, 06:31
+Date: 2023-12-09, 07:33
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -36,17 +36,17 @@ Date: 2023-11-07, 06:31
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- I might encounter a dog that will attack me without warning, I might be caught in a snowstorm while riding a motorcycle and I might even get struck by lightning. If anything like that is to happen, I chose to flow with it, not fight against it, I chose life over death. Likewise I am likely to meet people that are suffering, if this is to happen, I chose to try and heal their suffering. 
+	-  You may fail, you may be stressed, you may feel like you can't do it, you may feel like giving up, you may be cold, you may meet arogant, mean, angry, sad, suffering and overall bad people, you may think bad thoughts and you may feel bad. These things, you must overcome, you must choose to let them be the way they are, you can't do anithing about them, you can't change them, you can't make them into something else, you must face these things head on even if you feel like you can't, you are but a human being, so act acording to nature and you will not suffer anynore. 
 2. **What one thing do most need to get done today?**
-	- Today I need to prepare for tomorrow's tests. I now chose to do this when I come home from school, after I take a little break with my dron outside. 
+	- Today, you don't have to do anything, you just need to be peace. So go and meditate, go into nature, go and do nothing, go and be bored, you deserve it, you worked hard.
 1. **What am I grateful for?**
-	- I am grateful for my parents, my wife, my sister, the weather, my opportunities. Being alive, being born, being me, having food on the table every day, having warmth, and books. I chose to be grateful for all of this and much more. 
+	- For my parents, for my wife, for my sister and my family, for being alive, for being me, for doing what I believe is right, for acceptance, for knowing what is right and what is not, for understanding, for books, for being, for listening to my self and for all the good things I chose to be grateful. 
 2. **What is worrying me?**
-	- I am worried that I will fail my tests tomorrow, I am worried that I cannot keep the promise I made to my self. I now chose to let go of these worries, instead I now approach them with love and kindness as they fade away, like a feather fades into the sea with the wind. 
+	- You may be worried that you might fail today, that you haven't done enough, that you are weak, that no matter how hard you try, it doesn't matter. But no, think more kindly like this. One: "I did my best.", two: "No matter what I will do my best" three: "I choose to let go of worry, I chose to be free". Repeat this to your self, anytime your mind starts to become poisoned, when it feels like you're about to break, when you feel like you can't do this, think like that and think kindly.
 3. **How can I decatastrophize today's problems?**
-	- "How might one know what is right and what is wrong, without judgment of others?", you might be asking. But you are asking the wrong questions, instead ask your self: "How can I ask my judgment, what is right and what is wrong.". You see, only a little change, can sometimes make the biggest difference, no matter what, it is essential that you focus on the bigger picture and only once you have grasped it in full, you can look at the small wonders that are hidden in plain sight. 
+	- No matter what, no matter how hard it might seem, you mustn't give up, you must accept what is out of your control and chose to act on what is, only then start to work, only when your mind is clear, only when you are sure you can do this. Always think like this: "I will do what works 80% of the time, then, if it fails once, it doesn't matter I will just try again, and then it will work".
 4. **What is within my control and what is not**
-	- The only thing that is truly within my control is my [[Control Over Judgment|Judgment]] and nothing else is. This hard truth leads to the discovery, that the only thing you can do to influence things that are outside your control, is to take action. 
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]], nothing else is, only this. Now use your judgment to take action, to do what is best and do it right. Sometimes, the best thing you can do, is to not do anything at all. Why is that? It is so because you must be 80% certain, that what you are about to do is right, otherwise, it doesn't make sense to do it.
 
 ### Evening
 
@@ -55,19 +55,18 @@ Date: 2023-11-07, 06:31
 
 1. **What did I do well today?**
 
-Today I did great in school, I received two great marks, I chose to get them, so that I could have a better future. I chose to be kind to all, so that I could forgive my self, for when I was unkind. I chose to win at life, so that I could reach nirvana. 
-
-I thank you now, for doing all of these things and I thank that I am still alive, that I am not broken that I am still me, that my mind is well and that I am healthy, for this I now become love. 
+| Things I Did Well | Why I did them |
+| ------------------- | ---------------- |
 
 2. **What did I do wrong?**
 
-I almost gave up on my self, so that I could go to sleep. I made the mistake of talking too much and too little. Furthermore, I failed a big test, because I did not prepare for it. I did not stand up for my self, when I was attacked, for before I could react the talk was over. I was driving my motorcycle recklessly, which could cause me to become paralyzed, or dead. 
-
-I am sorry to you, for doing these wrongs, I shall improve my self tomorrow, so that I can look in the mirror again with love and kindness, now I chose to let go of these wrongs.  
+| What did I do wrong | Why I did it |
+| ------------------- | ---------------- |
 
 4. **What duty remains undone?**
 
-I did all that I set to do today.
+| What duty remains undone? | Why I didn't do it |
+| ------------------- | ---------------- |
 
 ## Other Methods
 
