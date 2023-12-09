@@ -7,7 +7,7 @@ modified: 2023-12-09, 07:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-09T07:57
+updated: 2023-12-09T21:57
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-12-09, 07:33
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today, you faced your feares head on, you have left behind your worry, you have accepted your nature and your ordeal, you have accpted you current self and your past self, you haven't complained and you were kind, even to your self. All of these things you have decided to do, you decided for them to be this way, you have done them, in order to controll your self and your actions. You may be thinking: "Why should I do what I choose to, and not what feels nice?". If you decide to do things for a long term, then you will see much better results over all, that if you give in to plessure, so keep this in mind.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I deleted 3 days worth of reflections, because I was not carefull and methodicall enough, but it is ok, in the long term, 3 days are nothing. You have also gave in to anger momentarlly, before realizing your mistake, but it was too late and you have already become angry, this was because you didn't do something right. It's ok that you made these mistakes, let them be guidance for you in the future, do not make them again, then you shall punish your self harder if it will be so.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You did all that you set out to do today, once again you prove to me, that you can do things, that you thought were impossible for you to ever do.
 
 ## Other Methods
 
