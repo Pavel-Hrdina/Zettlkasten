@@ -7,7 +7,7 @@ modified: 2023-12-13, 06:44
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-13T07:12
+updated: 2023-12-13T07:20
 ---
 
 
@@ -42,11 +42,11 @@ Date: 2023-12-13, 06:44
 1. **What am I grateful for?**
 	- For my parents, for my father, for my sister, for being me, for being alive, for having food every day, for being warm, for book, for being healthy, for my luck, for being born, for freedom, for peace, for the kind and the happy, for those who helped me, for those who are an example to me. For building my self and for knowing my worth. 
 2. **What is worrying me?**
-	- You may be worried that you are dumb, crazy, too sensitive, that you will fail, die, become forgoten, that nothing you do is worth it, that nothing you do get you any closer to your goals. But no, don't think that way, don't be put down by the posion that your mind is trying to make you belive in, radher, think this way; One: ,,Even if I shall fail, I shall play the cards that I have, and I shall not complain, about the things that are out of my controll.''; Two: ,,Those who try to put you down, suffer more then you do, so be kind to them.''; Three: ,,Even in death, I shall accept my fate.''; Repeat all of these things to your self when a worry emerges in your mind bringing only pain, repeat them every day and night and then do your duty. 
+	- You may be worried that you are dumb, crazy, too sensitive, that you will fail, die, become forgotten, that nothing you do is worth it, that nothing you do get you any closer to your goals. But no, don't think that way, don't be put down by the poison that your mind is trying to make you believe in, rather, think this way; One: ,,Even if I shall fail, I shall play the cards that I have, and I shall not complain, about the things that are out of my control.''; Two: ,,Those who try to put you down, suffer more then you do, so be kind to them.''; Three: ,,Even in death, I shall accept my fate.''; Repeat all of these things to your self when a worry emerges in your mind bringing only pain, repeat them every day and night and then do your duty. 
 1. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how bad things might seem, remember what you have, remember the light that you are chasing, remember the love you want to feel for your self and the world, remember that there are many truths, but only one at a time can be right. So think what truth is worth for me to accept and remember, what truth holds value for me, what truth will always be the truth, even after my death? 
 2. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is. So think deep; How can I use my judgment, do become a better human being? How can I use my judgment to do my duty? Think about this deeply, think about the ways you can use your judgment to make better decisions.
 
 ### Evening
 
