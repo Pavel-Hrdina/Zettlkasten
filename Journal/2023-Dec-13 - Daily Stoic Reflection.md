@@ -46,7 +46,7 @@ Date: 2023-12-13, 06:44
 1. **How can I decatastrophize today's problems?**
 	- No matter how bad things might seem, remember what you have, remember the light that you are chasing, remember the love you want to feel for your self and the world, remember that there are many truths, but only one at a time can be right. So think what truth is worth for me to accept and remember, what truth holds value for me, what truth will always be the truth, even after my death? 
 2. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is. So think deep; How can I use my judgment, do become a better human being? How can I use my judgment to do my duty? Think about this deeply, think about the ways you can use your judgment to make better decisions.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is. So think deep; How can I use my judgment, to become a better human being? How can I use my judgment to do my duty? Think about this deeply, think about the ways you can use your judgment to make better decisions.
 
 ### Evening
 
