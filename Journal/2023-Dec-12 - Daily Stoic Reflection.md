@@ -3,18 +3,18 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-12-11, 06:21
+modified: 2023-12-12, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-11T21:27
+updated: 2023-12-12T21:06
 ---
 
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-12-11, 06:21
+Date: 2023-12-12, 06:23
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -36,17 +36,17 @@ Date: 2023-12-11, 06:21
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may be cold, you may meet people who are mean, arrogant, disrespectful, hateful and unkind, you may be stuck in traffic, and you may feel lazy, unmotivated and sad, you may also feel pain and suffer. You mustn't let any of these put you down, you mustn't let any of them make you give up, you must continue on your journey, you must choose to accept your self and then conquer your self, you choose to become the best, you must choose all of these things to be the man you want to be, to be happy, you could end you if you don't go for your dreams, if you don't do what makes you happy, what you believe is right, what is the point of living then? What else than living according to nature and its laws.
+	- You may be tired, but you are not dead yet, you may feel sad, but you are not dead yet, you may meet people who are mean, arrogant, aggressive, unpredictable, unhappy and suffering, you may feel like giving up. You must choose to push on, to never give up, to never back down, to choose to do what you believe is right, what you believe should be done and is within your control, so push on, don't be discouraged, do what you believe in.
 2. **What one thing do most need to get done today?**
-	- Today, I need to finish my assignments and prepare for the test tomorrow. You will do this today, and you must do this today no matter what, you just do it and don't let it pile up. 
+	-  Today I need to work on the presentation. I shall do this, and I will do this, I choose to do this.
 1. **What am I grateful for?**
-	- I choose to be grateful for my parents, my wife, my sister, being alive, being me, books, understanding, nature, life, kindness, happiness, Buddhism, ancestors. 
+	- For my parents, for my sister, for my family, for my wife, for being alive, for being me, for food every day, for warmth, for understanding, for letting go, for knowing my worth, for pushing on, for the kind people, for the motivators.  
 2. **What is worrying me?**
-	- You may be worried that you are not enough, that you can't do what is right, that by being you, you lose people around you, that you are too kind, that you are not doing enough. All of these things are untrue, or they are out of your control, so let go of them, what good will these thoughts do for you, how are they helpful to you? What do you think will they do to you? These thoughts must be banished from your soul, they have no place amongst the good and natural in you, so banish these thoughts, like you would banish an unwanted guest. 
+	- I am worried that I am lazy, that I don't deserve what I have, that I might give up, that I can't do what I set out to do, I am worried that I can't make a change, that I am that guy without confidence, that can't stand up for him self. You must choose to let go of these worries, what do they do for you, how do they help you become your best self? They don't, so let go of them, become the best you can be, never let anyone hurt you, never be put down. So banish these thoughts and push on.
 3. **How can I decatastrophize today's problems?**
-	- You must think that there is no hope, you must think that you are fighting for nothing, but no, instead think like this; One: ,,If I give up, that I gave up on life and I shall be dead.''; Two: ,,remember that you are fighting for the light at the end of the tunnel, that you are fighting for your self and for the future''. Never let anyone, and I mean anyone, not even your self, doubt you, you can't be the best, if you doubt your self. How can you have the strength to win, if you don't even believe that it is possible for you to win? So think like that and choose to push on, to never give in, to never give up, to look for the light of hope that shall guide you to a better tomorrow.
+	- No matter how dark things might seem, you must still choose to push on, you must continue on your journey, you must choose to accept who you are and your nature, no matter how hard you try you can't change these things, the only thing you can do, is try more than is your best choose to never give up, never back down, just behind the corner, there might be gold hiding, you must choose to believe this, you must choose to look at the stars at night and think: ,,We will be the conquerors of stars". You must dream so big, that it seem impossible, but you can do it, you can achive your dreams. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. Choose to use it to live according to nature if you know this if you know that you can't control anything else and only your action, that choose to take it, even if the action looks meaning less, you must choose to act in order to live with your nature, with your *soul*.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, it is the only thing under my control. Choose to use your judgment to do good and live according to nature, do not succumb to your temptations, don't let your self make judgments without deciding that they are the right path. 
 
 ### Evening
 
@@ -55,15 +55,15 @@ Date: 2023-12-11, 06:21
 
 1. **What did I do well today?**
 
-Today, you did all the things that you set out to do. You did them because you believed in your self. You remained in control of your mind, you motivated your self, and you did what was essential. You did all of these things, because you choose to be your best self, because you choose greatness, so never give up on this dream, don't let anybody tell you, how to live your life, and then you will be free, allow your self to dream big, to be who you truly are. 
+Today, you have chosen to face your fears, you have choosen to conquer your self to never let you become a coward, even though this day might feel like one of the wors days this year, one of the days you failed what you could, you still must understand, that one day out of many is nothing, you only live a short while, you can do only so much in your life and thing are out of your controll, so don't live your life in fear of death, of the if, live, as if you could die tomorrow, as if you could die now, so belive in your self, what else can you do, what else is left to do, but this if you could die now, what do you have to lose, everyone is going to die anyway so why cling to the wordly things that are fake anyway, the only truth is in nature and in nothing else, so don't force your self to the standars of the fake and do what you belive is right. 
 
 2. **What did I do wrong?**
 
-I laughed when there was no need to laugh, I also talked wrong about people. I dislike them and I laughed because I felt like it. Let these things slide and be happy,
+You have broken a promise to your self today twice, you were overwhelmed with emotions, you couldn't do what was right at that moment, you are getting tired, even though it feels like you don't do anything but relax. But don't ever think about giving up, you must choose to push on, to never give up, that's the only thing you can do, no matter what cards you were dealt, no matter how dumb you may be, no matter how shitty you might fell, you must do your duty, you must choose to be kind, loving and happy. 
 
 4. **What duty remains undone?**
 
-You did all that you set out to do today.
+Today, you did all the things that you set out do to, congratulations.
 
 ## Other Methods
 
