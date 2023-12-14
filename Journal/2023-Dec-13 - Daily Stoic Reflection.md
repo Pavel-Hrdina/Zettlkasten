@@ -7,7 +7,7 @@ modified: 2023-12-13, 06:44
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-13T07:20
+updated: 2023-12-13T21:24
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-12-13, 06:44
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today, you did all the things that you set out to do, I was kind and loving and I relaxed, I have choosen to not let anyone ditress me, to not let the nature of things bother me, to not let anyone make me feel bad, to have a thic skin and be unbroken. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+I did almoast fall into the trap, of being emotinally manipulated. This happened, becuase I was no focuse enough, tomorrow, I must remain focused the whole day.  
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today, you did all the things that you set out to do.
 
 ## Other Methods
 
