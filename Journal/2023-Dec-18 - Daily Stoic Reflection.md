@@ -7,7 +7,7 @@ modified: 2023-12-18, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-18T07:15
+updated: 2023-12-18T21:18
 ---
 
 
@@ -46,7 +46,7 @@ Date: 2023-12-18, 06:27
 3. **How can I decatastrophize today's problems?**
 	- No matter what darkness plagues your mind, always look for the light, no matter what is bothering you, always look for the bright stars in the sky and thing: ,,What am I, how small compared to the infinity of the universe, to the infinity of time." and then think how lucky you are to be alive, how lucky you are to be born, how lucky you are to suffer, how lucky you are to have an interesting life, how lucky that you are not broken by the past. And then understand what you have been though already, what difficulties have you overcome how you fight every day to become more compassionate, to become more loving, to become better, how you choose the difficult, how you choose to live your life the hard and the right way, to spread love and compassion to all beings until you are dead, you will be forgotten with time anyway, so what does it matter if you think you have problems now, they will go away with time, like all things do.  
 4. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is. So now use you judgment for compassion, love and the virtues, live you life acording so that you can be happy. Some feel a deep hole withing their soul, like a mine that has been dug by suffering, they only way to fill this hole, is to live your life in kindness to others and with love to them and your self.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is. So now use your judgment for compassion, love and the virtues, live your life according so that you can be happy. Some feel a deep hole within their soul, like a mine that has been dug by suffering, they only way to fill this hole, is to live your life in kindness to others and with love to them and your self.
 
 ### Evening
 
@@ -55,18 +55,15 @@ Date: 2023-12-18, 06:27
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today, you have chosen to be kind, you have chosen to be loving and banish your rage to those who wronged you, to those who tried to hurt you, to those, who laughed at you, you have chosen to accept whatever comes in your way, and you have chosen to never let anybody walk onto you like on a rug. You did these things, so that you could walk free amongst the chained sheep, so that you could live your life happy and without regret, so that you could know that you were good to those who loved you and those who hated you, that you could die in peace, as if you would die now.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You were too angry today, especially at your self, you called your self dumb and was angry about your mistakes. You did this because you have chosen to give into rage, to be hateful to your self. Remember that making a mistake does not mean that you are an idiot, that you are worthless, that you can't do anything, it only means, that you must learn from that mistake and do it again, until you do it right, only then you will find your self at peace. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You did all that you set out to do today. Thank you for doing your duty, 
 
 ## Other Methods
 
