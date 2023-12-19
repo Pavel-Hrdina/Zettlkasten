@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99eff62220ba9348",
+            "id": "c52c732bc20c796d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Dec-18 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -174,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99eff62220ba9348",
+  "active": "c52c732bc20c796d",
   "lastOpenFiles": [
-    "Journal/2023-Dec-17 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-17 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-15 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-14 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-13 - Daily Stoic Reflection.md",
@@ -201,7 +202,6 @@
     "Journal/2023-Nov-29 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-28 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
-    "Journal/2023-Nov-26 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
