@@ -7,7 +7,7 @@ modified: 2023-12-20, 06:58
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-20T07:03
+updated: 2023-12-20T07:23
 ---
 
 
@@ -40,13 +40,13 @@ Date: 2023-12-20, 06:58
 2. **What one thing do most need to get done today?**
 	- Today, you need to work on the project base, give in a deep thought and then do it.
 1. **What am I grateful for?**
-	- I choose to be gratefull for my parents, for my wife, for my sister, for being me, for being alive, for having enough, for kindness, for love, for understanding, for knowledge, for being me, for peace, for doing what I belive is right, for understanding and wisdom.
+	- I choose to be grateful for my parents, for my wife, for my sister, for being me, for being alive, for having enough, for kindness, for love, for understanding, for knowledge, for being me, for peace, for doing what I believe is right, for understanding and wisdom.
 2. **What is worrying me?**
-	- 
+	- You may be worried that you can't do anything right, that you are lost, that you don't know what to do, that you can't defend your self, that you are too kind, that you are too loving, that by being your self, you make people go away, that by being who you really are, people won't like you. Don't you see that these things make no sense, don't you see that they are not true? And so what if people hate you, so what if they despise you, be happy, don't worry about them, what can you do about them except let them be and not talk with them. Choose to let go of these worries, face them, fearless, not attacking them, but instead, showing them love and compassion, then you won't be suffering anymore. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how hard thing might seem, you must keep pushing on, you must push for that light at the end of the tunnel, you must choose happiness, over pain, you must choose to do the same things over and over again in order to achieve your goals. I know that it's hard, I know that you feel a lot of emotions, but you must choose to accept them in your self, you must choose to love them, even if they are painful, don't try to banish them, just let them be, love them for what they give you, be grateful for them. You have the power to love people, so love them, if they try to hurt you don't talk with them.  
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]]. So choose to use it to take action. 
 
 ### Evening
 
