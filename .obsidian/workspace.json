@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c52c732bc20c796d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c664c9d73791709",
             "type": "leaf",
             "state": {
@@ -32,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4aa217be55b0cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Dec-20 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-20 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-20 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Dec-19 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Dec-20 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -174,15 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c52c732bc20c796d",
+  "active": "d4aa217be55b0cd4",
   "lastOpenFiles": [
-    "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2023-Dec-20 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-17 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-15 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-14 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-13 - Daily Stoic Reflection.md",
-    "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2023-Dec-12 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-11 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-10 - Daily Stoic Reflection.md",
@@ -201,7 +203,6 @@
     "Journal/2023-Nov-30 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-29 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-28 - Daily Stoic Reflection.md",
-    "Journal/2023-Nov-27 - Daily Stoic Reflection.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
