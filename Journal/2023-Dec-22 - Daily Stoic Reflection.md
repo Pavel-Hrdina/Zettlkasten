@@ -7,7 +7,7 @@ modified: 2023-12-22, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-22T06:56
+updated: 2023-12-22T21:47
 ---
 
 
@@ -55,18 +55,15 @@ Date: 2023-12-22, 06:23
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today you were kind, loving and happy, you did the best you could, and you choose to do what you believed was right, you were articulate, your self but not obnoxious, and you overcame your self, you were strong, and you had a lot of energy, you have accepted the nature of life, that people die and that you could die right now, this very moment. You walk your talk. All of these things you did, because you want to be a better person, because you want to love and to be loving, to reduce suffering to see the suffering in others and help them to be happy, you chose to not inflict pain on others, even if they inflicted pain on you and so you punish them worse, than if you gave it back to them, you try to live according to nature.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+You made some wrong choices today, you have been very sensitive and made jokes when you shouldn't have. You did these thing because that how you cope with life, thats how you disply your suffering, but that must end, instead, chose to heal your suffering in a healthy way, you must chose to live acording to nature and its laws slow and full. 
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+I did all the things that I set out to do today. 
 
 ## Other Methods
 
