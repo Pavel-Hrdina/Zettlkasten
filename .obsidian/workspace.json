@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0d833949a2e74cb9",
+            "id": "90aeb827ce76961a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
+                "file": "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Dec-24 - Daily Stoic Reflection.md"
+                "file": "Journal/2023-Dec-25 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -176,9 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d833949a2e74cb9",
+  "active": "90aeb827ce76961a",
   "lastOpenFiles": [
     "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-22 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-19 - Daily Stoic Reflection.md",
@@ -203,7 +204,6 @@
     "Journal/2023-Dec-03 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-02 - Daily Stoic Reflection.md",
     "SLIP-BOX/Stopping to Buy things.md",
-    "SLIP-BOX/Minimalism.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
