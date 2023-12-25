@@ -42,9 +42,9 @@ Date: 2023-12-25, 10:34
 1. **What am I grateful for?**
 	- I chose to be grateful for my parents, my wife, my sister, being alive, being me, having warm food every day.
 2. **What is worrying me?**
-	- 
+	- That I am running out of time.
 3. **How can I decatastrophize today's problems?**
-	- No matter how dark things might seem, you must chose to push forward, do not get behind, do not stop, you could die any day 
+	- No matter how dark things might seem, you must chose to push forward, do not get behind, do not stop, you could die any day.
 4. **What is within my control and what is not**
 	- The only things under your controll is your own [[Control Over Judgment|Judgment]] and nothing else is. 
 
