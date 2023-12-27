@@ -7,7 +7,7 @@ modified: 2023-12-27, 09:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-27T10:07
+updated: 2023-12-27T10:18
 ---
 
 
@@ -44,9 +44,9 @@ Date: 2023-12-27, 09:12
 2. **What is worrying me?**
 	- You may be worried that you are not enough, that you will lose people you love, that you can't do enough, that you are a nobody, that you can't do what you want to do. All of these things, how real are they? How truthful are they? What do they bring you? How do they help you? You must choose to abandon these thoughts, you must choose to let them go, to leave them behind in past where they belong, you must choose to let them be, the way they should be, letting them go, letting them be a thing of the past. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark may thing seem, how hopeless you may fell, how bad might you think you are, nothing is worse that giving up, nothing is worse than giving up, you may feel bad that you have failed, you may feel like you are going nowhere, like you can't do anything, but no matter what, choose to see the light, choose to see what is right, what is the right action to take, what is the way you should go. Ask your self: "What could have I done better?", "Was this within my controll?".
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own [[Control Over Judgment|Judgment]]. I now choose to use my judgment to act.
 
 ### Evening
 
