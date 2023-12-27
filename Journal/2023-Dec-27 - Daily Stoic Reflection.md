@@ -7,7 +7,7 @@ modified: 2023-12-27, 09:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-27T10:03
+updated: 2023-12-27T10:07
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-12-27, 09:12
 1. **What am I grateful for?**
 	- For my mother, my father, my wife, my sister, my family, being me, being alive, having love and kindness, having friends, having life, having enough. For all of these things, I choose to grateful for. 
 2. **What is worrying me?**
-	- You may be 
+	- You may be worried that you are not enough, that you will lose people you love, that you can't do enough, that you are a nobody, that you can't do what you want to do. All of these things, how real are they? How truthful are they? What do they bring you? How do they help you? You must choose to abandon these thoughts, you must choose to let them go, to leave them behind in past where they belong, you must choose to let them be, the way they should be, letting them go, letting them be a thing of the past. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
