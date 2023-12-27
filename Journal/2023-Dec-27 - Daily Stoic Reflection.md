@@ -7,7 +7,7 @@ modified: 2023-12-27, 09:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-27T09:37
+updated: 2023-12-27T10:03
 ---
 
 
@@ -36,13 +36,13 @@ Date: 2023-12-27, 09:12
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may be cold, you may meet people that are arrogant, unkind and mean. You may feel lost and hopeless, you may fall down and you may die. You may feel tired and you may feel restless and you may be bored. All of these things are out of your controll, so thinks about them as such, don't let your self be bothered by them.
+	- Today, you may be cold, you may meet people that are arrogant, unkind and mean. You may feel lost and hopeless, you may fall down and you may die. You may feel tired, and you may feel restless, and you may be bored. All of these things are out of your control, so thinks about them as such, don't let your self be bothered by them. You must choose to be fine with whatever is about to happen and what has happened. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, you need to relax, you need to relive any and all pressure that has built up on you over the days. Chose to be in peace, to let go of anything wrong that has happened to you.
 1. **What am I grateful for?**
-	- 
+	- For my mother, my father, my wife, my sister, my family, being me, being alive, having love and kindness, having friends, having life, having enough. For all of these things, I choose to grateful for. 
 2. **What is worrying me?**
-	- 
+	- You may be 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
