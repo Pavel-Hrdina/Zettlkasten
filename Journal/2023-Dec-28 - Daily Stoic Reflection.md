@@ -7,7 +7,7 @@ modified: 2023-12-28, 09:11
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-28T10:28
+updated: 2023-12-28T10:37
 ---
 
 
@@ -38,15 +38,15 @@ Date: 2023-12-28, 09:11
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may be cold, you may fell like there is no way for you to succeed, like you are a nobody, that you can't do anything right, you may doubt your self, you may feel bad, and you may feel young and strong, you may meet people that are arogant, mean, angry, agressive and unkind. None of these things shall put you down, none of these things shall put your calm and happiness away, you will accept them with peace of mind and then let them go.
 2. **What one thing do most need to get done today?**
-	- Today you need to do the price analysis.
+	- Today, you need to do the price analysis.
 1. **What am I grateful for?**
-	- 
+	- For my family, for my wife, for my sister, for being alive, for being me, for being happy, for knowing, for skying, for snow, for the truth, for people, for kindness, for love. I choose to be grateful for all of these things. 
 2. **What is worrying me?**
-	- 
+	- You may be worried that you are not doing enough, that you are not enough, that you can't do what you set out to do, that you can't do anything right. That you may die right now.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark might things seem, no matter how hopeless you might feel, no matter how deep down in fear you might be, you must look at these things and say: ,,I am not afraid of things I can't controll". 
 4. **What is within my control and what is not**
-	- 
+	-  The only thing in my controll is my own [[Control Over Judgment|Judgment]], so chose to use it to take action, to be a better human being, to live.
 
 ### Evening
 
