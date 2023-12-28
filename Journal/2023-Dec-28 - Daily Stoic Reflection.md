@@ -7,7 +7,7 @@ modified: 2023-12-28, 09:11
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-28T10:37
+updated: 2023-12-28T22:47
 ---
 
 
@@ -36,7 +36,7 @@ Date: 2023-12-28, 09:11
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may be cold, you may fell like there is no way for you to succeed, like you are a nobody, that you can't do anything right, you may doubt your self, you may feel bad, and you may feel young and strong, you may meet people that are arogant, mean, angry, agressive and unkind. None of these things shall put you down, none of these things shall put your calm and happiness away, you will accept them with peace of mind and then let them go.
+	- Today, you may be cold, you may fell like there is no way for you to succeed, like you are a nobody, that you can't do anything right, you may doubt your self, you may feel bad, and you may feel young and strong, you may meet people that are arrogant, mean, angry, aggressive and unkind. None of these things shall put you down, none of these things shall put your calm and happiness away, you will accept them with peace of mind and then let them go.
 2. **What one thing do most need to get done today?**
 	- Today, you need to do the price analysis.
 1. **What am I grateful for?**
@@ -44,9 +44,9 @@ Date: 2023-12-28, 09:11
 2. **What is worrying me?**
 	- You may be worried that you are not doing enough, that you are not enough, that you can't do what you set out to do, that you can't do anything right. That you may die right now.
 3. **How can I decatastrophize today's problems?**
-	- No matter how dark might things seem, no matter how hopeless you might feel, no matter how deep down in fear you might be, you must look at these things and say: ,,I am not afraid of things I can't controll". 
+	- No matter how dark might things seem, no matter how hopeless you might feel, no matter how deep down in fear you might be, you must look at these things and say: ,,I am not afraid of things I can't control". 
 4. **What is within my control and what is not**
-	-  The only thing in my controll is my own [[Control Over Judgment|Judgment]], so chose to use it to take action, to be a better human being, to live.
+	-  The only thing in my control is my own [[Control Over Judgment|Judgment]], so chose to use it to take action, to be a better human being, to live.
 
 ### Evening
 
@@ -55,18 +55,15 @@ Date: 2023-12-28, 09:11
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today, you were calm, collected, happy and loving. 
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today, you did not respect people who you love the most.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+Today, you did all that you set out to do. 
 
 ## Other Methods
 
