@@ -7,7 +7,7 @@ modified: 2023-12-29, 10:03
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-29T21:59
+updated: 2023-12-29T22:11
 ---
 
 
@@ -36,17 +36,17 @@ Date: 2023-12-29, 10:03
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may be cold, you may feel restless, you may feel like you are not doing enough, as if you are not doing, what you are supposed to do. You may meet people that are mean, arogant, agressive, angry, hatefull and dislike you. You must not get discuraged by these activities, you must not give up, you must instead choose to push against the difficulty, to be better, to act.
+	- Today, you may be cold, you may feel restless, you may feel like you are not doing enough, as if you are not doing, what you are supposed to do. You may meet people that are mean, arrogant, aggressive, angry, hateful and dislike you. You must not get discouraged by these activities, you must not give up, you must instead choose to push against the difficulty, to be better, to act.
 2. **What one thing do most need to get done today?**
 	- Today, I need to create my visual alphabet. 
 1. **What am I grateful for?**
-	- I choose to be gratefull for my father, my mother, my sister, my wife, being alive, being me. 
+	- I choose to be grateful for my father, my mother, my sister, my wife, being alive, being me. 
 2. **What is worrying me?**
 	- You may be worried that you are not doing enough, that you are focusing on the wrong things, that you have no time, that you can't do what you think is right.
 3. **How can I decatastrophize today's problems?**
-	- No matter how dark might things seem, you must keep your mind calm, you must keep you head in the moment, you must choose to take action and see the light, to push for your dream, to be free and do what you want to do.
+	- No matter how dark might things seem, you must keep your mind calm, you must keep your head at the moment, you must choose to take action and see the light, to push for your dream, to be free and do what you want to do.
 4. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is.
 
 ### Evening
 
@@ -55,18 +55,15 @@ Date: 2023-12-29, 10:03
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
+Today, you did well all the things, that you didn't do wrong. You did all of them, because you want to be great, because you want to feel useful, because you want to live a happy live and a life of freedom and peace. What are you willing to sacrifice for this? My life, my time, my friends, fun and free time.
 
 2. **What did I do wrong?**
 
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
+Today, I was in my bed for too long, for tomorrow you will put your phone far away, so that you have to get up to stop it. I did this because I was lazy.
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+You did all the things that you set out to do. I am grateful to you, that you have taken the time and energy to do them. 
 
 ## Other Methods
 
