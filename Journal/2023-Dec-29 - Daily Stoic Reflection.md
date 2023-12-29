@@ -7,7 +7,7 @@ modified: 2023-12-29, 10:03
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-29T21:17
+updated: 2023-12-29T21:59
 ---
 
 
@@ -44,7 +44,7 @@ Date: 2023-12-29, 10:03
 2. **What is worrying me?**
 	- You may be worried that you are not doing enough, that you are focusing on the wrong things, that you have no time, that you can't do what you think is right.
 3. **How can I decatastrophize today's problems?**
-	- No matter how dark might things seem, you must keep your mind calm
+	- No matter how dark might things seem, you must keep your mind calm, you must keep you head in the moment, you must choose to take action and see the light, to push for your dream, to be free and do what you want to do.
 4. **What is within my control and what is not**
 	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is.
 
