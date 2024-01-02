@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-Dec-29 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/My Visual Alphabet.md"
               }
             }
           },
@@ -136,9 +136,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,16 +157,17 @@
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8c664c9d73791709",
   "lastOpenFiles": [
+    "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
-    "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2023-Dec-28 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-27 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
+    "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-22 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-19 - Daily Stoic Reflection.md",
