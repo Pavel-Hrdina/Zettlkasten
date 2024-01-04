@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
 created: 2023-08-24T20:00
 modified: 2023-08-19, 20:29
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-27T12:48
+updated: 2024-01-04T11:43
 ---
 
 # Linux One Liners

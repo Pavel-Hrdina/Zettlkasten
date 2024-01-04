@@ -7,7 +7,7 @@ modified: 2023-11-20, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-20T20:58
+updated: 2024-01-04T11:43
 ---
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
@@ -28,7 +28,7 @@ updated: 2023-11-20T20:58
 3. **How can I decatastrophize today's problems?**
 	- You might be starting to believe all the crap people say, all the ugly, suffering words of the unhappy that want to harm you, but do not be mad at them for being this way, forgive them for their ignorance. These things are only meant to hurt, so do not let them touch your heart, do not let them hurt you. You must choose to be like a rock, you must choose to be like a hard metal, unbreakable, while peacefully resisting any attacks from the suffering.
 4. **What is within my control and what is not**
-	- The only things under my control is my own [[Control Over Judgment|Judgement]] and nothing else is. Thus, you must choose to use it for good, for love, to reduce the suffering without creating your own. 
+	- The only things under my control is my own [Judgement](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is. Thus, you must choose to use it for good, for love, to reduce the suffering without creating your own. 
 
 ### Evening
 

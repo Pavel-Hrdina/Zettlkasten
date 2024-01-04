@@ -7,7 +7,7 @@ modified: 2023-11-12, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-12T21:02
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-12T21:02
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-12, 10:30
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -36,7 +36,7 @@ Date: 2023-11-12, 10:30
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Toady I am likely to face my own self, negativity of others that is their hate, anger, envy, jealousy, meanness, idiocy, lack of compassion, lack of love, their suffering and their negativity. I am also likely to experience lack of time, energy and compassion, yet I chose love and kindness to all beings. I chose to not let these adversities move me to make bad [[Control Over Judgment|Judgments]], I chose to accept them without complaint and without pity for my self or others.   
+	- Toady I am likely to face my own self, negativity of others that is their hate, anger, envy, jealousy, meanness, idiocy, lack of compassion, lack of love, their suffering and their negativity. I am also likely to experience lack of time, energy and compassion, yet I chose love and kindness to all beings. I chose to not let these adversities move me to make bad [Judgments](../SLIP-BOX/Control%20Over%20Judgment.md), I chose to accept them without complaint and without pity for my self or others.   
 1. **What one thing do most need to get done today?**
 	- Today I need to learn for tomorrows exam. I chose to do this, and then I chose to read for at least 30 minutes thoroughly. 
 2. **What am I grateful for?**
@@ -46,7 +46,7 @@ Date: 2023-11-12, 10:30
 1. **How can I decatastrophize today's problems?**
 	- No matter what problems you might think you have, all will be well, for you are still alive, you are not dead yet, you can still go on without worry, without tripping, without falling you wouldn't make no progress at all, you need to make mistakes, you need to fall. That is the nature of human struggle and if you can't accept it and learn from it, then you won't make it far, if you hide your self in a bubble that none can enter, then you have failed at life my friend. 
 2. **What is within my control and what is not**
-	- The only thing that is truly under my control is my [[Control Over Judgment|Judgment]], that is what action I take, what I chose to do, what I chose is important for me. Now I chose to use my [[Control Over Judgment|Judgment]] for good, for love and peace. 
+	- The only thing that is truly under my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), that is what action I take, what I chose to do, what I chose is important for me. Now I chose to use my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) for good, for love and peace. 
 
 ### Evening
 

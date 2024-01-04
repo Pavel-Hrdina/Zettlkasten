@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-27, 11:07
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-27T11:43
+updated: 2024-01-04T11:43
 ---
 
 # Growing Yerba Maté
@@ -17,7 +17,7 @@ Date: 2023-09-27, 11:07
 
 ---
 
-![[Growing Yerba mate 2023-09-27 11.11.24.excalidraw]]
+![Growing Yerba mate 2023-09-27 11.11.24.excalidraw](../Assets/Excalidraw/Growing%20Yerba%20mate%202023-09-27%2011.11.24.excalidraw.md)
 
 ## Personal Attachment
 

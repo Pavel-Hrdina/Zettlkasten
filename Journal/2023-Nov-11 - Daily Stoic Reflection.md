@@ -7,7 +7,7 @@ modified: 2023-11-11, 12:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-12T10:30
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-12T10:30
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-11, 12:52
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-11, 12:52
 3. **How can I decatastrophize today's problems?**
 	- No matter what problems you might be facing, the next day, it will all be alright, you will not succumb to your weakness and you will win.  
 4. **What is within my control and what is not**
-	- The only thing under my control is my own [[Control Over Judgment|Judgment]] and nothing else is. With this new-found knowledge, you will now use it for good and for becoming better as a person. 
+	- The only thing under my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is. With this new-found knowledge, you will now use it for good and for becoming better as a person. 
 
 ### Evening
 

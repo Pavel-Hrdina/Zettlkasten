@@ -7,7 +7,7 @@ modified: 2023-11-24, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-24T06:49
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-24T06:49
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-24, 06:23
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-24, 06:23
 3. **How can I decatastrophize today's problems?**
 	- You are probably at one of the lover points of your existence now, you probably think how bad all the things are, how nothing is good and nothing is the truth. Now think, why do you believe this to be the case, why do you let your self fall? You must choose to overcome your problems, you must choose the path made of thorns in order to achieve the sleeping princess, yes you might die in them, but what is a life worth, when you don't do what you believe is your duty, what you believe is your calling and if you are to die along the way, so be it, the destiny of your life has already been created, you can't control this, you can't control when you die, so live like that, like you might die right now, appreciate the little thing, the things unseen to us, yet so beautiful in their own right, do not cling onto fame, wealth or the material, for in the next life, its worth the same as the nothing between the starts. 
 4. **What is within my control and what is not**
-	- The only thing within your control is your [[Control Over Judgment|Judgment]] and how you chose to use it, what actions will you take, what path will you chose to walk?
+	- The only thing within your control is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and how you chose to use it, what actions will you take, what path will you chose to walk?
 ### Evening
 
 > [!quote] Marcus Aurelius

@@ -6,7 +6,7 @@ created: 2023-08-27T13:43
 modified: 2023-08-26, 16:22
 template-type: Note
 template-version: "1.7"
-updated: 2023-10-08T10:53
+updated: 2024-01-04T11:43
 ---
 
 # Stoicism
@@ -16,7 +16,7 @@ Date: 2023-08-26, 16:22
 
 ---
 
-Stoicism is a [School of Thought](School%20of%20Thought) that started in Ancient Greece about 2000 years ago. The Stoics thought, that the only thing **we have control over are our own judgments and nothing else**.  The goal is to develop a right attitude to the external while keeping [Control Over Judgment](Control%20Over%20Judgment.md). Stoicism also encourages maintaining control over **negative** emotions, just like [Buddhism](Buddhism), this way, we control our judgment. Furthermore, the Stoic say that **our [Emotions](Stoic%20Emotions.md) are the product of our [ judgment](Control%20Over%20Judgment%20)**.
+Stoicism is a [School of Thought](School%20of%20Thought) that started in Ancient Greece about 2000 years ago. The Stoics thought, that the only thing **we have control over are our own judgments and nothing else**.  The goal is to develop a right attitude to the external while keeping [Control Over Judgment](Control%20Over%20Judgment.md). Stoicism also encourages maintaining control over **negative** emotions, just like [Buddhism](Buddhism), this way, we control our judgment. Furthermore, the Stoic say that **our [Emotions](Stoic%20Emotions.md) are the product of our [judgment](Control%20Over%20Judgment%20)**.
 
 But what do I do when a disaster strikes? I can't control the [adversity](Stoics%20on%20Adversity%20), so I control what I can that is my own [judgment](Control%20Over%20Judgment%20). The Stoics also believed in a so called [4 Virtues](4%20Virtues)
 

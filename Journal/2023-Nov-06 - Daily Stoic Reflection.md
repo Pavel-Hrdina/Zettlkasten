@@ -7,7 +7,7 @@ modified: 2023-11-06, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-06T21:02
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-06T21:02
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-06, 06:33
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -44,9 +44,9 @@ Date: 2023-11-06, 06:33
 2. **What is worrying me?**
 	- I am worried that I will fail today, I am worried that I will fail my self again, I am worried of what others might think of me, I am worried that I am wasting my time, I am worried that if I am my self, others will hate me for it. I now chose to let go of these worries, like a bird, that lost off its feathers and now lets it slowly leave him in a peaceful motion, without resistance, without judgment. 
 3. **How can I decatastrophize today's problems?**
-	- You might be thinking: "Who am I, but a beast that only strives to live no matter how, how come I am called more than that?". But perhaps you should leave these thoughts and think again, this time think how lucky you are to be alive, how lucky that you live in peace, that you have shelter above your head and that you were lucky. Your thoughts don't shape who you are, they shape who you will become, they are the mold which your soul is chilled into, it's how you [[Control Over Judgment|judge]] your thoughts that make the quality of the work. 
+	- You might be thinking: "Who am I, but a beast that only strives to live no matter how, how come I am called more than that?". But perhaps you should leave these thoughts and think again, this time think how lucky you are to be alive, how lucky that you live in peace, that you have shelter above your head and that you were lucky. Your thoughts don't shape who you are, they shape who you will become, they are the mold which your soul is chilled into, it's how you [judge](../SLIP-BOX/Control%20Over%20Judgment.md) your thoughts that make the quality of the work. 
 4. **What is within my control and what is not**
-	- The only thing that is completely under my control is my [[Control Over Judgment|Judgment]], that is how I chose to act on the will of destiny, on the will of the infinite unknown that surrounds us with every action we take. Your [[Control Over Judgment|Judgment]] is your key to salvation from the ugly, the bad and suffering. Nothing else you can control the outcome of.
+	- The only thing that is completely under my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), that is how I chose to act on the will of destiny, on the will of the infinite unknown that surrounds us with every action we take. Your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is your key to salvation from the ugly, the bad and suffering. Nothing else you can control the outcome of.
 
 ### Evening
 

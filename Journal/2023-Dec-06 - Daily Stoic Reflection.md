@@ -7,7 +7,7 @@ modified: 2023-12-06, 06:31
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-02T20:38
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-02T20:38
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-06, 06:31
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-06, 06:31
 1. **How can I decatastrophize today's problems?**
 	- No matter what you might be going through, remember how small your problems are in the face of the universe, how much time has passed since the beginning of time, since the beginning of reality; nobody knows. And how much time has passed from before then, before there was something? This proves one thing, that humans are long from understanding, for once they know that matter is only an illusion of the mind, only then they will understand, what things are real, we must banish the thought, that what we can see with our eyes, is the truth.  
 2. **What is within my control and what is not**
-	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. So use the control you have over this aspect of your self, to be good and natural to your self, don't force things to be a certain way, let them be the way they are.
+	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). So use the control you have over this aspect of your self, to be good and natural to your self, don't force things to be a certain way, let them be the way they are.
 
 ### Evening
 

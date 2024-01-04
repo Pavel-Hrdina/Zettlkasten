@@ -7,7 +7,7 @@ modified: 2023-10-29, 09:28
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-29T18:12
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-10-29T18:12
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-29, 09:28
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-29, 09:28
 3. **How can I decatastrophize today's problems?**
 	- Even when things see so bad that you think: "Why am I alive?", you must choose to think about how lucky you are that you are still alive. Perhaps think that all you did today, will help you become better tomorrow and now. Yes I know that you feel bad, and your body is hurting you feel sick, but all of this will go away so don't fight it don't push against the river current flow with it, let your self become free like the hawk looking down from far away perhaps he is thinking how small it all looks, or he does not know it at all that what is beneath him is magnificent.
 4. **What is within my control and what is not**
-	- The only thing within my [[Control Over Judgment|Judgment]] and that is my biggest strength. 
+	- The only thing within my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and that is my biggest strength. 
 
 ### Evening
 

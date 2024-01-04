@@ -7,7 +7,7 @@ created: 2023-09-02T17:28
 modified: 2023-09-02, 17:28
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-02T19:04
+updated: 2024-01-04T11:43
 ---
 
 # The Reframing Canvas

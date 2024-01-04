@@ -7,7 +7,7 @@ created: 2023-09-11T07:22
 modified: 2023-09-11, 07:22
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-11T07:28
+updated: 2024-01-04T11:43
 ---
 
 # Justice

@@ -7,7 +7,7 @@ modified: 2023-12-10, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-10T12:06
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-10T12:06
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-10, 10:54
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-10, 10:54
 1. **How can I decatastrophize today's problems?**
 	- No matter how dark things might seem, keep pushing on, never give up, allways search for the light at the end of the tunnel, always choose to be better always choose to be gratefull for what you have, always choose to look at your problems as if you should die tomorrow, never let your self be passive or ignorant of life, never let anyone tell you, that you can't do something, even if you belive you can, if you do, then do it.
 2. **What is within my control and what is not**
-	- The only thing that is within my controll is my own [[Control Over Judgment|Judgment]]. With this understanding, choose to use it for your own peace of mind, to be peacefull and to be calm. 
+	- The only thing that is within my controll is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). With this understanding, choose to use it for your own peace of mind, to be peacefull and to be calm. 
 
 ### Evening
 

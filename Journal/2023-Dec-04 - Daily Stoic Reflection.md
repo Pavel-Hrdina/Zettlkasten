@@ -7,7 +7,7 @@ modified: 2023-12-04, 06:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-04T21:27
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-04T21:27
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-04, 06:30
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-04, 06:30
 3. **How can I decatastrophize today's problems?**
 	- No matter what you might be going thought right now, remember how lucky you are to be alive, how precious life is and how much, how much pain have you already overcame, how much you have got thought by your self. Remember the lesson and never give up, never back down, never hunch, never be broken. No matter what, you musn't give up on the things you have under your controll.
 4. **What is within my control and what is not**
-	- The only things under your conrol is your [[Control Over Judgment|Judgment]]. So use it to take action, to help the suffering and to help you self and do what you belive is right.
+	- The only things under your conrol is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). So use it to take action, to help the suffering and to help you self and do what you belive is right.
 
 ### Evening
 
@@ -59,7 +59,7 @@ Today you did all the things that you set out to do, you were kind to your self 
 
 2. **What did I do wrong?**
 
-I did some things, like lose controll of my emotions, and therefore I lost controll over my own [[Control Over Judgment|Judgment]]. You weren't paying attention for a moment and then you do things that you regret afterwards.
+I did some things, like lose controll of my emotions, and therefore I lost controll over my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). You weren't paying attention for a moment and then you do things that you regret afterwards.
 
 4. **What duty remains undone?**
 

@@ -6,7 +6,7 @@ created: 2023-09-03T12:04
 modified: 2023-09-02, 16:17
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-03T19:35
+updated: 2024-01-04T11:43
 ---
 
 # Rapid Reframing Method
@@ -27,7 +27,7 @@ There are 2 different ways to look at a problem
 
 It is very important that you **ask the right questions**. This is a method used to reframe the problem. It uses a tool called [The Reframing Canvas](The%20Reframing%20Canvas). it's also important to **stay optimistic**
 
-![[Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png]]
+![Screenshot 2023-09-03 at 19-34-32 reframing-canvas-whats-your-problem-v.-march-18-2020.pdf](../Assets/Excalidraw/Screenshot%202023-09-03%20at%2019-34-32%20reframing-canvas-whats-your-problem-v.-march-18-2020.pdf.png)
 
 ## Personal Attachment
 

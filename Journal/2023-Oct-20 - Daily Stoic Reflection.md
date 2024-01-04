@@ -7,7 +7,7 @@ modified: 2023-10-20, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-20T06:46
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-10-20T06:46
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-20, 06:33
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-20, 06:33
 3. **How can I decatastrophize today's problems?**
 	- The future and the past are like a gateless gate, you can see what's inside, but you cannot enter. So do not stare into the gate, for by the time you can enter, there is nothing of what you saw in there.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my control and nothing else. I will use what I can control to better my life and the life of others. 
+	- My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is under my control and nothing else. I will use what I can control to better my life and the life of others. 
 
 ### Evening
 

@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Linux the operating system
 created: 2023-08-24T12:17
 modified: 2023-08-10, 15:40
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-31T14:55
+updated: 2024-01-04T11:43
 ---
 
 # Linux

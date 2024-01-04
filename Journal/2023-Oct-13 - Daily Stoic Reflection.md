@@ -7,7 +7,7 @@ modified: 2023-10-13, 06:40
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-13T21:06
+updated: 2024-01-04T11:43
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-10-13, 06:40
 5. **How can I decatastrophize today's problems?**
 	1. - You might be thinking "what if". You cannot know the future, so let your self be at peace, for you also can't control others. When you make something, and you did your best, your job is done. Use your failure as a stepping stone to build your character and your resilience.
 6. **What is within my control and what is not**
-	1. - My [[Control Over Judgment|Judgment]] is in my control.
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is in my control.
 	2. - I am under my control.
 	3. - All else is not under my control.
 

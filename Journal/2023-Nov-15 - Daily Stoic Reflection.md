@@ -7,7 +7,7 @@ modified: 2023-11-15, 06:29
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-15T19:49
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-15T19:49
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-15, 06:29
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-15, 06:29
 4. **How can I decatastrophize today's problems?**
 	- You might be thinking how bad you have it; Say no to these thoughts of unkindness that are compassionless. You must let life chose its own path, you cannot push things that are unnatural to be so, you will only find disappointment. Likewise, you must flow with the web of life and all of its difficulty, with the thread you have been give, you must accept that anything unlucky that happens, you can't change what happens outside your own action. You must accept that no matter how hard you try, you will only put your self down this way. Instead, don't try at all, don't try to swim, against the river's current, instead let the river guide your direction, let it take you to your destination. Now, you might be thinking that the river is taking you to a place, where you don't want to be. But think again, what opportunities will this new place bring, what people you might meet at the river's end, what things you might see.  
 5. **What is within my control and what is not**
-	- You can only control one thing, my friend, that is your [[Control Over Judgment|Judgment]] and nothing else, only your own action is within your control. So now go and take action that you believe is right. 
+	- You can only control one thing, my friend, that is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else, only your own action is within your control. So now go and take action that you believe is right. 
 
 ### Evening
 

@@ -7,7 +7,7 @@ modified: 2023-11-27, 06:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-27T20:57
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-27T20:57
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-27, 06:18
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-27, 06:18
 1. **How can I decatastrophize today's problems?**
 	- How many greats have come before you from Ceacar to Obama, all of them lived and died in a fraction of time so small, yet you live the same fraction as them, so tell me if the thread of time has been given to you so short, why would you think it's better to die tommorow, than today, why would you think that by living longer, now will become also longer? All of the things that exist are fleeting, so do not cling to them, even life is like that, so don't worry about your own morrtality, things and time that you have, live fully and free acording to Nature and you can die knowing that you have lived a good and full life, knowing that you have been unbroken, unshaken and that you have won. 
 2. **What is within my control and what is not**
-	- The only thing within your control is your [[Control Over Judgment|Judgment]]. So use it to take action, use it to live acording to Nature, use it love and live in peace and use it to leave suffering behind, let it be.
+	- The only thing within your control is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). So use it to take action, use it to live acording to Nature, use it love and live in peace and use it to leave suffering behind, let it be.
 
 ### Evening
 

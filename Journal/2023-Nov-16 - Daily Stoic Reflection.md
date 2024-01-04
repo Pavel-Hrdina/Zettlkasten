@@ -7,7 +7,7 @@ modified: 2023-11-16, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-16T20:18
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-16T20:18
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-16, 06:23
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-16, 06:23
 3. **How can I decatastrophize today's problems?**
 	- You, mighty friend, might think that you are useless, that you have no place among people. But you can be with anybody and talk about anything, isn't that something, you improve your self every day and do what is natural, isn't that something? Well, you are already stronger than most modern men, so think again about your weakness, for you are no weakling. Think: "I am still alive, I am not dead.", think about the things that are essential, think about the ways you can take action and you will realize the truth. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my [[Control Over Judgment|Judgment]], do you understand, you have to take action, it doesn't mean that you shall stay idle, it means that you control your own actions. 
+	- The only thing within my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), do you understand, you have to take action, it doesn't mean that you shall stay idle, it means that you control your own actions. 
 
 ### Evening
 

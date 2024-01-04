@@ -7,7 +7,7 @@ modified: 2023-12-27, 09:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-27T10:18
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-27T10:18
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-27, 09:12
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-27, 09:12
 3. **How can I decatastrophize today's problems?**
 	- No matter how dark may thing seem, how hopeless you may fell, how bad might you think you are, nothing is worse that giving up, nothing is worse than giving up, you may feel bad that you have failed, you may feel like you are going nowhere, like you can't do anything, but no matter what, choose to see the light, choose to see what is right, what is the right action to take, what is the way you should go. Ask your self: "What could have I done better?", "Was this within my controll?".
 4. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]]. I now choose to use my judgment to act.
+	- The only thing within my controll is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). I now choose to use my judgment to act.
 
 ### Evening
 

@@ -7,7 +7,7 @@ modified: 2023-12-14, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-14T07:19
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-14T07:19
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-14, 06:38
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-14, 06:38
 3. **How can I decatastrophize today's problems?**
 	- No matter how hard it might seem, you must push on, you must be as calm, as the sound of a foresst, you must be peace, you must never give up on your dreams and push on to greatness, only then will your life be fufilled, so no matter how bad things might look, push on! PUSH ON! Don't give up on your self, don't you dare. Go for your dreams, go, make the moast out of your day, make the moast out of your life. What do you get from lying in your bed? Nothing, So get up and do something worth your time, you are not a idiot, you know this, you know that you have what it takes, the only thing you must choose to have is curage, so don't let it bother you, if others are the way they are, if they live acording to theyir nature, it's ok to feel emotions, it's ok to make mistakes, your duty is to get up after every fall and belive me you will fall so many times, and yet you must get up again and again, ony then you can say that you have lived a good life.
 4. **What is within my control and what is not**
-		- The only thing within my controll is my own [[Control Over Judgment|Judgment]], nothing else is. Choose to use your judgment to get the moast out of your life, life is but a grain of sand in the hourglass of time, you life is so short, so why sweat the small suff. Choose to act on you desicions, choose to speak when you feel the need to speak and don't let anyone step on your neck, fight like a lion,  
+		- The only thing within my controll is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), nothing else is. Choose to use your judgment to get the moast out of your life, life is but a grain of sand in the hourglass of time, you life is so short, so why sweat the small suff. Choose to act on you desicions, choose to speak when you feel the need to speak and don't let anyone step on your neck, fight like a lion,  
 
 ### Evening
 

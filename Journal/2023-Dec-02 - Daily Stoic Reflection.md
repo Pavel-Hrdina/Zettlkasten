@@ -7,7 +7,7 @@ modified: 2023-12-02, 12:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-02T20:40
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-02T20:40
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-02, 12:23
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-02, 12:23
 3. **How can I decatastrophize today's problems?**
 	- No matter what you are facing, that whitch you can't change is naturall and thus is none of your concern and even if you shall die by hunger, that is out of your controll, it is how nature has desided it to be, so let it be so.
 4. **What is within my control and what is not**
-	- The only thing withing my controll is my own [[Control Over Judgment|Judgment]]. If this is the only thing you can controll, be botherd only by things you have not chosen to do. 
+	- The only thing withing my controll is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). If this is the only thing you can controll, be botherd only by things you have not chosen to do. 
 
 ### Evening
 

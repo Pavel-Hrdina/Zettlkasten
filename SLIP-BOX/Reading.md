@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-10-28, 14:23
 template-type: Note
 template-version: "1.7"
-updated: 2023-10-28T14:32
+updated: 2024-01-04T11:43
 ---
 
 # Reading
@@ -17,7 +17,7 @@ Date: 2023-10-28, 14:23
 
 ---
 
-Reading is one of the most important things you could ever learn... but the questions remain: "How to read faster?", "How to read better?", "How to [[Remember What you Read|remember what I have read]]?" and so on. But the actual challenge is **starting to read**. This is the 1st and most important thing about reading. Go and read.
+Reading is one of the most important things you could ever learn... but the questions remain: "How to read faster?", "How to read better?", "How to [remember what I have read](Remember%20What%20you%20Read.md)?" and so on. But the actual challenge is **starting to read**. This is the 1st and most important thing about reading. Go and read.
 
 ## Personal Attachment
 

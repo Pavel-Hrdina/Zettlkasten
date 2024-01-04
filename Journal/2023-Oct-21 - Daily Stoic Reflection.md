@@ -7,7 +7,7 @@ modified: 2023-10-21, 10:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-21T21:11
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-10-21T21:11
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-21, 10:54
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-21, 10:54
 3. **How can I decatastrophize today's problems?**
 	- When you feel your self about to give up, remember how many days you have left, how bad you will feel if you give in, remember how will others react if you give up, you must push thought weakness. You are living for your self, every day you push against you and no one else. You are your only enemy, you are your only obstacle like Sisyphus pushing the boulder up the hill, you are pushing you are pushing against your self and no matter how many times the bolder falls you must push it up again.
 4. **What is within my control and what is not**
-	- My own [[Control Over Judgment|Judgment]] is under my control. I must remember that this is the hardest thing that I will ever have to gain mastery over. I can use my judgment to influence the outcomes of things that I can't control, but I will still be uncertain about the outcome, as it is impossible for me to know if my judgments were correct. Even so, If I made the judgment my self, I have won. I cannot control anything besides my judgment and what I chose to do.
+	- My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is under my control. I must remember that this is the hardest thing that I will ever have to gain mastery over. I can use my judgment to influence the outcomes of things that I can't control, but I will still be uncertain about the outcome, as it is impossible for me to know if my judgments were correct. Even so, If I made the judgment my self, I have won. I cannot control anything besides my judgment and what I chose to do.
 
 ### Evening
 

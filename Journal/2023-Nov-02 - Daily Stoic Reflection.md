@@ -7,7 +7,7 @@ modified: 2023-11-02, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-02T20:26
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-02T20:26
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-02, 06:42
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-02, 06:42
 3. **How can I decatastrophize today's problems?**
 	- Yes, I know you feel like shit today, perhaps you might be thinking to your self, what have I done to suffer so match. Think instead that you are alive, that you have food every day, that you wake up warm, that you are healthy, so do not pity your self for someone being mean to you, someone talking shit, let go of the anger you have towards these people, leave their words in the past and focus on the present. Use the love you have for others and your self to heal the suffering, and all will be well.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is the only thing under my control, the only real thing I have control over, now I chose to use my [[Control Over Judgment|Judgment]] for good.
+	- My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is the only thing under my control, the only real thing I have control over, now I chose to use my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) for good.
 
 ### Evening
 

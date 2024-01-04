@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -171,39 +170,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "408c1236008463c3",
   "lastOpenFiles": [
-    "SLIP-BOX/My Visual Alphabet.md",
+    "Templates/ReflectionsTemplate.md",
     "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-13 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-10 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-09 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-14 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-29 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-18 - Daily Stoic Reflection.md",
+    "Journal/2023-Nov-04 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-30 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-20 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-03 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
+    "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
+    "Journal/2023-Sep-09 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Control Over Judgment.md",
+    "README.md",
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-28 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-27 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-22 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-21 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-20 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-18 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-17 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-15 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-14 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-13 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-12 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-11 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-10 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-09 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-08 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-07 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-06 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-05 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Untitled.md",
     "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",

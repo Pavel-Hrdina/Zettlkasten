@@ -7,7 +7,7 @@ modified: 2023-10-14, 09:19
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-14T20:48
+updated: 2024-01-04T11:43
 ---
 
 
@@ -37,7 +37,7 @@ Date: 2023-10-14, 09:19
 5. **How can I decatastrophize today's problems?**
 	- Let your self ride on the waves of life, listen to the rhythm of life and follow it, listen to humming birds and smell the wind. Life is not a chase after desires but a struggle for survival. So value the things that seem so basic because they could be gone any time. Now let peace descend onto your heart and become peace once again, rid of Duḥkha. 
 6. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] alone **is in my control**, along with my thoughts and my physical body. All else is **out of my control**. So why worry about thing that cannot be changed, work with them and adapt. 
+	- My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) alone **is in my control**, along with my thoughts and my physical body. All else is **out of my control**. So why worry about thing that cannot be changed, work with them and adapt. 
 
 ### Evening
 

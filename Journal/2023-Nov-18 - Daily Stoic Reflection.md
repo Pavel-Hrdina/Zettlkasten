@@ -7,7 +7,7 @@ modified: 2023-11-18, 10:21
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-18T21:26
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-18T21:26
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-18, 10:21
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-18, 10:21
 3. **How can I decatastrophize today's problems?**
 	- Your problems are nothing but illusions of the mind, so abandon them, your pain is also but an illusion, so abandon it, instead, chose to look at things differently, chose to look at things as opportunities, chose to make the most from every mistake, from every wrong you have done, learn to accept them, learn to accept that you can't control anything except your mind.  
 4. **What is within my control and what is not**
-	- You can only control your [[Control Over Judgment|Judgments]], do so, do make use of it and take action when others are idle, use it to have a clear mind, use it to see the truth. 
+	- You can only control your [Judgments](../SLIP-BOX/Control%20Over%20Judgment.md), do so, do make use of it and take action when others are idle, use it to have a clear mind, use it to see the truth. 
 
 ### Evening
 

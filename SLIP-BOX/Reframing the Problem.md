@@ -6,7 +6,7 @@ created: 2023-09-03T12:04
 modified: 2023-09-02, 16:03
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-03T19:32
+updated: 2024-01-04T11:43
 ---
 
 # Reframing the Problem
@@ -30,7 +30,7 @@ The loop starts here... So how to actually reframe??? The goal is to step out of
 
 Repeat the loop. If you find a solution for your problem you move forward an solve it. 
 
-![[Drawing 2023-09-03 19.22.30.excalidraw]]
+![Drawing 2023-09-03 19.22.30.excalidraw](../Assets/Excalidraw/Drawing%202023-09-03%2019.22.30.excalidraw.md)
 
 ## Personal Attachment
 

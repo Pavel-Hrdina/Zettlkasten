@@ -7,7 +7,7 @@ modified: 2023-11-09, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-09T19:45
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-09T19:45
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-09, 06:34
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -44,9 +44,9 @@ Date: 2023-11-09, 06:34
 2. **What is worrying me?**
 	- I am worried that I am not doing enough, and yet I feel very tired, how come this is the case? I am worried about my wife and her feelings. Likewise, I now chose to let go of these worries, I now chose to let go. Furthermore, I let them exit my body, I let them be. I chose to accept my worries with love, kindness and understanding. I chose to accept my self with love. 
 3. **How can I decatastrophize today's problems?**
-	- You might be feeling lost, or sad, or angry, or any other way really, but now you must think to your self, how do these negative things, prevent me from taking action, how do they prevent me from controlling my judgment? And now you must ask your self, how do can I accept these emotions and let go of them, so that I can control my judgment again, how can I face these emotions with love? Even when you are lost, the Buddha in you will heal you, if you chose love to all living being and to all things, then you will be found again, rid of [[Duḥkha]] once and for all. 
+	- You might be feeling lost, or sad, or angry, or any other way really, but now you must think to your self, how do these negative things, prevent me from taking action, how do they prevent me from controlling my judgment? And now you must ask your self, how do can I accept these emotions and let go of them, so that I can control my judgment again, how can I face these emotions with love? Even when you are lost, the Buddha in you will heal you, if you chose love to all living being and to all things, then you will be found again, rid of [Duḥkha](Duḥkha) once and for all. 
 4. **What is within my control and what is not**
-	- The only thing within my control, is my [[Control Over Judgment|Judgment]], and nothing else is. With this knowledge, you know must choose, how are you going to use your judgment, to spread good to all people and to spread love.  
+	- The only thing within my control, is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), and nothing else is. With this knowledge, you know must choose, how are you going to use your judgment, to spread good to all people and to spread love.  
 
 ### Evening
 

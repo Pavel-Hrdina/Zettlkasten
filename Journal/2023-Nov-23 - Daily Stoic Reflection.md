@@ -7,7 +7,7 @@ modified: 2023-11-23, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-11-23T20:28
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-11-23T20:28
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-23, 06:23
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-23, 06:23
 3. **How can I decatastrophize today's problems?**
 	- No matter how you might be feeling, what mood you have woken up with, what life do you think you have, that you have no energy, that you can't go anymore. Push your self harder, push your self smarter and see the light at the end, the Eden that awaits you for your work is there. The light that sometimes shines very bright, and other times is almost not visible, is there at all time, and it is up to you to chose to see it, or chose to ignore it and suffer.
 4. **What is within my control and what is not**
-	- The only thing within your control is your own [[Control Over Judgment|Judgment]]. With this newfound knowledge chose to use your judgment for action, to better your self and to better your life and the life of others and even if the path seems to be made of thorns full of pain and hard work, sometimes it's better to chose this path.
+	- The only thing within your control is your own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). With this newfound knowledge chose to use your judgment for action, to better your self and to better your life and the life of others and even if the path seems to be made of thorns full of pain and hard work, sometimes it's better to chose this path.
 
 ### Evening
 

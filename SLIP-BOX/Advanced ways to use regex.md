@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: null
+aliases: 
 lead: Lead paragraph goes here
 created: 2023-08-24T12:17
 modified: 2023-07-28, 12:46
 template-type: Note
 template-version: "1.7"
-updated: 2023-08-29T10:25
+updated: 2024-01-04T11:43
 ---
 
 # Advanced Ways to Use Regex

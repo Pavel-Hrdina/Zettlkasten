@@ -6,7 +6,7 @@ created: 2023-08-26T16:50
 modified: 2023-08-26, 16:51
 template-type: Note
 template-version: "1.7"
-updated: 2023-10-17T07:09
+updated: 2024-01-04T11:43
 ---
 
 # Control Over Judgment

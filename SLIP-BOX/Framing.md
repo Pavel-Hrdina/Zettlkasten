@@ -7,7 +7,7 @@ created: 2023-09-02T18:29
 modified: 2023-09-02, 18:29
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-03T19:15
+updated: 2024-01-04T11:43
 ---
 
 # Framing

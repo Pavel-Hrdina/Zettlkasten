@@ -7,7 +7,7 @@ modified: 2023-10-08, 10:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-08T20:30
+updated: 2024-01-04T11:43
 ---
 
 
@@ -53,7 +53,7 @@ Date: 2023-10-08, 10:30
 5. How can I decatastrophize today's problems?
 	1. - When the sun set and your mind is without rest, let your self be peace and leave all of your worries behind you. Calm down your monkey mind and you will see clearly. The murky waters will become clean and clear again. Let your self be bored, don't fight it, being bored is not a waste of time.
 6. What is within my control and what is not
-	1. - My [[Control Over Judgment|Judgment]] **is within my control**
+	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is within my control**
 	2. - My mind **is within my control**
 
 ### Evening

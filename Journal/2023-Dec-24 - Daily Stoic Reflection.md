@@ -7,7 +7,7 @@ modified: 2023-12-24, 10:43
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-24T12:00
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-24T12:00
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-24, 10:43
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-24, 10:43
 3. **How can I decatastrophize today's problems?**
 	- No matter what darkness plagues your mind, always choose to see the light, always choose to push for happiness, for a fulfilled life, so that you can say to your self, I live my best life, that I have lived good and that I can die right now without regret, only then you will live with peace. 
 4. **What is within my control and what is not**
-	-  The only thing, that is within my own control is my own [[Control Over Judgment|Judgment]], so choose to use it to take action, to be a better human being, to relive the suffering of others that you see in them every day, it is not that they hurt you, it is their suffering that hurts you, so choose to help them and choose to help you self to be free of it.
+	-  The only thing, that is within my own control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), so choose to use it to take action, to be a better human being, to relive the suffering of others that you see in them every day, it is not that they hurt you, it is their suffering that hurts you, so choose to help them and choose to help you self to be free of it.
 
 ### Evening
 

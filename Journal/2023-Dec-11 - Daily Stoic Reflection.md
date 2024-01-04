@@ -7,7 +7,7 @@ modified: 2023-12-11, 06:21
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-12-11T21:27
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-12-11T21:27
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-11, 06:21
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-11, 06:21
 3. **How can I decatastrophize today's problems?**
 	- You must think that there is no hope, you must think that you are fighting for nothing, but no, instead think like this; One: ,,If I give up, that I gave up on life and I shall be dead.''; Two: ,,remember that you are fighting for the light at the end of the tunnel, that you are fighting for your self and for the future''. Never let anyone, and I mean anyone, not even your self, doubt you, you can't be the best, if you doubt your self. How can you have the strength to win, if you don't even believe that it is possible for you to win? So think like that and choose to push on, to never give in, to never give up, to look for the light of hope that shall guide you to a better tomorrow.
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. Choose to use it to live according to nature if you know this if you know that you can't control anything else and only your action, that choose to take it, even if the action looks meaning less, you must choose to act in order to live with your nature, with your *soul*.
+	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). Choose to use it to live according to nature if you know this if you know that you can't control anything else and only your action, that choose to take it, even if the action looks meaning less, you must choose to act in order to live with your nature, with your *soul*.
 
 ### Evening
 

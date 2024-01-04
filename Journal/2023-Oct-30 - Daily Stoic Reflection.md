@@ -7,7 +7,7 @@ modified: 2023-10-30, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-30T20:22
+updated: 2024-01-04T11:43
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2023-10-30T20:22
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-30, 06:38
 
-- [[#Morning and Evening|Morning and Evening]]
-	- [[#Morning and Evening#Morning|Morning]]
-	- [[#Morning and Evening#Evening|Evening]]
-- [[#Other Methods|Other Methods]]
-	- [[#Other Methods#Gravestone Method|Gravestone Method]]
-	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
-- [[#References|References]]
+- [Morning and Evening](#Morning%20and%20Evening)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
+	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
+- [Other Methods](#Other%20Methods)
+	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
+	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
+- [References](#References)
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-30, 06:38
 3. **How can I decatastrophize today's problems?**
 	- I know how you feel, that feeling of despair is lurking inside your soul. Its painful bites remind you that you are still alive, that you are not dead yet, that it's not the end yet. So get up from the ground, get up from the bed every morning and fight your destiny, flow with your self and take action, because you are not dead yet and for as long as you are alive you can still do something, only the dead now know nothingness and for as long as you are alive you will choose to push again you. You know you are no idiot, so why do you put your self down? 
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is within my control and I chose to use it for good. Nothing else I can control.
+	- My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is within my control and I chose to use it for good. Nothing else I can control.
 
 ### Evening
 
@@ -55,11 +55,11 @@ Date: 2023-10-30, 06:38
 
 1. **What did I do well today?**
 
-Today I overcame my self, even when I felt down I pushed against me. I did this to become my best self. I made others laugh and made them happy. Not only that, but I did this to reduce suffering in this world. Not only that, but I was like a wall for my wife, when she needed me. I did this to be a stable for her, so that she knows that every time she has a problem, I will react with peace and compassion. I realized my primal anger and let go of it before it could take a hold of me. Likewise, I did this to control my self, using my [[Control Over Judgment|Judgment]].
+Today I overcame my self, even when I felt down I pushed against me. I did this to become my best self. I made others laugh and made them happy. Not only that, but I did this to reduce suffering in this world. Not only that, but I was like a wall for my wife, when she needed me. I did this to be a stable for her, so that she knows that every time she has a problem, I will react with peace and compassion. I realized my primal anger and let go of it before it could take a hold of me. Likewise, I did this to control my self, using my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md).
 
 2. **What did I do wrong?**
 
-Today, I said things that should have been kept in my head. I did this because I lost control over my [[Control Over Judgment|Judgment]].
+Today, I said things that should have been kept in my head. I did this because I lost control over my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md).
 
 4. **What duty remains undone?**
 
