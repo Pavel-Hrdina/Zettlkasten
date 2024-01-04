@@ -7,10 +7,8 @@ modified: 2024-01-04, 11:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:59
+updated: 2024-01-04T12:15
 ---
-
-
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
@@ -40,7 +38,9 @@ Date: 2024-01-04, 11:18
 2. **What one thing do most need to get done today?**
 	- Today, you need to heal your self and your soul, for that is what needs to be done today, no worries shall plague your mind and not hate shall put you down, for a healthy mind results in a good life, in order to be able to communicate with your reason to make the right [[Control Over Judgment|Judgments]], you need your mind to be calm like the wings 
 1. **What am I grateful for?**
-	- 
+	1. I am grateful for my parents. They love me unconditionally, and they are always here for me, they gave me the gift of life and help me with my path in life, so that I do what is right and what should be done to live a good life. 
+	2. I am grateful for my wife. She loves the way I am, and she is kind to me. She supports me, no matter what I choose to do. She taught me, that no matter how much suffering you may be feeling, you must still choose to live and to accept what you have with gratitude. 
+	3. I am grateful for my sister, for books, for my mentors, for people that love me, for people that support me, for people that help for wisdom for being me and for being alive. 
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
@@ -65,8 +65,9 @@ Date: 2024-01-04, 11:18
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+| What duty remains undone? | Why I didn't do it |  |
+| ---- | ---- | ---- |
+|  |  |  |
 
 ## Other Methods
 

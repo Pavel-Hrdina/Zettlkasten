@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/ReflectionsTemplate.md": "839e7825e9fae36d98b0abe3cc266c43c2410d536e0b94d7399653eb4cb22dc3",
+    "Templates/ReflectionsTemplate.md": "6758fe6918236ce8fee818c3da08721de17153a244955820db72dd566ca1bfbd",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md": "3e5b160e7f2c099f120e8c50a04af4319b4a1ee7e0c49d57bea35c3490548d93",
     "Journal/2023-Sep-30 - Daily Stoic Reflection.md": "0b9240ccbe6a108a2ed4103ef93af33790313d8997c3ef063d4e7920c0c98218",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md": "f877219d791316e280381a9955d738555a4309ae3114f8584edaea4cb4d0dcf2",
@@ -37,7 +37,6 @@
     "Journal/2023-Sep-26 - Daily Stoic Reflection.md": "556c7c20e9baddaa74b5ce93f97c0a44ba4445f6247be5a83019ea496f532e93",
     "Journal/2023-Sep-27 - Daily Stoic Reflection.md": "6e57680fb2f9460e2688d934bd995abaace8478af91d7d59199b04ec9ea2267e",
     "Templates/BookSummaryTemplate.md": "200113dc5b2e59eb00006ac2b3dda8f3c546a7b7bd4e5a48d89411c9c76e930d",
-    "Yerba Mate Review Journal/Cruz de Malta.md": "1e5d93865a3de061e2a41bee6bad8fdde9b13fe4eb43a25fd741da32fda21f09",
     "Journal/2023-Oct-01 - Daily Stoic Reflection.md": "d33d413adff709b8d27f6fa9638e7ca15e49ee0f2c3b8db36cab13e23d6d2e81",
     "Journal/2023-Oct-02 - Daily Stoic Reflection.md": "853bf970a2e7fb57d79e9e28c726b4aee43b11392b402ecc1d3baaaf3e2e5290",
     "Journal/2023-Oct-03 - Daily Stoic Reflection.md": "6102c21240ebc36c496d895fa6e7fb9913fe3cf71bee18771061a619eb6f908b",
@@ -46,7 +45,7 @@
     "Journal/2023-Oct-06 - Daily Stoic Reflection.md": "001cc7dd36ff3fec9447f1a6f80e629d6a6ee4213fd9274ab9a45256896067f6",
     "Journal/2023-Oct-07 - Daily Stoic Reflection.md": "c8b345ea7fb6524a43be6141a9e354c4b8a28aaa4af505f0a1ab8b01844cfebb",
     "Journal/2023-Oct-08 - Daily Stoic Reflection.md": "3ce4d298d05a1bfb6710043718c08328cb43557a6c60a05d827c220463ca246e",
-    "SLIP-BOX/Stoicism.md": "dc9f711f867689b4cae27846943be3753cb2f78a403539e14ef0e5963b010ed6",
+    "SLIP-BOX/Stoicism.md": "53fc03bebf6cd6e6435866771042a4795fc631d3260a3e2c031fff2d1f49e724",
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md": "33c0a197401b772f12dcedf8b1bffdd9a92561e598d8ead13bea283c70dedb3d",
     "Journal/2023-Oct-10 - Daily Stoic Reflection.md": "82b48d2ebd912f942cbe88b874361a4aeb059070aac23c35d48560182aa61740",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md": "374b275d360cd8d6cddd193dc8c58d8cf3380844f80b846318db6b123914d3a2",
@@ -125,7 +124,8 @@
     "Journal/2023-Dec-22 - Daily Stoic Reflection.md": "a118e154f35fb150a9029c908dbcc4dbc1bc39d6894b54eacf62ac6dd5ef368a",
     "Journal/2023-Dec-24 - Daily Stoic Reflection.md": "2f2cad442be45cd74b48adf23e4bab6df88ca72182af66364a1685b5cb4f8d1d",
     "Journal/2023-Dec-25 - Daily Stoic Reflection.md": "025eac8f8acde354287c407db0a1d0a6effba0553697b345cd0c93b209e99b0a",
-    "Journal/2024-Jan-04 - Daily Stoic Reflection.md": "891b47767d0ccad7e02289a27b28d612cde9a5743bf4a015abae62a3285630ea",
-    "SLIP-BOX/The Barbell Method of Reading.md": "c7bef89269aaa8b67a1a8be31c462743f0d47645dd5789aee97c5a486bb5aa5c"
+    "Journal/2024-Jan-04 - Daily Stoic Reflection.md": "f320968612dd6d3920f1a4d31275cef45326b546bcc94c3882852780ba81682e",
+    "SLIP-BOX/The Barbell Method of Reading.md": "c7bef89269aaa8b67a1a8be31c462743f0d47645dd5789aee97c5a486bb5aa5c",
+    "SLIP-BOX/Personal knowledge management.md": "94b3eb34b4b779ac122cdd2896acf534ca07b90d0934e1046bc9804c1392729d"
   }
 }

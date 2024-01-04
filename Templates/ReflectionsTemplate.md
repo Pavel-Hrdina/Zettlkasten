@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2023-10-19T17:37
+updated: 2024-01-04T12:11
 ---
 
 
@@ -40,7 +40,7 @@ Date: {{date}}, {{time}}
 2. **What one thing do most need to get done today?**
 	- 
 1. **What am I grateful for?**
-	- 
+	1. 
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
@@ -55,18 +55,11 @@ Date: {{date}}, {{time}}
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
-
 2. **What did I do wrong?**
-
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+5. **How will I improve tomorrow?**
 
 ## Other Methods
 
@@ -98,19 +91,19 @@ Evening, afternoon or morning
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...              |
 
-3. Justice
+2. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-5. Temperance
+3. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-7. Wisdom
+4. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
