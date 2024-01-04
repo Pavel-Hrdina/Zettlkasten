@@ -32,8 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eae8116f6ebea1b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "file": "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "file": "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md"
+                "file": "Journal/2024-Jan-04 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -176,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c664c9d73791709",
+  "active": "eae8116f6ebea1b2",
   "lastOpenFiles": [
-    "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
     "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-28 - Daily Stoic Reflection.md",
