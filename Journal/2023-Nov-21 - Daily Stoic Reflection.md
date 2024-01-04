@@ -7,7 +7,7 @@ modified: 2023-11-21, 06:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-21T21:33
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-21, 06:30
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-21, 06:30
 3. **How can I decatastrophize today's problems?**
 	- No matter what, talk to your self this way, take your time, don't make haste. Never let others put pressure on you, never let time put pressure on you, don't let these things worry your soul, don't let these things make you sad or even mad, the more you think in these ways, the more you'll fail, the more you'll suffer, so them go, let them be, the people who try to test you, who try to put you down, don't speak with them more than you have to, don't try to make them happy, don't try to fulfill their expectations. 
 4. **What is within my control and what is not**
-	- The only things within my control, is my own [Judgement](../SLIP-BOX/Control%20Over%20Judgment.md), nothing else is. So chose to use your judgement to make your life good and the life of others less miserable.
+	- The only things within my control, is my own [[Control Over Judgment|Judgement]], nothing else is. So chose to use your judgement to make your life good and the life of others less miserable.
 
 ### Evening
 

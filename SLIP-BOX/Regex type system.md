@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: 
+aliases: null
 lead: Working with regex type system
 created: 2023-08-24T12:17
 modified: 2023-07-28, 12:31
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-08-27T12:48
 ---
 
 # Regex type system

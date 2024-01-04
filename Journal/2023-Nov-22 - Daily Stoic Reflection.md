@@ -7,7 +7,7 @@ modified: 2023-11-22, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-22T19:25
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-22, 06:23
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-22, 06:23
 3. **How can I decatastrophize today's problems?**
 	- No matter how bad things might look, you mustn't give up, no matter how many times you fail over and over again, you mustn't give up, you must push thought the pain and the suffering, you must overcome what you believed was ever possible, what you thought you could do, push beyond that, with love and peace of heat, not aggressively, not with suffering, but instead calmly and collected.
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). So go and use your judgment to take action, do not waste a moment, think what is worth your time, what is essential, what you have to do and then do it without complaint.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. So go and use your judgment to take action, do not waste a moment, think what is worth your time, what is essential, what you have to do and then do it without complaint.
 
 ### Evening
 

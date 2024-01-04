@@ -7,7 +7,7 @@ modified: 2023-10-02, 06:57
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-02T20:59
 ---
 
 
@@ -51,7 +51,7 @@ Date: 2023-10-02, 06:57
 	1. - No stone was made into a beautiful statue overnight. Chisel your self into such a statue until you are unbreakable and brilliant like a diamond.
 	2. Let go of your worried, they only block your path to self mastery, they are nothing but illusions to distract you from your true purpose. 
 6. What is within my control and what is not
-	1. - My own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is in my control**.
+	1. - My own [[Control Over Judgment|Judgment]] **is in my control**.
 	2. - I am **in my control**.
 	3. - Everything else **is not under my control**
 

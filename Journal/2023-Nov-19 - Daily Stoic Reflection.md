@@ -7,20 +7,20 @@ modified: 2023-11-19, 10:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-19T19:16
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-19, 10:47
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -44,7 +44,7 @@ Date: 2023-11-19, 10:47
 3. **How can I decatastrophize today's problems?**
 	- No matter how bad you might feel, no matter what you might be thinking about your self and how shitty you are, you must prevail, you must push your self harder, you must become your best self, you must become the best human being you can become, thus you will never suffer again, thus you will never be hurt by the ugliness of the world. You know that this world is full of dark and ugly things, but those things are only ugly, if you chose to see them as such, so chose to see them without judgment, chose to let them be the way they are, chose to take action when you feel it to be necessary, and then you will be unbrookable, unhurtable, unfazed. 
 4. **What is within my control and what is not**
-	- The only thing, that is truly within your control, is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), so chose to use it to take action, chose to use it to become a better human being, to reduce the suffering in this world and the suffering of your self.  
+	- The only thing, that is truly within your control, is your [[Control Over Judgment|Judgment]], so chose to use it to take action, chose to use it to become a better human being, to reduce the suffering in this world and the suffering of your self.  
 
 ### Evening
 

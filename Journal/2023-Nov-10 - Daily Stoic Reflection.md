@@ -7,7 +7,7 @@ modified: 2023-11-10, 06:35
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2024-01-02T20:38
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-10, 06:35
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-10, 06:35
 3. **How can I decatastrophize today's problems?**
 	- No matter how bad you might be feeling, no matter how hard your morning is, remember why are you waking up every day, remember why do you do this, why do you love all the people and all the things. You are doing this for your self, you are your greatest motivation you are doing this, so that you could become a better person for the people you love and so that you could love your self, for if you love your self, you can also love others, that is why you push forward so now go and do what you need to do. 
 4. **What is within my control and what is not**
-	- The only thing under my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). With this knowledge I now chose to use my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) for the god of this world, to spread love and kindness to all living beings. 
+	- The only thing under my control is my [[Control Over Judgment|Judgment]]. With this knowledge I now chose to use my [[Control Over Judgment|Judgment]] for the god of this world, to spread love and kindness to all living beings. 
 
 ### Evening
 

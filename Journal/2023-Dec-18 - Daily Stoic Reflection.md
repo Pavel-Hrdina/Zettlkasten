@@ -7,7 +7,7 @@ modified: 2023-12-18, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-12-18T21:18
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-18, 06:27
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-18, 06:27
 3. **How can I decatastrophize today's problems?**
 	- No matter what darkness plagues your mind, always look for the light, no matter what is bothering you, always look for the bright stars in the sky and thing: ,,What am I, how small compared to the infinity of the universe, to the infinity of time." and then think how lucky you are to be alive, how lucky you are to be born, how lucky you are to suffer, how lucky you are to have an interesting life, how lucky that you are not broken by the past. And then understand what you have been though already, what difficulties have you overcome how you fight every day to become more compassionate, to become more loving, to become better, how you choose the difficult, how you choose to live your life the hard and the right way, to spread love and compassion to all beings until you are dead, you will be forgotten with time anyway, so what does it matter if you think you have problems now, they will go away with time, like all things do.  
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is. So now use your judgment for compassion, love and the virtues, live your life according so that you can be happy. Some feel a deep hole within their soul, like a mine that has been dug by suffering, they only way to fill this hole, is to live your life in kindness to others and with love to them and your self.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is. So now use your judgment for compassion, love and the virtues, live your life according so that you can be happy. Some feel a deep hole within their soul, like a mine that has been dug by suffering, they only way to fill this hole, is to live your life in kindness to others and with love to them and your self.
 
 ### Evening
 

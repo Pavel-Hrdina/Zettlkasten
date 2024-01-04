@@ -1,12 +1,12 @@
 ---
 tags: type/note
-aliases: 
+aliases: null
 lead: nullgetting things done
 created: 2023-08-24T20:00
 modified: 2023-08-21, 12:05
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-08-27T12:48
 ---
 
 # GTD

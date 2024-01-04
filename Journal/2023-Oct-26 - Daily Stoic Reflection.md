@@ -7,7 +7,7 @@ modified: 2023-10-26, 09:49
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-26T10:09
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-26, 09:49
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-26, 09:49
 3. **How can I decatastrophize today's problems?**
 	- You, my friend, might think that you are the dumbest person alive, that you don't belong, but why? Is it because people are mean to you, and you are so sensitive to their criticism. Or is it because you are falling into bad habits again, or is it because you feel like you know nothing. Well, none of these things are true. You must choose to trust your self and others, if you can't trust anybody, than you can't trust your self. It takes a lot of courage to trust someone, especially if you've been betrayed so many times before. I know you see the world as a dark place full of horror, corruption and absolute hell, and maybe you are right. But if you can make life good for your self and others, you can reduce this suffering that the world is in. Every day so many suffer fates worse than death, those stories are not heard and are not seen. We are shielded from them, kept in our little bubbles, thinking that the dark ages are long gone. But the human race didn't change its ways. You are cursed to be so sensitive, but you must use this curse to heal the suffering you see in others, only then you will find your peace, now you have found your mission on this earth. So then be at peace, you know what you have to do. Be kind to all, even those who are trying to hurt you, trying to break you, you must choose to resist their pain and heal their wounds. 
 4. **What is within my control and what is not**
-	- The only thing in my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and so use this to ripple healing into the world. Nothing else can be controlled outside that after you took action resulting from your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md).
+	- The only thing in my control is my [[Control Over Judgment|Judgment]] and so use this to ripple healing into the world. Nothing else can be controlled outside that after you took action resulting from your [[Control Over Judgment|Judgment]].
 
 ### Evening
 

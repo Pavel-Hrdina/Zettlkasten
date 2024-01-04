@@ -7,7 +7,7 @@ modified: 2023-10-16, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-16T19:13
 ---
 
 
@@ -37,7 +37,7 @@ Date: 2023-10-16, 06:36
 3. **How can I decatastrophize today's problems?**
 	- Every day, be like a mountain. Unmovable and unbreakable. Be the biggest, harshest mounting, then you will be impossible to climb on. Never let go of your dignity. Never make a fool out of your self. You think that these problems are bad, but you are going to die anyway, so you might as well do your best at it. You can't control the future, let go of worrying about the uncontrollable, it is unwise.  
 4. **What is within my control and what is not**
-	- Only my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is withing my control and nothing else is.
+	- Only my [[Control Over Judgment|Judgment]] is withing my control and nothing else is.
 
 ### Evening
 

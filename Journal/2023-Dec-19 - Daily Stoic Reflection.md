@@ -7,7 +7,7 @@ modified: 2023-12-19, 06:25
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-12-19T06:52
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-19, 06:25
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-19, 06:25
 1. **How can I decatastrophize today's problems?**
 	- No matter how dark and pointless things might seem, look deeper, look for the starts and for the light in your soul, look for the greatest qualities of your soul, imagine that you could die now, how would you think about life then? Imagine that you are about to die, what thoughts would go through your mind? You would probably try and accept your death fighting nature. So instead, you should spend your last day in gratitude and being happy. So live every day like that.
 2. **What is within my control and what is not**
-	- The only thing that is within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is.
+	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]] and nothing else is.
 
 ### Evening
 

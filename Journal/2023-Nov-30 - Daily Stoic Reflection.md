@@ -7,7 +7,7 @@ modified: 2023-11-30, 06:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-30T20:51
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-30, 06:24
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-30, 06:24
 3. **How can I decatastrophize today's problems?**
 	- Even when tired and unhappy, you must choose to push your self harder that before, you must choose to accept that you are the way you are, and then get out of bed again in the morning and like this every day. I know that some things may be boring to you, but they are necessary, your mind has chosen them for a reason, so trust it and do what you must.
 4. **What is within my control and what is not**
-	- The only things within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is, nothing else. You have the power to take action and then watch reality unfold, you cannot control anything except your own judgment.
+	- The only things within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, nothing else. You have the power to take action and then watch reality unfold, you cannot control anything except your own judgment.
 
 ### Evening
 

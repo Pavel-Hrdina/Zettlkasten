@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-09-23, 18:45
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-09-23T19:11
 ---
 
 # Stopping to Buy Things

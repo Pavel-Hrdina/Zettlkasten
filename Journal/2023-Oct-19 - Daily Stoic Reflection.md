@@ -7,7 +7,7 @@ modified: 2023-10-19, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-19T20:49
 ---
 
 
@@ -37,7 +37,7 @@ Date: 2023-10-19, 06:36
 3. **How can I decatastrophize today's problems?**
 	- No matter how much you want to give up to the wits of life, you must push the head against the wall, again, again and again until there is no breath left in you. When you feel pain or cold, or you are too hot, remember that these feeling are only in your head, and they don't exist.
 1. **What is within my control and what is not**
-	- The only thing I can control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). I will use the control I have over my self, to make life better for those who need it and for me. I cannot control anything else outside that. Furthermore, I must not try to control these things that are impossible to control and flow with the rhythm of Gaia and life. 
+	- The only thing I can control is my own [[Control Over Judgment|Judgment]]. I will use the control I have over my self, to make life better for those who need it and for me. I cannot control anything else outside that. Furthermore, I must not try to control these things that are impossible to control and flow with the rhythm of Gaia and life. 
 
 ### Evening
 

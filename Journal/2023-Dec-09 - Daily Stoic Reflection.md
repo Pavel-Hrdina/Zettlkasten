@@ -7,7 +7,7 @@ modified: 2023-12-09, 07:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2024-01-02T20:38
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-09, 07:33
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-09, 07:33
 3. **How can I decatastrophize today's problems?**
 	- No matter what, no matter how hard it might seem, you mustn't give up, you must accept what is out of your control and chose to act on what is, only then start to work, only when your mind is clear, only when you are sure you can do this. Always think like this: "I will do what works 80% of the time, then, if it fails once, it doesn't matter I will just try again, and then it will work".
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), nothing else is, only this. Now use your judgment to take action, to do what is best and do it right. Sometimes, the best thing you can do, is to not do anything at all. Why is that? It is so because you must be 80% certain, that what you are about to do is right, otherwise, it doesn't make sense to do it.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]], nothing else is, only this. Now use your judgment to take action, to do what is best and do it right. Sometimes, the best thing you can do, is to not do anything at all. Why is that? It is so because you must be 80% certain, that what you are about to do is right, otherwise, it doesn't make sense to do it.
 
 ### Evening
 

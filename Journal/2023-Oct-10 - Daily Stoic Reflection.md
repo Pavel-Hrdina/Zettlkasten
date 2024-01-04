@@ -7,7 +7,7 @@ modified: 2023-10-10, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-10T21:08
 ---
 
 
@@ -42,7 +42,7 @@ Date: 2023-10-10, 06:33
 5. How can I decatastrophize today's problems?
 	1. - Once again you look up and see only the tip of the mountain, and once again you think: "I'm going home", yet your body won't move. Every time you feel this way, push again the barrier of liquid before you and find your self victorious. 
 6. What is within my control and what is not
-	1. - My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) **is within my control**.
+	1. - My [[Control Over Judgment|Judgment]] **is within my control**.
 	2. - My life **is not under my control**.
 	3. - The people are **not under my control**.
 	4. - I am **under my control**.

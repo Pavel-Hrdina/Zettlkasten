@@ -7,7 +7,7 @@ created: 2023-09-11T07:25
 modified: 2023-09-11, 07:25
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-09-11T07:28
 ---
 
 # Courage

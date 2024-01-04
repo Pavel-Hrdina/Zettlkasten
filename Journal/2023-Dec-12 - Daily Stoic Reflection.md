@@ -7,7 +7,7 @@ modified: 2023-12-12, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-12-12T21:06
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-12, 06:23
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-12, 06:23
 3. **How can I decatastrophize today's problems?**
 	- No matter how dark things might seem, you must still choose to push on, you must continue on your journey, you must choose to accept who you are and your nature, no matter how hard you try you can't change these things, the only thing you can do, is try more than is your best choose to never give up, never back down, just behind the corner, there might be gold hiding, you must choose to believe this, you must choose to look at the stars at night and think: ,,We will be the conquerors of stars". You must dream so big, that it seem impossible, but you can do it, you can achive your dreams. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else is, it is the only thing under my control. Choose to use your judgment to do good and live according to nature, do not succumb to your temptations, don't let your self make judgments without deciding that they are the right path. 
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, it is the only thing under my control. Choose to use your judgment to do good and live according to nature, do not succumb to your temptations, don't let your self make judgments without deciding that they are the right path. 
 
 ### Evening
 

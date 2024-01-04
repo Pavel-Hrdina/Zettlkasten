@@ -7,7 +7,7 @@ modified: 2023-11-25, 10:14
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-25T18:48
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-25, 10:14
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-25, 10:14
 3. **How can I decatastrophize today's problems?**
 	- You are scared, I know that you are, you feel this longing for greatness, you feel the need to be seen and praised, you feel alone. I know all of this, I know that it's hard, I know that you don't trust your self to make things right. You do this because you are afraid to make a mistake, but mistakes are necessary to accept that you have to make them in order to succeed, let your self breathe and say in your head: "It's ok to make a mistake, it's ok if I fail this." and then breathe again. You may find that this freeing, and you may find that you suddenly don't feel stressed at all, for the stress you were feeling was created by you being afraid. 
 4. **What is within my control and what is not**
-	- The only thing under my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), what actions I chose to take, what actions I chose not to take and when I chose to do them, what I chose to do and what I chose is essential. 
+	- The only thing under my control is my [[Control Over Judgment|Judgment]], what actions I chose to take, what actions I chose not to take and when I chose to do them, what I chose to do and what I chose is essential. 
 
 ### Evening
 

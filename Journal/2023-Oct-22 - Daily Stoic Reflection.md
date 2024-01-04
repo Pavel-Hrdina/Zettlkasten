@@ -7,7 +7,7 @@ modified: 2023-10-22, 10:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-10-22T19:45
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-10-22, 10:42
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-10-22, 10:42
 3. **How can I decatastrophize today's problems?**
 	- You see the staving homeless on the street, his feet purple and his fingers black. That man is fighting for his life, that is a problem. Now what problems do you really have. You've got a perfect wife, parents, smarts so why are you upset, why do you think that your problems should put you down. You are not fighting for your life like the man on the street, you are not about to die from terminal illness and even if you were, you would choose the things that are right, you would do your best. So do your best now while you are still alive and them when you're dying on that bed, or in the mountains how you wanted, you can say with peace in your heart to those you love: "It's ok, now go and live well for your self this life does not end with me, so go and live happily. Not for me, but for your self.".
 4. **What is within my control and what is not**
-	- My [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) is under my control, and nothing else really is. So now I chose to use my judgment that I can control to improve my self and the world around me. To make people and my self happy.
+	- My [[Control Over Judgment|Judgment]] is under my control, and nothing else really is. So now I chose to use my judgment that I can control to improve my self and the world around me. To make people and my self happy.
 
 ### Evening
 

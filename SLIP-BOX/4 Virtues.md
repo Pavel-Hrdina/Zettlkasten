@@ -7,7 +7,7 @@ created: 2023-09-11T07:09
 modified: 2023-09-11, 07:10
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-09-26T18:35
 ---
 
 # 4 Virtues

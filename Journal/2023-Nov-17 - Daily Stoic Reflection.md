@@ -8,7 +8,7 @@ modified: 2023-11-17, 10:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-17T11:19
 ---
 
 
@@ -17,13 +17,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-17, 10:41
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -47,7 +47,7 @@ Date: 2023-11-17, 10:41
 3. **How can I decatastrophize today's problems?**
 	- No matter how big a problem might seem, its only a problem, if you allow it to be one, only then you have a problem. But if you chose to make your problem intro something else, suddenly, its not a problem anymore. 
 4. **What is within my control and what is not**
-	- You can only control one thing, my friend, that is your [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md) and nothing else, only your own action is within your control. So now go and take action that you believe is right. 
+	- You can only control one thing, my friend, that is your [[Control Over Judgment|Judgment]] and nothing else, only your own action is within your control. So now go and take action that you believe is right. 
 
 ### Evening
 

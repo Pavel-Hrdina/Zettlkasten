@@ -7,7 +7,7 @@ modified: 2023-11-28, 06:42
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-11-28T06:59
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-28, 06:42
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-28, 06:42
 3. **How can I decatastrophize today's problems?**
 	- Even when you feel like you are about to give up, you must start to push agains your self, you must break your mind free from the worry, you must accept whatever is about to happen and then take action withou fear, without your mind being poisoned, with your heart at the right place, you mustn't give up, what is worse that you giving up, remember the light that you see at the end.
 4. **What is within my control and what is not**
-	- Only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). Now that you once again realize this truth, you must use it to be good, loving and kind to all suffering beings, accept people for who they are, even the dark ones and you may find peace.
+	- Only thing within my control is my own [[Control Over Judgment|Judgment]]. Now that you once again realize this truth, you must use it to be good, loving and kind to all suffering beings, accept people for who they are, even the dark ones and you may find peace.
 
 ### Evening
 

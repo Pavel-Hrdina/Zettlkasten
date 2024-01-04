@@ -7,7 +7,7 @@ modified: 2023-12-05, 06:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2023-12-05T21:15
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-12-05, 06:22
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-12-05, 06:22
 3. **How can I decatastrophize today's problems?**
 	- No matter how bad life might seem, no matter what is happening to you right now, no matter how much you suffer, no matter what, you must push forward, you must choose the path that leads to happiness, even if it's harder, you must do what is right and you must be good. I know that sometimes you feel like you can't make it, but don't give in to your demons, let them go will love and then be in peace, for nothing can hurt you, if you are like a wall from iron, so hard that nothing may destroy it. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my own [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). Other things are unchangeable in their nature and so, if you know this, you must do what ordeal you have been given by nature to do, you are not alone in theis world and you must do your part every single day, every single night, without a pause, without a break, only to sleep, because what else is your purpouse than that that is naturall and yours only to bear.
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]]. Other things are unchangeable in their nature and so, if you know this, you must do what ordeal you have been given by nature to do, you are not alone in theis world and you must do your part every single day, every single night, without a pause, without a break, only to sleep, because what else is your purpouse than that that is naturall and yours only to bear.
 
 ### Evening
 

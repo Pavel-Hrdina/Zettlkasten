@@ -7,7 +7,7 @@ modified: 2023-11-13, 06:29
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:43
+updated: 2024-01-02T20:38
 ---
 
 
@@ -16,13 +16,13 @@ updated: 2024-01-04T11:43
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
 Date: 2023-11-13, 06:29
 
-- [Morning and Evening](#Morning%20and%20Evening)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Morning|Morning)
-	- [](#Morning%20and%20Evening#Morning%20and%20Evening#Evening|Evening)
-- [Other Methods](#Other%20Methods)
-	- [](#Other%20Methods#Other%20Methods#Gravestone%20Method|Gravestone%20Method)
-	- [](#Other%20Methods#Other%20Methods#4%20Virtues%20Method|4%20Virtues%20Method)
-- [References](#References)
+- [[#Morning and Evening|Morning and Evening]]
+	- [[#Morning and Evening#Morning|Morning]]
+	- [[#Morning and Evening#Evening|Evening]]
+- [[#Other Methods|Other Methods]]
+	- [[#Other Methods#Gravestone Method|Gravestone Method]]
+	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
+- [[#References|References]]
 
 
 ## Morning and Evening
@@ -46,7 +46,7 @@ Date: 2023-11-13, 06:29
 3. **How can I decatastrophize today's problems?**
 	- You are the luckiest bastard I have ever met, "why?", you might be asking, is it because you were born right, is it because luck seemingly finds you everywhere. No, it is because you are bringing luck to your self, by working hard, by thinking deep and by thinking hard. You should thank your self. "What for?", you might be asking, the answer? My friend, it is simple, you believe in your self, and you have never given up on your self. So go and let your self fail again, again, again and again until you win, because a winner is not made overnight and without fail, there is no victory. You are still young so let your self make mistakes, let your self fail, it's ok. 
 4. **What is within my control and what is not**
-	- The only thing within my control is my [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md), that is what actions I chose to take, how I chose. 
+	- The only thing within my control is my [[Control Over Judgment|Judgment]], that is what actions I chose to take, how I chose. 
 
 ### Evening
 
