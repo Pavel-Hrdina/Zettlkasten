@@ -7,7 +7,7 @@ modified: 2024-01-04, 11:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T12:21
+updated: 2024-01-04T12:46
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,11 +42,11 @@ Date: 2024-01-04, 11:18
 	2. I am grateful for my wife. She loves the way I am, and she is kind to me. She supports me, no matter what I choose to do. She taught me, that no matter how much suffering you may be feeling, you must still choose to live and to accept what you have with gratitude. 
 	3. I am grateful for my sister, for books, for my mentors, for people that love me, for people that support me, for people that help for wisdom for being me and for being alive. 
 2. **What is worrying me?**
-	- You may be worried tha you are loosing time, that you are not doing enough, that you are lacking behind and that 
+	- You may be worried that you are loosing time, that you are not doing enough, that you are lacking behind and that you are not doing enough that you can't do what is right, but instead of thinking like this, think, what is the true worth of these thoughts? What do they bring you, what do they teach you, and how do they make you a better person? Well they don't do any of these things, so abandon them, leave them be and let peace come into your soul. ,,But how?", you may be asking. Think about these worries and then let them go, let them flout out of your heart like water flows down the river. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark might think appear, you must choose to push forward and every time you fall down, every time you fail, every time you must get back up, for that is what you can control, you may fail, see people die, meet people that are mean and what not, but instead of complaining about tehese things you can't controll, instead choose to let these thing go and focus on what is essential. 
 4. **What is within my control and what is not**
-	- 
+	- The only things withing my controll is my own [[Control Over Judgment|Judgment]] and nothing else is, so choose to use it to take action.  
 
 ### Evening
 
