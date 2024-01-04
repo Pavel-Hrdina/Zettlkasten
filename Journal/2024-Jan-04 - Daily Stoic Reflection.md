@@ -7,7 +7,7 @@ modified: 2024-01-04, 11:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T12:15
+updated: 2024-01-04T12:21
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,7 +42,7 @@ Date: 2024-01-04, 11:18
 	2. I am grateful for my wife. She loves the way I am, and she is kind to me. She supports me, no matter what I choose to do. She taught me, that no matter how much suffering you may be feeling, you must still choose to live and to accept what you have with gratitude. 
 	3. I am grateful for my sister, for books, for my mentors, for people that love me, for people that support me, for people that help for wisdom for being me and for being alive. 
 2. **What is worrying me?**
-	- 
+	- You may be worried tha you are loosing time, that you are not doing enough, that you are lacking behind and that 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
