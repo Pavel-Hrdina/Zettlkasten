@@ -7,7 +7,7 @@ modified: 2024-01-04, 11:18
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T11:34
+updated: 2024-01-04T11:59
 ---
 
 
@@ -38,7 +38,7 @@ Date: 2024-01-04, 11:18
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may feel like you have failed your self, you may not be able to speak, and you may not be able to do what you want to do, you may feel like you are loosing time and that you can't do anything right. You may meet people that are mean, angry, aggressive and unhappy. You must face all of these difficulties head on and never let them put you down, never let them make you feel bad or even worthless. 
 2. **What one thing do most need to get done today?**
-	- Today, you need to heal your sefl and your soul, for that is what 
+	- Today, you need to heal your self and your soul, for that is what needs to be done today, no worries shall plague your mind and not hate shall put you down, for a healthy mind results in a good life, in order to be able to communicate with your reason to make the right [[Control Over Judgment|Judgments]], you need your mind to be calm like the wings 
 1. **What am I grateful for?**
 	- 
 2. **What is worrying me?**

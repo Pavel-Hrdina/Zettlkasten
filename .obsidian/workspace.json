@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "408c1236008463c3",
+            "id": "7decaba484e765a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,17 +34,20 @@
             }
           },
           {
-            "id": "eae8116f6ebea1b2",
+            "id": "408c1236008463c3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -188,10 +190,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eae8116f6ebea1b2",
+  "active": "c8e6da4742b0406f",
   "lastOpenFiles": [
-    "SLIP-BOX/My Visual Alphabet.md",
+    "Literature Notes",
+    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+    "SLIP-BOX/The Barbell Method of Reading.md",
+    "SLIP-BOX/Reading.md",
     "Journal/2024-Jan-04 - Daily Stoic Reflection.md",
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Bibliography/Zen to Done/Literature note - Zen to done.md",
+    "Bibliography/Zen to Done",
+    "Bibliography",
     "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-28 - Daily Stoic Reflection.md",
@@ -211,12 +220,6 @@
     "Journal/2023-Dec-11 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-10 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-09 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-08 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-07 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-06 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-05 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Untitled.md",
-    "Books/Zen to Done",
     "Yerba Mate Review Journal",
     "YerbaMayte",
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
@@ -233,7 +236,6 @@
     "Assets/Cult of done manifesto.webp",
     "Books/Open To Think",
     "Books/The Compound Effect",
-    "Books",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Canvases/Zettelkasten Workflow with Obsidian.canvas",
