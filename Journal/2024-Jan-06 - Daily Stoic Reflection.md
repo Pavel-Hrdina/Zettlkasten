@@ -7,9 +7,8 @@ modified: 2024-01-06, 11:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-06T12:04
+updated: 2024-01-06T12:16
 ---
-
 
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -45,11 +44,11 @@ Date: 2024-01-06, 11:50
 	3. For being born, so that now I can enjoy life with all its flaws and all its pain, with emotions and with struggle and peace.
 	4. For being alive. For being me, for books, for life, for my ancestors.
 2. **What is worrying me?**
-	- You may be worried that you are not doing enough, that you are don't know nothing and that you can't do anything, that you may not find the truth and that you won't fulfill your dreams. Think about these worries, what do they give you, what is their purpose? How do they help you. You may find that they don't do anything for you, that they only make you doubt your self, so let go off them, leave them behind and embrace uncertainty with love and compassion. 
+	- You may be worried that you are not doing enough, that you are don't know anything and that you can't do anything, that you may not find the truth and that you won't fulfill your dreams. Think about these worries, what do they give you, what is their purpose? How do they help you. You may find that they don't do anything for you, that they only make you doubt your self, so let go off them, leave them behind and embrace uncertainty with love and compassion. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark might you might get, how clouded your thought, you must still choose to push on, to not give up on your self and on the people around you, instead be resilient, take action, do what you must and do what is needed of you and what has to be done. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, this is the only thing under your control so don't think about anything else and just take action. 
 
 ### Evening
 
