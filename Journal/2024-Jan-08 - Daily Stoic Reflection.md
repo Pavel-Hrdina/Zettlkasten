@@ -7,7 +7,7 @@ modified: 2024-01-08, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-08T20:59
+updated: 2024-01-08T21:12
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -56,15 +56,19 @@ Date: 2024-01-08, 06:32
 
 1. **What did I do well today?**
 
-	Today, I did what was right, I did what I like and I did what had to be done, 
+	Today, I did what was right, I did what I like, and I did what had to be done, you felt a fire in your heart a fire so strong, that it almost couldn't be controlled, these things, you know what was the right thing to do, and you did that, you can now sleep in peace.
 
-1. **What did I do wrong?**
+2. **What did I do wrong?**
 
-2. **What duty remains undone?**
+	You talked to your self today, nobody cared. Don't do that again, it's annoying to people around you, so just don't say anything, listen and do nothing, let your self be bored, it's ok.
 
-	I did all that I set out to do today
+3. **What duty remains undone?**
 
-3. **How will I improve tomorrow?**
+	I did all that I set out to do today, congratulation. You can do something for your self tomorrow, love your self and others and you shall live a good life. 
+
+4. **How will I improve tomorrow?**
+
+	No matter how tired or restless you might wake up. you must do what you must do, that is what sets you closer to your goal, that is what is worth your time and what is essentiall, so do it, get out of your bed and DO what you must, what you have choosen to do every day and don't let your self hate you, be peace and with peace be love. 
 
 ## Other Methods
 
