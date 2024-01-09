@@ -7,7 +7,7 @@ modified: 2024-01-09, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-09T19:28
+updated: 2024-01-09T19:43
 ---
 
 
@@ -74,17 +74,17 @@ Date: 2024-01-09, 06:38
 > [!quote] Marcus Aurelius
 > You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
 
-Today's Events 
+**Today's Events** 
 
-- 
+- Today, you woke up, you went to school, you were in the school and you paid attention, you wrote 2 test, that you didn't know of, so they weren't under your control, then you went home you watched Netflix for 2 hours, then you were learning for 1 hour, before that you felt sudden rush off panic that told you, I am alive, I exist, and now you are about to go to sleep.
 
-How I see them in the near future? 
+**How I see them in the near future?**
 
-- 
+-  These events will help you realize your mortality, they will are here to show you, that you could die any minute now, right now you could be dead, and what will things and the material be then, you will be dead and what off it?
 
-How they'd be viewed, years after I've passed?
+**How they'd be viewed, years after I've passed?**
 
-- 
+- They will be seen as a normal part of my youth, nothing spectacular, nothing grant.
 
 ### 4 Virtues Method
 
