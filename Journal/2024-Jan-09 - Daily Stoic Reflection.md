@@ -7,7 +7,7 @@ modified: 2024-01-09, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-09T06:59
+updated: 2024-01-09T19:28
 ---
 
 
@@ -76,13 +76,15 @@ Date: 2024-01-09, 06:38
 
 Today's Events 
 
--
+- 
 
 How I see them in the near future? 
 
--
+- 
 
 How they'd be viewed, years after I've passed?
+
+- 
 
 ### 4 Virtues Method
 
