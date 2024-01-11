@@ -7,7 +7,7 @@ modified: 2024-01-11, 06:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T07:08
+updated: 2024-01-11T21:44
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,7 +34,7 @@ Date: 2024-01-11, 06:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you belive is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hatefull angry and ungratefull to you, you must, instead of complaining, think of how much controll do you have over these things, and what can you do about them, only the you can be peace, if you know you can't take action.
+	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you believe is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hateful angry and ungrateful to you, you must, instead of complaining, think of how much control do you have over these things, and what can you do about them, only theb can you be peace, if you know you can't take action.
 2. **What one thing do most need to get done today?**
 	- Today, once again, you must persist and learn for the testing that you want to be the best at, so do this today, learn for it, no slacking off, you must train your self, and you must understand what needs to be done to win.
 3. **What am I grateful for?**
@@ -55,11 +55,19 @@ Date: 2024-01-11, 06:16
 
 1. **What did I do well today?**
 
+	Today, you did well on conquering your self, you did this, so that you could be proud on your self, so that you could be a better person, so that you could push your self father that ever before. 
+
 2. **What did I do wrong?**
 
-4. **What duty remains undone?**
+	You played games, instead of doing your test preparation. You should be ashamed of your self for this, but you shall not put your self down, you will be happy the way you are and not broken by what you have done wrong, learn from this mistake and improve on it tomorrow. 
+
+3. **What duty remains undone?**
+
+	You did not learn for test today, I have already said enough about this. 
 
 5. **How will I improve tomorrow?**
+
+	You will do your preparations for 2 hours, instead of one, and then you can relax. You will do your best, and you will drop all fear, and you will be peace and happiness. 
 
 ## Other Methods
 
