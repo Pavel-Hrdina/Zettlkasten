@@ -7,7 +7,7 @@ modified: 2024-01-11, 06:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T06:22
+updated: 2024-01-11T06:45
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,16 +34,18 @@ Date: 2024-01-11, 06:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self thinking about thimg
+	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you belive is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hatefull angry and ungratefull to you, you must, instead of complaining, think of how much controll do you have over these things, and what can you do about them, only the you can be peace, if you know you can't take action.
 2. **What one thing do most need to get done today?**
+	- Today, once again, you must persist and learn for the testing that you want to be the best at, so do this today, learn for it, no slacking off, you must train your self, and you must understand what needs to be done to win.
+3. **What am I grateful for?**
+	1. For my wife, and her never-ending love.
+	2. For my parents, and their goodness 
+	3. For my sister, for books, for being alive, for being born, for being me, for having enough, for understanding, for being me, for being happy. 
+4. **What is worrying me?**
+	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth,
+5. **How can I decatastrophize today's problems?**
 	- 
-1. **What am I grateful for?**
-	1. 
-2. **What is worrying me?**
-	- 
-3. **How can I decatastrophize today's problems?**
-	- 
-4. **What is within my control and what is not**
+6. **What is within my control and what is not**
 	- 
 
 ### Evening
