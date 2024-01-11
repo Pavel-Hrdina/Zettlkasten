@@ -7,7 +7,7 @@ modified: 2024-01-11, 06:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T06:45
+updated: 2024-01-11T07:08
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,11 +42,11 @@ Date: 2024-01-11, 06:16
 	2. For my parents, and their goodness 
 	3. For my sister, for books, for being alive, for being born, for being me, for having enough, for understanding, for being me, for being happy. 
 4. **What is worrying me?**
-	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth,
+	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth, so let go off these worries and do what your natures tells you, you feel that you must work, then work, you feel that you must relax, so relax.
 5. **How can I decatastrophize today's problems?**
-	- 
+	- The only thing that you can do for your self, is to take action, nothing else is under your control, nothing else is here to stay, so look for the light in the darkness, you may feel like everything is wrong, but in reality, everything is perfectly well and balanced, as it should be.
 6. **What is within my control and what is not**
-	- 
+	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, this means that I should take action, that I can choose what I do, this means, that I have direct controls over my self and nothing else. 
 
 ### Evening
 
