@@ -37,8 +37,13 @@
             "id": "c514ac371f25941f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -108,6 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2024-Jan-12 - Daily Stoic Reflection.md"
+              }
             }
           },
           {
@@ -223,6 +234,7 @@
   },
   "active": "c514ac371f25941f",
   "lastOpenFiles": [
+    "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
     "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2024-Jan-11 - Daily Stoic Reflection.md",
     "SLIP-BOX/The Barbell Method of Reading.md",
@@ -252,7 +264,6 @@
     "Journal/2023-Dec-24 - Daily Stoic Reflection.md",
     "Journal/2023-Dec-22 - Daily Stoic Reflection.md",
     "Journal/2023-Nov-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-21 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal",
     "YerbaMayte",
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
