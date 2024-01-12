@@ -7,7 +7,7 @@ modified: 2024-01-12, 06:26
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-12T20:46
+updated: 2024-01-12T21:00
 ---
 
 
@@ -46,9 +46,9 @@ Date: 2024-01-12, 06:26
 2. **What is worrying me?**
 	- You may be worried that you are the most unintelligent person you know, that you can't do anything right and that you are not good enough, that you can't do what you want to do and that you will lose. That is what is worrying you and I know it is hard for you, but you must keep pushing like never before, you must keep going so hard that all will think that you are crazy, you must leave all of your worry behind and find the fire in your heart, that you have awakened, again. You must nourish it and give it food so it grows, and then you will accomplish all your goals, you will win all thing you desire, but before then you must accept defeat and be reborn like a phoenix from your own ashes!
 3. **How can I decatastrophize today's problems?**
-	- No matter how dark might you think it looks, it's not bad at all, nothing will happen to you, because you will work for it to not be dark, you will see the light that you are looking for in the darkness, and you will follow it until you are ether dead or victorious. 
+	- No matter how dark might you think it looks, it's not bad at all, nothing will happen to you, because you will work for it to not be dark, you will see the light that you are looking for in the darkness, and you will follow it until you are either dead or victorious. 
 4. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]]
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]].
 
 ### Evening
 
@@ -57,13 +57,19 @@ Date: 2024-01-12, 06:26
 
 1. **What did I do well today?**
 
-	Today, I 
+	Today, I was thinking about every action I took, I did this, so that I could truly say, that my [[Control Over Judgment|Judgmetn]] is under my control. I did what was my duty, I did it so that I could look at my self tomorrow and be at peace.  
 
 2. **What did I do wrong?**
 
+	Today, I spoke too much, even though I needed to relax my thought so that I would not cough, I did this, because it was required off me. Instead of 2 hours, I only learned for one, this was because I got a headache, so I decided to stop.
+
 4. **What duty remains undone?**
 
-5. **How will I improve tomorrow?**
+	Today, you did all the duty you could do, not duty to remain undone, that was in your power. This is a great achievement and you should be proud, congratulations.
+
+6. **How will I improve tomorrow?**
+
+	Tomorrow, I will sit down and think, think on what is my duty and what shall I do, I will not act until I choose to, until then I will continue thinking, and then I will set my self into motion.
 
 ## Other Methods
 
