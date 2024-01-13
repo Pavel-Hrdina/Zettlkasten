@@ -7,7 +7,7 @@ modified: 2024-01-13, 10:09
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-13T12:09
+updated: 2024-01-13T12:27
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,15 +34,17 @@ Date: 2024-01-13, 10:09
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you may be sick, you may be lonely, you may feel like you can't do anything, you may feel out of time, you may feel like ticking. You must overcome all of these challenges and not give in to them, you shall win over them and so it shall be.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, you need to learn for as long as you can, you will start at 5, and then you will win, I trust in you and you can do this.
 1. **What am I grateful for?**
-	1. 
+	1. For my parents.
+	2. For my wife and her love
+	3. For being alive and being, for having books, computers, knowledge, opportunities, time, youth. 
 2. **What is worrying me?**
-	- 
+	- You may be worried, that you will fail, that you will die, or anything in between, but that is useless for you, what will it give you, what will it make you. So abandon it, it is a small death, make it go into a place that ceases to exist when the worry comes there. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how bad and hopeless you might feel, you must keep pushing on, you must not give up on your dreams, you must continue to work hard on your self and on your 
 4. **What is within my control and what is not**
 	- 
 
