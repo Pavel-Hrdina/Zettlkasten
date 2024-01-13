@@ -7,7 +7,7 @@ modified: 2024-01-13, 10:09
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-13T12:27
+updated: 2024-01-13T13:02
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,9 +44,9 @@ Date: 2024-01-13, 10:09
 2. **What is worrying me?**
 	- You may be worried, that you will fail, that you will die, or anything in between, but that is useless for you, what will it give you, what will it make you. So abandon it, it is a small death, make it go into a place that ceases to exist when the worry comes there. 
 3. **How can I decatastrophize today's problems?**
-	- No matter how bad and hopeless you might feel, you must keep pushing on, you must not give up on your dreams, you must continue to work hard on your self and on your 
+	- No matter how bad and hopeless you might feel, you must keep pushing on, you must not give up on your dreams, you must continue to work hard on your self and on your dreams, you must push your self to your absolute litims wihile you are still young, SO PUSH!
 4. **What is within my control and what is not**
-	- 
+	- The only thing wihtin my controll is my own [[Control Over Judgment|Judgment]] and nothing else is, this is the only thing I have in my controll so I choose to use to take action.
 
 ### Evening
 
