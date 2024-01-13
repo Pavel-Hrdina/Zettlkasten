@@ -9,8 +9,6 @@ Reflection: 1
 template-version: "1.7"
 updated: 2024-01-12T21:00
 ---
-
-
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
