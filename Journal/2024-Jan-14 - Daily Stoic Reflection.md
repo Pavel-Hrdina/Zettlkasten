@@ -7,7 +7,7 @@ modified: 2024-01-14, 13:17
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-14T13:35
+updated: 2024-01-14T14:12
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -40,11 +40,11 @@ Date: 2024-01-14, 13:17
 1. **What am I grateful for?**
 	1. For my wife, for my sister, for my mother, for my parents, for being alive, for being healthy.
 2. **What is worrying me?**
-	- 
+	- You may be worried that you can't do what is right in time, that you can't do things that you should be doing.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how much strugle you might be going though, you must still push on. A wise man once said, if the path feels easy, it's the wrong path.
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own [[Control Over Judgment|Judgment]].
 
 ### Evening
 
