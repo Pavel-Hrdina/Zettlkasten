@@ -7,7 +7,7 @@ modified: 2024-01-14, 13:17
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-14T14:12
+updated: 2024-01-14T21:45
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-01-14, 13:17
 
 1. **What did I do well today?**
 
+	Today, you took some time to think, you controlled your tempter and you overcame your fears. You did this, so that you could become a better person, but it's ok, you did what you could, you did your best and that is worth something. But tomorrow, you must do more than your best, you must push your limits like never before, even if you feel so low that it will be troublesome to get out of bed, you will be victorious. 
+
 2. **What did I do wrong?**
+
+	You were ticking a little today, don't fall back into learned habits, commit to memory what must be done, and then do it. It's what need to be done and you shall do it. I know you had no set plan for today, but don't give up on your self, you must choose to overcome who you are.
 
 4. **What duty remains undone?**
 
-5. **How will I improve tomorrow?**
+	Today, you still didn't create your visual alphabet, and you didnt write your logbook. You shall do this tomorrow and I dare you to not do it, you must and you will choose to, you will have enought time in the morning and in the evening.
+
+6. **How will I improve tomorrow?**
+
+	Tomorrow, I will be my best self, I will use my energy and what I can controll do what is within my power to become my best self, I trust that I can do this.
 
 ## Other Methods
 
