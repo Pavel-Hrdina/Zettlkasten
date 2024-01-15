@@ -36,15 +36,15 @@ Date: 2024-01-14, 13:17
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may find your self to be lazy, you may feel bad about your self, you may feel like you are slacking off, you may not be concentrated enough and you may fall behind.
 2. **What one thing do most need to get done today?**
-	- You must choose to perepare for the osp testing, dedicate at least two hourst of time today.
+	- You must choose to prepare for the osp testing, dedicate at least two hours of time today.
 1. **What am I grateful for?**
 	1. For my wife, for my sister, for my mother, for my parents, for being alive, for being healthy.
 2. **What is worrying me?**
 	- You may be worried that you can't do what is right in time, that you can't do things that you should be doing.
 3. **How can I decatastrophize today's problems?**
-	- No matter how much strugle you might be going though, you must still push on. A wise man once said, if the path feels easy, it's the wrong path.
+	- No matter how much struggle you might be going, through, you must still push on. A wise man once said, if the path feels easy, it's the wrong path.
 4. **What is within my control and what is not**
-	- The only thing within my controll is my own [[Control Over Judgment|Judgment]].
+	- The only thing within my control is my own [[Control Over Judgment|Judgment]].
 
 ### Evening
 
