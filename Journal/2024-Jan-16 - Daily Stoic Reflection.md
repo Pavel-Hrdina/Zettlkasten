@@ -7,7 +7,7 @@ modified: 2024-01-16, 06:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-16T06:30
+updated: 2024-01-16T06:43
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,17 @@ Date: 2024-01-16, 06:22
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may meet people that are mean, angry, agressive, ungratefull and unhappy. You may feel bad, you may take too long, you may feel like giving up, you may feel wrong, you may thing all sorts of things about your self and you may even hate your self, and you may be sick.
+	- Today, you may meet people that are mean, angry, aggressive, ungrateful and unhappy. You may feel bad, you may take too long, you may feel like giving up, you may feel wrong, you may think all sorts of things about your self, and you may even hate your self, and you may be sick.
 2. **What one thing do most need to get done today?**
-	- Today, I need to finish what tasks are left in my tasklist.
+	- Today, I need to finish what tasks are left in my task list.
 1. **What am I grateful for?**
-	1. I choose to be gratefull for my motherm my father, my sister, my wife, my family, being alive, being me, understanding trusting my self, working on my self, getting respect for myself.
+	1. I choose to be grateful for my mother, my father, my sister, my wife, my family, being alive, being me, understanding trusting my self, working on my self, getting respect for myself.
 2. **What is worrying me?**
-	- You may be worried that
+	- You may be worried that you can't do what is right, that there is no time, that you are not enough, that you are not free, that you will fail. All of these things, you may think to your self, but think about them again, how true are they, and even if they are, still what merit they hold. So leave them behind your self, banish them, where they belong.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how much you think you might think you are suffering, you don't even know. No matter how hard might things seem, you must still choose to push on, to conquer your self, to conquer your fears and stand unfazed, like a rocky mountain unmovable and unbreakable. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else is, so leave all worry behind and focus only on taking action, for that is the only thing that is under your controll.
 
 ### Evening
 
