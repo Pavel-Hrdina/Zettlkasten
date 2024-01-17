@@ -7,7 +7,7 @@ modified: 2024-01-17, 06:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-17T06:41
+updated: 2024-01-17T21:26
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-01-17, 06:22
 
 1. **What did I do well today?**
 
+	Today, I did well all the things that I should have done, I did all my work, I had success and I put my health first, I took time for things that had to be done.
+
 2. **What did I do wrong?**
+
+	I put my self down thought unconscious action. 
 
 4. **What duty remains undone?**
 
-5. **How will I improve tomorrow?**
+	You did all the things that were your duty today, congratulation.
+
+6. **How will I improve tomorrow?**
+
+	Tomorrow, I will make all my decisions with my conscious mind, not with the mind of the dream. 
 
 ## Other Methods
 
