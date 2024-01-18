@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6005842e13ec81c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "file": "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "file": "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md",
+                "file": "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLIP-BOX/My Visual Alphabet.md"
+                "file": "Journal/2024-Jan-18 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -219,11 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "687f7aaf123a2935",
+  "active": "6005842e13ec81c6",
   "lastOpenFiles": [
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-17 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-16 - Daily Stoic Reflection.md",
-    "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2024-Jan-15 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-14 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-13 - Daily Stoic Reflection.md",
@@ -250,7 +264,6 @@
     "Bibliography/Zen to Done",
     "Bibliography",
     "Journal/2023-Dec-25 - Daily Stoic Reflection.md",
-    "Journal/2023-Dec-29 - Daily Stoic Reflection.md",
     "Yerba Mate Review Journal",
     "YerbaMayte",
     "Assets/Images/CigarAdvisorTastingWheel.jpg",
