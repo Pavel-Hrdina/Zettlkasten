@@ -7,7 +7,7 @@ modified: 2024-01-19, 06:26
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-19T06:47
+updated: 2024-01-19T20:41
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -57,6 +57,8 @@ Date: 2024-01-19, 06:26
 > Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterward, blame yourself for what is badly done, and rejoice in the good.
 
 1. **What did I do well today?**
+
+	
 
 2. **What did I do wrong?**
 
