@@ -7,7 +7,7 @@ modified: 2024-01-21, 11:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-21T11:37
+updated: 2024-01-21T12:36
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,11 +36,22 @@ Date: 2024-01-21, 11:34
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may find your self feeling like shit, unproductive, unhappy and dained, you may think how dumb you are, how you can't do anything right, that you are easy to manipulate and what no. You must not let these thing bother you, you must not let them put you down, you must be victotious over and over again agains your self and your destiny, I know you can do this, so DO IT! Win agains the shadown that is you and your ego, leave them behin, and only then you may find peace.
 2. **What one thing do most need to get done today?**
-	- Today, you must prove to your self, that you can do thing, that you though were impossible for you, that you thought you could never do, or accomplish 
+	- Today, you must prove to your self, that you can do thing, that you though were impossible for you, that you thought you could never do, or accomplish, so go, and do what you belive is right, what you belive should be done and what will move you forward. 
 1. **What am I grateful for?**
-	1. 
+	1. For my mother and my father, for the never ending love they give me.
+	2. For my sister
+	3. For my wife, and her kindness even in the darkest moments.
+	4. For being alive
+	5. For being me
+	6. For my grandpa
+	7. For my grandma
+	8. For my ancestors
+	9. For love
+	10. For trust
+	11. For acceptance
+	12. For emotions
 2. **What is worrying me?**
-	- 
+	- You may be worried that you are dumb, that you have no future, that you can't do what is right, that you are a nobody
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
