@@ -7,7 +7,7 @@ modified: 2024-01-21, 11:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-21T12:36
+updated: 2024-01-21T13:05
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -51,11 +51,11 @@ Date: 2024-01-21, 11:34
 	11. For acceptance
 	12. For emotions
 2. **What is worrying me?**
-	- You may be worried that you are dumb, that you have no future, that you can't do what is right, that you are a nobody
+	- You may be worried that you are dumb, that you have no future, that you can't do what is right, that you are a nobodym don't worry about these thing, they are not real, they only plague your mind, and nothing else, not you body, not others, only you and your soul, but your reason stands fast, unborken, unfaced, so follow its call, your heart may say these thing, but they are not under your controll, so command your heart to help your reason, not cloud it. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how much suffering your might think you are going through, think about those who have lived before you, think about those who will live after you. All people suffer in some way, and the suffering of mind is as bad as the suffering of the body. So accept the suffering you have, all people suffer, all suffer in different ways, but all do. You must stay focused on your light, on the small things that give you hope.
 4. **What is within my control and what is not**
-	- 
+	- No matter how hard might things seem 
 
 ### Evening
 
