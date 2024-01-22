@@ -7,7 +7,7 @@ modified: 2024-01-22, 06:53
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-22T06:53
+updated: 2024-01-22T07:09
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,16 +34,18 @@ Date: 2024-01-22, 06:53
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you may meet people that are mean, angry, unkind, unlloving, and generally unhappy you may feel bad, you may be sick, and you may have to make tough desicions.  
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to sit down, and do nothing for at least 2 hours, then I may feel fine again. 
 1. **What am I grateful for?**
-	1. 
+	1. For my parents, and theyir guidance for me.
+	2. For my wife, and her trust in me.
+	3. For being alive, for being me, for my sister, for my family, for my teachers and mentors.
 2. **What is worrying me?**
+	- You may be worried that your work is futile, that you can't do anything right, that you have made the wrong decisions, that you can't do things the way you want to. Well leave these thought behind, let them be, and let your self embrace your self with kindness, like mother nature does for all living things, do so for your self, and your heart. 
+1. **How can I decatastrophize today's problems?**
 	- 
-3. **How can I decatastrophize today's problems?**
-	- 
-4. **What is within my control and what is not**
+2. **What is within my control and what is not**
 	- 
 
 ### Evening
