@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b50cf1652853132b",
+            "id": "1b82b642980f5f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-Jan-21 - Daily Stoic Reflection.md",
+                "file": "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal/2024-Jan-21 - Daily Stoic Reflection.md",
+                "file": "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-Jan-21 - Daily Stoic Reflection.md",
+                "file": "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-Jan-21 - Daily Stoic Reflection.md",
+                "file": "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-Jan-21 - Daily Stoic Reflection.md"
+                "file": "Journal/2024-Jan-22 - Daily Stoic Reflection.md"
               }
             }
           },
@@ -232,9 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b50cf1652853132b",
+  "active": "1b82b642980f5f16",
   "lastOpenFiles": [
     "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-21 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-19 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-18 - Daily Stoic Reflection.md",
@@ -261,7 +262,6 @@
     "Permanent Notes",
     "Literature Notes",
     "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
-    "SLIP-BOX/Reading.md",
     "Bibliography/Zen to Done",
     "Bibliography",
     "Yerba Mate Review Journal",
