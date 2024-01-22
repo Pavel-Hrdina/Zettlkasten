@@ -7,7 +7,7 @@ modified: 2024-01-21, 11:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-21T13:05
+updated: 2024-01-22T06:52
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -55,7 +55,7 @@ Date: 2024-01-21, 11:34
 3. **How can I decatastrophize today's problems?**
 	- No matter how much suffering your might think you are going through, think about those who have lived before you, think about those who will live after you. All people suffer in some way, and the suffering of mind is as bad as the suffering of the body. So accept the suffering you have, all people suffer, all suffer in different ways, but all do. You must stay focused on your light, on the small things that give you hope.
 4. **What is within my control and what is not**
-	- No matter how hard might things seem 
+	- No matter how hard might things seem the only thing under you controll is your own [[Control Over Judgment|Judgment]].
 
 ### Evening
 
