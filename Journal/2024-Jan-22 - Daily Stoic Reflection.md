@@ -7,7 +7,7 @@ modified: 2024-01-22, 06:53
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-22T07:09
+updated: 2024-01-22T07:17
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,9 +44,9 @@ Date: 2024-01-22, 06:53
 2. **What is worrying me?**
 	- You may be worried that your work is futile, that you can't do anything right, that you have made the wrong decisions, that you can't do things the way you want to. Well leave these thought behind, let them be, and let your self embrace your self with kindness, like mother nature does for all living things, do so for your self, and your heart. 
 1. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how hard thing seem, keep your eyes on the light, keep watching for the truth, keep going, and then you may find your self a victor, but only then, not before, not afrer not any other time. But don't burry your head under ground, think of what has to be done and do it, take action on your dreams.
 2. **What is within my control and what is not**
-	- 
+	- The only thing within my controll is my own [[Control Over Judgment|Judgment]] and nothing else. So use it to take action. 
 
 ### Evening
 
