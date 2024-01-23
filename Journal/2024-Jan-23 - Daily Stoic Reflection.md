@@ -7,7 +7,7 @@ modified: 2024-01-23, 07:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-23T07:46
+updated: 2024-01-23T07:47
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -49,7 +49,7 @@ Date: 2024-01-23, 07:22
 3. **How can I decatastrophize today's problems?**
 	- No matter how hard things might seem, no matter what loves you hit, no matter what you do, keep pushing your self, keep pushing your mind, keep pushing until you are dead, keep taking action, do not refuse it, do not be idle, take it, grasp your time into your hands and make it do your biding, not the other way around, you are going to die anyway, so why should you fear time, why should you fear anything, when your time comes, it comes, so find courage within your self, and leave fear behind, and do what you must! 
 4. **What is within my control and what is not**
-	- The only thing unde your controll is your own [[Control Over Judgment|Judgment]]. So live like that, live as if you could die right now, live as if there was no tomorrow, and all the things must be done today.
+	- The only thing unde your controll is your own [[Control Over Judgment|Judgment]]. So live like that, live as if you could die right now, live as if there was no tomorrow, and all the things must be done today. Things come, and go, so let them, but never you your self pass the chace for action.
 
 ### Evening
 
