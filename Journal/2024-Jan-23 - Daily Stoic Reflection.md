@@ -7,7 +7,7 @@ modified: 2024-01-23, 07:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-23T07:34
+updated: 2024-01-23T07:38
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -45,7 +45,7 @@ Date: 2024-01-23, 07:22
 	5. For being born, I didn't choose this, but thanks to this, I am now alive.
 	6. For being me, for all my emotions, and all my good and bad days, for all my obstacles, for trusting my self. 
 2. **What is worrying me?**
-	- 
+	- You may be worried that you are not enough, that all you do is not enough, that you must do better, that you are but one of many, that it's imposible for you to win over your self. Leave these thoughts behind, you must not succumb to them, give in to them, you must be a victor over you self, and over your weeknes, that is your worry. I know you can find refuge with Buddha, so find it, no matter how hard nature treats you, there is a reason for it, that you can never understand, so leave the worry behind, and instead choose to take action, to leave all the worry behind.
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
