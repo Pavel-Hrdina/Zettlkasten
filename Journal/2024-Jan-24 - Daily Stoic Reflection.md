@@ -46,9 +46,9 @@ Date: 2024-01-24, 06:33
 2. **What is worrying me?**
 	- You may be worried, that your tiredness is not normal, that you are somehow sick, that your fever dreams are hunting you in reality. You may start to be worried that nobody likes you, that you are hated. Well why think all this, what makes you think this. This life is impermanent, and you could die any moment, right now, right at this very moment, and what would be left of you then?
 3. **How can I decatastrophize today's problems?**
-	- No matter how hard might it seem, no matter how much you think you need to give up, just don't, I belive that you can do this, I belive in you, and your abilites, I belive that you can conquer you self, and achive what you have been longing, so stop pushing you head uner the sand to hide, pull it back up, and achive your dreams.
+	- No matter how hard might it seem, no matter how much you think you need to give up, just don't, I believe that you can do this, I believe in you, and your abilities, I believe that you can conquer your self, and achieve what you have been longing, so stop pushing your head under the sand to hide, pull it back up, and achieve your dreams.
 4. **What is within my control and what is not**
-	- The only thing that is under my contoll is my own [[Control Over Judgment|Judgment]]. So use it and take action, take it, do not hesitate, do not be fooled, do not let others put you down for taking your mind under your own controll and win.
+	- The only thing that is under my control is my own [[Control Over Judgment|Judgment]]. So use it and take action, take it, do not hesitate, do not be fooled, do not let others put you down for taking your mind under your own control and win.
 
 ### Evening
 
