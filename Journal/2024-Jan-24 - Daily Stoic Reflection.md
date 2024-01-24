@@ -7,7 +7,7 @@ modified: 2024-01-24, 06:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-24T06:49
+updated: 2024-01-24T20:55
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -57,11 +57,19 @@ Date: 2024-01-24, 06:33
 
 1. **What did I do well today?**
 
+	Today, you were fearless, today, you had peace in your heart, even though, you woke up feeling like shit, you displayed all the virtues today.
+
 2. **What did I do wrong?**
+
+	Today you didn't do all your duties, you didn't listen to your self, and you spoke when others had yet to finish their sentence.
 
 4. **What duty remains undone?**
 
+	Today, you didn't create your visual alphabet, and you didn't learn for OSP as you promised to your self. 
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow, you will do all the things that are your duty,
 
 ## Other Methods
 
