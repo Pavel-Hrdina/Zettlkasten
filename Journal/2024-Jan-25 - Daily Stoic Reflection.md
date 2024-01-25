@@ -7,7 +7,7 @@ modified: 2024-01-25, 06:54
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-25T07:03
+updated: 2024-01-25T17:30
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -61,6 +61,14 @@ Date: 2024-01-25, 06:54
 
 ## Other Methods
 
+### View from the above
+
+> [!quote] Seneca - Letters from a Stoic
+If you want to get rid of any worry, imagine directly that 
+everything you are so afraid of is going to happen, and 
+whatever evil it is, measure it for yourself and estimate your fear. For you will know that it is neither great nor lasting 
+whatever you fear.[^Seneca]
+
 ### Gravestone Method
 
 > [!quote] Marcus Aurelius
@@ -113,5 +121,8 @@ Evening, afternoon or morning
 [Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live - John Sellars](https://books.google.cz/books/about/Lessons_in_Stoicism.html?id=ky84zQEACAAJ&redir_esc=y)
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
+
+[^Seneca]:: [Výbor z listů Luciliovi by Seneca | Goodreads](https://www.goodreads.com/book/show/23340595-v-bor-z-list-luciliovi) 
+
 
 

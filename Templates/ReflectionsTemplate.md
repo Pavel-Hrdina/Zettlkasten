@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-25T17:08
+updated: 2024-01-25T17:25
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -61,9 +61,10 @@ Date: {{date}}, {{time}}
 
 ## Other Methods
 
-### Failiure mothod
-> [!quote] Seneca
-> 
+### View from the above
+
+> [!quote] Seneca - Letters from a Stoic
+> If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
 
 
 ### Gravestone Method
@@ -119,4 +120,4 @@ Evening, afternoon or morning
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
 
-
+[^Seneca]:: [Výbor z listů Luciliovi by Seneca | Goodreads](https://www.goodreads.com/book/show/23340595-v-bor-z-list-luciliovi) 
