@@ -7,10 +7,8 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-04T12:11
+updated: 2024-01-25T17:08
 ---
-
-
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
@@ -62,6 +60,11 @@ Date: {{date}}, {{time}}
 5. **How will I improve tomorrow?**
 
 ## Other Methods
+
+### Failiure mothod
+> [!quote] Seneca
+> 
+
 
 ### Gravestone Method
 

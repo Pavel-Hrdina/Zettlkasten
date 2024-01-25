@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4359789ecff05302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/ReflectionsTemplate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "5f9f2a7f9ee71ac6",
@@ -114,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal/2024-Jan-25 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-Jan-25 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-Jan-25 - Daily Stoic Reflection.md",
+                "file": "Templates/ReflectionsTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-Jan-25 - Daily Stoic Reflection.md"
+                "file": "Templates/ReflectionsTemplate.md"
               }
             }
           },
@@ -232,10 +244,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15d56603b27596d4",
+  "active": "4359789ecff05302",
   "lastOpenFiles": [
-    "Journal/2024-Jan-24 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-25 - Daily Stoic Reflection.md",
+    "Journal/2024-Jan-24 - Daily Stoic Reflection.md",
     "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2024-Jan-23 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-22 - Daily Stoic Reflection.md",
