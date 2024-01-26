@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/ReflectionsTemplate.md": "6758fe6918236ce8fee818c3da08721de17153a244955820db72dd566ca1bfbd",
+    "Templates/ReflectionsTemplate.md": "bdb05881b76be83ad1e77a72eb26838f2164388a612d46ab015126ad4bbc7e55",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md": "3e5b160e7f2c099f120e8c50a04af4319b4a1ee7e0c49d57bea35c3490548d93",
     "Journal/2023-Sep-30 - Daily Stoic Reflection.md": "0b9240ccbe6a108a2ed4103ef93af33790313d8997c3ef063d4e7920c0c98218",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md": "f877219d791316e280381a9955d738555a4309ae3114f8584edaea4cb4d0dcf2",
@@ -107,7 +107,7 @@
     "Journal/2023-Nov-30 - Daily Stoic Reflection.md": "6a51d5b55b76be62df8307633215891532b0b46e5b68dabe590bb59dff85b599",
     "Journal/2023-Dec-01 - Daily Stoic Reflection.md": "0fddbbeedcf136bd04e22fd5e3e22299ff1cddf58177aacaf59a17c3da2cda95",
     "Journal/2023-Dec-02 - Daily Stoic Reflection.md": "2ec7461c171c1f47fb7e8ab131c880e42cfc16e6147263229e13003e51770ad8",
-    "SLIP-BOX/My Visual Alphabet.md": "3c987ebe3ef123b54717b25014265a240dd0c7489fd25b8b791da7533ef438a2",
+    "SLIP-BOX/My Visual Alphabet.md": "a89e8d421043c7b7b03d43be341bb59d6cebea4a4e1006b3aea71e6c0edf52bc",
     "Journal/2023-Dec-03 - Daily Stoic Reflection.md": "1f58fc9e6634dbe09aa54df9f03efaef62283467b310d7b1548942e89e316081",
     "Journal/2023-Dec-04 - Daily Stoic Reflection.md": "ef2efd632a671873344c7d268a4d14ce62cf1931501aba607cd3ec141efe7d3f",
     "Journal/2023-Dec-05 - Daily Stoic Reflection.md": "7ae7ffe9e0d4b8c215f10427eed4163845d1e5e5f478063829ac89cffa59628d",
@@ -130,7 +130,19 @@
     "Journal/2024-Jan-06 - Daily Stoic Reflection.md": "a49cd7d21b913349343ace9fe9e13894e10720c5e8ce64ce5657c0011c3fb25b",
     "Journal/2024-Jan-08 - Daily Stoic Reflection.md": "953b54467b97078238551cefe33dc83e0d1b899cd4257040d57370a752de22fd",
     "Journal/2024-Jan-09 - Daily Stoic Reflection.md": "978ebd4baa8d9db9637255c592cd73d5c0875eeb71caadab4210f15e8cbb64f0",
-    "Journal/2024-Jan-10 - Daily Stoic Reflection.md": "b2e31cb2c30cafc0c444c972260435484098069168e2fce2c7019a939841ead2",
-    "Journal/2024-Jan-11 - Daily Stoic Reflection.md": "6b107aa4d573106b6e6260f1c744d865c452851c16ca3c7ef262e2b64abc64d5"
+    "Journal/2024-Jan-11 - Daily Stoic Reflection.md": "dd24f223667c6cdaa9b1a99be006a98415e30a61730f1e3cf0060cf25fb9af7f",
+    "Journal/2024-Jan-12 - Daily Stoic Reflection.md": "fad5d432dd2cee75ec40eabcf3ccc790deb434297bb5197c86c9931ace9c09d7",
+    "Journal/2024-Jan-13 - Daily Stoic Reflection.md": "9afdca2d8db348d82f106da37dd77d5f76cbb30e817f83cdc9322ff4b19e3d00",
+    "Journal/2024-Jan-14 - Daily Stoic Reflection.md": "ba6c9e19fa0717c916acdce0f11c727c1180d4a78a04276af21c0962d5bdf0d9",
+    "Journal/2024-Jan-15 - Daily Stoic Reflection.md": "ccaca36377b011154bffda14039dbd16afc705de01ea49acd7637a0bbddaa3a6",
+    "Journal/2024-Jan-16 - Daily Stoic Reflection.md": "767bc522048dcb94197d33ebfd825685059377f74c0f84660a1082d96ce8ee3f",
+    "Journal/2024-Jan-17 - Daily Stoic Reflection.md": "139456d3da1a7fb8cb3dd4fbc50c319d3ca533829b109613c1c2b8471ada2481",
+    "Journal/2024-Jan-18 - Daily Stoic Reflection.md": "24278d09eaeb71a03d311a42a35f40589e77b1cc17d9efd1d5d3df6ff505863a",
+    "Journal/2024-Jan-19 - Daily Stoic Reflection.md": "bfca408a66a5d3bf0f6346facf126cc57643473880ea53c5e69dd8c8812c27aa",
+    "Journal/2024-Jan-21 - Daily Stoic Reflection.md": "65fb4e438dc4bfcae75168f6a90e9ab51313bad215ef1abc3a3761496e44a77e",
+    "Journal/2024-Jan-22 - Daily Stoic Reflection.md": "23e8981e7521f26a57e2545fbd4f040290a9222bfe6b938224a594002949bbc9",
+    "Journal/2024-Jan-23 - Daily Stoic Reflection.md": "f27ab3dc756ca78f82e91d510e6b7289f5830ce6036aeb8ac3c2a654ea2ab5ed",
+    "Journal/2024-Jan-24 - Daily Stoic Reflection.md": "978bd86455f920affe0643d591ddf6fd5e32620c73655cca0df5af2879226b0b",
+    "Journal/2024-Jan-25 - Daily Stoic Reflection.md": "529de6179087dab3150bf7f3154b79c491fee48fe7d05a4d2114d9c7aaa41991"
   }
 }

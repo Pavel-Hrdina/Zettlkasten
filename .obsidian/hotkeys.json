@@ -2,10 +2,9 @@
   "obsidian-footnotes:insert-autonumbered-footnote": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Alt"
       ],
-      "key": "F"
+      "key": "0"
     }
   ],
   "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": [
@@ -32,6 +31,14 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
     }
   ]
 }

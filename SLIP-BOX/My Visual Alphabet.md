@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-12-02, 20:04
 template-type: Note
 template-version: "1.7"
-updated: 2023-12-03T12:07
+updated: 2024-01-19T07:02
 ---
 
 # My Visual Alphabet
@@ -16,6 +16,9 @@ Tags:  #learning #productivity #memory #reading
 Date: 2023-12-02, 20:04
 
 ---
+> [!quote] MEMORY CRAFT 18
+Each letter must instantly provide a memorable character who can become part of a lively story associated with whatever you’re trying to remember.
+
 
 This is my [[Visual Alphabet]]:
 

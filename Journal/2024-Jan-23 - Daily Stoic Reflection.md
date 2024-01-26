@@ -3,16 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2024-01-11, 06:16
+modified: 2024-01-23, 07:22
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T21:44
+updated: 2024-01-23T07:47
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2024-01-11, 06:16
+Date: 2024-01-23, 07:22
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -26,7 +26,7 @@ Date: 2024-01-11, 06:16
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 
 ### Morning
 
@@ -34,19 +34,22 @@ Date: 2024-01-11, 06:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you believe is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hateful angry and ungrateful to you, you must, instead of complaining, think of how much control do you have over these things, and what can you do about them, only theb can you be peace, if you know you can't take action.
+	- Today, you may be sick, you may feel weak, you may feel bad, you may meet people that are mean, angry, unhappy, ungrateful, and simple. You may feel the calling of nature, you may feel the need to shout out in anger from the bottom of your lunges. All of these things may prove difficult for you, but do not let them be your end, abandon them, let them be the way they should be, then you may find peace. 
 2. **What one thing do most need to get done today?**
-	- Today, once again, you must persist and learn for the testing that you want to be the best at, so do this today, learn for it, no slacking off, you must train your self, and you must understand what needs to be done to win.
-3. **What am I grateful for?**
-	1. For my wife, and her never-ending love.
-	2. For my parents, and their goodness 
-	3. For my sister, for books, for being alive, for being born, for being me, for having enough, for understanding, for being me, for being happy. 
-4. **What is worrying me?**
-	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth, so let go off these worries and do what your natures tells you, you feel that you must work, then work, you feel that you must relax, so relax.
-5. **How can I decatastrophize today's problems?**
-	- The only thing that you can do for your self, is to take action, nothing else is under your control, nothing else is here to stay, so look for the light in the darkness, you may feel like everything is wrong, but in reality, everything is perfectly well and balanced, as it should be.
-6. **What is within my control and what is not**
-	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, this means that I should take action, that I can choose what I do, this means, that I have direct controls over my self and nothing else. 
+	- Today, you need to learn for the OSP like a maniac, I recommend a four-hour session, you will do this, for it is your duty to your family and to your self. 
+1. **What am I grateful for?**
+	1. For my father, for helping me find the right way in life. 
+	2. For my mother, for showing me how to love my self, through her own love.
+	3. For my wife, for showing me, that it's ok to feel sad and unhappy sometimes.
+	4. For being alive, this is a gift that I choose to cherish every single day. 
+	5. For being born, I didn't choose this, but thanks to this, I am now alive.
+	6. For being me, for all my emotions, and all my good and bad days, for all my obstacles, for trusting my self. 
+2. **What is worrying me?**
+	- You may be worried that you are not enough, that all you do is not enough, that you must do better, that you are but one of many, that it's impossible for you to win over your self. Leave these thoughts behind, you must not succumb to them, give in to them, you must be a victor over your self, and over your weakness, that is your worry. I know you can find refuge with Buddha, so find it, no matter how hard nature treats you, there is a reason for it, that you can never understand, so leave the worry behind, and instead choose to take action, to leave all the worry behind.
+3. **How can I decatastrophize today's problems?**
+	- No matter how hard things might seem, no matter what loves you hit, no matter what you do, keep pushing your self, keep pushing your mind, keep pushing until you are dead, keep taking action, do not refuse it, do not be idle, take it, grasp your time into your hands and make it do your biding, not the other way around, you are going to die anyway, so why should you fear time, why should you fear anything, when your time comes, it comes, so find courage within your self, and leave fear behind, and do what you must! 
+4. **What is within my control and what is not**
+	- The only thing unde your controll is your own [[Control Over Judgment|Judgment]]. So live like that, live as if you could die right now, live as if there was no tomorrow, and all the things must be done today. Things come, and go, so let them, but never you your self pass the chace for action.
 
 ### Evening
 
@@ -55,19 +58,11 @@ Date: 2024-01-11, 06:16
 
 1. **What did I do well today?**
 
-	Today, you did well on conquering your self, you did this, so that you could be proud on your self, so that you could be a better person, so that you could push your self father that ever before. 
-
 2. **What did I do wrong?**
 
-	You played games, instead of doing your test preparation. You should be ashamed of your self for this, but you shall not put your self down, you will be happy the way you are and not broken by what you have done wrong, learn from this mistake and improve on it tomorrow. 
-
-3. **What duty remains undone?**
-
-	You did not learn for test today, I have already said enough about this. 
+4. **What duty remains undone?**
 
 5. **How will I improve tomorrow?**
-
-	You will do your preparations for 2 hours, instead of one, and then you can relax. You will do your best, and you will drop all fear, and you will be peace and happiness. 
 
 ## Other Methods
 

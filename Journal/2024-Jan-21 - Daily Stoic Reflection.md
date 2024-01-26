@@ -3,16 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2024-01-11, 06:16
+modified: 2024-01-21, 11:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T21:44
+updated: 2024-01-22T06:52
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2024-01-11, 06:16
+Date: 2024-01-21, 11:34
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -34,19 +34,28 @@ Date: 2024-01-11, 06:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you believe is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hateful angry and ungrateful to you, you must, instead of complaining, think of how much control do you have over these things, and what can you do about them, only theb can you be peace, if you know you can't take action.
+	- Today, you may find your self feeling like shit, unproductive, unhappy and dained, you may think how dumb you are, how you can't do anything right, that you are easy to manipulate and what no. You must not let these thing bother you, you must not let them put you down, you must be victotious over and over again agains your self and your destiny, I know you can do this, so DO IT! Win agains the shadown that is you and your ego, leave them behin, and only then you may find peace.
 2. **What one thing do most need to get done today?**
-	- Today, once again, you must persist and learn for the testing that you want to be the best at, so do this today, learn for it, no slacking off, you must train your self, and you must understand what needs to be done to win.
-3. **What am I grateful for?**
-	1. For my wife, and her never-ending love.
-	2. For my parents, and their goodness 
-	3. For my sister, for books, for being alive, for being born, for being me, for having enough, for understanding, for being me, for being happy. 
-4. **What is worrying me?**
-	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth, so let go off these worries and do what your natures tells you, you feel that you must work, then work, you feel that you must relax, so relax.
-5. **How can I decatastrophize today's problems?**
-	- The only thing that you can do for your self, is to take action, nothing else is under your control, nothing else is here to stay, so look for the light in the darkness, you may feel like everything is wrong, but in reality, everything is perfectly well and balanced, as it should be.
-6. **What is within my control and what is not**
-	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, this means that I should take action, that I can choose what I do, this means, that I have direct controls over my self and nothing else. 
+	- Today, you must prove to your self, that you can do thing, that you though were impossible for you, that you thought you could never do, or accomplish, so go, and do what you belive is right, what you belive should be done and what will move you forward. 
+1. **What am I grateful for?**
+	1. For my mother and my father, for the never ending love they give me.
+	2. For my sister
+	3. For my wife, and her kindness even in the darkest moments.
+	4. For being alive
+	5. For being me
+	6. For my grandpa
+	7. For my grandma
+	8. For my ancestors
+	9. For love
+	10. For trust
+	11. For acceptance
+	12. For emotions
+2. **What is worrying me?**
+	- You may be worried that you are dumb, that you have no future, that you can't do what is right, that you are a nobodym don't worry about these thing, they are not real, they only plague your mind, and nothing else, not you body, not others, only you and your soul, but your reason stands fast, unborken, unfaced, so follow its call, your heart may say these thing, but they are not under your controll, so command your heart to help your reason, not cloud it. 
+3. **How can I decatastrophize today's problems?**
+	- No matter how much suffering your might think you are going through, think about those who have lived before you, think about those who will live after you. All people suffer in some way, and the suffering of mind is as bad as the suffering of the body. So accept the suffering you have, all people suffer, all suffer in different ways, but all do. You must stay focused on your light, on the small things that give you hope.
+4. **What is within my control and what is not**
+	- No matter how hard might things seem the only thing under you controll is your own [[Control Over Judgment|Judgment]].
 
 ### Evening
 
@@ -55,19 +64,11 @@ Date: 2024-01-11, 06:16
 
 1. **What did I do well today?**
 
-	Today, you did well on conquering your self, you did this, so that you could be proud on your self, so that you could be a better person, so that you could push your self father that ever before. 
-
 2. **What did I do wrong?**
 
-	You played games, instead of doing your test preparation. You should be ashamed of your self for this, but you shall not put your self down, you will be happy the way you are and not broken by what you have done wrong, learn from this mistake and improve on it tomorrow. 
-
-3. **What duty remains undone?**
-
-	You did not learn for test today, I have already said enough about this. 
+4. **What duty remains undone?**
 
 5. **How will I improve tomorrow?**
-
-	You will do your preparations for 2 hours, instead of one, and then you can relax. You will do your best, and you will drop all fear, and you will be peace and happiness. 
 
 ## Other Methods
 

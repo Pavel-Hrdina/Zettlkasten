@@ -3,16 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2024-01-11, 06:16
+modified: 2024-01-19, 06:26
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-11T21:44
+updated: 2024-01-19T20:41
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2024-01-11, 06:16
+Date: 2024-01-19, 06:26
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -34,19 +34,22 @@ Date: 2024-01-11, 06:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self thinking about things, that are not essential, that do not matter right now, that you don't have to think about, you may feel overwhelmed, you may feel as if you couldn't do what you believe is right as if there was no hope for you, and nothing you could do, you may be cold, you may feel anger at your circumstance, and you may meet people that will be mean, hateful angry and ungrateful to you, you must, instead of complaining, think of how much control do you have over these things, and what can you do about them, only theb can you be peace, if you know you can't take action.
+	- Today, you may meet people that are mean, angry, aggressive, unhappy, unkind and mean, you may feel like shit, and you may have to face your fear. You may have no time and you may feel lazy.
 2. **What one thing do most need to get done today?**
-	- Today, once again, you must persist and learn for the testing that you want to be the best at, so do this today, learn for it, no slacking off, you must train your self, and you must understand what needs to be done to win.
-3. **What am I grateful for?**
-	1. For my wife, and her never-ending love.
-	2. For my parents, and their goodness 
-	3. For my sister, for books, for being alive, for being born, for being me, for having enough, for understanding, for being me, for being happy. 
-4. **What is worrying me?**
-	- You may be worried that you are not doing enough, that you are not doing what is right, that you are unable to do what you believe in, that you will fail. Remember, one who works, must also relax, and the one who is relaxing must also work, this is the truth, so let go off these worries and do what your natures tells you, you feel that you must work, then work, you feel that you must relax, so relax.
-5. **How can I decatastrophize today's problems?**
-	- The only thing that you can do for your self, is to take action, nothing else is under your control, nothing else is here to stay, so look for the light in the darkness, you may feel like everything is wrong, but in reality, everything is perfectly well and balanced, as it should be.
-6. **What is within my control and what is not**
-	- The only thing that is within my control is my own [[Control Over Judgment|Judgment]] and nothing else is, this means that I should take action, that I can choose what I do, this means, that I have direct controls over my self and nothing else. 
+	- Today, once again, you need to learn for the OSP testing, this is of the utmost importance, today, learn for at least 2 hours. 
+1. **What am I grateful for?**
+	1. For my loving wife
+	2. For my parents
+	3. For my family
+	4. For being born.
+	5. For being me
+	6. For books
+2. **What is worrying me?**
+	- You may be worried that you can't do anything right, that you can't do what you belive is the right way, that you are weak, that you are sick, that you will lose what you have, that you can't finish what you have started, that you can't do what you need to do.
+3. **How can I decatastrophize today's problems?**
+	- You must choose to start beliving in your self. You must stop letting others put you down, degrade you, humiliate you, you must show them your other cheek, and offer the kindness, and if they can't accept it, leave. You are on the right path, I know you can see the light at the end off the tunnel, you know it's there, so go for it, run for it, don't let it be only a dream, let it be a reality, make the dreams you have come true, shape your destiny, like you would your self thought action. Don't worry about the things you can't controll, leave them be, instead choose to focus on what you can.
+4. **What is within my control and what is not**
+	-  The only thing that is wihtin my own controll is my own [[Control Over Judgment|Judgment]], so choose to use it to be who you were born to be in the first place.
 
 ### Evening
 
@@ -55,19 +58,13 @@ Date: 2024-01-11, 06:16
 
 1. **What did I do well today?**
 
-	Today, you did well on conquering your self, you did this, so that you could be proud on your self, so that you could be a better person, so that you could push your self father that ever before. 
+	
 
 2. **What did I do wrong?**
 
-	You played games, instead of doing your test preparation. You should be ashamed of your self for this, but you shall not put your self down, you will be happy the way you are and not broken by what you have done wrong, learn from this mistake and improve on it tomorrow. 
-
-3. **What duty remains undone?**
-
-	You did not learn for test today, I have already said enough about this. 
+4. **What duty remains undone?**
 
 5. **How will I improve tomorrow?**
-
-	You will do your preparations for 2 hours, instead of one, and then you can relax. You will do your best, and you will drop all fear, and you will be peace and happiness. 
 
 ## Other Methods
 
