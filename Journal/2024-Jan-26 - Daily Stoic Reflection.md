@@ -3,16 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "{{date}}, {{time}}"
+modified: 2024-01-26, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-26T06:35
+updated: 2024-01-26T06:52
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: {{date}}, {{time}}
+Date: 2024-01-26, 06:36
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -26,7 +26,7 @@ Date: {{date}}, {{time}}
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 
 ### Morning
 
@@ -34,15 +34,15 @@ Date: {{date}}, {{time}}
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- I may meet people that are unkind, unhappy, unloving, sad, and mean. I could feel lazy, and all sorts of emotions. Furthermore, I could be stuck in a traffic jam, I could be stressed, I could die, I could get hurt. To all of these difficulties, you are going to react calmly and with serenity, and peace. I will not use violence, to overcome these difficulties, I will not feel sorrow, for those who may wrong me, and I will not be affected by their words. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to evaluate what has to be done when I come home, I shall do the view from the above reflection, that will help me estimate what has to be done, and what will happen, if I fail, so that I don't feel stressed about it. I also need to create a time plan.
 1. **What am I grateful for?**
-	1. 
+	1. For having food every day, and not knowing hunger once in my life, for being me, for being alive, and never having to fear death, for my wife, and her trust in me, for my parents, and their support for me, for all the people that tell me the truth. 
 2. **What is worrying me?**
-	- 
+	- So many things may be worrying you right now, I know that worries plague you all the time, that they hit, when you are the most vulnerable. When problems seem to overshadow the truth. I know that in your mind there seem to be only darkness, but look on it differently, look on your self from the above, what do you seem, yes one of many, and all the others have the same problem as you, they suffer as well, they feel pain as well, they have problems as well, so look, how can you solve them with what is under your controll?
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how hard and dark things might seem, you must push on, you must choose to never give up, never back down, you must go on, never looking back, only seing back on what have you done wrong, only seing the truth like and eagle far away.
 4. **What is within my control and what is not**
 	- 
 
