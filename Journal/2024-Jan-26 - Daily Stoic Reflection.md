@@ -7,7 +7,7 @@ modified: 2024-01-26, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-26T06:52
+updated: 2024-01-26T07:00
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,7 +44,7 @@ Date: 2024-01-26, 06:36
 3. **How can I decatastrophize today's problems?**
 	- No matter how hard and dark things might seem, you must push on, you must choose to never give up, never back down, you must go on, never looking back, only seing back on what have you done wrong, only seing the truth like and eagle far away.
 4. **What is within my control and what is not**
-	- 
+	- You controll your [[Control Over Judgment|Judgment]], and nothing else, so use your Judgment to take action.
 
 ### Evening
 
