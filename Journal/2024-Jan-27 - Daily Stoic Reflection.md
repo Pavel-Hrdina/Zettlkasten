@@ -7,7 +7,7 @@ modified: 2024-01-27, 12:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-27T12:16
+updated: 2024-01-27T12:24
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,7 +33,7 @@ Date: 2024-01-27, 12:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, people may be mean to you, they may be angrry at you, they may be unhappy with you, the may hate you. You may want to be lazy, and you may not feel good. You may want to hate others, and you may be slow, you may regret many things, and you may be unable to speak.
 2. **What one thing do most need to get done today?**
 	- 
 1. **What am I grateful for?**
