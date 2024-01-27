@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-Jan-27 - Daily Stoic Reflection.md"
+                "file": "SLIP-BOX/My Visual Alphabet.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95d23040d0a35466",
+  "active": "687f7aaf123a2935",
   "lastOpenFiles": [
-    "SLIP-BOX/My Visual Alphabet.md",
     "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
+    "SLIP-BOX/My Visual Alphabet.md",
     "conflict-files-obsidian-git.md",
     "SLIP-BOX/Untitled.md",
     "Journal/2024-Jan-26 - Daily Stoic Reflection.md",
