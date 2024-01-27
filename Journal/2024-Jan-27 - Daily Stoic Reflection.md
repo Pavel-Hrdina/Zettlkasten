@@ -7,7 +7,7 @@ modified: 2024-01-27, 12:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-27T12:24
+updated: 2024-01-27T15:57
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,17 +33,17 @@ Date: 2024-01-27, 12:16
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, people may be mean to you, they may be angrry at you, they may be unhappy with you, the may hate you. You may want to be lazy, and you may not feel good. You may want to hate others, and you may be slow, you may regret many things, and you may be unable to speak.
+	- Today, people may be mean to you, they may be angry at you, they may be unhappy with you, they may hate you. You may want to be lazy, and you may not feel good. You may want to hate others, and you may be slow, you may regret many things, and you may be unable to speak.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I must learn, I must do this, and I will do this. I choose to do it with gratitude, and without a complained. 
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for my parents, for my sister, for being alive, for being me, for being happy, for trusting in my self, for life.
 2. **What is worrying me?**
-	- 
+	- You are worried by all sorts of things, I know, from time, to death. All of these things are out of your control, so see what will they bring you, if they are truthful, imagine the worst thing that might happen, if they were to come alive, and you will see, that nothing will be out of the ordinary. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark might things seem to you, you must choose to push on, you must choose to win over your self, over your weekness, you must choose to do the things, that have to be done, no matter how hard they might seem, you will win over your self. 
 4. **What is within my control and what is not**
-	- 
+	- You can controll your [[Control Over Judgment|Judgment]], so choose to do the thing that is right, choose to do the thing, that must be done, and then do it, without fail, the way you trusted your self to do it.
 
 ### Evening
 
