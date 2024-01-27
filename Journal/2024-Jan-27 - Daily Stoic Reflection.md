@@ -3,16 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "{{date}}, {{time}}"
+modified: 2024-01-27, 12:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-27T12:14
+updated: 2024-01-27T12:16
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: {{date}}, {{time}}
+Date: 2024-01-27, 12:16
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -22,11 +22,10 @@ Date: {{date}}, {{time}}
 	- [[#Other Methods#4 Virtues Method|4 Virtues Method]]
 - [[#References|References]]
 
-
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 
 ### Morning
 
