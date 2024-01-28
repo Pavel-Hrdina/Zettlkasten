@@ -13,41 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLIP-BOX/The Barbell Method of Reading.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "687f7aaf123a2935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/PermanentNoteTemplate.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "03b9daa324f898bc",
+            "id": "783eda8221af832d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NoteTemplate.md",
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "891a4c97c5abb65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Meditations.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/PermanentNoteTemplate.md",
+                "file": "Permanent Notes/Meditations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/PermanentNoteTemplate.md",
+                "file": "Permanent Notes/Meditations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/PermanentNoteTemplate.md",
+                "file": "Permanent Notes/Meditations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/PermanentNoteTemplate.md"
+                "file": "Permanent Notes/Meditations.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -231,16 +231,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "687f7aaf123a2935",
+  "active": "891a4c97c5abb65c",
   "lastOpenFiles": [
-    "Templates/NoteTemplate.md",
-    "Templates/PermanentNoteTemplate.md",
-    "Templates/ReflectionsTemplate.md",
+    "Permanent Notes/Meditations.md",
     "SLIP-BOX/My Visual Alphabet.md",
+    "Templates/PermanentNoteTemplate.md",
+    "SLIP-BOX/Untitled.md",
+    "SLIP-BOX/The Barbell Method of Reading.md",
+    "Templates/ReflectionsTemplate.md",
+    "Journal/2024-Jan-11 - Daily Stoic Reflection.md",
+    "Templates/NoteTemplate.md",
     "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
-    "SLIP-BOX/Untitled.md",
     "Journal/2024-Jan-26 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-25 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-24 - Daily Stoic Reflection.md",
@@ -255,10 +258,7 @@
     "Journal/2024-Jan-14 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-13 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-12 - Daily Stoic Reflection.md",
-    "Journal/2024-Jan-11 - Daily Stoic Reflection.md",
-    "SLIP-BOX/The Barbell Method of Reading.md",
     "Journal/2024-Jan-10 - Daily Stoic Reflection.md",
-    "Journal/2024-Jan-09 - Daily Stoic Reflection.md",
     "Permanent Notes",
     "Literature Notes",
     "Bibliography/Zen to Done",

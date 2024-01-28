@@ -6,7 +6,7 @@ created: 2023-08-24T12:17
 modified: "{{date}}, {{time}}"
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-28T14:15
+updated: 2024-01-28T14:33
 ---
 
 # {{Title}}
@@ -15,9 +15,7 @@ Tags:
 Date: {{date}}, {{time}}
 
 ---
-
 ## Personal Attachment
-
 
 ## References
 
