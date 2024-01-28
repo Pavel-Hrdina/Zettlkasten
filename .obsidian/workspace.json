@@ -213,15 +213,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "687f7aaf123a2935",
   "lastOpenFiles": [
-    "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
+    "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
     "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-27 - Daily Stoic Reflection.md",
     "conflict-files-obsidian-git.md",
     "SLIP-BOX/Untitled.md",
     "Journal/2024-Jan-26 - Daily Stoic Reflection.md",
@@ -245,7 +246,6 @@
     "Journal/2024-Jan-09 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-03 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-08 - Daily Stoic Reflection.md",
-    "SLIP-BOX/push.md",
     "Permanent Notes",
     "Literature Notes",
     "Bibliography/Zen to Done",
