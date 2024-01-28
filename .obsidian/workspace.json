@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "5fa731f526e41f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Meditations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "783eda8221af832d",
             "type": "leaf",
             "state": {
@@ -32,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fa731f526e41f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Meditations.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
