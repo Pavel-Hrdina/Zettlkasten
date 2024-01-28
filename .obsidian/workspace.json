@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c664c9d73791709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/PermanentNoteTemplate.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fa731f526e41f51",
             "type": "leaf",
             "state": {
@@ -47,20 +34,15 @@
             }
           },
           {
-            "id": "ef84e8de2c3f1747",
+            "id": "7690cd04f3759d15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +108,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/2024-Jan-28 - Daily Stoic Reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,8 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef84e8de2c3f1747",
+  "active": "7690cd04f3759d15",
   "lastOpenFiles": [
+    "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
     "Permanent Notes/Meditations.md",
     "README.md",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
@@ -270,8 +249,6 @@
     "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-15 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-14 - Daily Stoic Reflection.md",
     "Permanent Notes",
     "Literature Notes",
     "Bibliography/Zen to Done",
