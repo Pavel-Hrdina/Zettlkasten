@@ -1,6 +1,6 @@
 {
   "dateFormat": "yyyy-MM-dd'T'HH:mm",
-  "enableCreateTime": true,
+  "enableCreateTime": false,
   "headerUpdated": "updated",
   "headerCreated": "created",
   "minMinutesBetweenSaves": 1,
@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/ReflectionsTemplate.md": "ba4aababd608214c7026da2c648cfcbb7c097726c87a383ffacc7ff1bde3d635",
+    "Templates/ReflectionsTemplate.md": "bffd13278e5986a9bfc104ea68bafbb0b5e74fbf34c96e5ea7365778706889a5",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md": "3e5b160e7f2c099f120e8c50a04af4319b4a1ee7e0c49d57bea35c3490548d93",
     "Journal/2023-Sep-30 - Daily Stoic Reflection.md": "0b9240ccbe6a108a2ed4103ef93af33790313d8997c3ef063d4e7920c0c98218",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md": "f877219d791316e280381a9955d738555a4309ae3114f8584edaea4cb4d0dcf2",
@@ -145,6 +145,8 @@
     "Journal/2024-Jan-24 - Daily Stoic Reflection.md": "978bd86455f920affe0643d591ddf6fd5e32620c73655cca0df5af2879226b0b",
     "Journal/2024-Jan-25 - Daily Stoic Reflection.md": "dc9a6bc8b54a9818679086cac7fb07fd143ba1dd3a007ec54a32a1813f35eaa3",
     "Journal/2024-Jan-27 - Daily Stoic Reflection.md": "1094cc61843500d221e3b6b23b6f17eb7207a393355e9287f48876405884b8c4",
-    "Journal/2024-Jan-28 - Daily Stoic Reflection.md": "37962bd74e9953768165a74f00e5778ea2d00d1a1652de877a767af324da60ca"
+    "Journal/2024-Jan-28 - Daily Stoic Reflection.md": "37962bd74e9953768165a74f00e5778ea2d00d1a1652de877a767af324da60ca",
+    "Templates/NoteTemplate.md": "35b35873f596b7ace50a659a79436a4bebb1a206b8569cecd0ae04cd75b6ee0e",
+    "Templates/PermanentNoteTemplate.md": "a92d7f352dab8d854b3104a7e1ed600ae02ca63cd9deb5d0b82b377e7dcbe140"
   }
 }

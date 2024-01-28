@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-27T12:14
+updated: 2024-01-28T14:15
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
