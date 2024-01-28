@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Templates/ReflectionsTemplate.md": "bffd13278e5986a9bfc104ea68bafbb0b5e74fbf34c96e5ea7365778706889a5",
+    "Templates/ReflectionsTemplate.md": "a149185c56c54b396ff56c4f76e58cc4d16490c3fd7be973963d6a7e83e349f1",
     "Journal/2023-Sep-29 - Daily Stoic Reflection.md": "3e5b160e7f2c099f120e8c50a04af4319b4a1ee7e0c49d57bea35c3490548d93",
     "Journal/2023-Sep-30 - Daily Stoic Reflection.md": "0b9240ccbe6a108a2ed4103ef93af33790313d8997c3ef063d4e7920c0c98218",
     "Journal/2023-Aug-30 - Daily Stoic Reflection.md": "f877219d791316e280381a9955d738555a4309ae3114f8584edaea4cb4d0dcf2",
@@ -45,7 +45,7 @@
     "Journal/2023-Oct-06 - Daily Stoic Reflection.md": "001cc7dd36ff3fec9447f1a6f80e629d6a6ee4213fd9274ab9a45256896067f6",
     "Journal/2023-Oct-07 - Daily Stoic Reflection.md": "c8b345ea7fb6524a43be6141a9e354c4b8a28aaa4af505f0a1ab8b01844cfebb",
     "Journal/2023-Oct-08 - Daily Stoic Reflection.md": "3ce4d298d05a1bfb6710043718c08328cb43557a6c60a05d827c220463ca246e",
-    "SLIP-BOX/Stoicism.md": "53fc03bebf6cd6e6435866771042a4795fc631d3260a3e2c031fff2d1f49e724",
+    "SLIP-BOX/Stoicism.md": "c1f67ee37e586911f3a5ce6ae5fd19e1d634bed192731a5793b9d6b4de30154e",
     "Journal/2023-Oct-09 - Daily Stoic Reflection.md": "33c0a197401b772f12dcedf8b1bffdd9a92561e598d8ead13bea283c70dedb3d",
     "Journal/2023-Oct-10 - Daily Stoic Reflection.md": "82b48d2ebd912f942cbe88b874361a4aeb059070aac23c35d48560182aa61740",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md": "374b275d360cd8d6cddd193dc8c58d8cf3380844f80b846318db6b123914d3a2",
@@ -147,6 +147,10 @@
     "Journal/2024-Jan-27 - Daily Stoic Reflection.md": "1094cc61843500d221e3b6b23b6f17eb7207a393355e9287f48876405884b8c4",
     "Journal/2024-Jan-28 - Daily Stoic Reflection.md": "37962bd74e9953768165a74f00e5778ea2d00d1a1652de877a767af324da60ca",
     "Templates/NoteTemplate.md": "ccb585075142f7d0012c38a9bed2b6bab33d06b2113e3f1d7b1c5eb4612156db",
-    "Templates/PermanentNoteTemplate.md": "9f58abef6997ba0caf5b58acd5caaf48a986e1449fae414a2eff3095cc9af3f8"
+    "Templates/PermanentNoteTemplate.md": "9f58abef6997ba0caf5b58acd5caaf48a986e1449fae414a2eff3095cc9af3f8",
+    "SLIP-BOX/4 Virtues.md": "6140c1dd9c4271d4fc32170fb30a5824081e0a306d54616b8933f3ae12f6aef4",
+    "Permanent Notes/Meditations.md": "aedb73f0dffe9f12bd7f773145b5a6fb9dcd3c045700a42225c0dd685af5f81f",
+    "SLIP-BOX/Wisdom.md": "a3e358039812abfe551695eb047a0bb312f79aa56c15f0ba6e9ec71582e8bfcd",
+    "SLIP-BOX/Stoics on Adversity.md": "936b96f8e4bf7abce56bef170b43670aca2279e688416a6e4824fdcb993f379b"
   }
 }

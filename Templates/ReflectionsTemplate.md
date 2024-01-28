@@ -7,7 +7,7 @@ modified: "{{date}}, {{time}}"
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-28T14:15
+updated: 2024-01-28T14:54
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -26,8 +26,8 @@ Date: {{date}}, {{time}}
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
-
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
+^193c83
 ### Morning
 
 > [!quote] Marcus Aurelius

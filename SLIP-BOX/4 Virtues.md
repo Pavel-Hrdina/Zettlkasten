@@ -7,7 +7,7 @@ created: 2023-09-11T07:09
 modified: 2023-09-11, 07:10
 template-type: Note
 template-version: "1.7"
-updated: 2023-09-26T18:35
+updated: 2024-01-28T14:46
 ---
 
 # 4 Virtues
@@ -17,7 +17,7 @@ Date: 2023-09-11, 07:10
 
 ---
 
-Along with the practice of [Meditations](Meditations), the 4 virtues are **one of the most important concepts** in all of [Stoic](Stoicism.md) philosophy. The 4 virtues are [Wisdom](Wisdom), [Justice](Justice), [Courage](Courage) and [Temperance](Temperance).
+Along with the practice of [Meditations](Meditations.md), the 4 virtues are **one of the most important concepts** in all of [Stoic](Stoicism.md) philosophy. The 4 virtues are [Wisdom](Wisdom), [Justice](Justice), [Courage](Courage) and [Temperance](Temperance).
 
 ## Personal Attachment
 

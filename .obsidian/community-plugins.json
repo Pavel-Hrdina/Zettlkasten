@@ -13,7 +13,6 @@
   "obsidian-linter",
   "obsidian-git",
   "obsidian-link-converter",
-  "obsidian-languagetool-plugin",
   "table-extended",
   "obsidian-plugin-toc",
   "table-editor-obsidian",
@@ -22,5 +21,6 @@
   "cm-typewriter-scroll-obsidian",
   "obsidian-focus-mode",
   "obsidian-fullscreen-plugin",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-languagetool-plugin"
 ]
