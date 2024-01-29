@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-01-29T18:24
+updated: 2024-01-29T18:34
 tags:
   - TheEssentialist
 "Related:": "[[Stoicism]]"
@@ -21,16 +21,16 @@ If you **don't agree with what you said in the past, write it here**, if your be
 ## [[2023-Oct-11 - Daily Stoic Reflection]]
 
 And I say, go into nature and let the birds hum bring you to a still, as you wonder over life, and suddenly your problems will feel like a needle in a haystack. Let your mind come to a stand still as you let your self come to rest. Sometimes we forget that we are only human and no gods above, deciding the fate of all what is alive and what is not. You are no master of Gaia, let her song guide you, as you walk the path of suffering with pride. Slow down and enjoy her song, for you are still alive.
-### Thoughts
+### Answer
 
 Yes, that's right, I can't control what was and what will be, so I shall not let it bother me, I will not succumb to my weakness, and I will find strength in nature. Be well.
 
 ## [[2023-Oct-14 - Daily Stoic Reflection]]
 
  *Let your self ride on the waves of life. Listen to the rhythm of life and follow it, listen to humming birds and smell the wind. Life is not a chase after desires but a struggle for survival. So value the things that seem so basic because they could be gone any time*. Now let peace descend onto your heart and become peace once again, rid of Duḥkha. 
-### Thoughts
+### Answer
 
-,,Well tell me, what is the rhythm of life", you might say. Well think about it, what could it be. To say that it is the speed at which time moves, is wrong, time does not have a set speed, you know this, because the speed of time is subjective, everyone feel time differently. ,,So what then is the rhythm of life?", it is the speed at which life moves, and the speed of nature, remember, how fast does the leaf turn yellow on trees every autumn, well it's not from day to day, is it? So that is the speed at which you should go, no slower, no faster, and you can only go that fast. If you go any faster, you will burn your self down, if you go any slower, you will not have enough time to do what has to be done, and so, you must learn this speed that nature has set for us. But you might say: ,,How will I have enough time, if I finish things when the leafs turn yellow?". You must, instead of giving your time to everyone, give it to the things, that you deem valuable enough, to take away your time, then you can do things the way they must be done, as the karmic cycle deems necessary. It has taken the Buddha 1000 lifetimes, before he achieved enlightenment, so why do you think, it will take you one day, to do the same.   
+,,Well tell me, what is the rhythm of life", you might say. Well think about it, what could it be. To say that it is the speed at which time moves, is wrong, time does not have a set speed, you know this, because the speed of time is subjective, everyone feel time differently. ,,So what then is the rhythm of life?" you will argue. It is the speed at which life moves, and the speed of nature, remember, how fast does the leaf turn yellow on trees every autumn, well it's not from day to day, is it? So that is the speed at which you should go, no slower, no faster, and you can only go that fast. If you go any faster, you will burn your self down, if you go any slower, you will not have enough time to do what has to be done, and so, you must learn this speed that nature has set for us. But you might say: ,,How will I have enough time, if I finish things when the leafs turn yellow?". You must, instead of giving your time to everyone, give it to the things, that you deem valuable enough, to take away your time, then you can do things the way they must be done, as the karmic cycle deems necessary. It has taken the Buddha 1000 lifetimes, before he achieved enlightenment, so why do you think, it will take you one day, to do the same.   
 
 ---
 ## References
