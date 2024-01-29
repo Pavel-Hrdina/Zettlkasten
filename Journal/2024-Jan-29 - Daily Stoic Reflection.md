@@ -9,7 +9,7 @@ modified: 2024-01-29, 06:28
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-29T06:53
+updated: 2024-01-29T21:39
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -54,11 +54,19 @@ Date: 2024-01-29, 06:28
 
 1. **What did I do well today?**
 
-2. **What did I do wrong?**
+	Today, you did well, you talked good, you accepted what has happened, and you have accepted what you have done wrong, and you have finished all your duties, you have displayed calmness in difficulty.
 
-4. **What duty remains undone?**
+1. **What did I do wrong?**
 
-5. **How will I improve tomorrow?**
+	You have not forced your self, to do what had to be done, when you came home.
+
+2. **What duty remains undone?**
+
+	You didn't do the view from above, that would have helped you do, what had to be done, and that whitch you didn't do.
+
+3. **How will I improve tomorrow?**
+
+	Tomorrow, I will do the view from the above, once I come home from school, and then I will do my duty.
 
 ## Other Methods
 
