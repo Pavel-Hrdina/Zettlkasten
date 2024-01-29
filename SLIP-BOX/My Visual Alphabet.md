@@ -7,7 +7,7 @@ created: 2023-08-24T12:17
 modified: 2023-12-02, 20:04
 template-type: Note
 template-version: "1.7"
-updated: 2024-01-27T16:03
+updated: 2024-01-29T16:32
 ---
 
 # My Visual Alphabet
@@ -22,7 +22,33 @@ Each letter must instantly provide a memorable character who can become part of 
 
 This is my [[Visual Alphabet]]:
 
-**Put the alphabet here, you can even create a storry board under it make it in every leaguage you speak**
+First, give a name to every letter, and then create a story from it, then draw the storry, you can make the storry as lively as you want.
+
+A: 
+B: 
+C:
+Č
+D:
+E:
+F:
+G: Gottwaldovice
+H: Houby
+I:
+J: 
+K:
+L:
+M: 
+N: Nasrat
+O:
+P:
+R: Růža 
+S: 
+Š: 
+T: 
+U: 
+V: Vrah
+Z: 
+Ž:
 
 ## Personal Attachment
 
