@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "cc17307352921fce",
+            "id": "e81b5e75aa601caa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Meditations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Meditations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/Meditations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Meditations.md"
+              }
             }
           }
         ]
@@ -168,8 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc17307352921fce",
+  "active": "e81b5e75aa601caa",
   "lastOpenFiles": [
+    "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
+    "Permanent Notes/Meditations.md",
+    "Journal/2023-Oct-13 - Daily Stoic Reflection.md",
+    "Journal/2023-Oct-12 - Daily Stoic Reflection.md",
     "SLIP-BOX/My Visual Alphabet.md",
     "conflict-files-obsidian-git.md"
   ]
