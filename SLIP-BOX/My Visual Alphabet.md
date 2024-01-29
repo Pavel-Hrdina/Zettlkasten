@@ -7,7 +7,11 @@ created: 2023-08-24T12:17
 modified: 2023-12-02, 20:04
 template-type: Note
 template-version: "1.7"
+<<<<<<< HEAD
 updated: 2024-01-29T16:32
+=======
+updated: 2024-01-29T06:27
+> > > > > > > origin/master
 ---
 
 # My Visual Alphabet

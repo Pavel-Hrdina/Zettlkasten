@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7690cd04f3759d15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,6 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SLIP-BOX/My Visual Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SLIP-BOX/My Visual Alphabet.md"
+              }
             }
           },
           {
@@ -221,10 +218,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7690cd04f3759d15",
+  "active": "783eda8221af832d",
   "lastOpenFiles": [
-    "Permanent Notes/Meditations.md",
+    "conflict-files-obsidian-git.md",
     "SLIP-BOX/My Visual Alphabet.md",
+    "Journal/2024-Jan-29 - Daily Stoic Reflection.md",
+    "Permanent Notes/Meditations.md",
     "Journal/2024-Jan-28 - Daily Stoic Reflection.md",
     "README.md",
     "Journal/2023-Oct-11 - Daily Stoic Reflection.md",
@@ -247,8 +246,6 @@
     "Journal/2023-Sep-23 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-22 - Daily Stoic Reflection.md",
     "Journal/2023-Sep-20 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-19 - Daily Stoic Reflection.md",
-    "Journal/2023-Sep-16 - Daily Stoic Reflection.md",
     "Permanent Notes",
     "Literature Notes",
     "Bibliography/Zen to Done",
