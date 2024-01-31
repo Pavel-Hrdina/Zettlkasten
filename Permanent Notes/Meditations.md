@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-01-30T19:48
+updated: 2024-01-31T20:07
 tags:
   - stoicism
   - philosophy
@@ -45,8 +45,6 @@ Yes, that's right, I can't control what was and what will be, so I shall not let
 
 Every day, be like a mountain. Unmovable and unbreakable. Be the biggest, harshest mounting, then you will be impossible to climb on. Never let go of your dignity. Never make a fool out of your self. You think that these problems are bad, but you are going to die anyway, so you might as well do your best at it. You can't control the future, let go of worrying about the uncontrollable, it is unwise.  
 ### Answer
-
-Do not be so harsh on your self, it's ok to feel a little tired, and to sometimes have a little fun, yes I know that you meant to be funny, only when the time is right, and I agree. And anyway, you are also right, that we, as human beings, will die, we could die right now, we could be gone, just like that, poof, and you are dead, so why worry about the things that are not real, why bother with the things that are out of your [[Control Over Judgment|controll]], that is the truth, I know.
 
 ---
 ## References
