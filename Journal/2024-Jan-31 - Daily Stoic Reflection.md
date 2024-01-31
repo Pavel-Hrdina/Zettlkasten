@@ -7,7 +7,7 @@ modified: 2024-01-31, 06:34
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-01-31T06:55
+updated: 2024-01-31T06:58
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -45,9 +45,9 @@ Date: 2024-01-31, 06:34
 2. **What is worrying me?**
 	- It worries you, that you might fail, it worries you, that you might die, it worries you, that you are feeling blue, it worries you that you are feeling so tired. Think this way: "Sometimes, we have a bad day, other times, we have days that are even worse.", so think, how bad is this day really? How bad it is to feel a little blue, and worry about your own failure, you are not the only one who feels like that, everybody does. So think, what can I do, to improve my condition? What can I do to make my self feel better? If the answer is: "I can't.", then think again, what is in your mind, is also under your control.
 3. **How can I decatastrophize today's problems?**
-	- I see the natures' beauty every day, and then I think: "What a wonderful day.", but don't forget that a day that is all wrong, is also beautiful, because it was made by nature, so it's good, it's how it's supposed to be, it's how it should be. Nature is the force you must follow, nature will give you hints, it will guide you to the place you want to be in, we have lost our connection wiht it. "But how do I find it?", you might say. It is in mustic that we can find out lost connection with nature, so go and find it again.
+	- I see the natures' beauty every day, and then I think: "What a wonderful day.", but don't forget that a day that is all wrong, is also beautiful, because it was made by nature, so it's good, it's how it's supposed to be, it's how it should be. Nature is the force you must follow, nature will give you hints, it will guide you to the place you want to be in, we have lost our connection with it. "But how do I find it?", you might say. It is in music that we can find our lost connection with nature, so go and find it again.
 4. **What is within my control and what is not**
-	- 
+	- The only thing within my control, is my own [[Control Over Judgment|Judgment]], and what I choose it right, what I choose to do right, in the way it should be done, and I choose to take action today, not tomorrow, but today.
 
 ### Evening
 
