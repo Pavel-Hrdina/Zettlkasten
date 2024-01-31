@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "d17e7587e5619e52",
+            "id": "63e8c0f97fe7bf80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-Jan-30 - Daily Stoic Reflection.md",
+                "file": "Journal/2024-Jan-31 - Daily Stoic Reflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Meditations.md",
+                "file": "Journal/2024-Jan-31 - Daily Stoic Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Meditations.md",
+                "file": "Journal/2024-Jan-31 - Daily Stoic Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Meditations.md"
+                "file": "Journal/2024-Jan-31 - Daily Stoic Reflection.md"
               }
             }
           }
@@ -190,10 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81b5e75aa601caa",
+  "active": "63e8c0f97fe7bf80",
   "lastOpenFiles": [
-    "Journal/2024-Jan-30 - Daily Stoic Reflection.md",
     "Permanent Notes/Meditations.md",
+    "Journal/2024-Jan-31 - Daily Stoic Reflection.md",
+    "Journal/2024-Jan-30 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-16 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-15 - Daily Stoic Reflection.md",
     "Journal/2024-Jan-29 - Daily Stoic Reflection.md",
