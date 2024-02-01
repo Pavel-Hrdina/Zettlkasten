@@ -7,7 +7,7 @@ modified: 2024-02-01, 07:05
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-01T07:14
+updated: 2024-02-01T07:33
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -35,15 +35,18 @@ Date: 2024-02-01, 07:05
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may find, that people will be mean to, people may be ugly, unkind, mean, and laugh at you. You may be stuck in a traffic jam, you may be bored, you may see suffering, you may feel pain, you may cough like hell, and you may be cold. Remember, none of these things shall break you, none of these things shall put you down, you will be victorious!
 2. **What one thing do most need to get done today?**
-	- Today, you need to learn for the testing, you must do this today, you must choose to push your self to you limits, you must choose to be great, you must feel peace before your self
+	- Today, you need to learn for the testing, you must do this today, you must choose to push your self to you limits, you must choose to be great, you must feel peace before your self, so do what must be done!
 1. **What am I grateful for?**
-	1. 
+	1. For my parents, for my wife, for both of their love, and peace.
+	2. For being alive, and for being me.
+	3. For my ancestors.
+	4. For trust.
 2. **What is worrying me?**
-	- 
+	- You may be worried that you have no time, that you can't do what must be done, that you can't do the things that you want, that you don't have enough time. That you will fail. But don't worry about these things, I know you are doing your best, I know you are doing what you can do to be the best.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Things might be hard for you to know, but that is how you know, that you are on the right path, as one wise man said: "If it's easy, you are on the wrong path.". So rejoice, that it's hard, rejoice in the small successes that you have, every day, that you do what must be done, rejoice, and celebrate, for another day, you have between your own ego, and your own shadow. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is within my controll, is my own [[Control Over Judgment|Judgment]], you mind is under your controll, your choise of actions is under your controll, what you say is under your controll. These things are under your controll, so use them, and then rejoice in them, let them be your guiding light.
 
 ### Evening
 
