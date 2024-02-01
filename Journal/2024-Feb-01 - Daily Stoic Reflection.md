@@ -47,7 +47,6 @@ Date: 2024-02-01, 07:05
 	- Things might be hard for you to know, but that is how you know, that you are on the right path, as one wise man said: "If it's easy, you are on the wrong path.". So rejoice, that it's hard, rejoice in the small successes that you have, every day, that you do what must be done, rejoice, and celebrate, for another day, you have between your own ego, and your own shadow. 
 4. **What is within my control and what is not**
 	- The only thing that is within my controll, is my own [[Control Over Judgment|Judgment]], you mind is under your controll, your choise of actions is under your controll, what you say is under your controll. These things are under your controll, so use them, and then rejoice in them, let them be your guiding light.
-
 ### Evening
 
 > [!quote] Marcus Aurelius
