@@ -7,7 +7,7 @@ modified: 2024-02-04, 10:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-04T12:36
+updated: 2024-02-04T12:46
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -40,11 +40,11 @@ Date: 2024-02-04, 10:33
 1. **What am I grateful for?**
 	1. For my parents, for being alive, for being me, for having food every day, for trusting my self.
 2. **What is worrying me?**
-	- You may feel like, there is no hope for you, you may feel a deep anger, 
+	- You may feel like, there is no hope for you, you may feel a deep anger, you may feel worthless, and bother by the sickness that has been troubling you for so long. You may be worried by time, and by others, and their thinking.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You must look deep within your self, why has the anger arrised from within you, why does it keep bothering you, over, and over again, let go of you worries, they have no truth to them, let go of the things that onlly bring you pain. Now think, how big your problems relly are?
 4. **What is within my control and what is not**
-	- 
+	- You controll your [[Control Over Judgment|Judgement]], and that's about it.
 
 ### Evening
 
