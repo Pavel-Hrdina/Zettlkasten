@@ -3,15 +3,15 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-02-04, 10:33"
+modified: 2024-02-04, 10:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-02T16:40
+updated: 2024-02-04T10:38
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
-Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
+Tags:  #reflection #stoicism #life #philosophy #motivation #daily #reflection-2024-02-03 
 Date: 2024-02-04, 10:33
 
 - [[#Morning and Evening|Morning and Evening]]
@@ -34,13 +34,13 @@ Date: 2024-02-04, 10:33
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you may find you may be cold, you may feel sad, you may feel all kinds of emotions, you may hurt your self, and you may be lazy. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, you need to relax.
 1. **What am I grateful for?**
-	1. 
+	1. For my parents, for being alive, for being me, for having food every day, for trusting my self.
 2. **What is worrying me?**
-	- 
+	- You may
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
@@ -67,7 +67,7 @@ Date: 2024-02-04, 10:33
 > If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
 
 
-### Gravestone Method
+### Gravestone Method 
 
 > [!quote] Marcus Aurelius
 > You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
