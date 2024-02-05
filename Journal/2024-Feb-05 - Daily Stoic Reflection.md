@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-02-05, 06:23"
+modified: 2024-02-05, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-04T20:32
+updated: 2024-02-05T06:44
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,20 @@ Date: 2024-02-05, 06:23
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you will be sick, you might encounter violence, you might have to defend your self, you might have to show, that you have guts, you might feel anger, you will feel tired, you will be lazy, you might have to endure pain, you will have to suffer, you must choose the right thing.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to grind my teeth, and do what is my duty, what I have to do, and what I have been born to do, without fail, without hesitation.
 1. **What am I grateful for?**
-	1. 
+	1. For my Mom, who supports me, when I need it the most. 
+	2. For my father, and is never-ending resolve. 
+	3. For being alive, for being born, for being me.
+	4. For difficulty, for challenges, for trust, for my mentors.
 2. **What is worrying me?**
-	- 
+	- That I will fail my self, and those who believe in me, that I will die, that I will suffer, that I am a bad person, that nobody likes me, that I will fail. Now think, what happens, if any of these comes true, think how horrible is it really, that you will fail? It's not, just another day, failure is mundane, so is victory. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- When you find your self in a life or death difficulty, what do you do? Yes you fight, that's what you have always done, when faced with death, but why? Why not instead accept death, and then flow with it, if your fate has decided, that you will die today, then you will, so why not instead of fighting it, flow on the river, that is fate, flow on it, as if you were one with it, flow as if you were already dead, because then, there is nothing to fear. After death, you will be peace, nothing can hurt you then, nothing can harm you, because you, are already dead.
 4. **What is within my control and what is not**
-	- 
+	- You control your [[Control Over Judgment|Judgment]], and that is all that you control, there is nothing more, nothing less, nature has given you the ability, to decide, what has to be done, and you have the ability, to act on it, don't let your self become a stone, cover in moss.
 
 ### Evening
 
