@@ -7,7 +7,7 @@ modified: 2024-02-05, 06:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-05T06:44
+updated: 2024-02-05T20:30
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -56,11 +56,19 @@ Date: 2024-02-05, 06:23
 
 1. **What did I do well today?**
 
-2. **What did I do wrong?**
+	Today, you did well, by listening to your self, you didn't do anything crazy, you had a little fun, you did some work, and you made sure to give time to your wife, spend your time with her. You gave love to others and your self, you shared, and you were kind to all.
 
-4. **What duty remains undone?**
+1. **What did I do wrong?**
 
-5. **How will I improve tomorrow?**
+	Today, I was too weak, to do any real work, I must improve on that tomorrow.
+
+2. **What duty remains undone?**
+
+	Today, you didn't do anything, that would be of real value.
+
+3. **How will I improve tomorrow?**
+
+	I will, and I choose to do what I deem is right, and what I belive must be done.
 
 ## Other Methods
 
