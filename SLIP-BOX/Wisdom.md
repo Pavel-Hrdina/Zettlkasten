@@ -7,7 +7,7 @@ created: 2023-09-11T07:14
 modified: 2023-09-11, 07:15
 template-type: Note
 template-version: "1.7"
-updated: 2024-02-02T16:40
+updated: 2024-02-04T20:32
 ---
 
 # Wisdom

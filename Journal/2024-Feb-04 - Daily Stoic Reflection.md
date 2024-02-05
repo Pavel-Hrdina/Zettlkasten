@@ -7,7 +7,7 @@ modified: 2024-02-04, 10:33
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-04T12:46
+updated: 2024-02-05T06:23
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -67,7 +67,7 @@ Date: 2024-02-04, 10:33
 > If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
 
 
-### Gravestone Method 
+### Gravestone Method
 
 > [!quote] Marcus Aurelius
 > You can discard most of the junk that clutters your mind - things that exist only there. And you will immediately make vast space for yourself by grasping the whole universe in your thoughts, by contemplating the eternity of time, and by reflecting on the speed with which things change - each part of everything, the brief gap from birth to death, the infinite time before, and the equality infinite time that follows. 
