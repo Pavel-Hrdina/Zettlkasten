@@ -68,7 +68,7 @@ Date: 2024-02-05, 06:23
 
 3. **How will I improve tomorrow?**
 
-	I will, and I choose to do what I deem is right, and what I belive must be done.
+	I will, and I choose to do what I deem is right, and what I believe must be done.
 
 ## Other Methods
 
