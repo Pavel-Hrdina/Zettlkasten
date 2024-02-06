@@ -7,7 +7,7 @@ modified: 2024-02-06, 06:41
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-06T06:45
+updated: 2024-02-06T06:59
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,11 +41,11 @@ Date: 2024-02-06, 06:41
 	1. For my wife, and her kindness.
 	2. For my parents, for being me, for being alive, for trust, for understanding, for emotions, for people, for life.
 2. **What is worrying me?**
-	- 
+	- That I could die today, that I could lose those, who I love, that I will fail, that I am not good enough, that I am too emotional. If you were to die today, what would it change, yes, nothing, life would keep on going, only you wouldn't be a part of it. Think how clinging to loved once harms you, think how attachment makes you unhappy, think how hard it is for those who have money, and nothing else. And all the other things, well they are as worthy of sadness and anxiety as all the others, they have no value so let them go.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Even if things seem hard, even if you feel like dying, you must choose to push on, to conquer your fear, and your self, to push against your limits, and to emerge victorious.  
 4. **What is within my control and what is not**
-	- 
+	- I can control my [[Control Over Judgment|Judgment]].
 
 ### Evening
 
