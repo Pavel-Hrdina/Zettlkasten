@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-02-07, 06:47"
+modified: 2024-02-07, 06:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-07T06:47
+updated: 2024-02-07T07:05
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,11 +34,13 @@ Date: 2024-02-07, 06:47
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You migh die today, you might be sick today, you may find your self in a hurry, you may think bad thoughts, you may see bad things, you might be stressed, you may be feeling blue, you may not be well, you may try too hard, you may feel too fast. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I shall learn for the OSP testing once again, I will not let my self be put down, I will not let my self lose against my self, and my ego, I will win.
 1. **What am I grateful for?**
-	1. 
+	1. For my parents, and their never ending support. 
+	2. For my wife.
+	3. For being alive, for trusting my self, for books, for people for life, for union, for being me, for the universe, for the dreamtime, for freedom.
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
