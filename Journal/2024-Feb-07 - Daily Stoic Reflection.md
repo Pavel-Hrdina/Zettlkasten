@@ -44,7 +44,7 @@ Date: 2024-02-07, 06:47
 2. **What is worrying me?**
 	- Failure might worry you, loss, war, hunger, cold might worry you, but instead look at your self, and think: "Can I control these things? Do I make banish them, by thinking like this?", if the answer is not, why is it, that you are worried but them? Just let them go, let them be the way they are, and then be at peace, for there is nothing that can hurt you, if your mind is as hard as diamond, for then you are unbreakable. 
 3. **How can I decatastrophize today's problems?**
-	- Can you see the light, can you? Yes, I know you can, I know that you can see what is awaiting you, I know that you want to avoid it, but that will only bring you more pain, so don't accept, what is your suffering, accept it fully, don't go awai from it, go toword it, have the courage to face your feart, have the curage to do what has to be done.
+	- Can you see the light, can you? Yes, I know you can, I know that you can see what is awaiting you, I know that you want to avoid it, but that will only bring you more pain, so don't accept, what is your suffering, accept it fully, don't go away from it, go toward it, have the courage to face your fear, have the courage to do what has to be done.
 4. **What is within my control and what is not**
 	- You can control only your own [[Control Over Judgment|Judgement]].
 
