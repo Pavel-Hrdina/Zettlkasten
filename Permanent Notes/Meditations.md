@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-02-07T18:10
+updated: 2024-02-07T18:11
 tags:
   - stoicism
   - philosophy
@@ -50,7 +50,7 @@ Yes, that is right, future and the past are exactly like that, the more you worr
 
 # [[2023-Oct-22 - Daily Stoic Reflection]]
 You see the staving homeless on the street, his feet purple and his fingers black. That man is fighting for his life, that is a problem. Now what problems do you really have? You've got a perfect wife, parents, smarts so why are you upset, why do you think that your problems should put you down. **You are not fighting for your life like the man on the street, you are not about to die from terminal illness and even if you were, you would choose the things that are right, you would do your best. So do your best now while you are still alive** and then, when you're dying on that bed, or in the mountains how you wanted, you can say with peace in your heart to those you love: "It's ok, now go and live well for your self this life does not end with me, so go and live happily. Not for me, but for your self.".
-###  Answer 
+### Answer
 This means, that you want to be free of burden when you die, this means, that you want to die happy, without attachment, I still believe, that that is the right thing, we all die, so you might as well die happy, and then when you see the mother earth from the mountain down, you will know that the human spirit, cannot be bout by nothing else, that its earthly body, that we have borrowed. Your suffering is not the same as the suffering of those, who are fighting for their life, but that does not mean, that you don't suffer, so instead of putting it down, acknowledge it: "Yes, I am suffering, yes I am in pain, it's part of me, my suffering shall give me streangh, my suffering shall give me a reason, to help others, I shall do what I must, and I shall live without regret, for I now, that I could die right now.".
 
 
