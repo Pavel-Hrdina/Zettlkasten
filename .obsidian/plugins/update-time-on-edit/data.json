@@ -1,0 +1,33 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Journal/2023-Oct-11 - Daily Stoic Reflection.md": "51ced4d6eeb5636f6ef2cde102f90135a2c441a65a95e3e1d532daa3a00b6f20",
+    "Journal/2024-Jan-11 - Daily Stoic Reflection.md": "442c8ee3a1ca0ed957f8a31b07388c6e2911cb8e79d9a2abd6622326413d1873",
+    "Journal/2024-Jan-25 - Daily Stoic Reflection.md": "3445b8b8c51c5c0bff42f8dc64b4539d85a30c9bd25327a34e11dfcfea9e9057",
+    "SLIP-BOX/4 Virtues.md": "d18b22e8866395164839c053e618bad03588c48cd4e3089157a53157115b8c1a",
+    "SLIP-BOX/Stoicism.md": "73863273a71f5e1c4523dc6eb2ace80d2e811363fd623cbba7cf4609581fe9b4",
+    "SLIP-BOX/Stoics on Adversity.md": "9b13a1e93943c5e4b342412718546c7aff2c83a877993b08139c562443ab76bc",
+    "SLIP-BOX/Wisdom.md": "d474a7d34af738da884b264292f50f4375db0689959be4f036ee19d88522bcb9",
+    "Templates/NoteTemplate.md": "32a39fbe88f8c2fc4257bfa9b12c77b5adaeaa0833dc418649fd0340d25224d1",
+    "Templates/ReflectionsTemplate.md": "ff829d0658d6235c7c639411dcf283aadcf2f68b7daa611b402b84d3d55a121b",
+    "Permanent Notes/Meditations.md": "19e97a38bd28c90ba1b5d39c21b299768c61ebecd3d6fe962df2ce58bc0b78d6",
+    "Journal/2023-Oct-14 - Daily Stoic Reflection.md": "dd3d5f77bb80f105caca4e751a19852f2f0f5dc989b407805b91ed54bb506fc2",
+    "Journal/2024-Jan-29 - Daily Stoic Reflection.md": "d6083dd74454d1da9095d46f4207d0bc044a82e61318b67f6a8990748dd0e05e",
+    "Journal/2024-Jan-30 - Daily Stoic Reflection.md": "4c38b28956063f449a28a79057a1d76f47cf4cb5f6e70d3216232207133ba063",
+    "Journal/2023-Oct-16 - Daily Stoic Reflection.md": "933eeafa5ecdece5500b3947c8a9c8c761172ddf26512c9b262fcee95346d7f3",
+    "Journal/2024-Jan-31 - Daily Stoic Reflection.md": "cae3f63f8e1eed01eb803304052a5b8dc0a58577296fa0bf1517b43a6c039da3",
+    "Journal/2023-Oct-18 - Daily Stoic Reflection.md": "bfae8669afa73469b9d95551db9871055525f77692a7436606808adbdf72023c",
+    "Journal/2023-Oct-19 - Daily Stoic Reflection.md": "0d1ec76fe13a7b672786f1ea019776e8b58b00cc779abdadabbbc44987f7d063",
+    "Journal/2023-Oct-20 - Daily Stoic Reflection.md": "f1484a1289676e434cb7bad4ca5422fa0306a4f6e47aae5bdab8d70b2333dfe7",
+    "Journal/2024-Feb-01 - Daily Stoic Reflection.md": "2e97eac50230c0220c6923d7ae9d13a7026c86a08d2d53651f27f9e98bde8c74",
+    "Journal/2024-Feb-04 - Daily Stoic Reflection.md": "a6361b549eab9338bfe2d0d2adc48067d714c46d79252066d844b18bbe72e422",
+    "Journal/2024-Feb-05 - Daily Stoic Reflection.md": "1281627e0a3588cea080998c6ae14ae6d4b80e8fc95237057d6e8e531afa2b23"
+  }
+}
