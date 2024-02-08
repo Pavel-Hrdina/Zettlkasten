@@ -8,7 +8,7 @@ modified: 2024-02-08, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-08T06:54
+updated: 2024-02-08T21:02
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -57,11 +57,19 @@ Date: 2024-02-08, 06:32
 
 1. **What did I do well today?**
 
+	Today, you did your best, I know it is hard for you, but you did what you could, you even went to train. You displayed curage, by saing what you belive in.
+
 2. **What did I do wrong?**
+
+	Today, you didn't do the things that were your duty, for the lack of energy you had.
 
 4. **What duty remains undone?**
 
+	Today, you didn't learn for the OSP testing, well, you will just have to work extra hard on the weekend.
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow, I will do my best, to do my duty without fail.
 
 ## Other Methods
 
