@@ -44,7 +44,7 @@ Date: 2024-02-08, 06:32
 	3. For my family and their love, and kindness.
 	4. For being alive, for being born, for being me, for loved ones. 
 2. **What is worrying me?**
-	- Worry, why do your fear, what is there to fear, nothing, so abandon all of your fears, I know that these things, like failure bother you very much, but instead of fear, feel your self, and have not, let it come to a place as empty as the desert, let the fear sink deep into the sand, and then turn the sand into a void, and suddenly, your fear has fallen in, so let it fall until it leaves your mind, and soul.
+	- Worry, why do you fear, what is there to fear, nothing, so abandon all of your fears, I know that these things, like failure bother you very much, but instead of fear, feel your self, and have not, let it come to a place as empty as the desert, let the fear sink deep into the sand, and then turn the sand into a void, and suddenly, your fear has fallen in, so let it fall until it leaves your mind, and soul.
 3. **How can I decatastrophize today's problems?**
 	- You may start to believe, you may start to think, that the light that you seem, is no more, that it's not where it has always been, that it's somewhere, where you can't find it, somewhere deep within, believe me it's there, where you have put it, it's there, but you must choose to see it, so do, and go for it, don't fear loss, don't fear pain, don't fear loneliness, because they can hurt you, if they don't exist.
 1. **What is within my control and what is not**
