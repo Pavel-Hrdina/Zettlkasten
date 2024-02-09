@@ -7,7 +7,7 @@ modified: 2024-02-09, 06:40
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-09T06:59
+updated: 2024-02-09T07:07
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,7 +41,7 @@ Date: 2024-02-09, 06:40
 2. **What is worrying me?**
 	- You are worried, that you will fail, that you have no time, that all your doings are wrong, that you will die, that you can't be happy, that you are a nobody, that you can't feed your family, that you will lose.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Yes I know that things might seem hard today, that you feel like a peace of shit, but instead of worring, instead of accepting htis as a truth, see past it, see past the suffering, and the hardness of your current condition, what do you see your self in the dreamtime, walking amist, without knowing anithing you walk, so then, if humans cannot have all the knowledge, then we shouldn't strive for it, instead, we should strive to find peace in out hearts, and live according to mother nature. 
 4. **What is within my control and what is not**
 	- 
 
