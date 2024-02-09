@@ -7,7 +7,7 @@ modified: 2024-02-09, 06:40
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-09T06:52
+updated: 2024-02-09T06:59
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -39,7 +39,7 @@ Date: 2024-02-09, 06:40
 1. **What am I grateful for?**
 	1. For my wife, for my parents, for being alive, for being me, for my mentors, for love, for trust, for peace of mind, for being me, for trust.
 2. **What is worrying me?**
-	- 
+	- You are worried, that you will fail, that you have no time, that all your doings are wrong, that you will die, that you can't be happy, that you are a nobody, that you can't feed your family, that you will lose.
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
