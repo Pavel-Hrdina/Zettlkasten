@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Meditations.md",
+                "file": "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "7c8b9ac2af612c5c",
+            "id": "0cc1fba8ebfc4f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
-                "mode": "source",
+                "file": "Permanent Notes/Meditations.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -104,8 +104,51 @@
     "type": "split",
     "children": [
       {
+        "id": "50f6ea2bfe3d4ba4",
+        "type": "tabs",
+        "dimension": 49.8211091234347,
+        "children": [
+          {
+            "id": "a67fd32ec9f162d0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Permanent Notes/Meditations.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6372987299011715,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "2db304b16a337954",
         "type": "tabs",
+        "dimension": 50.1788908765653,
         "children": [
           {
             "id": "506b6c426893adb4",
@@ -113,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
+                "file": "Permanent Notes/Meditations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
+                "file": "Permanent Notes/Meditations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,15 +208,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-Feb-10 - Daily Stoic Reflection.md"
+                "file": "Permanent Notes/Meditations.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,12 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "506b6c426893adb4",
+  "active": "0cc1fba8ebfc4f39",
   "lastOpenFiles": [
-    "Journal/2024-Feb-09 - Daily Stoic Reflection.md",
     "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
-    "Journal/2024-Feb-08 - Daily Stoic Reflection.md",
+    "Journal/2024-Jan-10 - Daily Stoic Reflection.md",
     "Permanent Notes/Meditations.md",
+    "Journal/2024-Feb-09 - Daily Stoic Reflection.md",
+    "Journal/2024-Feb-08 - Daily Stoic Reflection.md",
     "Journal/2024-Feb-07 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-22 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-21 - Daily Stoic Reflection.md",
@@ -215,7 +260,6 @@
     "Journal/2024-Jan-29 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-14 - Daily Stoic Reflection.md",
     "Journal/2023-Oct-13 - Daily Stoic Reflection.md",
-    "Journal/2023-Oct-12 - Daily Stoic Reflection.md",
-    "SLIP-BOX/My Visual Alphabet.md"
+    "Journal/2023-Oct-12 - Daily Stoic Reflection.md"
   ]
 }
