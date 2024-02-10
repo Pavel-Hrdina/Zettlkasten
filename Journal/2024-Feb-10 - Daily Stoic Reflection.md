@@ -7,7 +7,7 @@ modified: 2024-02-10, 11:48
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-10T12:39
+updated: 2024-02-10T12:45
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,15 +36,15 @@ Date: 2024-02-10, 11:48
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may feel lazy, you may feel bored, you may feel sick, your head might hurt, and you might feel lazy, as if you don't want to do anything, but I believe in you, you can do it, you can do what has to be done, and what is right, the things that are essential. 
 2. **What one thing do most need to get done today?**
-	- Today, I shall learn for the testing, that is what you have to do 1st and foremoast, I would also like you to discard all your fears from your mind, so do that as well. 
+	- Today, I shall learn for the testing, that is what you have to do 1st and foremost, I would also like you to discard all your fears from your mind, so do that as well. 
 1. **What am I grateful for?**
 	1. For my wife, my parents, who I am, being born, being me, being at peace, feeling, the weather, the need to be better, the internet, the people around me.
 2. **What is worrying me?**
-	- The world frightens you, the future makes you sick, and death makes you run. You feel as if there was no hope, as if you are too dumb to do anithing right, as if you had no place amogst humans. To think this way is a sing of a coward, so banish these thoughs, and think, on why would you think like that, what is there to fear, not even death is something that you should fear, because it can't hurt you, it can't do nothing to you, so abandon it, let it be, the way it should, and then be at peace that you can die without fear. 
+	- The world frightens you, the future makes you sick, and death makes you run. You feel as if there was no hope, as if you are too dumb to do anything right, as if you had no place amongst humans. To think this way is a sing of a coward, so banish these thought, and think, on why would you think like that, what is there to fear, not even death is something that you should fear, because it can't hurt you, it can't do anything to you, so abandon it, let it be the way it should, and then be at peace that you can die without fear. 
 3. **How can I decatastrophize today's problems?**
-	- Things might seem shity, I know that very well, but why don't you, instead of letting your fears taking over who you are, abandon those thougs, for fear is a mind-killer, I must not fear, fear is a little death that brings nothing but failiure, I will face my fear, and I will let it pass thoug me, I will let it go, and as I watch it disapear, I will turn my inner eye to the path I must follow, when the fear is gone, only I will remain.
+	- Things might seem shiny, I know that very well, but why don't you, instead of letting your fears taking over who you are, abandon those thought, for fear is a mind-killer, I must not fear, fear is a little death that brings nothing but failure, I will face my fear, and I will let it pass though me, I will let it go, and as I watch it disappear, I will turn my inner eye to the path I must follow, when the fear is gone, only I will remain.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my control, I choose to see it as my self, I choose to see it as reality, what I choose to do, is what will happen, and so I will take action, and I will not be obliterated without a fight, but then, if I fail, I shall know, that it was not in my power to win, for I have done, what my inner Buddha has guided me to do, and so it was to be that way, and so I will not lament, but instead rejoice, that I had the opportunity, and that I had taken it.
 
 ### Evening
 
