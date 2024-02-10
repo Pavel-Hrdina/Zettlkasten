@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c8b9ac2af612c5c",
+  "active": "506b6c426893adb4",
   "lastOpenFiles": [
     "Journal/2024-Feb-09 - Daily Stoic Reflection.md",
     "Journal/2024-Feb-10 - Daily Stoic Reflection.md",
