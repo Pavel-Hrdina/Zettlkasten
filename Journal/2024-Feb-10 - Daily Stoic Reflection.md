@@ -7,7 +7,7 @@ modified: 2024-02-10, 11:48
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-10T12:35
+updated: 2024-02-10T12:39
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,7 +42,7 @@ Date: 2024-02-10, 11:48
 2. **What is worrying me?**
 	- The world frightens you, the future makes you sick, and death makes you run. You feel as if there was no hope, as if you are too dumb to do anithing right, as if you had no place amogst humans. To think this way is a sing of a coward, so banish these thoughs, and think, on why would you think like that, what is there to fear, not even death is something that you should fear, because it can't hurt you, it can't do nothing to you, so abandon it, let it be, the way it should, and then be at peace that you can die without fear. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Things might seem shity, I know that very well, but why don't you, instead of letting your fears taking over who you are, abandon those thougs, for fear is a mind-killer, I must not fear, fear is a little death that brings nothing but failiure, I will face my fear, and I will let it pass thoug me, I will let it go, and as I watch it disapear, I will turn my inner eye to the path I must follow, when the fear is gone, only I will remain.
 4. **What is within my control and what is not**
 	- 
 
