@@ -7,7 +7,7 @@ modified: 2024-02-11, 10:25
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-11T11:06
+updated: 2024-02-11T11:18
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,9 +41,9 @@ Date: 2024-02-11, 10:25
 2. **What is worrying me?**
 	- You may be worried, that you may lose, that you may fail your self, that you may not be able to win over who you are. But instead of thinking like that, think instead: "I will win, I will be the best, I can do it when I set my mind to it.", you must not push your self down, and at the first sight of despair, you must instead choose to see the truth, and that victory, is but a matter of time.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter what you might be going through, you must choose to see past the mistakes you have made, past the things that have been bothering you, see past the pain of the past, see past your own shadow and your ego, and do what has to be done, and if you have done what was in your power, than you can be at peace, for there is nothing more that can be done, and you shall do it, the things that must be done.
 4. **What is within my control and what is not**
-	- 
+	- You can controll your own [[Control Over Judgment|Judgment]], and your own choise, nothing else is fully under your controll, so choose to do it, choose to do what has to be done, choose to be the victor over your self, and your own weekness, I know you can do it, I know you can win, I know you can push past your limits.
 
 ### Evening
 
