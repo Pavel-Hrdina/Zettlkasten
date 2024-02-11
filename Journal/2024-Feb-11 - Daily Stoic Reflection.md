@@ -7,7 +7,7 @@ modified: 2024-02-11, 10:25
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-11T10:59
+updated: 2024-02-11T11:06
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -37,9 +37,9 @@ Date: 2024-02-11, 10:25
 2. **What one thing do most need to get done today?**
 	- Today, I need to win over my self, I have to conquer my self, and win.
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for my mother, for my father, for my sister, for being alive, for my parents, for trust of all, for knowing who I am, for loving my self.
 2. **What is worrying me?**
-	- 
+	- You may be worried, that you may lose, that you may fail your self, that you may not be able to win over who you are. But instead of thinking like that, think instead: "I will win, I will be the best, I can do it when I set my mind to it.", you must not push your self down, and at the first sight of despair, you must instead choose to see the truth, and that victory, is but a matter of time.
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
