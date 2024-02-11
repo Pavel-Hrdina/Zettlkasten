@@ -3,15 +3,15 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-02-11, 10:25"
+modified: 2024-02-11, 10:25
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-11T10:24
+updated: 2024-02-11T10:36
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
-Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
+Tags:  #reflection #stoicism #life #philosophy #motivation #daily #reflection-2024-02-11
 Date: 2024-02-11, 10:25
 
 - [[#Morning and Evening|Morning and Evening]]
@@ -27,14 +27,13 @@ Date: 2024-02-11, 10:25
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
-^193c83
 ### Morning
 
 > [!quote] Marcus Aurelius
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you may feel the need to be lazy, to do nothing, and just be lazy, the way you want to be. You may feel the need to shout out into the world, like 
 2. **What one thing do most need to get done today?**
 	- 
 1. **What am I grateful for?**
