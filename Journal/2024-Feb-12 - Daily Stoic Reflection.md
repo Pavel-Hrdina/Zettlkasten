@@ -7,7 +7,7 @@ modified: 2024-02-12, 06:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-12T06:31
+updated: 2024-02-12T06:55
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,17 @@ Date: 2024-02-12, 06:30
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- Today, you may find that people are mean, that have no time, that you are human. You may enocuter bad people, lack of self discipline, lack of time, you may be stuck in a trafic jam, you may feel pain, you may feel sick, you may feel unhappy, you may feel purpouseless, you may be tired, the weather might be bad, you may fail, you may do bad at table tennis, you may die.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I once again need to learn for the OSP testing, that is what must be done, that is what I choose to do, that is what I will do, and I will push my self to my limits. 
 1. **What am I grateful for?**
-	1. 
+	1. For my mother, for my father, for being me, for being healthy, for being alive, for being born, for my wife, for my life, for my mentors, for all the people.
 2. **What is worrying me?**
-	- 
-3. **How can I decatastrophize today's problems?**
-	- 
-4. **What is within my control and what is not**
-	- 
+	- Life is worrying you, people are, time is, death is, and other things that are not under your control, remember, you can't control these things, so let go of worrying about them, it won't help you, and it won't help them. So remember that fear is a mind killer.
+1. **How can I decatastrophize today's problems?**
+	- I know that things seek hard, yes I know, but why do they seem hard? It's only in your heart that it seems wrong, so let go of any thoughts about problems, instead look at your problems in a different light, and you might find that the solution, is quite simple.
+2. **What is within my control and what is not**
+	- You control your [[Control Over Judgment|Judgment]], your actions, your decisions, so do just that, and do what is within your power.
 
 ### Evening
 
