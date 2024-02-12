@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-02-12T20:03
+updated: 2024-02-12T20:16
 tags:
   - stoicism
   - philosophy
@@ -53,8 +53,10 @@ You see the staving homeless on the street, his feet purple and his fingers blac
 This means, that you want to be free of burden when you die, this means, that you want to die happy, without attachment, I still believe, that that is the right thing, we all die, so you might as well die happy, and then when you see the mother earth from the mountain down, you will know that the human spirit, cannot be bout by nothing else, that its earthly body, that we have borrowed. Your suffering is not the same as the suffering of those, who are fighting for their life, but that does not mean, that you don't suffer, so instead of putting it down, acknowledge it: "Yes, I am suffering, yes I am in pain, it's part of me, my suffering shall give me strength, my suffering shall give me a reason, to help others, I shall do what I must, and I shall live without regret, for I now, that I could die right now.".
 
 ## [[2023-Oct-24 - Daily Stoic Reflection]]
-I know, you feel sorry for your self, you feel like a disgrace, like a spit on the face of earth, but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human. So with this understanding you must see your self as such, you are not the best so act as such, you are no god, so don't play one, you are a man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
+I know, you feel sorry for your self, you feel like a disgrace, like a spit on the face of earth, but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human! So with this understanding you must see your self as such, you are not a best so act as such, you are no god, so don't play one, you are a man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
 ### Answer
+There is nothing more to add, you are a man, you make mistakes, you must follow your [[Control Over Judgment|Judgment]], you choose to be good, and you choose to be loving.
+
 
 ---
 ## References
