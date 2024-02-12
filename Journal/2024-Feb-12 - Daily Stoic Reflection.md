@@ -7,7 +7,7 @@ modified: 2024-02-12, 06:30
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-12T06:55
+updated: 2024-02-12T20:21
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-02-12, 06:30
 
 1. **What did I do well today?**
 
+	Today, I was kind, I did my best to control my self, even though, I have not been always successful, yet, it's a big leap to become a better you, so continue on your path, and you shall see where you are taken.
+
 2. **What did I do wrong?**
+
+	I have talked when I wasn't supposed to talk. 
 
 4. **What duty remains undone?**
 
+	Toady, you did all that was your duty.
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow, I will say onlly what must be said, and all else, I will keep to my self, I will let others aproach me if they want to, and give love to all.
 
 ## Other Methods
 
