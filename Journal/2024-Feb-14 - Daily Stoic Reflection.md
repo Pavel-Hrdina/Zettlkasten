@@ -7,7 +7,7 @@ modified: 2024-02-14, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-14T07:32
+updated: 2024-02-14T21:24
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-02-14, 06:38
 
 1. **What did I do well today?**
 
-2. **What did I do wrong?**
+	Today, I did all the things that I set out to do, and that I could do. 
 
-4. **What duty remains undone?**
+1. **What did I do wrong?**
 
-5. **How will I improve tomorrow?**
+	I was gaming too much. 
+
+2. **What duty remains undone?**
+
+	Learning.
+
+3. **How will I improve tomorrow?**
+
+	Tomorrow, I must choose to discard my fears.
 
 ## Other Methods
 
