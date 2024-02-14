@@ -7,7 +7,7 @@ modified: 2024-02-14, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-14T07:31
+updated: 2024-02-14T07:32
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,9 +42,9 @@ Date: 2024-02-14, 06:38
 2. **What is worrying me?**
 	- That I will fail, that I can't face my fear, that I am weak.
 3. **How can I decatastrophize today's problems?**
-	- So what that you will fail, so what that you will die, so what? Instead of thinking your self week, think instead, focus on your fear, and know that fear is a little mind killer, that fear you feel, let it go thought you, remember the mantra agains fear, and you will be at peace.
+	- So what that you will fail, so what that you will die, so what? Instead of thinking your self week, think instead, focus on your fear, and know that fear is a little mind killer, that fear you feel, let it go thought you, remember the mantra against fear, and you will be at peace.
 4. **What is within my control and what is not**
-	- The onlly thing under my controll is my own [[Control Over Judgment|Judgment]], so I choose to use it to take actions.
+	- The only thing under my control is my own [[Control Over Judgment|Judgment]], so I choose to use it to take actions.
 
 ### Evening
 
