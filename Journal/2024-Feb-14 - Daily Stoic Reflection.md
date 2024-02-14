@@ -7,7 +7,7 @@ modified: 2024-02-14, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-14T07:11
+updated: 2024-02-14T07:31
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,17 @@ Date: 2024-02-14, 06:38
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You may be cold, you may be sick, you may feel slow, you may feel dump, and you may feel lost
+	- You may be cold, you may be sick, you may feel slow, you may feel dumb, and you may feel lost, you may feel bad overall, you may feel overwhelm, you may be unable to act, you may feel, as if you had no time, as if you couldn't do anything, you may be stuck in a trafic jam, you may be stressed, and you may have no time for the things you want to do. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, you need to do, what is your duty, so do it. Think about what has to be done, think about, what you must do, think about what bothers you, and think, about the things you need to do.
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for my mother, for being me, for being alive, for knowledge, for trust, for love, for my father, for my family, for my ancestors, for being loved, for being trusted.
 2. **What is worrying me?**
-	- 
+	- That I will fail, that I can't face my fear, that I am weak.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- So what that you will fail, so what that you will die, so what? Instead of thinking your self week, think instead, focus on your fear, and know that fear is a little mind killer, that fear you feel, let it go thought you, remember the mantra agains fear, and you will be at peace.
 4. **What is within my control and what is not**
-	- 
+	- The onlly thing under my controll is my own [[Control Over Judgment|Judgment]], so I choose to use it to take actions.
 
 ### Evening
 
