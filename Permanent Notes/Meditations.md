@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-02-12T20:16
+updated: 2024-02-15T21:11
 tags:
   - stoicism
   - philosophy
@@ -56,6 +56,10 @@ This means, that you want to be free of burden when you die, this means, that yo
 I know, you feel sorry for your self, you feel like a disgrace, like a spit on the face of earth, but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human! So with this understanding you must see your self as such, you are not a best so act as such, you are no god, so don't play one, you are a man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
 ### Answer
 There is nothing more to add, you are a man, you make mistakes, you must follow your [[Control Over Judgment|Judgment]], you choose to be good, and you choose to be loving.
+
+## [[2023-Oct-25 - Daily Stoic Reflection]]
+ Don't fight things that you can't control. The only thing that you can control, and you will understand this the more you try to control things, is [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). It is the only thing in our control, and it's ok that way. You can't really control the outcome of anything else. Sometimes you can't even control your self. That is the beauty of life, that you can't control anything. You ask: "But why is it beautiful?". Well would life be exiting if all things had a simple solution, just like that you snap your fingers and all is great, no that is boring really. So be the spectator of the events around you once you take action, for that is when you can't control the outcome anymore.  
+### Answer
 
 
 ---
