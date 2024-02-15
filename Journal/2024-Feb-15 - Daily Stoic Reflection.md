@@ -7,7 +7,7 @@ modified: 2024-02-15, 06:46
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-15T20:47
+updated: 2024-02-15T20:56
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,7 +53,7 @@ Date: 2024-02-15, 06:46
 
 1. **What did I do well today?**
 
-	
+	Today, I listened to my self, and yet, I still done, what I set out to do, not less, not more, I have 
 
 2. **What did I do wrong?**
 
