@@ -7,7 +7,7 @@ modified: 2024-02-15, 06:46
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-15T20:56
+updated: 2024-02-15T21:06
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,13 +53,19 @@ Date: 2024-02-15, 06:46
 
 1. **What did I do well today?**
 
-	Today, I listened to my self, and yet, I still done, what I set out to do, not less, not more, I have 
+	Today, I listened to my self, and yet, I have still done, what I set out to do, not less, not more, I have been feeling very tired lately, I have been feeling hopeless, I have been felling purpose less, and so I have chosen to think, to think all day long, and so I did. 
 
 2. **What did I do wrong?**
 
+	Today, I have given in to take revenge on those who have wronged me, I have chosen to do the wrong thing, instead of being better than then, instead of trusting my self, instead of listening to my self, I gave in. I should have punished them by being calm, and letting them be.
+
 4. **What duty remains undone?**
 
+	Today, I haven't learned for the testing, I didn't do it, because I am feeling completely drained out of energy. 
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow I choose to take it slow, I choose to live in the present, and I choose to be better than I was today.
 
 ## Other Methods
 
