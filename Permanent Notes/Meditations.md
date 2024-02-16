@@ -60,7 +60,7 @@ There is nothing more to add, you are a man, you make mistakes, you must follow 
 ## [[2023-Oct-25 - Daily Stoic Reflection]]
  Don't fight things that you can't control. The only thing that you can control, and you will understand this the more you try to control things, is [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). It is the only thing in our control, and it's ok that way. You can't really control the outcome of anything else. Sometimes you can't even control your self. That is the beauty of life, that you can't control anything. You ask: "But why is it beautiful?". Well would life be exiting if all things had a simple solution, just like that you snap your fingers and all is great, no that is boring really. So be the spectator of the events around you once you take action, for that is when you can't control the outcome anymore.  
 ### Answer
-The man that thinks he is in controll, is the man that will fall the hardest, when he is about to die.
+The man that thinks he is in control, is the man that will fall the hardest, when he is about to die.
 
 ---
 ## References
