@@ -7,7 +7,7 @@ modified: 2024-02-16, 06:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-16T07:24
+updated: 2024-02-16T21:24
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-02-16, 06:50
 
 1. **What did I do well today?**
 
+	You went to the gym, you have practised tiping on alternative layout so that the pain in your wrists would dissapear, you did all your duties, and you were active in school today, you never gave up, even when faced with a challange, and you were with your wife, and gave her a lot of emotionall love.
+
 2. **What did I do wrong?**
+
+	I didn't learn for the OSP, I didn't do what I wanted to do, I slacked off, I got out of bed late, and I broke a promise to my self.
 
 4. **What duty remains undone?**
 
+	Learning shiko, learning for OSP, learning how to create time blocks.
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow, I shall do, what I deem my duty, and what I belive must be done, in order to improve my self.
 
 ## Other Methods
 
