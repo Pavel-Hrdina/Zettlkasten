@@ -7,7 +7,7 @@ modified: 2024-02-16, 06:50
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-16T06:50
+updated: 2024-02-16T07:24
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,17 @@ Date: 2024-02-16, 06:50
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- People will be mean to you, people will hate you, you will be stuck in traffic, you will be cold, you will feel pain, you will feel bad, you will feel, you will try to go fast, you will be tempted to make fun of your self, you will be tempted to let others step on you, you will have to resist unhappy man.
 2. **What one thing do most need to get done today?**
-	- 
+	- You must chose, do one productive thing when you come home today, be it meditations, be it learning to type to reduce pain in your wrists, or be it anithing else, you must choose to do the right thing.
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for my mother, for the poeple I love, for trust, for understanding, for my parents, for my mother, for my father, for being me, for love, for trust in my self, for trust in others, for being alive, for freedom, for democracy.
 2. **What is worrying me?**
-	- 
+	- Do you worry still? Do you still think it will help you somehow? Do you still have the fears of the future? I know that onlly the clearest of minds, will have no fear, but anyway you probably fear the future, so abandon the fear, you probably fear your self, so abandon the fear, abandon the fear of the past, and live happy.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how dark it seem, what problems you are facing, no matter how bad you feel, no matter any of this, feel your self and have no fear, for in death we are all equals.
 4. **What is within my control and what is not**
-	- 
+	- Your [[Control Over Judgment|Judgemnt]], you mind, your soul, your self.
 
 ### Evening
 
