@@ -7,7 +7,7 @@ modified: 2024-02-17, 11:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-17T21:03
+updated: 2024-02-17T21:04
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -65,7 +65,7 @@ Date: 2024-02-17, 11:16
 
 5. **How will I improve tomorrow?**
 
-	Tomorrow, I will be better, that I was today, I wil do my duty, without an conplaint.
+	Tomorrow, I will be better, that I was today, I will do my duty, without a complaint.
 
 ## Other Methods
 
