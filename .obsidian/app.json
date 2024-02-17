@@ -1,0 +1,29 @@
+{
+  "livePreview": true,
+  "showLineNumber": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "SLIP-BOX",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Epicious",
+    "decatastrophize",
+    "Bilive",
+    "usfull",
+    "ragefull",
+    "sorro",
+    "becaus",
+    "contrapruductive",
+    "unhurtable",
+    "netflix",
+    "control ",
+    "critisize"
+  ],
+  "showIndentGuide": true,
+  "readableLineLength": true,
+  "rightToLeft": false
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "41eadf7a86a7d9b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efa8f0b53861e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3292976cbd7e840f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4beef58bfddf6e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLIP-BOX/Privacy Tools.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "60206c2a45c91c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "426276688e98a6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "83975c4298a03259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e6da4742b0406f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "f9c994a7e0c1f2c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:Problem",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a1bb06929f90f13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f9f2a7f9ee71ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7040ba8e8fd0428c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8146103081c4551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37b91be5e716bf3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "694f779744122e3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe34a8e5c464e691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2023-Aug-31 - Daily Stoic Reflection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "60206c2a45c91c35",
+  "lastOpenFiles": [
+    "SLIP-BOX/Privacy Tools.md",
+    "SLIP-BOX/Tor Browser.md",
+    "Journal/2023-Aug-31 - Daily Stoic Reflection.md",
+    "README.md",
+    "SLIP-BOX/Linux.md",
+    "Journal/2023-Aug-30 - Daily Stoic Reflection.md",
+    "Templates/ReflectionsTemplate.md",
+    "Assets/Images/Stoicism-for-Artists-scaled.jpeg",
+    "Assets/Images",
+    "Assets/New folder",
+    "Assets/New shortcut.lnk",
+    "Journal/2023-Aug-29 - Daily Stoic Reflection.md",
+    "SLIP-BOX/Stoicism.md",
+    "SLIP-BOX/Gravestone Method.md",
+    "SLIP-BOX/Control Over Judgment.md",
+    "SLIP-BOX/Reflection.md",
+    "Journal",
+    "Templates/NoteTemplate.md",
+    "SLIP-BOX/Reflections.md",
+    "SLIP-BOX/Advanced ways to use regex.md",
+    "SLIP-BOX/Stoics on Adversity.md",
+    "SLIP-BOX/Find.md",
+    "Reflections/Evening",
+    "Reflections/Morning",
+    "Reflections",
+    "SLIP-BOX/Linux Basic Commands.md",
+    "SLIP-BOX/Searching For Files.md",
+    "SLIP-BOX/Stoic Emotions.md",
+    "SLIP-BOX/Personal knowledge management.md",
+    "SLIP-BOX/Zettlkasten.md",
+    "LICENSE",
+    "SLIP-BOX/Problem Solving.md",
+    "SLIP-BOX/It Works!.md",
+    "SLIP-BOX/Programming.md",
+    "SLIP-BOX/Open Source.md",
+    "Assets/Changelog",
+    "Assets/Calendar",
+    "Assets/Excalidraw/Drawing 2023-08-25 20.56.05.excalidraw.svg",
+    "Visuals/IMG_0843.png",
+    "Visuals/IMG_0319.PNG",
+    "Visuals/IMG_0099.PNG",
+    "Canvases/Zettelkasten Workflow with Obsidian.canvas",
+    "Canvases/How to Use Tags.canvas",
+    "Canvases/How to Use Links with Templates.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0843.png",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0319.PNG",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Visuals/IMG_0099.PNG",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/Zettelkasten Workflow with Obsidian.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Tags.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit/Starter-Kit/Canvases/How to Use Links with Templates.canvas",
+    "Visuals/structure_template.jpg",
+    "Visuals/sketchnote_template.jpg",
+    "Untitled.canvas"
+  ]
+}
