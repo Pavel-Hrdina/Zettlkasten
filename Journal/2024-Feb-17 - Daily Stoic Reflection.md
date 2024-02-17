@@ -7,7 +7,7 @@ modified: 2024-02-17, 11:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-17T11:45
+updated: 2024-02-17T21:03
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,9 +42,9 @@ Date: 2024-02-17, 11:16
 2. **What is worrying me?**
 	- That I die, that I fail, that I am not enough, that I am lazy, that I am bad.
 3. **How can I decatastrophize today's problems?**
-	- No matter how hard might life seem, you must choose to see the brighter day, you must choose to see what good you have, and what good you can have, if you give up now, you will only suffer more, if you don't than you can have no regrets and be at peace, just like that, being the way you are supposed to be, being you.
+	- No matter how hard might life seem, you must choose to see the brighter day, you must choose to see what good you have, and what good you can have, if you give up now, you will only suffer more, if you don't than you can have no regrets and be at peace, just like that, being the way you are supposedto be, being you.
 4. **What is within my control and what is not**
-	- I controll [[Control Over Judgment|Judgment]], I controll my fear, I controll the things I do, I controll the things I feel, I controll my self.
+	- I control [[Control Over Judgment|Judgment]], I control my fear, I controllthe things I do, I control the things I feel, I control my self.
 
 ### Evening
 
@@ -53,11 +53,19 @@ Date: 2024-02-17, 11:16
 
 1. **What did I do well today?**
 
+	I didn't let anger take complete hold of me, and I patient, calm and loving to others and my self. Even though, you had little time, you have used it to learn for OSP, congratulations, do the same tomorrow.
+
 2. **What did I do wrong?**
+
+	Today, I let my self be angry.
 
 4. **What duty remains undone?**
 
+	You didn't learn how to do shiko
+
 5. **How will I improve tomorrow?**
+
+	Tomorrow, I will be better, that I was today, I wil do my duty, without an conplaint.
 
 ## Other Methods
 
