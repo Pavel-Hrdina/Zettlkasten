@@ -7,7 +7,7 @@ modified: 2024-02-17, 11:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-17T11:26
+updated: 2024-02-17T11:45
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,15 +36,15 @@ Date: 2024-02-17, 11:16
 1. **What difficulties am I likely to encounter today?**
 	- Loneliness, tiredness, fear, sadness, angryness, boredon, unhappyness, unkindness, hate, meaness, angryness, unhapiness, you may have to face your self, and your fears, you want to run, yet you can't walk.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I do what is my duty, and so it shall be done.
 1. **What am I grateful for?**
-	1. 
+	1. For my mother, for my wife, for being alive, for being me, for living, for being alive, for trust, for love, for peace, and for prosperity.
 2. **What is worrying me?**
-	- 
+	- That I die, that I fail, that I am not enough, that I am lazy, that I am bad.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how hard might life seem, you must choose to see the brighter day, you must choose to see what good you have, and what good you can have, if you give up now, you will only suffer more, if you don't than you can have no regrets and be at peace, just like that, being the way you are supposed to be, being you.
 4. **What is within my control and what is not**
-	- 
+	- I controll [[Control Over Judgment|Judgment]], I controll my fear, I controll the things I do, I controll the things I feel, I controll my self.
 
 ### Evening
 
