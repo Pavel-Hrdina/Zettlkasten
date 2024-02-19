@@ -7,7 +7,7 @@ modified: 2024-02-19, 06:32
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-19T06:59
+updated: 2024-02-19T07:01
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,7 +44,7 @@ Date: 2024-02-19, 06:32
 3. **How can I decatastrophize today's problems?**
 	- Look at your self, what do you see, do you see a man, do you see a child, do you see someone you can respect? Stop thinking that you are lazy, you are NOT, so don't put your self down, don't waste time, by hating your self, and do what is right, and when you think to your self, I have lost, think instead: "I have done what I could, I have done my best, and now that I am at the end of the road, I know, that it was not in my power, to achieve victory, and so I shall lose with dignity.", remember a working man has to be resting, and a resting man needs to be working.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]], my decisions, my mind, I, what I say, what I do, what I eat, these things are under my control. How tired I am, how well I have slept, what weather is it going to be today, how people treat me, how they react to me, these things are not under my controll.
 
 ### Evening
 
