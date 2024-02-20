@@ -40,7 +40,7 @@ Date: 2024-02-20, 06:36
 1. **What am I grateful for?**
 	1. For my mother, for my father, for my wife, for being me, for being alive, for being alive, for trust, for peace, for democracy, for love, for emotions, for work, for existing.
 2. **What is worrying me?**
-	- That you will fail, that your text will be bad, that you are not good enough, that you can't do what is right, that you will loose, that you will fail, that you will fear, that you will not face your self, that you will be lazy, that you can't do the right thing.
+	- That you will fail, that your text will be bad, that you are not good enough, that you can't do what is right, that you will lose, that you will fail, that you will fear, that you will not face your self, that you will be lazy, that you can't do the right thing.
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
