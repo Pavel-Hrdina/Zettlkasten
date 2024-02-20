@@ -7,7 +7,7 @@ modified: 2024-02-20, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-20T07:01
+updated: 2024-02-20T21:04
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,11 +53,19 @@ Date: 2024-02-20, 06:36
 
 1. **What did I do well today?**
 
-2. **What did I do wrong?**
+	You did all your duties today, and you have learned for the OSP testing, you did what you had to, and for that I congratulate you, good job, and keep it up.
 
-4. **What duty remains undone?**
+1. **What did I do wrong?**
 
-5. **How will I improve tomorrow?**
+	Today, I was almost angry, and that would result in my day being destroyed. 
+
+2. **What duty remains undone?**
+
+	I haven't let go off my worries, I must stop procrastinating on this matter. 
+
+3. **How will I improve tomorrow?**
+
+	Tomorrow, I will do my best at tests in school, so that I could win.
 
 ## Other Methods
 
