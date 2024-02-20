@@ -7,7 +7,7 @@ modified: 2024-02-20, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-20T06:55
+updated: 2024-02-20T07:00
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,9 +42,9 @@ Date: 2024-02-20, 06:36
 2. **What is worrying me?**
 	- That you will fail, that your text will be bad, that you are not good enough, that you can't do what is right, that you will lose, that you will fail, that you will fear, that you will not face your self, that you will be lazy, that you can't do the right thing.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You may lose, yet you must come back up, you may fail, yet you must get back up, you may fall, yet every time, you must get back up on your feet, every time, you must go again, and again, and again. "Why?", you might ask. It is simple, because you could be dead this very moment, and that is why you get up, so that when you are dying, you can feel at peace, without a worry in the world, just love and compassion for all beings, and if you feel that you could have done better, that you will feel hate, and guilt.
 4. **What is within my control and what is not**
-	- 
+	- [[Control Over Judgment|Judgment]], my mind, what I choose to do, how I react, who I talk with, who do I support.
 
 ### Evening
 
