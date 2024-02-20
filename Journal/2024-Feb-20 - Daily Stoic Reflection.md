@@ -7,7 +7,7 @@ modified: 2024-02-20, 06:36
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-20T07:00
+updated: 2024-02-20T07:01
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -27,7 +27,7 @@ Date: 2024-02-20, 06:36
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
-^193c83
+
 ### Morning
 
 > [!quote] Marcus Aurelius
