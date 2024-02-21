@@ -7,7 +7,7 @@ modified: 2024-02-21, 07:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-21T07:15
+updated: 2024-02-21T07:31
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -34,17 +34,17 @@ Date: 2024-02-21, 07:12
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may find your self in fear, you may think, that you can't do anything right, you may think, that you have done something wrong, and that you are an idiot, you may find your self in fear, in bad traffic, in bad mood, under fire, under rage
+	- Today, you may find your self in fear, you may think, that you can't do anything right, you may think, that you have done something wrong, and that you are an idiot, you may find your self in fear, in bad traffic, in bad mood, under fire, under rage.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, you need to learn for the OSP testing. 
 1. **What am I grateful for?**
-	1. 
+	1. For my mother, for my father, for my wife, for being me, for love, for trust for understanding, for being alive.
 2. **What is worrying me?**
-	- 
+	- That I will fail, that I will lose.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- What is the worst thing that will happen if you fail? Will you die? No you won't, and even if you were to die, what would it change, would you die in fear, or would you die a man?
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgmet]] is under my control
 
 ### Evening
 
