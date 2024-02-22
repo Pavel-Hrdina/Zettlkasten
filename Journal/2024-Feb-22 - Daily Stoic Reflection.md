@@ -7,7 +7,7 @@ modified: 2024-02-22, 07:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-22T18:05
+updated: 2024-02-22T18:45
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -66,8 +66,11 @@ Date: 2024-02-22, 07:27
 > [!quote] Seneca - Letters from a Stoic
 > If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
 
-Tell me, what is it that you fear the most right now?
+Tell me, what is it that you fear the most right now? Do you fear death, do you fear failure yes you do very much, you fear, that every time you do something, you may die, that you may lose, that you may fail, as you have many times before.
 
+But tell me, what is there to fear in death? Death only brings peace and rest to your soul, it's not a punishment, but a mercy. So why fear it, it's not that you will suffer, yes others will, but everyone dies someday, so they will, if they live longer than you, suffer. So you don't have to fear that your death will bring them suffering, because it's guaranteed that people will suffer because of your death, and there is nothing you can do about it. But you may say: "So should I wish for death, then?". No, you have a duty in this life, that you must complete, and when your time comes, nature will lovingly take you back in-to it's body, that we all have come from, and you will once again become one with the planet, as your soul leaves in peace. 
+
+What can happen if you fail at something that will not result in your death? Nothing, you may lose face, you may lose dignity, but for how long? For two days perhaps? For two weeks? Does two weeks of humiliation sound bad? Well, think, how long do you have to live? 5 more years, 80 years? You can't know, it's not in your control, you could die right now. So don't be bothered by some failure, you can always get back up, and do it again, and again, and again, and when you are dead, only then you can say down, until then chose to do what you must, and love it, let failure become a part of you, and learn from it.
 ### Gravestone Method
 
 > [!quote] Marcus Aurelius
