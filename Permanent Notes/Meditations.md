@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T14:28:00
-updated: 2024-02-15T21:33
+updated: 2024-02-24T11:52
 tags:
   - stoicism
   - philosophy

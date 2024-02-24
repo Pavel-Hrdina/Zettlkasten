@@ -3,16 +3,28 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
+<<<<<<< HEAD
 modified: 2024-02-23, 07:12
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
 updated: 2024-02-24T11:47
+=======
+modified: 2024-02-23, 08:07
+template-type: Reflection
+Reflection: 1
+template-version: "1.7"
+updated: 2024-02-23T08:11
+>>>>>>> origin/master
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
+<<<<<<< HEAD
 Date: 2024-02-23, 07:12
+=======
+Date: 2024-02-23, 08:07
+>>>>>>> origin/master
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -34,6 +46,7 @@ Date: 2024-02-23, 07:12
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
+<<<<<<< HEAD
 	- 
 2. **What one thing do most need to get done today?**
 	- 
@@ -45,6 +58,19 @@ Date: 2024-02-23, 07:12
 	- 
 4. **What is within my control and what is not**
 	- 
+=======
+	- Today, you may find your self in fear, in haste, thinking about the future, dealing with trafic, dealing with your self.
+2. **What one thing do most need to get done today?**
+	- Today, you need to learn for the OSP testing. 
+1. **What am I grateful for?**
+	1. For my mother, for my father, for being alive, for being me, for trust, for love, for peace, for understanding, for happiness. 
+2. **What is worrying me?**
+	- That I will fail, that I am not enough.
+3. **How can I decatastrophize today's problems?**
+	- You must face your fear, let it pass though you, let it come, and then go, as all things do, your fear will leave as well, so let it go, let it leave, it goes to a place that will cease to exist when things are done.
+4. **What is within my control and what is not**
+	- Only my [[Control Over Judgment|Judgment]] is.
+>>>>>>> origin/master
 
 ### Evening
 
