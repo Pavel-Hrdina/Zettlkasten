@@ -7,7 +7,7 @@ modified: 2024-02-25, 11:49
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-25T12:12
+updated: 2024-02-25T21:02
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,7 +44,7 @@ Date: 2024-02-25, 11:49
 3. **How can I decatastrophize today's problems?**
 	- Stop pitying your self, stop thinking about what has to be done, stop trying to avoid, what has been chasing you, and fight it, look at it, and see it's true cause, see the truth, that you cannot unsee, so face it, face it with courage, face it without fear, face it with love and compassion.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]], trust, my mind, I, what I choose to do, what I choose to accept, what I belive.
+	- My [[Control Over Judgment|Judgment]], trust, my mind, I, what I choose to do, what I choose to accept, what I believe.
 
 ### Evening
 
