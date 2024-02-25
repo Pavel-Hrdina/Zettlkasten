@@ -7,7 +7,7 @@ modified: 2024-02-25, 11:49
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-25T21:02
+updated: 2024-02-25T21:14
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,13 +53,19 @@ Date: 2024-02-25, 11:49
 
 1. **What did I do well today?**
 
-	
+	Today, I did all my duties. 
 
 3. **What did I do wrong?**
 
+	I played Dark Souls too much.
+
 4. **What duty remains undone?**
 
+	I did all of my duties, but I didn't shave in the morning.
+
 5. **How will I improve tomorrow?**
+
+	My [[Control Over Judgment|Judgment]]. 
 
 ## Other Methods
 
