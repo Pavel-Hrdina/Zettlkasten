@@ -7,7 +7,7 @@ modified: 2024-02-25, 11:49
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-25T11:51
+updated: 2024-02-25T12:12
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,15 +36,15 @@ Date: 2024-02-25, 11:49
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may find your self under pressure, you may think bad thoughts, you may feel like giving up, you may feel the need to quit, you may want to hide, you may want to do nothing, you may think that you can'd do anithing right, you may be lonely. 
 2. **What one thing do most need to get done today?**
-	- Today, once again, I need to learn for the osp testing 
+	- Today, once again, I need to learn for the osp testing.
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for being alive, for being me, for trust, for love, for peace, for kindness, for understanding, for my parents, for freedom, for having my dignity, for working hard, for trust.
 2. **What is worrying me?**
-	- 
+	- That I will fail, that I will lose, that I will not do what is right.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Stop pitying your self, stop thinking about what has to be done, stop trying to avoid, what has been chasing you, and fight it, look at it, and see it's true cause, see the truth, that you cannot unsee, so face it, face it with courage, face it without fear, face it with love and compassion.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]], trust, my mind, I, what I choose to do, what I choose to accept, what I belive.
 
 ### Evening
 
