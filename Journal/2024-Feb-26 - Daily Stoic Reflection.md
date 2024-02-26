@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-02-26, 06:27"
+modified: 2024-02-26, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-11T10:24
+updated: 2024-02-26T06:30
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -27,17 +27,16 @@ Date: 2024-02-26, 06:27
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
-^193c83
 ### Morning
 
 > [!quote] Marcus Aurelius
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You may feel guild, and many other negative emotions, but they won't help you. You may be stuck in traffic, you may feel insecure, you may feel worthless, you may want to be better, you may meet people that are mean, negative, angry, unlikeble, who smell. You may be sick, tired, unhappy, lazy, you may miss your wife, you may want to hide, you may be met with difficulty, you may fail.
 2. **What one thing do most need to get done today?**
-	- 
-1. **What am I grateful for?**
+	- Today, I choose to learn for the OSP testing, I choose to do this, so that I can get to the university I want to get on.
+1. **What am I grateful fork?**
 	1. 
 2. **What is worrying me?**
 	- 
