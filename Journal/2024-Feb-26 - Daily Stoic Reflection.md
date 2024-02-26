@@ -41,7 +41,7 @@ Date: 2024-02-26, 06:27
 2. **What is worrying me?**
 	- That I will fail.
 3. **How can I decatastrophize today's problems?**
-	- No matter how big the failure, if it wasn't in your power, no amount of worry will save you from what you fear at failing, if you want to win, abandon your fear, onlly than you can be a victor, for you have no fear. 
+	- No matter how big the failure, if it wasn't in your power, no amount of worry will save you from what you fear at failing, if you want to win, abandon your fear, only than you can be a victor, for you have no fear. 
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Judgment]] is under my control, my mind, my emotions, me. 
 
