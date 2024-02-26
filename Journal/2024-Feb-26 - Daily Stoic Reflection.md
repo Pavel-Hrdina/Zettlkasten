@@ -7,7 +7,7 @@ modified: 2024-02-26, 06:27
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-26T06:30
+updated: 2024-02-26T06:52
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,17 +33,17 @@ Date: 2024-02-26, 06:27
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- You may feel guild, and many other negative emotions, but they won't help you. You may be stuck in traffic, you may feel insecure, you may feel worthless, you may want to be better, you may meet people that are mean, negative, angry, unlikeble, who smell. You may be sick, tired, unhappy, lazy, you may miss your wife, you may want to hide, you may be met with difficulty, you may fail.
+	- You may feel guild, and many other negative emotions, but they won't help you. You may be stuck in traffic, you may feel insecure, you may feel worthless, you may want to be better, you may meet people that are mean, negative, angry, unlikeable, who smell. You may be sick, tired, unhappy, lazy, you may miss your wife, you may want to hide, you may be met with difficulty, you may fail.
 2. **What one thing do most need to get done today?**
 	- Today, I choose to learn for the OSP testing, I choose to do this, so that I can get to the university I want to get on.
 1. **What am I grateful fork?**
-	1. 
+	1. For my wife, for being alive, for being me, for love, for trust, for life, for understanding, for knowledge, for peace, for democracy. 
 2. **What is worrying me?**
-	- 
+	- That I will fail.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how big the failure, if it wasn't in your power, no amount of worry will save you from what you fear at failing, if you want to win, abandon your fear, onlly than you can be a victor, for you have no fear. 
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my control, my mind, my emotions, me. 
 
 ### Evening
 
