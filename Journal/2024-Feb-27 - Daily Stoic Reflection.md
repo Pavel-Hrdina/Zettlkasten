@@ -7,7 +7,7 @@ modified: 2024-02-27, 06:44
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-27T06:57
+updated: 2024-02-27T08:01
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,9 +41,9 @@ Date: 2024-02-27, 06:44
 2. **What is worrying me?**
 	- That I may fail.
 3. **How can I decatastrophize today's problems?**
-	- So what that you will fail? How is that going to change anything? You will just try again, you will get up, and you will go back to working hard untill you get it, untill you emerge vicotrious, untill then you will push against your self without fear, you must abandon it, be peace, all of this is but a mondaine thing, so think about it that way.
+	- So what that you will fail? How is that going to change anything? You will just try again, you will get up, and you will go back to working hard until you get it, until you emerge victorious, until then you will push against your self without fear, you must abandon it, be peace, all of this is but a mondaine thing, so think about it that way.
 4. **What is within my control and what is not**
-	- Onlly my own [[Control Over Judgment|Judgment]] is under my controll.
+	- Only my own [[Control Over Judgment|Judgment]] is under my control.
 
 ### Evening
 
