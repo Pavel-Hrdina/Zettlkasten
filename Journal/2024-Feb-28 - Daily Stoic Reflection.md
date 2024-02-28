@@ -36,7 +36,7 @@ Date: 2024-02-28, 07:02
 1. **What difficulties am I likely to encounter today?**
 	- You may be stuck in traffic, you may have to face unpleasant situations, you may have to face your self, you may have to calm your self, you may have to work hard, you may be out of time, you may be lazy. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to learn when I come home, then I can relax in the cinema.
 1. **What am I grateful for?**
 	1. 
 2. **What is worrying me?**
