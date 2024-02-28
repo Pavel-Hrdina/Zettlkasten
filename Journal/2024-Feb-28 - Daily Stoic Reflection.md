@@ -7,7 +7,7 @@ modified: 2024-02-28, 07:02
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-28T07:32
+updated: 2024-02-28T21:28
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,7 +42,7 @@ Date: 2024-02-28, 07:02
 2. **What is worrying me?**
 	- That I will fail.
 3. **How can I decatastrophize today's problems?**
-	- Yes, you may fail, but it's ok, the more you fail, the more relisient you become, the more harder you get.
+	- Yes, you may fail, but it's ok, the more you fail, the more resilient you become, the harder you get.
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Judgment]]
 

@@ -3,18 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-10-24, 06:32
+modified: 2024-02-27, 06:44
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-28T13:49
+updated: 2024-02-27T08:01
 ---
-
-
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-10-24, 06:32
+Date: 2024-02-27, 06:44
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -28,26 +26,25 @@ Date: 2023-10-24, 06:32
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
-
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 ### Morning
 
 > [!quote] Marcus Aurelius
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- I am likely to encounter mean disrespectful people, bad state of being, being weak, being angry. I have to accept these adversities, I chose to approach them with loving kindness. I chose to not give in to these problems. When I feel like I am experiencing one of these problems, I chose to flow with the ebb of life and try my best at conquering them. 
+	- You may be sick, you may be stressed, you may feel unwell, you may want to quit, you may want to start again, but instead, think about the things you have done, the things you did, the things you love, and the things you want to accomplish, it does not matter that you fail, it does not matter that you lose, for as long as you can try, it does not matter, so try again, push against the threads of destiny, and do what you love and do it with peace in your heart, for a hermit will not be frightened, for he does not fear death, nor it's helpers. 
 2. **What one thing do most need to get done today?**
-	- Today I need to go to the gym.
+	- Today, I choose to learn for the OSP testing, I choose to abandon my fear, I choose to let it go.
 1. **What am I grateful for?**
-	- I am grateful for my wife, my parents, my sister, being alive, being peace, being me, having enough, warmth, food, smarts, nature, kindness, people, the wind, bees, sun, space, starts on the night sky, life, culture, freedom, peace. I chose to be grateful for all of these things and much more.   
+	1. For my wife, for my mother, for being me, for being alive, for being born, for my father, for my sister, for trust, love, and mind, for people, and for life.
 2. **What is worrying me?**
-	- I am worried that I will love, that I will lose what I have, that I cannot conquer my self. I chose to let go of these worries and continue on, get back up and continue.
+	- That I may fail.
 3. **How can I decatastrophize today's problems?**
-	- I know, you feel sorry for your self, you feel like a disgrace, like a spit on the face of earth, but a pest a rat lurking about in the shadows. But you are no pest, you are no rat, you are a man, a human. So with this understanding you must see your self as such, you are not the best so act as such, you are no god, so don't play one, you are a man. So go and use what you have been given in birth and do good, make people smile, bring them happiness and the nightmares will be gone, the self-doubt will be gone, and you will feel whole again, for this curse you have demands you to be this way and fighting against it will only bring you suffering. 
+	- So what that you will fail? How is that going to change anything? You will just try again, you will get up, and you will go back to working hard until you get it, until you emerge victorious, until then you will push against your self without fear, you must abandon it, be peace, all of this is but a mondaine thing, so think about it that way.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my control and I chose to use it for good, for a better life, for humanity. Everything else is not under my control and I cannot do anything about it after I took action, everything will choose on its own, and then I can't do anything.
- 
+	- Only my own [[Control Over Judgment|Judgment]] is under my control.
+
 ### Evening
 
 > [!quote] Marcus Aurelius
@@ -55,17 +52,19 @@ Date: 2023-10-24, 06:32
 
 1. **What did I do well today?**
 
-Today I did all I wanted to do even though I was feeling sick, sad and not good. I also started going to the gym again. I did these things so that I would not give up on my self, so that I could become a better human being. 
-
 2. **What did I do wrong?**
-
-Thanks to my illness, I was lazy and went straight into bed when I came home. I did these things because I was feeling sick and unwell. 
 
 4. **What duty remains undone?**
 
-Today I left 4 tasks undone. I didn't do them, because I didn't want to, so I left them undone. I chose to not do them, not because I was lazy, but because I chose to not do them. 
+5. **How will I improve tomorrow?**
 
 ## Other Methods
+
+### View from the above
+
+> [!quote] Seneca - Letters from a Stoic
+> If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
+
 
 ### Gravestone Method
 
@@ -95,19 +94,19 @@ Evening, afternoon or morning
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...              |
 
-3. Justice
+2. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-5. Temperance
+3. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-7. Wisdom
+4. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
@@ -120,4 +119,4 @@ Evening, afternoon or morning
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
 
-
+[^Seneca]:: [Výbor z listů Luciliovi by Seneca | Goodreads](https://www.goodreads.com/book/show/23340595-v-bor-z-list-luciliovi) 
