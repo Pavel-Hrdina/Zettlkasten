@@ -7,7 +7,7 @@ modified: 2024-02-28, 07:02
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-28T21:28
+updated: 2024-02-28T21:33
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -52,13 +52,13 @@ Date: 2024-02-28, 07:02
 > Let not sleep descend on your weary eyes before having reviewed every action of the day. Where did I go wrong? What did I do right? What did I leave undone? Starting here, review your actions, and afterward, blame yourself for what is badly done, and rejoice in the good.
 
 1. **What did I do well today?**
-
-2. **What did I do wrong?**
-
-4. **What duty remains undone?**
-
-5. **How will I improve tomorrow?**
-
+	Today, you didn't give up, you never backed down.
+1. **What did I do wrong?**
+	You were rushing too much. 	
+1. **What duty remains undone?**
+	You didn't learn for the OSP testing today, I ques you needed to relax a bit. 
+1. **How will I improve tomorrow?**
+	I will push my self to my limit, for I am almost there, almoast a victor. 
 ## Other Methods
 
 ### View from the above
