@@ -7,7 +7,7 @@ modified: 2024-02-28, 07:02
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-28T21:33
+updated: 2024-02-28T21:34
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -58,7 +58,7 @@ Date: 2024-02-28, 07:02
 1. **What duty remains undone?**
 	You didn't learn for the OSP testing today, I ques you needed to relax a bit. 
 1. **How will I improve tomorrow?**
-	I will push my self to my limit, for I am almost there, almoast a victor. 
+	I will push my self to my limit, for I am almost there, almost a victor. 
 ## Other Methods
 
 ### View from the above
