@@ -7,7 +7,7 @@ modified: 2024-02-29, 07:23
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-29T07:31
+updated: 2024-02-29T07:34
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -40,11 +40,11 @@ Date: 2024-02-29, 07:23
 1. **What am I grateful for?**
 	1. For my wife, for being alive, for being free, for freedom, for my parents, for my self, for democracy, for my ancestors, for love. 
 2. **What is worrying me?**
-	- 
+	- That I will fail. Think about it, even if you fail, what is going to happen? Will it cause you to drop dead, and even if it did, what would it change, you will die anyway one day, so do not worry, for you are not a god, but a mere human being, so let worry past you, let worry leave you.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter how hard things might seem, you must not give up and push forward like a ram, and I know you are one, you are a ram, you are a bull, so push your self harder.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is.
 
 ### Evening
 
