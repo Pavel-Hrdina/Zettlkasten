@@ -7,7 +7,7 @@ modified: 2024-03-01, 07:46
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-01T08:07
+updated: 2024-03-01T20:55
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -52,11 +52,19 @@ Date: 2024-03-01, 07:46
 
 1. **What did I do well today?**
 
-2. **What did I do wrong?**
+	Today, I have faced my fear, and I have done, what had to be done. I thank you for this, I am grateful, I thank you for doing the right things, now abandon all fear, and be at peace, for you have done all, that you could have.
 
-4. **What duty remains undone?**
+1. **What did I do wrong?**
 
-5. **How will I improve tomorrow?**
+	Today, I played too much dark souls, I shall improve tomorrow.
+
+2. **What duty remains undone?**
+
+	I did all that was my duty, thank you.
+
+3. **How will I improve tomorrow?**
+
+	I will abandon all fear, leave it where no man can come, leave it where none shall enter, and where none shall live, in a place beyond life, in a time long forgotten like a bad dream, then the fear will be gone, forever trapped. 
 
 ## Other Methods
 
