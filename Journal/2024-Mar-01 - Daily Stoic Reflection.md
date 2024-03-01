@@ -7,7 +7,7 @@ modified: 2024-03-01, 07:46
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-01T07:50
+updated: 2024-03-01T08:07
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,17 +33,17 @@ Date: 2024-03-01, 07:46
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You may face your self, you may have to face your fears, and you may have to come to terms with what has to be done, you must choose between two hards, and you must choose to do the right things that must be done, you must not give up.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to make one last effort before the exam, I must choose to be a victor over my self, then I can be calm, I shall also learn the litany against fear word for word.
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for being me, for being alive, for trusting my self, for understanding me, for loving me, for loving others, for prosperity, for peace, for human kindness.
 2. **What is worrying me?**
-	- 
+	- That I will lose.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Even those who win, must lose, those who lose, are those who have wisdom, for they know what can happen, if they do something wrong, and so they can choose based on their experience. So abandon any fear, and live with love, and kindness in heart.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my controll, what I choose to do is under my controll, who I choose to be is under my controll, how I react to things is under my controll. 
 
 ### Evening
 
