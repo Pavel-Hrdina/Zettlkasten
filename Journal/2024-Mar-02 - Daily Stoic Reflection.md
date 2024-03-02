@@ -7,7 +7,7 @@ modified: 2024-03-02, 08:09
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-02T08:12
+updated: 2024-03-02T08:17
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,15 +36,15 @@ Date: 2024-03-02, 08:09
 1. **What difficulties am I likely to encounter today?**
 	- Today, I am likely to have to face my fears, abandon all material, prepare for failiure, prepare to die, prepare to do things wrong, have no time, have bad thoughts.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to win over my self, and so it shall be, I shall conquer my fears, and let them go, and when the fears are gone, only I will remain. 
 1. **What am I grateful for?**
-	1. 
+	1. For my wife, for being me, for being alive, for having a chance at education, for love, for peace, for mankind, for my ancestors, for kindness.
 2. **What is worrying me?**
-	- 
+	- That I will fail, that I am not good enough.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- No matter what you might be feeling right now, this about how long will it last, how long will it affect you? For no time at all, so leave it right here and then when the time has come for you to win, you will.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]], who I am, what I choose to do, who I choose to be.
 
 ### Evening
 
