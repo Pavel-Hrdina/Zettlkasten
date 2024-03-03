@@ -3,18 +3,16 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2023-10-25, 06:38
+modified: 2024-03-02, 08:09
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-03T10:28
+updated: 2024-03-02T08:17
 ---
-
-
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
 Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
-Date: 2023-10-25, 06:38
+Date: 2024-03-02, 08:09
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -28,7 +26,7 @@ Date: 2023-10-25, 06:38
 ## Morning and Evening
 
 > [!quote] Epicious 
-> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk your yourself and others about them"_
+> _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
 
 ### Morning
 
@@ -36,17 +34,17 @@ Date: 2023-10-25, 06:38
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- I am likely to encounter a midterm test, beggars, mean people, rain, hard choices, loosing, killer drivers and stress. If I encounter any of these adversities today, I chose not to crumble under their pressure, but instead I chose to use what I can control and use it to lessen the blow of these challenges. 
+	- Today, I am likely to have to face my fears, abandon all material, prepare for failiure, prepare to die, prepare to do things wrong, have no time, have bad thoughts.
 2. **What one thing do most need to get done today?**
-	- Today I chose to ace my midterm. I chose to do so without my unconscious making me fail, I will not let my self beat me and I will flow like a butterfly flows with the air, letting go of any and all worry, I will emerge victorious.
+	- Today, I need to win over my self, and so it shall be, I shall conquer my fears, and let them go, and when the fears are gone, only I will remain. 
 1. **What am I grateful for?**
-	- I am grateful for all of these things and many more: My mum and dad, my sister, my wife, my family, peace, food, warmth, stillness, the starts, the sun, the clouds, the wind, the car, money, motorcycles, earth, my ancestors, being alive, being happy and being peace. I am grateful for all of these things, and much more.   
+	1. For my wife, for being me, for being alive, for having a chance at education, for love, for peace, for mankind, for my ancestors, for kindness.
 2. **What is worrying me?**
-	- I am worried that I will get distracted easily today, that I do not belong to where I am. These things worry me now, and I chose to let go of them at this moment, for they are only worries.   
+	- That I will fail, that I am not good enough.
 3. **How can I decatastrophize today's problems?**
-	- Once again you constrain your self to the ideas of others, why won't you let your creativity out. You have always been creative, so why did you stop making creative things that made you so happy, even if you had no talent for it. You must take your time with things, you are not superhuman that learn anything in 3 minutes... no you need to take your time, and it's ok to take as much time as you need with your personal things. But now I ask, how do I learn something in time? I need to learn every day, it is not that I can learn something in one day and then remember it for the rest of my life. I need to use that knowledge every day to remember. Now go, I have kept you too long. 
+	- No matter what you might be feeling right now, this about how long will it last, how long will it affect you? For no time at all, so leave it right here and then when the time has come for you to win, you will.
 4. **What is within my control and what is not**
-	- Don't fight things that you can't control. The only thing that you can control, and you will understand this the more you try to control things, is [Judgment](../SLIP-BOX/Control%20Over%20Judgment.md). It is the only thing in our control, and it's ok that way. You can't really control the outcome of anything else that. Sometimes you can't even control your self. That is the beauty of life, that you can't control anything. You ask: "But why is it beautiful?". Well would life be exiting if all things had a simple solution, just like that you snap your fingers and all is great, no that is boring really. So be the spectator of the events around you once you take action, for that is when you can't control the outcome anymore.  
+	- My [[Control Over Judgment|Judgment]], who I am, what I choose to do, who I choose to be.
 
 ### Evening
 
@@ -55,20 +53,19 @@ Date: 2023-10-25, 06:38
 
 1. **What did I do well today?**
 
-| Things I Did Well | Why I did them |
-| ------------------- | ---------------- |
-
 2. **What did I do wrong?**
-
-| What did I do wrong | Why I did it |
-| ------------------- | ---------------- |
 
 4. **What duty remains undone?**
 
-| What duty remains undone? | Why I didn't do it |
-| ------------------- | ---------------- |
+5. **How will I improve tomorrow?**
 
 ## Other Methods
+
+### View from the above
+
+> [!quote] Seneca - Letters from a Stoic
+> If you want to get rid of any worry, imagine directly that everything you are so afraid of is going to happen, and whatever evil it is, measure it for yourself and estimate your fear. [^Seneca]
+
 
 ### Gravestone Method
 
@@ -77,15 +74,13 @@ Date: 2023-10-25, 06:38
 
 Today's Events 
 
-- Today was a fulfilling and productive day. I had a lot of success, I won a table tennis tournament. I finally bought MC gear. Furthermore, I did ok on the test. I am happy with today.  
+-
 
 How I see them in the near future? 
 
-- These events will shape the future.
+-
 
 How they'd be viewed, years after I've passed?
-
-- They would be seen as good as Stoic. I believe this 
 
 ### 4 Virtues Method
 
@@ -100,19 +95,19 @@ Evening, afternoon or morning
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...              |
 
-3. Justice
+2. Justice
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-5. Temperance
+3. Temperance
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
 | I demonstrated it by....                 | "I failed to demonstrate it by ...             
 
-7. Wisdom
+4. Wisdom
 
 | How I demonstrated it  | How I failed to demonstrate it |
 | ------------------- | ---------------- |
@@ -125,4 +120,4 @@ Evening, afternoon or morning
 [Modern stoicism](https://modernstoicism.com/)
 [An Ancient Stoic Meditation Technique – Donald J. Robertson](https://donaldrobertson.name/2017/03/22/an-ancient-stoic-meditation-technique/)
 
-
+[^Seneca]:: [Výbor z listů Luciliovi by Seneca | Goodreads](https://www.goodreads.com/book/show/23340595-v-bor-z-list-luciliovi) 
