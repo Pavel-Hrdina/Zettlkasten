@@ -7,7 +7,7 @@ modified: 2024-03-03, 10:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-03T10:20
+updated: 2024-03-03T10:28
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -36,15 +36,15 @@ Date: 2024-03-03, 10:16
 1. **What difficulties am I likely to encounter today?**
 	- Today, I may have to learn to relax, to let go off any fear, to let go off feeling fear. 
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to relax, to be at peace.
 1. **What am I grateful for?**
-	1. 
+	1. For my mother, for being my self, for my mother, for love, for trust, for peace, for understanding, for my parents, for being born, for being alive. 
 2. **What is worrying me?**
-	- 
+	- That I could lose my self, that I can't work hard enough. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You will not lose your self, you cannot be a victor without loosing, without hard work, and without your wits, without loving your self, and others. 
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]], my mind, my self.
 
 ### Evening
 
