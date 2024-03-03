@@ -7,7 +7,7 @@ modified: 2024-03-03, 10:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-03T10:28
+updated: 2024-03-03T20:58
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -53,7 +53,11 @@ Date: 2024-03-03, 10:16
 
 1. **What did I do well today?**
 
+	Today, you put your self out of your comfort zone, you have lived according the [[4 Virtues]], your have done well controlling what you could, and you did well loving who you could.
+
 2. **What did I do wrong?**
+
+	Today, I didn't spend as much time as I could with my fiends, I have been too fixeted on people. 
 
 4. **What duty remains undone?**
 
