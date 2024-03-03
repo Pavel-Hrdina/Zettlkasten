@@ -7,7 +7,7 @@ modified: 2024-03-03, 10:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-03T20:58
+updated: 2024-03-03T20:59
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -57,11 +57,15 @@ Date: 2024-03-03, 10:16
 
 2. **What did I do wrong?**
 
-	Today, I didn't spend as much time as I could with my fiends, I have been too fixeted on people. 
+	Today, I didn't spend as much time as I could with my fiends, I have been too fixated on people. 
 
 4. **What duty remains undone?**
 
-5. **How will I improve tomorrow?**
+	Today, you didn't have any duty to do.
+
+6. **How will I improve tomorrow?**
+
+	Tomorrow, I will give my 110%, and I will continue in practicing the [[4 Virtues]].
 
 ## Other Methods
 
