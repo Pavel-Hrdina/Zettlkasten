@@ -7,7 +7,7 @@ modified: 2024-03-04, 08:09
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-04T08:16
+updated: 2024-03-04T08:17
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,7 +41,7 @@ Date: 2024-03-04, 08:09
 2. **What is worrying me?**
 	- That I will be too lazy, that I can't do what is right.
 3. **How can I decatastrophize today's problems?**
-	- Think about the things you have been though, think about all the hardships that you have endured, think about all the rights, and all the wrongs, think what goo have you done, does that even compare with what you are going through now? Does that even make a difference? No it doesn't, so abandon all fear, abandon all thoughts about lazyness, be the best you you can be today.
+	- Think about the things you have been though, think about all the hardships that you have endured, think about all the rights, and all the wrongs, think what goo have you done, does that even compare with what you are going through now? Does that even make a difference? No it doesn't, so abandon all fear, abandon all thoughts about laziness, be the best you can be today.
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Jugment]] is, my mind is, what I choose to do is under my control. 
 
