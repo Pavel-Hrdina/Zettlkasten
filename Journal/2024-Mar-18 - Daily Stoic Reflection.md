@@ -7,7 +7,7 @@ modified: 2024-03-18, 06:38
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-18T07:10
+updated: 2024-03-18T07:13
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -40,11 +40,11 @@ Date: 2024-03-18, 06:38
 1. **What am I grateful for?**
 	1. For my wife, for my mother, for my father, for my ancestors, for being me, for being alive, for having enough, for having warm food 3 times a day, for knowing my path to victory, for knowing who I am, for wisdom of the ages, for humankind, for freedom, for democracy.
 2. **What is worrying me?**
-	- 
+	- That I am too lazy, that I am not good enough.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You must choose to practice the [[4 Virtues]], you must choose to accept your self for who you are, for that is not in your control. You must choose to focus, on what can be done, in order to improve your self, and in order to be the best you can be.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my control. My mind is under my control, how I choose to do my work is under my control, how I react is under my control, how I face my death is under my control. 
 
 ### Evening
 
