@@ -38,7 +38,7 @@ Date: 2024-03-18, 06:38
 2. **What one thing do most need to get done today?**
 	- Today, I need to finish my finals work, I choose to do it, I choose to finish it, I choose to do my best.
 1. **What am I grateful for?**
-	1. For my wife, for my mother, for my father, for my ancestors, for being me, for being alive, for having enough, for having warm food 3 times a day, for knowing my path to victory, for knowing who I am, for wisdom of the ages, for humankind, for freedom, for demcoracy.
+	1. For my wife, for my mother, for my father, for my ancestors, for being me, for being alive, for having enough, for having warm food 3 times a day, for knowing my path to victory, for knowing who I am, for wisdom of the ages, for humankind, for freedom, for democracy.
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
