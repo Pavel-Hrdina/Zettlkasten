@@ -27,7 +27,6 @@ Date: 2024-03-18, 06:38
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
-^193c83
 ### Morning
 
 > [!quote] Marcus Aurelius
