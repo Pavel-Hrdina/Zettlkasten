@@ -42,7 +42,7 @@ Date: 2024-03-20, 06:42
 2. **What is worrying me?**
 	- That I may fail, that I will worry.
 3. **How can I decatastrophize today's problems?**
-	- You must finally accept whatever comes your way, you must let go of expectations, when will you stop worrying about the past and the future, and live in moment, when will you start to live? Did you ever think about this? No you didn't because you knew the answer would be a hard pill to swalow, but now when you finally come face to face with it, you must let it be a part of you, you must let it be the truth that your heart accepts.
+	- You must finally accept whatever comes your way, you must let go of expectations, when will you stop worrying about the past and the future, and live in the moment, when will you start to live? Did you ever think about this? No you didn't because you knew the answer would be a hard pill to swallow, but now when you finally come face to face with it, you must let it be a part of you, you must let it be the truth that your heart accepts.
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Judgment]] is under my control. 
 
