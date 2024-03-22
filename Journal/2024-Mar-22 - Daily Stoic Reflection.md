@@ -43,7 +43,7 @@ Date: 2024-03-22, 07:15
 1. **How can I decatastrophize today's problems?**
 	- You will choose to abandon death, you will choose to abandon, fear, you will choose to live, and let go of fear of life, for that is what holds you back.
 2. **What is within my control and what is not**
-	- My [[Control Over Judgment]]
+	- My [[Control Over Judgment]], is in my controll. 
 
 ### Evening
 
