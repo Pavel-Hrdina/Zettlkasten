@@ -7,7 +7,7 @@ modified: 2024-03-25, 06:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-25T07:11
+updated: 2024-03-25T07:17
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -39,11 +39,11 @@ Date: 2024-03-25, 06:47
 1. **What am I grateful for?**
 	1. For my mother, for my father, for being alive, for trust, for love for peace, for understanding, for wisdom, for love. For peace, for my challenges and challengers, for democracy, for the weather nice and bad, for humankind, for my ancestors.  
 2. **What is worrying me?**
-	- 
+	- That I am trying to get away from my past, that I am trying to get away from my future, and so I lie to my self, and so I chose to leave the truth unseen.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You have made the 1st step to healing, you have realized what has been plaguing your mind for so long, that is, that you are not honest to your self, that you lie to your self, that you let the truth, that could resolve your problems, be unseen. Now that you understand, you can stop, you can stop, you can heal, so accept this with love in your heart, there is nothing to fear, for death is but a transformation of your mind into another being, so don't fear death, for you will live again, even if life is full of suffering, you can choose to know your suffering.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is  under my control. My choices are under my control.
 
 ### Evening
 
