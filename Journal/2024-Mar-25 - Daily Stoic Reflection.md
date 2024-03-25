@@ -7,7 +7,7 @@ modified: 2024-03-25, 06:47
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-25T06:47
+updated: 2024-03-25T07:11
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,11 +33,11 @@ Date: 2024-03-25, 06:47
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You may be stuck in a traffic jam, people may be mean to you, people may hate you, people may dislike you, you feel bad emotions like anger, you may be in pain, you may feel tired, you may need to prove your courage. You may hurt your self, you may feel like quitting, you may want to lie to your self to hide from truth. Yet you know deep in your her, that all of these difficulties can be solved, that you are not the only one having them, because you are not the only one alive, so don't be afraid to ask for help.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to finish my graduation work.
 1. **What am I grateful for?**
-	1. 
+	1. For my mother, for my father, for being alive, for trust, for love for peace, for understanding, for wisdom, for love. For peace, for my challenges and challengers, for democracy, for the weather nice and bad, for humankind, for my ancestors.  
 2. **What is worrying me?**
 	- 
 3. **How can I decatastrophize today's problems?**
