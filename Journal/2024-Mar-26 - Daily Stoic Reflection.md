@@ -7,7 +7,7 @@ modified: 2024-03-26, 07:20
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-03-26T07:20
+updated: 2024-03-26T07:33
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -33,17 +33,17 @@ Date: 2024-03-26, 07:20
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- 
+	- You may find your self in a traffic yam, you may think what not about your self, you may feel bad emotions, you may dislike how people treat each other, you may think that people are unfair.
 2. **What one thing do most need to get done today?**
-	- 
+	- Today, I need to finish my graduation work.
 1. **What am I grateful for?**
-	1. 
+	1. For my parents, for my wife, for my ancestors, for being alive, for being me, for being me, for love, trust and friendship. 
 2. **What is worrying me?**
-	- 
+	- That I may die, that I am not living.
 3. **How can I decatastrophize today's problems?**
-	- 
+	- Why do you fear death, if you think, that you aren't living yet? What is there to fear about death, if you are not living? Maybe, you need to live, in order to stop fearing death, maybe you need to free your self in order to be happy.
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgment]] is under my controll, who I am is not under my controll.
 
 ### Evening
 
