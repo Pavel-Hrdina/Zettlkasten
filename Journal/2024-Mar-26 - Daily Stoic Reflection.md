@@ -43,7 +43,7 @@ Date: 2024-03-26, 07:20
 3. **How can I decatastrophize today's problems?**
 	- Why do you fear death, if you think, that you aren't living yet? What is there to fear about death, if you are not living? Maybe, you need to live, in order to stop fearing death, maybe you need to free your self in order to be happy.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my controll, who I am is not under my controll.
+	- My [[Control Over Judgment|Judgment]] is under my control, who I am is not under my control.
 
 ### Evening
 
