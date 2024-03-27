@@ -44,7 +44,7 @@ Date: 2024-03-27, 06:47
 3. **How can I decatastrophize today's problems?**
 	- No matter how many times you fall, you will get back up again, and again, and you will never show your back to anyone, who are your enemy.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my controll.
+	- My [[Control Over Judgment|Judgment]] is under my control.
 
 ### Evening
 
