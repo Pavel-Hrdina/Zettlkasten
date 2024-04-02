@@ -8,7 +8,7 @@ modified: 2024-04-02, 06:48
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-04-02T06:56
+updated: 2024-04-02T07:04
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -41,11 +41,11 @@ Date: 2024-04-02, 06:48
 1. **What am I grateful for?**
 	1. For my wife, for my mother, for my father, for being me, for being alive, for love, for trust, for peace, for freedom, for me, for you, for mankind, for my ancestors. 
 2. **What is worrying me?**
-	- 
+	- How can I love my self?
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You know what comes after the darkness, so why do you keep on insisting that there is no light, I know you can see it as well as I do, so why do you keep on thinking, that there is no way out, no way to reach hope. Grasp for it and never let go, get up again, and again every morning, get up and do what is right, do what must be done and what is your duty, or have you been born to suffer the same blows, that you have suffered yesterday. 
 4. **What is within my control and what is not**
-	- 
+	- The only thing that is under your control is my [[Control Over Judgment|Judgment]].
 
 ### Evening
 
