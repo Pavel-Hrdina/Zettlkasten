@@ -1,18 +1,19 @@
 ---
-tags: type/reflection
+tags:
+  - type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: 2024-02-11, 10:25
+modified: 2024-04-02, 06:48
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-04-07T09:49
+updated: 2024-04-02T07:04
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
-Tags:  #reflection #stoicism #life #philosophy #motivation #daily #reflection-2024-02-11
-Date: 2024-02-11, 10:25
+Tags:  #reflection #stoicism #life #philosophy #motivation #daily 
+Date: 2024-04-02, 06:48
 
 - [[#Morning and Evening|Morning and Evening]]
 	- [[#Morning and Evening#Morning|Morning]]
@@ -27,23 +28,24 @@ Date: 2024-02-11, 10:25
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
+
 ### Morning
 
 > [!quote] Marcus Aurelius
 > "Be like a rocky promontory against which the restless surf continually pounds; it stands fast while the churning sea is lulled to sleep at its feet. I hear you say, "How unlucky that this should happen to me!" Not at all! Say instead, "How lucky that I am not broken by what has happened and am not afraid of what is about to happen. The same blow might have struck anyone, but not many would have absorbed it without capitulation or complaint."
 
 1. **What difficulties am I likely to encounter today?**
-	- Today, you may feel the need to be lazy, to do nothing, and just be lazy, the way you want to be. You may feel the need to shout out into the world, like a beast that hurt itself, like some kind of animal, that has yet to lose its anger, you may feel, as if you cannot win over your self, like there is nothing that can be done to win. You may have to face your self, and your own fears.
+	- Today, you may find your self struggling to keep your self up on your two feet, you feel exhausted, unable to move a muscle, but why? Have you asked your self yet; why? I do not know, I have yet to understand, why is it, that I am like this. No; say instead: "How can I make this better?". You may find others mean and angry, you may find all unhappy, you may find your self sad.
 2. **What one thing do most need to get done today?**
-	- Today, I need to win over my self, I have to conquer my self, and win.
+	- Today, I need to finish, what has to be badly done, yet I don't want to, but I choose to, I choose to be a victor over my self, remember why do you wake every morning, why do you love all the people, why have you picked up philosophy? These are the questions, on which the answer you must remember. 
 1. **What am I grateful for?**
-	1. For my wife, for my mother, for my father, for my sister, for being alive, for my parents, for trust of all, for knowing who I am, for loving my self.
+	1. For my wife, for my mother, for my father, for being me, for being alive, for love, for trust, for peace, for freedom, for me, for you, for mankind, for my ancestors. 
 2. **What is worrying me?**
-	- You may be worried, that you may lose, that you may fail your self, that you may not be able to win over who you are. But instead of thinking like that, think instead: "I will win, I will be the best, I can do it when I set my mind to it.", you must not push your self down, and at the first sight of despair, you must instead choose to see the truth, and that victory, is but a matter of time.
+	- How can I love my self?
 3. **How can I decatastrophize today's problems?**
-	- No matter what you might be going through, you must choose to see past the mistakes you have made, past the things that have been bothering you, see past the pain of the past, see past your own shadow and your ego, and do what has to be done, and if you have done what was in your power, than you can be at peace, for there is nothing more that can be done, and you shall do it, the things that must be done.
+	- You know what comes after the darkness, so why do you keep on insisting that there is no light, I know you can see it as well as I do, so why do you keep on thinking, that there is no way out, no way to reach hope. Grasp for it and never let go, get up again, and again every morning, get up and do what is right, do what must be done and what is your duty, or have you been born to suffer the same blows, that you have suffered yesterday. 
 4. **What is within my control and what is not**
-	- You can control your own [[Control Over Judgment|Judgment]], and your own choice, nothing else is fully under your control, so choose to do it, choose to do what has to be done, choose to be the victor over your self, and your own weakness, I know you can do it, I know you can win, I know you can push past your limits.
+	- The only thing that is under your control is my [[Control Over Judgment|Judgment]].
 
 ### Evening
 
@@ -52,19 +54,11 @@ Date: 2024-02-11, 10:25
 
 1. **What did I do well today?**
 
-	Today, you relaxed, and worked a bit as well, you gave time to your wife.
-
 2. **What did I do wrong?**
-
-	You didn't learn for the OSP for as long as you could.
 
 4. **What duty remains undone?**
 
-	You didn't do the view from the above.
-
 5. **How will I improve tomorrow?**
-
-	Tomorrow, you will do all your duties. 
 
 ## Other Methods
 
