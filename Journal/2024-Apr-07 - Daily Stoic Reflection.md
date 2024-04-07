@@ -7,7 +7,7 @@ modified: 2024-04-07, 09:44
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-04-07T09:48
+updated: 2024-04-07T09:49
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -42,9 +42,9 @@ Date: 2024-04-07, 09:44
 2. **What is worrying me?**
 	- That I am not good enough.
 3. **How can I decatastrophize today's problems?**
-	- No matter how much you will doubt your self, it won't make it better, so intead, find steangh in being the onlly one who belives in you.
+	- No matter how much you will doubt your self, it won't make it better, so instead, find straight in being the only one who believes in you.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my controll, how I react is under my controll, how much energy I give to things is under my controll.
+	- My [[Control Over Judgment|Judgment]] is under my control, how I react is under my control, how much energy I give to things is under my control.
 
 ### Evening
 
