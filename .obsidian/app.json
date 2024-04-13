@@ -26,5 +26,6 @@
   ],
   "showIndentGuide": true,
   "readableLineLength": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "foldHeading": true
 }

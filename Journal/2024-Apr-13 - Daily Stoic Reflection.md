@@ -3,11 +3,11 @@ tags: type/reflection
 aliases: 
 lead: Lead paragraph goes here
 created: 2023-09-06T15:41
-modified: "2024-04-13, 10:24"
+modified: 2024-04-13, 10:24
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-02-11T10:24
+updated: 2024-04-13T10:54
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -27,7 +27,6 @@ Date: 2024-04-13, 10:24
 
 > [!quote] Epicious 
 > _"Every day and night keep thoughts like these at hand - write them, read them aloud, talk to yourself and others about them"_
-^193c83
 ### Morning
 
 > [!quote] Marcus Aurelius
