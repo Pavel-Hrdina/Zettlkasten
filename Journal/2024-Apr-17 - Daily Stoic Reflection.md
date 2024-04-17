@@ -43,7 +43,7 @@ Date: 2024-04-17, 07:09
 3. **How can I decatastrophize today's problems?**
 	- No matter how much suffering there is in the world, you must remember, that no amount of suffering makes it ok to justify your thinking that change is possible without suffering, because it is suffering that makes change possible, how you ask, well what motivation will you have to move forward, if you feel no motivation. 
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is within my controll.
+	- My [[Control Over Judgment|Judgment]] is within my control.
 
 ### Evening
 
