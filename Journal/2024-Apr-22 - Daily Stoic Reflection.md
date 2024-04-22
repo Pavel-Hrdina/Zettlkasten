@@ -41,7 +41,7 @@ Date: 2024-04-22, 07:19
 2. **What is worrying me?**
 	- That I am not in a good health. That I have not time.
 3. **How can I decatastrophize today's problems?**
-	- Think, what is the worst thing that can happen, yes, you fail. Does that mean you die, no, it doesn't, so why do you keep on clinging to things of the past already done, already over, think about the present, nothing else matters, there is no reason to think about what will be, if you can't controll the furute, so abandon it.
+	- Think, what is the worst thing that can happen, yes, you fail. Does that mean you die, no, it doesn't, so why do you keep on clinging to things of the past already done, already over, think about the present, nothing else matters, there is no reason to think about what will be, if you can't control the future, so abandon it.
 4. **What is within my control and what is not**
 	- My [[Control Over Judgment|Judgment]]
 
