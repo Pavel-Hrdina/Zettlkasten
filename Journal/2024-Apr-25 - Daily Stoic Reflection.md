@@ -7,7 +7,7 @@ modified: 2024-04-25, 07:16
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-04-25T07:30
+updated: 2024-04-25T07:31
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -44,7 +44,7 @@ Date: 2024-04-25, 07:16
 3. **How can I decatastrophize today's problems?**
 	- No matter how dark things look, you must always choose to see the light, how many times have we talked about this, and yet you still don't understand, and yet you still want things to be different. Choose to see the world as it is, not as it should be in your mind, let it be imperfect, let all things be in their natural state, as they should be. And so, don't force your ideas onto things that cannot be forced., let things be the way they are, for as long as you are alive, you cannot change them.
 4. **What is within my control and what is not**
-	- My [[Control Over Judgment|Judgment]] is under my control, what I do, how I act, how I react to my self, those things are under my controll. The outcome of testing, my death, earth, nature, man, life, those things are not under my control.
+	- My [[Control Over Judgment|Judgment]] is under my control, what I do, how I act, how I react to my self, those things are under my control. The outcome of testing, my death, earth, nature, man, life, those things are not under my control.
 
 ### Evening
 
