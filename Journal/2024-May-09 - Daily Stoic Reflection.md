@@ -7,7 +7,7 @@ modified: 2024-05-09, 09:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-05-09T09:57
+updated: 2024-05-09T10:09
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -47,9 +47,9 @@ Date: 2024-05-09, 09:52
 2. **What is worrying me?**
 	- That I will be stopped in my efforts by sickness. 
 3. **How can I decatastrophize today's problems?**
-	- 
+	- You may be sick, but is it something you cannot deal with, not it's not, it's only that your mind is trying to trick you into wrong doing, so how will you respond? You will respond with courage and face your fears. 
 4. **What is within my control and what is not**
-	- 
+	- My [[Control Over Judgment|Judgemnt]].
 
 ### Evening
 
