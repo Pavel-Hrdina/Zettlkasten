@@ -7,7 +7,7 @@ modified: 2024-05-09, 09:52
 template-type: Reflection
 Reflection: 1
 template-version: "1.7"
-updated: 2024-05-09T09:55
+updated: 2024-05-09T09:57
 ---
 # Daily [Stoic](../SLIP-BOX/Stoicism.md) Reflections
 
@@ -35,11 +35,17 @@ Date: 2024-05-09, 09:52
 1. **What difficulties am I likely to encounter today?**
 	- Today, you may find your self sick and unwilling to do anything.  You may find your self wanting to quit, wanting to stop doing what must be done, not doing your duty. Instead, embrase your difficulty and don't let it crust you.
 2. **What one thing do most need to get done today?**
-	-  Today, I need to finish what I have started yeterday. 
+	-  Today, I need to finish what I have started yesterday. 
 1. **What am I grateful for?**
-	1. 
+	1. My mother
+	2. My father
+	3. My wife
+	4. Being alive
+	5. Being born
+	6. Having time
+	7. Having energy
 2. **What is worrying me?**
-	- 
+	- That I will be stoped in my efforts by sickness. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
