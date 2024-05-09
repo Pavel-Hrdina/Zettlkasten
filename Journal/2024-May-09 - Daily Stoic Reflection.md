@@ -45,7 +45,7 @@ Date: 2024-05-09, 09:52
 	6. Having time
 	7. Having energy
 2. **What is worrying me?**
-	- That I will be stoped in my efforts by sickness. 
+	- That I will be stopped in my efforts by sickness. 
 3. **How can I decatastrophize today's problems?**
 	- 
 4. **What is within my control and what is not**
